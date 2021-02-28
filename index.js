@@ -6,10 +6,14 @@ app.use(cors());
 const PORT = process.env.PORT || 8080; 
 const HOST = "0.0.0.0";
 
-const period1 = require('./Pre_1700');
+const Pre_1700 = require('./Pre_1700');
+const its1700_1799 = require('./its1700_1799');
 
 app.get('/api/v1/Pre_1700', (req, res) => {
-    res.status(200).send(period1);
+    res.status(200).send(Pre_1700);
+});
+app.get('/api/v1/1700-1799', (req, res) => {
+    res.status(200).send(its1700_1799);
 });
 
 app.listen(PORT, HOST);
