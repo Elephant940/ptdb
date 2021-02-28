@@ -189,6 +189,20 @@ module.exports = [
             title: `<span id="Blake_et_al_2007_1">Forest Elephant Crisis in the Congo Basin`,
         },
         {
+            container: `<i>Journal of Anatomy</i> (J. Anat.), digitally published academic journal`,
+            contributors: `D.M. Bouley (coauthor); C.N. Alarcón (coauthor); T. Hildebrandt (coauthor); Caitlin E. O’Connell‐Rodwell (coauthor)`,
+            date: `2007/08/15`,
+            duration: `pp. 428-435`,
+            iteration: `Vol. 211, Issue 4`,
+            languages: `English`,
+            links: `<li><a href="https://doi.org/10.1111/j.1469-7580.2007.00792.x" target="_blank">From publisher (DOI: 10.1111/j.1469-7580.2007.00792.x)</a><li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2375831/" target="_blank">From PubMed Central</a>`,
+            location: `N/A`,
+            medium: `Digitally published academic journal article`,
+            publisher: `Wiley Online Library on behalf of the Anatomical Society (AS)`,
+            summary: `TBA.`,
+            title: `The distribution, density and three‐dimensional histomorphology of Pacinian corpuscles in the foot of the Asian elephant (<i>Elephas maximus</i>) and their potential role in seismic communication`,
+        },
+        {
             container: `<i>Molecular Ecology</i> (Mol. Ecol.), digitally published academic journal`,
             contributors: `Elizabeth A. Archie (coauthor); Julie A. Hollister‐Smith (coauthor); Joyce H. Poole (coauthor); Phyllis C. Lee (coauthor); Cynthia J. Moss (coauthor); Jésus E. Maldonado (coauthor); Robert C. Fleischer (coauthor); Susan C. Alberts (coauthor)`,
             date: `2007/09/04`,
@@ -216,6 +230,8 @@ module.exports = [
             summary: `TBA.`,
             title: `African elephants run from the sound of disturbed bees`,
         },    
+    ],
+    [
         {
             container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
             contributors: `J. Blanc (author); D. Balfour (reviewer); C. Craig (reviewer); Holly T. Dublin (reviewer); Chris Thouless (reviewer)`,
@@ -229,8 +245,6 @@ module.exports = [
             summary: `TBA.`,
             title: `<i>Loxodonta africana</i>, African elephant`,
         },
-    ],
-    [
         {
             container: `<i>Philosophical Transactions of the Royal Society B</i> (Phil. Trans. R. Soc. B), digitally published academic journal`,
             contributors: `T.N.C. Vidya (coauthor); Raman Sukumar (coauthor); Don J. Melnick (coauthor)`,
@@ -272,7 +286,9 @@ module.exports = [
             publisher: `American Association for Anatomy (AAA)`,
             summary: `TBA.`,
             title: `Qualitative Comparison of the Cranio‐Dental Osteology of the Extant Elephants, <i>Elephas maximus</i> (Asian Elephant) and <i>Loxodonta africana</i> (African Elephant)`,
-        },
+        },   
+    ],
+    [
         {
             container: `<i>The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology</i> (Anat. Rec.), digitally published academic journal`,
             contributors: `Nancy E. Todd (author)`,
@@ -286,9 +302,7 @@ module.exports = [
             publisher: `American Association for Anatomy (AAA)`,
             summary: `TBA.`,
             title: `New Phylogenetic Analysis of the Family Elephantidae Based on Cranial‐Dental Morphology`,
-        },    
-    ],
-    [
+        }, 
         {
             container: `<i>PLoS Biology</i> (PLoS Biol.), digitally published academic journal`,
             contributors: `Nadin Rohland (coauthor); David Reich (coauthor); Swapan Mallick (coauthor); Matthias Meyer (coauthor); Richard E. Green (coauthor); Nicholas J. Georgiadis (coauthor); Alfred L. Roca (coauthor); Michael Hofreiter (coauthor)`,
@@ -330,7 +344,9 @@ module.exports = [
             publisher: `The Linnean Society of London`,
             summary: `TBA.`,
             title: `A cranial correlate of body mass in proboscideans`,
-        },
+        },   
+    ],
+    [
         {
             container: `<i>Proceedings of the National Academy of Sciences</i> (PNAS), digitally published academic journal`,
             contributors: `Eleftheria Palkopoulou (coauthor); Mark Lipson (coauthor); Swapan Mallick (coauthor); Svend Nielsen (coauthor); Nadin Rohland (coauthor); Sina Baleka (coauthor); Emil Karpinski (coauthor); Atma M. Ivancevic (coauthor); Thu-Hien To (coauthor); R. Daniel Kortschak (coauthor); Joy M. Raison (coauthor); Zhipeng Qu (coauthor); Tat-Jun Chin (coauthor); Kurt W. Alt (coauthor); Stefan Claesson (coauthor); Love Dalén (coauthor); Ross D.E. MacPhee (coauthor); Harald Meller (coauthor); Alfred L. Roca (coauthor); Oliver A. Ryder (coauthor); David Heiman (coauthor); Sarah Young (coauthor); Matthew Breen (coauthor); Christina Williams (coauthor); Bronwen L. Aken (coauthor); Magali Ruffier (coauthor); Elinor Karlsson (coauthor); Jeremy Johnson (coauthor); Federica Di Palma (coauthor); Jessica Alfoldi (coauthor);  David L. Adelson (coauthor); Thomas Mailund (coauthor); Kasper Munch (coauthor); Kerstin Lindblad-Toh (coauthor); Michael Hofreiter (coauthor); Hendrik Poinar (coauthor); David Reich (coauthor)`,
@@ -344,9 +360,7 @@ module.exports = [
             publisher: `National Academy of Sciences (NAS)`,
             summary: `TBA.`,
             title: `<span id="Palkopoulou_et_al_2018_1">A comprehensive genomic history of extinct and living elephants`,
-        },    
-    ],
-    [
+        }, 
         {
             container: `<i>Behavioral Ecology</i> (Behav. Ecol.), digitally published academic journal`,
             contributors: `Michael A. Pardo (coauthor); Joyce H. Poole (coauthor); Angela S. Stoeger (coauthor); Peter H. Wrege (coauthor); Caitlin E. O'Connell-Rodwell (coauthor); Udaha Kapugedara Padmalal (coauthor); Shermin de Silva (coauthor)`,
@@ -386,7 +400,9 @@ module.exports = [
             publisher: `Polygon`,                
             summary: `An interview with <i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty, in which he says that Behemoth's design was heavily inspired by woolly mammoths.`,
             title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
-        },
+        },  
+    ],
+    [
         {
             container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
             contributors: `C. Williams (coauthor, reviewer, facilitator, compiler); S.K. Tiwari (coauthor, facilitator, compiler); V.R. Goswami (coauthor); S. de Silva (coauthor); A. Kumar (coauthor); N. Baskaran (coauthor); K. Yoganand (coauthor); V. Menon (coauthor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
@@ -399,9 +415,7 @@ module.exports = [
             publisher: `International Union for Conservation of Nature (IUCN)`,
             summary: `TBA.`,
             title: `<i>Elephas maximus</i>, Asian elephant`,
-        },    
-    ],
-    [
+        },  
         {
             container: `<i>Primates</i>, digitally published academic journal`,
             contributors: `Shifra Z. Goldenberg (coauthor); George Wittemyer (coauthor)`,
@@ -444,6 +458,8 @@ module.exports = [
             summary: `TBA.`,
             title: `Statement of the IUCN SSC African Elephant Specialist Group on elephant deaths in Botswana`,
         },
+    ]
+    [
         {
             container: `<i>A Moment of Science</i>, published radio program`,
             contributors: `Paul Patton (author)`,
