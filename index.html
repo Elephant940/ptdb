@@ -1,0 +1,1888 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="icon" loading="lazy" href="https://web.archive.org/web/20210131141812if_/http://www.phylopic.org/assets/images/submissions/09af15bc-97ee-4fa0-9379-da7ee328560a.64.png" />
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<style>
+    header {
+        background: #a2be96;
+        color: black;
+        font-size: 45px;
+        margin: 0px;
+        padding: 10px;
+        word-break: break-word;
+        word-wrap: break-word;
+    }
+
+    a {
+        color:#3d90c8;
+   
+    }
+
+    a:visited {
+        color:#523dc8;
+    }
+
+    p.favicon {
+        font-size: 12px;
+        margin: 10px;
+        word-break: break-word;
+        word-wrap: break-word;
+    }
+
+    body {
+        background: white;
+        font-family: Helvetica;
+        margin: 0px;
+        padding: 0px;
+        word-break: break-word;
+        word-wrap: break-word;
+        overflow:none;
+    }
+
+    .mytabs {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+    }
+
+    .mytabs input[type="radio"] {
+        display: none;
+    }
+
+    .mytabs input[type='radio']:checked+label+.tab {
+        display: block;
+    }
+
+    .mytabs input[type="radio"]:checked+label {
+        background: #f0ddc0;
+    }
+
+    .mytabs label {
+        border-left-style: solid;
+        border-right-style: solid;
+        border-width: 0px 2px;
+        box-sizing: border-box;
+        background: #ddcaae;
+        display: block;
+        font-size: 25px;
+        font-weight: bold;
+        padding: 10px 0px;
+        width: 20%;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+    }
+
+    p.summary {
+        margin: 10px;
+    }
+
+    .tab {
+        background: #fff;
+        display: none;
+        margin: 0px;        
+        order: 1;
+        padding: 0px;
+        text-align: center;
+    }
+
+    table {
+        border-collapse: collapse;
+        display: inline-block;
+        font-size: 16px;
+        height: 100vh;
+        margin: 0px;
+        padding:0px;
+        table-layout: fixed; 
+    }
+
+    tr td {
+        background-color: white;
+    }
+
+    td {
+        margin: 0px;
+        padding: 10px;
+        text-align:left;
+        vertical-align: top;
+        width: 50vw;
+    }
+
+    tr:nth-child(even) td:nth-child(odd),
+    tr:nth-child(odd) td:nth-child(even) {
+        background: rgb(230, 230, 230);
+    }
+
+    p.title {
+        font-size: 18px;
+        font-weight: bold;
+        margin: 0px;
+    }
+
+    p.medium {
+        font-size: 15px;
+        margin: 0px 0px 10px 0px;
+    }
+
+    u.heading {
+        margin-left: 0px;
+    }
+
+    ul.info {
+        margin: 0px 0px 5px 0px;
+        text-align: left;
+    }
+
+    p.refs {
+        margin-bottom: 5px;
+        margin-left: 43px;
+        margin-top: 0px;
+        padding-left: 25px;
+        text-indent: -25px;
+    }
+
+    .container {
+        padding: 40px;
+        margin: 0 auto;
+        max-width: 1000px;
+        text-align: center;
+    }
+
+    #searchBar {
+        width: 40%;
+        height: 32px;
+        border-radius: 0px;
+        border: 1px solid #eaeaea;
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+
+    #searchWrapper {
+        display:flex;
+        justify-content:center;
+    }
+
+    @media screen and (min-width:1px) and (max-width: 225px) {
+
+        tr {
+            display: block;
+        }
+
+        tr:nth-child(even) td:nth-child(odd),
+        tr:nth-child(odd) td:nth-child(odd) {
+            background: white;
+        }
+
+        tr:nth-child(even) td:nth-child(even),
+        tr:nth-child(odd) td:nth-child(even) {
+            background: rgb(230, 230, 230);
+        }
+
+        td {
+            display: block;
+            margin: 0px;
+            padding: 10px;
+            text-align:left;
+            width: 90.58%;
+        }
+
+        #searchBar {
+            width: 70%;
+        }
+
+        }
+    
+    @media screen and (min-width:226px) and (max-width: 330px) {
+
+        tr {
+            display: block;
+        }
+
+        tr:nth-child(even) td:nth-child(odd),
+        tr:nth-child(odd) td:nth-child(odd) {
+            background: white;
+        }
+
+        tr:nth-child(even) td:nth-child(even),
+        tr:nth-child(odd) td:nth-child(even) {
+            background: rgb(230, 230, 230);
+        }
+
+        td {
+            display: block;
+            margin: 0px;
+            padding: 10px;
+            text-align:left;
+            width: 94.58%;
+        }
+
+        #searchBar {
+            width: 70%;
+        }
+
+        }
+    
+    @media screen and (min-width:331px) and (max-width: 375px) {
+
+        tr {
+            display: block;
+        }
+
+        tr:nth-child(even) td:nth-child(odd),
+        tr:nth-child(odd) td:nth-child(odd) {
+            background: white;
+        }
+        
+        tr:nth-child(even) td:nth-child(even),
+        tr:nth-child(odd) td:nth-child(even) {
+            background: rgb(230, 230, 230);
+        }
+
+        td {
+            display: block;
+            margin: 0px;
+            padding: 10px;
+            text-align:left;
+            width: 94.58%;
+        }
+
+        #searchBar {
+            width: 70%;
+        }
+
+    }
+
+    @media screen and (min-width:376px) and (max-width: 445px) {
+
+        tr {
+            display: block;
+        }
+        
+        tr:nth-child(even) td:nth-child(odd),
+        tr:nth-child(odd) td:nth-child(odd) {
+            background: white;
+        }
+        
+        tr:nth-child(even) td:nth-child(even),
+        tr:nth-child(odd) td:nth-child(even) {
+            background: rgb(230, 230, 230);
+        }
+
+        td {
+            display: block;
+            margin: 0px;
+            padding: 10px;
+            text-align:left;
+            width: 95.46%;
+        }
+
+        #searchBar {
+            width: 70%;
+        }
+    }
+
+    @media screen and (min-width:446px) and (max-width: 540px) {
+
+        tr {
+            display: block;
+        }
+
+        tr:nth-child(even) td:nth-child(odd),
+        tr:nth-child(odd) td:nth-child(odd) {
+            background: white;
+        }
+        
+        tr:nth-child(even) td:nth-child(even),
+        tr:nth-child(odd) td:nth-child(even) {
+            background: rgb(230, 230, 230);
+        }
+        
+        td {
+            display: block;
+            margin: 0px;
+            padding: 10px;
+            text-align:left;
+            width:96.05%;
+        }
+
+        #searchBar {
+            width: 50%;
+        }
+    }
+</style>
+
+
+<title>Proboscidean Text Database</title>
+<header><b>The Proboscidean Text Database</b></header>
+
+<p class="summary"> The Proboscidean Text Database (PTDb) is a digital collection of resources about the Proboscidea, the evolutionary group comprising elephants, mammoths, mastodons, and their relatives. All catalogued sources have been saved in Internet Archive's <a href="https://web.archive.org/" target="_blank">Wayback Machine</a>, so if any are unavailable they should be accessible there.</p>
+
+<p class="favicon">Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to <a href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/" target="_blank">Richard Ruggiero and Zimices on PhyloPic</a>.</p>
+
+<body>
+    <div class="mytabs">
+        <input type="radio" id="Pre-1700" name="mytabs" checked="checked">
+        <label for="Pre-1700" style=border-left-width:0px;>Pre 1700</label>
+        <div class="tab">
+            <table id="Pre-1700_table"></table>
+        </div>
+        <input type="radio" id="1700-1799" name="mytabs">
+        <label for="1700-1799">1700-1799</label>
+        <div class="tab">
+            <table id="1700-1799_table"></table>
+        </div>
+        <input type="radio" id="1800-1899" name="mytabs">
+        <label for="1800-1899">1800-1899</label>
+        <div class="tab">
+            <table id="1800-1899_table"></table>
+        </div>
+        <input type="radio" id="1900-1999" name="mytabs">
+        <label for="1900-1999">1900-1999</label>
+        <div class="tab">
+            <table id="1900-1999_table"></table>
+        </div>
+        <input type="radio" id="2000-2021" name="mytabs">
+        <label for="2000-2021" style=border-right-width:0px;>2000-2021</label>
+        <div class="tab">
+            <table id="2000-2021_table"></table>
+        </div>
+    </div>
+
+</body>
+
+
+<script>
+
+    function goToSource(tab, source, eyedee) {
+        document.getElementById(tab).checked = true;
+        document.getElementById(source).scrollIntoView();
+        document.getElementById(eyedee).style.color="#523dc8"
+    }
+
+    // var Pre_1700 = [
+    //     [
+    //         {
+    //             contributors: `Cornelis Cort (engraver)`,
+    //             date: `1567`,
+    //             duration: `approx. 41.8 x 53.8 cm (16.4 x 21.2 in)`,
+    //             languages: `Latin`,
+    //             links: `<li><a href="https://www.britishmuseum.org/collection/object/P_1988-1105-8" target="_blank">From the British Museum</a><li><a href="https://www.metmuseum.org/art/collection/search/389779" target="_blank">From the Metropolitan Museum of Art</a><li><a href="https://www.rijksmuseum.nl/en/collection/RP-P-OB-7152" target="_blank">From the Rijksmuseum</a>`,
+    //             notes: `<li>Inscription reads "From the original print by Raphael Urbinati, which is in the possession of Tommaso dei Cavalieri, a Roman noble. Antonio Lafreri Seovani printed it in Rome." Bottom right corner reads "By grant and privilege 1567" (<a href="https://www.csus.edu/indiv/r/rileymt/" target="_blank">Riley</a>, pers. comm.).<li>Rijksmueum copy formerly owned by Nicolaas Cornelis de Gijselaar, as indicated by N.G. in the bottom right corner (Lugt, 1921, p. 359).<li><a href="https://www.loc.gov/resource/pga.00039/" target="_blank">Reprint from the Library of Congress</a>, published circa 1600.`,
+    //             references: `<p class="refs">Lugt, F. (1921). <a href="https://archive.org/stream/lesmarquesdecoll00lugt#page/359/mode/2up" target="_blank"><i>Les Marques de Collections de Dessins & d'Estampes</i></a>. Amsterdam: Vereenigde Drukkerijen.</p>`,
+    //             location: `Rome, Italy`,
+    //             medium: `Physically published engraving, digitized`,
+    //             publisher: `Antonio Lafreri`,
+    //             summary: `TBA.`,
+    //             title: `[The Battle Between Scipio and Hannibal at Zama]`,
+    //         },
+    //         {
+    //             contributors: `Edward Topsell (author)`,
+    //             date: `1607`,
+    //             duration: `757 pp.`,
+    //             iteration: `1st ed.`,
+    //             languages: `English`,
+    //             links: `<li><a href="https://archive.org/stream/b3033469x#page/190/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Wellcome Library<li><a href="https://www.loc.gov/resource/rbctos.2017english04054/?sp=238&r=-1.729,-0.021,4.458,1.555,0" target="_blank">From the Library of Congress</a>`,
+    //             location: `London, England`,
+    //             medium: `Physically published book, digitized`,
+    //             publisher: `Printed by William Jaggard`,
+    //             summary: `TBA.`,
+    //             title: `The Historie of Fovre-Footed Beastes. Describing the true and liuely figure of euery Beast, with a discourse of their seuerall Names, Conditions, Kindes, Vertues (both naturall and medicinall), Countries of their breed, their loue and hate to Mandkinde, and the wonderfull worke of God in their Creation, Preseruation, and Destruction. Necessary for all Diuines and Students, because the story of euery Beast is amplified with Narrations out of Scriptures, Fathers, Phylosophers, Physitians, and Poets: wherein are declared diuers Hyerogliphicks, Emblems, Epigrams, and other good Histories, Collected out of all the Volumes of Conradvs Gesner, and all other writers to this present day.`,   
+    //         },
+    //         {
+    //             contributors: `A. Moulines (author)`,
+    //             date: `1682/>08/>28`,
+    //             duration: `72 pp.`,
+    //             iteration: `1st ed.`,
+    //             languages: `English`,
+    //             links: `<li><a href="https://archive.org/stream/anatomicalaccoun01mull#page/n6/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Duke University Libraries<li><a href="https://digital.library.villanova.edu/Item/vudl:14241#?c=&m=&s=&cv=10&xywh=-5078%2C-78%2C12421%2C2780" target="_blank">From the Villanova University Falvey Memorial Library</a>`,
+    //             location: `London, England`,
+    //             medium: `Physically published book, digitized`,
+    //             publisher: `Printed for Sam Smith`,
+    //             summary: `TBA.`,
+    //             title: `An Anatomical Account of the Elephant Accidentally Burnt in Dublin on Fryday, June 17 in the Year 1681. Sent in a Letter to Sir Will. Petty, Fellow of the Royal Society. Together With a Relation of new Anatomical Observations in the Eyes of Animals, Communicated in another Letter to the Honourable R. Boyle, Esq; Fellow of the same Society.`,
+    //         },
+    //         {}
+    //     ],
+    // ]
+    
+    // var its1700_1799 = [
+    //     [
+    //         {
+    //             container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (Phil. Trans.), physically published academic journal`,
+    //             contributors: `Anthony van Leeuwenhoek (author)`,
+    //             date: `1712/>12`,
+    //             duration: `pp. 518-522`,
+    //             iteration: `Vol. 27, No. 336`,
+    //             languages: `English`,
+    //             links: `<li><a href="https://doi.org/10.1098/rstl.1710.0062" target="_blank">From publisher (DOI: 10.1098/rstl.1710.0062)</a> <li><a href="https://archive.org/stream/philosophicaltra2717roya#page/518/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Natural History Museum Library, London <li><a href="https://www.jstor.org/stable/103162" target="_blank">From JSTOR</a>`,
+    //             location: `London, England`,
+    //             medium: `Physically published academic journal article, digitized`,
+    //             publisher: `Printed for H. Clemens, William Innys, and D. Brown`,
+    //             summary: `TBA.`,
+    //             title: `I. Some Remarks upon the Disposition of the Parts, and Microscopical Observations upon the Contexture of the Skin of Elephants.`,
+    //         },
+    //         {
+    //             container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (Phil. Trans.), physically published academic journal`,
+    //             contributors: `Hans Sloane (author)`,
+    //             date: `1728/>09`,
+    //             duration: `pp. 457-471`,
+    //             iteration: `Vol. 35, No. 403`,
+    //             languages: `English`,
+    //             links: `<li><a href="https://doi.org/10.1098/rstl.1727.0042" target="_blank">From publisher (DOI: 10.1098/rstl.1727.0042)</a> <li><a href="https://archive.org/stream/philosophicaltra3517roya#page/457/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Natural History Museum Library, London <li><a href="https://www.jstor.org/stable/103702" target="_blank">From JSTOR</a>`,
+    //             location: `London, England`,
+    //             medium: `Physically published academic journal article, digitized`,
+    //             publisher: `Printed by William Innys for the Royal Society`,
+    //             summary: `TBA.`,
+    //             title: `I. An Account of Elephants Teeth and Bones found under Ground.`,
+                
+    //         },
+    //         {
+    //             container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (Phil. Trans.), physically published academic journal`,
+    //             contributors: `John Philip Breyne (author)`,
+    //             date: `1739`,
+    //             duration: `pp. 124-125`,
+    //             iteration: `Vol. 40, No. 446`,
+    //             languages: `English`,
+    //             links: `<li><a href="https://doi.org/10.1098/rstl.1737.0026" target="_blank">From publisher (DOI: 10.1098/rstl.1737.0026)</a> <li><a href="https://archive.org/stream/philosophicaltra4017roya#page/124/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Natural History Museum Library, London <li><a href="https://www.jstor.org/stable/103902" target="_blank">From JSTOR</a>`,
+    //             location: `London, England`,
+    //             medium: `Physically published academic journal article, digitized`,
+    //             publisher: `Printed by T. Woodward and C. Davis for the Royal Society`,
+    //             summary: `TBA.`,
+    //             title: `VIII. A Letter From John Phil. Breyne, M. D. F. R. S. To Sir Hans Sloane, Bart. Pres. R. S. With Observations, and a Description of Some Mammoth's Bones Dug Up in Siberia.`,   
+    //         },
+    //         {
+    //             contributors: `Carolus Linnaeus (author)`,
+    //             date: `1758`,
+    //             duration: `823 pp.`,
+    //             iteration: `10th ed., Tome 1`,
+    //             languages: `Latin`,
+    //             links: `<li><a href="https://archive.org/stream/mobot31753000798865#page/33/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Missouri Botanical Garden <li><a href="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10076014_00041.html" target="_blank">From Bayerische Staatsbibliothek</a> (<a href="https://web.archive.org/web/20210207005415/https://download.digitale-sammlungen.de/pdf/16126589828888bsb10076014.pdf" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://gdz.sub.uni-goettingen.de/id/PPN362053006?tify={%22pages%22:[37],%22view%22:%22info%22}" target="_blank">From Göt­tinger Digi­tali­sierungs­zentrum (GDZ)</a>`,
+    //             location: `Stockholm, Sweden`,
+    //             medium: `Physically published book, digitized`,
+    //             publisher: `Laurentius Salvius`,
+    //             summary: `Linnaeus establishes a system of biological classification in which each animal is given a two part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into the same genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus classifies all living elephants as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.`,
+    //             title:`<span id="Linnaeus_1758_1">Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
+    //         }
+    //     ],
+    //     [
+    //         {
+    //             container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (Phil. Trans.), physically published academic journal`,
+    //             contributors: `William Hunter (author)`,
+    //             date: `1769/>06/>15`,
+    //             duration: `pp. 34-45`,
+    //             iteration: `Vol. 58`,
+    //             languages: `English`,
+    //             links: `<li><a href="https://doi.org/10.1098/rstl.1768.0005" target="_blank">From publisher (DOI: 10.1098/rstl.1768.0005)</a><li><a href="https://archive.org/stream/philosophicaltra5817roya#page/34/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Natural History Museum Library, London<li><a href="https://www.jstor.org/stable/105753" target="_blank">From JSTOR</a>`,
+    //             location: `London, England`,
+    //             medium: `Physically published academic journal article, digitized`,
+    //             publisher: `Printed by L. Davis and C. Reymers for the Royal Society`,
+    //             summary: `TBA.`,
+    //             title: `V. Observations on Bones, Commonly Supposed to Be Elephant Bones, Which Have Been Found Near the River Ohio in America.`,
+    //         },
+    //         {
+    //             contributors: `Thomas Pennant (author)`,
+    //             date: `1771/>03/>20`,
+    //             duration: `382 pp.`,
+    //             iteration: `1st ed.`,
+    //             languages: `English`,
+    //             links: `<li><a href="https://archive.org/stream/synopsisofquadru00penn#page/85/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+    //             location: `Chester, England`,
+    //             medium: `Physically published book, digitized`,
+    //             publisher: `Printed by J. Monk`,
+    //             summary: `The chapter on elephants, "XIV. Elephant.", is on pages 85-93.  Details TBA.`,
+    //             title: `Synopsis of Quadrupeds`,
+    //         },
+    //         {
+    //             contributors: `Carolus Linnaeus (coauthor); Johann Fridrich Gmelin (coauthor)`,
+    //             date: `1788`,
+    //             duration: `500 pp.`,
+    //             iteration: `13th ed., Tome 1`,
+    //             languages: `Latin`,
+    //             links: `<li><a href="https://archive.org/stream/mobot31753000801537#page/58/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Missouri Botanical Garden<li><a href="https://archive.org/stream/carolilinnsys01linn#page/58/mode/2up" target="_blank">From Internet archive</a>, copy provided by NCSU Libraries`,
+    //             location: `Leizpig, Germany`,
+    //             medium: `Physically published book, digitized`,
+    //             publisher: `Georg. Emmanuel Beer`,
+    //             summary: `The 13th edition of <a id="Linnaeus_1758_1_color" onclick="goToSource('1700-1799','Linnaeus_1758_1', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants has been expanded but retains most of Linnaeus's original description, and can be found on page 58.`,
+    //             title: `<span id="Linnaeus_Gmelin_1788_1">Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
+                
+    //         },
+    //         {
+    //             contributors: `Johann Friedrich Blumenbach (author)`,
+    //             date: `1797/>03/>20`,
+    //             duration: `714 pp.`,
+    //             iteration: `5th ed.`,
+    //             languages: `German, Latin`,
+    //             links: `<li><a href="https://www.google.com/books/edition/Handbuch_der_Naturgeschichte/c4g5AAAAcAAJ?hl=en&gbpv=1&pg=PA124" target="_blank">From Google Books</a>, copy provided by Bayerische Staatsbibliothek (<a href="https://web.archive.org/web/20210207161402/https://books.googleusercontent.com/books/content?req=AKW5Qae5HmmtQeVus5uQJRzeuTVfw17qZB9b6zEByrLwdDTBi2D_zmnmyg3Q9P5iuGAEz426xOgn1CeZuLmdg7efp_HzPSXoGIdqiLVnFdD7uDEagC5dZVoMYifJtn8JPlOGiBi8d96-0HdXcyxXMjF7FkKx6pz8AcXVnaQfSvKNN__TRgR3_r_TdmhOnQy6-9kBPZH_hKbFM-v_Tam_yLWkaJDG-7-XcL4JYFUHX57lVF5z0O8VTFavnKaAWXO8BGuOnKqwWdW7CKHeI2cqcsiFsFHs-Z8QyA" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/D_Joh_Fr_Blumenbachs_Handbuch_der_Naturg/d5dlAAAAcAAJ?hl=en&gbpv=1&pg=PA124" target="_blank">From Google Books</a>, copy provided by Bayerische Staatsbibliothek (<a href="https://web.archive.org/web/20210207161809/https://books.googleusercontent.com/books/content?req=AKW5Qac42eZ_lX1QQ1nrFIwgtJlbjNpkClqTHU5cpAqlGNpovwSsS71MFIVNZQ_YjcrHA5Wh8IdRpxdlopejNK2xfO80rWUxiVKqsSF-Pn4qSj_3yiZa0sPtpVvSajNGlX-U7-_DuvWmoGrnlnfBAXV51O5ArKnInLmIFGyWpIzhzt47WscOzI_g6o1RNtVzcLvFtJFAkswBI6T4QdUGKjuf85FjvpYUKApw4MV-lneuMqwpPKrSLOWhJqW7XsXvdeZC0uH3YoNBegoZ7cV-dWQRFv1EnFYNREvdqNjDqMbbH7p8rEQvRn8" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/_/xTZcAAAAcAAJ?hl=en&gbpv=1&pg=PA124" target="_blank">From Google Books</a>, copy provided by Bayerische Staatsbibliothek (<a href="https://web.archive.org/web/20210207162329/https://books.googleusercontent.com/books/content?req=AKW5Qae40lEcE9cWPn5gETbzSol6VGbpbBJLhIrnV9bsTANoMldU-zmaojHifTPkxmeKNaPwnEMlLDOdPNzvlo8uu6CNAnflq6N89Tha21PqcF6l20OnIreDaVORXZGOXJJQU9B66ThAlQ8-VsZlJxN5P57T7jjDiuDnOqlFHqXv9gcJ1S-EUiOLZxxeBBvHIKJBeh7jdbgKzT9hsix0e2qHpo-tF2LdWsLHSmtxE1Yl9j8CHjZHOijSKgvG3A-FOOsTyIrEGU3VK_8pJseheksfyO_jHddiuA" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/D_Joh_Friedr_Blumenbachs_Handbuch_der_Na/xaxgAAAAcAAJ?hl=en&gbpv=1&pg=PA124" target="_blank">From Google Books</a>, copy provided by the British Library (<a href="https://web.archive.org/web/20210207163638/https://books.googleusercontent.com/books/content?req=AKW5QafTV_Mr9vnGqXUzzutnF21c2L-72y2P80CZ7Zaw2h_LMjjxhqc2PfY87gORmI371m46nnVmFK8xcd32BLNijlbhu4BOLVFm9sXGUiB5-v1QzdYaWymC6T6S5Zbepn7Sh2M8qDYbk0SdZzGW7lfpba1A9IAL4GbhB0XakJkbrrEhIZknGnYoVmAc_99xKP9AwqQyCH4ifR5kwC_BKYKLmwAYzR-SwdhukXf-eHXra0uHim6qiPxHC7EhYEVZU01kKU3_ptfzAcWzCTLEJpn0J0TocWudcc24OshJQyy3Dde6-KzCbw4" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://archive.org/stream/djohfrblumenbach00blum#page/124/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries <li><a href="https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb10074883.html?pageNo=148" target="_blank">From Bayerische Staatsbibliothek</a> (<a href="https://web.archive.org/web/20210207011419/https://download.digitale-sammlungen.de/pdf/16126596538888bsb10074883.pdf" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11271835.html?pageNo=146" target="_blank">From Bayerische Staatsbibliothek</a> (<a  href="https://web.archive.org/web/20210207011458/https://download.digitale-sammlungen.de/pdf/16126597818888bsb11271835.pdf" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11112082.html?pageNo=142" target="_blank">From Bayerische Staatsbibliothek</a> (<a  href="https://web.archive.org/web/20210207011638/https://download.digitale-sammlungen.de/pdf/16126599738888bsb11112082.pdf" target="_blank">archived in the Wayback Machine</a>) <li><a href="http://access.bl.uk/item/viewer/ark:/81055/vdc_100027397547.0x000001#?c=0&m=0&s=0&cv=147&xywh=-1344%2C-127%2C5158%2C2535" target="_blank">From the British Library</a> <li><a href="https://blumenbach-online.de/fileadmin/wikiuser/Daten_Digitalisierung/ID%2000026/00026.pdf" target="_blank">From the Göttingen Academy of Sciences's Blumenbach Online</a> <li><a href="https://blumenbach-online.de/fileadmin/wikiuser/Daten_Digitalisierung/ID%2000038/00038.pdf" target="_blank">From the Göttingen Academy of Sciences's Blumenbach Online</a> <li><a href="https://www.deutschestextarchiv.de/book/view/blumenbach_naturgeschichte_1797?p=146" target="_blank">From the Deutsches Textarchiv</a>`,
+    //             location: `Göttingen, Germany`,
+    //             notes: `<li>Bottommost copy from the Göttingen Academy of Sciences's Blumenbach Online was owned by Blumenbach.`,
+    //             publisher: `Johann Christian Dieterich`,
+    //             summary: `Blumenbach recognizes two species of living elephants and describes them on pages 124-125. He gives each a distinct name, <i>Elephas asiaticus</i> for the Asian elephant and <i>E</i>. <i>africanus</i> for the African elephant, and places them in the order Belluae.`,
+    //             medium: `Physically published book, digitized`,
+    //             title: `<span id="Blumenbach_1797_1">Handbuch der Naturgeschichte.`,
+    //         }
+    //     ],
+    //     [
+    //         {
+    //             contributors: `Georges Léopold Chrétien Frédéric Dagobert Cuvier (author)`,
+    //             date: `1798`,
+    //             duration: `710 pp.`,
+    //             iteration: `1st ed.`,
+    //             languages: `French`,
+    //             links: `<li><a href="https://archive.org/stream/tableaulment00cuvi#page/146/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries <li><a href="https://archive.org/stream/tableaulmen00cuvi#page/146/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the University of Toronto`,
+    //             location: `Paris, France`,
+    //             medium: `Physically published book, digitized`,
+    //             notes: `<li>Published in year 6 of the French Republican calendar, established in 1793. The first year of the calendar began on September 22nd, 1792, meaning year 6 corresponds to 1798 (Convention nationale, 1793).`,
+    //             publisher: `Printed by Baudouin for the Corps législatif and l'Institut national`,
+    //             references: `<p class="refs">Convention nationale (1793). <a href="https://tolosana.univ-toulouse.fr/fr/notice/042658012" target="_blank"><i>Calendrier de la République française</i></a>. Paris: Imprimerie nationale France.</p>`,
+    //             summary: `Cuvier recognizes two species of living elephants and describes them on pages 148-149. He gives each a distinct name, <i>Elephas indicus</i> for the Asian elephant and <i>E</i>. <i>capensis</i> for the African elephant, and states that elephants warrant placement in a new, unnamed order.`,
+    //             title: `<span id="Cuvier_1798_1">Tableau Élémentaire de l'Histoire Naturelle des Animaux.`,
+    //         },
+    //         {
+    //             container: `<i>Philosophical Transactions of the Royal Society of London</i> (Phil. Trans. R. Soc. Lond.), physically published academic journal`,
+    //             contributors: `John Corse (author)`,
+    //             date: `1799/>06/>13`,
+    //             duration: `pp. 205-236`,
+    //             iteration: `[Vol. 89], Pt. 2`,
+    //             languages: `English`,
+    //             links: `<li><a href="https://doi.org/10.1098/rstl.1799.0014" target="_blank">From publisher (DOI: 10.1098/rstl.1799.0014)</a><li><a href="https://archive.org/stream/philosophicaltra8917roya#page/205/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Natural History Museum Library, London<li><a href="https://www.jstor.org/stable/107034" target="_blank">From JSTOR</a>`,
+    //             location: `London, England`,
+    //             medium: `Physically published academic journal article, digitized`,
+    //             publisher: `W. Bulmer & Co.`,
+    //             summary: `TBA.`,
+    //             title: `XIII. Observations on the Different Species of Asiatic Elephants, and Their Mode of Dentition.`,
+    //         },
+    //         {},
+    //         {}
+    //     ]
+    // ]
+    
+    var its1800_1899 = [
+        [
+            {
+                contributors: `Carolus Linnaeus (coauthor); Johann Fridrich Gmelin (coauthor); William Turton (Latin-to-English translator)`,
+                date: `1802`,
+                duration: `943 pp.`,
+                iteration: `1st ed. Vol. 1`,
+                languages: `English`,
+                links: `<li><a href="https://archive.org/stream/generalsystemofn01linn#page/35/mode/2up" target="_blank">From Internet Archive</a>, copy provided by NCSU Libraries`,
+                location: `London, England`,
+                medium: `Physically published book, digitized`,
+                publisher: `Printed for Lackington, Allen, and Co.`,
+                summary: `An English translation of <a id="Linnaeus_Gmelin_1788_1_color" onclick="goToSource('1700-1799','Linnaeus_Gmelin_1788_1', this.id)">Linnaeus and Gmelin, 1788</a>. The elephant section is on page 35.`,
+                title: `A General System of Nature: Through the Three Grand Kingdoms of Animals, Vegetables, and Minerals; Systematically Divided Into Their Several Classes, Orders, Genera, Species, and Varieties With Their Habitations, Manners, Economy, Structure, and Peculiarities.`,
+            },
+            {
+                contributors: `Pierre Camper (author); A.G. Camper (address author)`,
+                date: `1802/>08/>18`,
+                duration: `107 pp.`,
+                iteration: `1st ed.`,
+                languages: `French`,
+                links: `<li><a href="https://archive.org/stream/Descriptionanat00Camp#page/iii/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Harvard University Ernst Mayr Library of the Museum of Comparative Zoology`,
+                location: `Paris, France`,
+                medium: `Physically published book, digitized`,
+                publisher: `H.J. Jansen`,
+                summary: `TBA.`,
+                title: `Description Anatomique d'un Éléphant Mâle`,
+            },        
+            {
+                contributors: `Carolus D. Illiger (author)`,
+                date: `1811/>04`,
+                duration: `301 pp.`,
+                iteration: `1st ed.`,
+                languages: `Latin, German`,
+                links: `<li><a href="https://www.google.com/books/edition/Caroli_Illigeri_Prodromus_systematis_mam/I9sTAAAAQAAJ?hl=en&gbpv=1&pg=PA96" target="_blank">From Google Books</a>, copy provided by University of Lausanne (<a href="https://web.archive.org/web/20210207194027/https://books.googleusercontent.com/books/content?req=AKW5QafwELHoIks7C7v9mhRGi72Z-wnh8YtKwbaxS_o9fMZE1s6oYqv9IfcH_toSZgboSp5N8klmAU8CccxPf6aynZghdE1E-1uYF-tqwl1lssWLExJk5brRnT5vsBnalC4BLMmGEMwfPgrbT-0qWeGb6IKrCHmAeosA1irCmqsP6OHBmsRLEuz532tVe5cf0V2UEGNmdWtF4_w_rcQjIQFrX9yaVq8-pFl8ZR63z7VMfp765frU-H2X0tSEYs6hWUMbIE6oX_pW8GkLWcweonsMPhcdRnLObTUc16yXTHRnsQ1eGQJQkDs" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://web.archive.org/web/20210207194345/https://books.googleusercontent.com/books/content?req=AKW5QaeD7j4eCMVHstHMO9iiZQBU1oMcKNfmTmcvXSUDxBQmdNK0_NJrlkNWUt8bE7fn24u5SOo43X8O0lItrdxyhb2nugAYkYfazYuk_xtrn5aBAP5eHvaYMw9zJX9xDW0PtO9sHw_Xmncp34Ft0i-qnDuW8K4BWyLsI0OOcgBDQqdK5qIKAV6gsGhpVB4v-Y8RWgXYektYFd2bBNLFgzMVb9aPqaTznucpecOilbVxdLddNPrfZoaBAtwidCK8xldzYIk9Gji7497Mv5lce91lE-k8puJ49g" target="_blank">From Google Books</a>, copy provided by University of Turin (<a href="https://web.archive.org/web/20210207194345/https://books.googleusercontent.com/books/content?req=AKW5QaeD7j4eCMVHstHMO9iiZQBU1oMcKNfmTmcvXSUDxBQmdNK0_NJrlkNWUt8bE7fn24u5SOo43X8O0lItrdxyhb2nugAYkYfazYuk_xtrn5aBAP5eHvaYMw9zJX9xDW0PtO9sHw_Xmncp34Ft0i-qnDuW8K4BWyLsI0OOcgBDQqdK5qIKAV6gsGhpVB4v-Y8RWgXYektYFd2bBNLFgzMVb9aPqaTznucpecOilbVxdLddNPrfZoaBAtwidCK8xldzYIk9Gji7497Mv5lce91lE-k8puJ49g" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://archive.org/stream/b21304397#page/96/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the King's College London Foyle Special Collections Library <li><a href="https://archive.org/stream/caroliilligerida00illi#page/96/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+                location: `Berlin, Germany`,
+                medium: `Physically published book, digitized`,
+                publisher: `C. Salfeld`,
+                summary: `Illiger employs <a id="Cuvier_1798_1_color" onclick="goToSource('1700-1799','Cuvier_1798_1', this.id)">Cuvier's</a> <i>Elephas indicus</i> for the Asian elephant and <a id="Blumenbach_1797_1_color" onclick="goToSource('1700-1799','Blumenbach_1797_1', this.id)">Blumenbach's</a> <i>E</i>. <i>africanus</i> for the African elephant, and on page 96 proposes the name Proboscidea for the family encompassing both.`,
+                title: `Prodromus Systematis Mammalium et Avium Additis Terminis Zoographicis Utriusque Classis, Eorumque Versione Germanica.`,
+                
+            },
+            {
+                container: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>, physically published book`,
+                contributors: `Frédéric Cuvier (author)`,
+                date: `1825/09`,
+                duration: `10 pp.`,
+                iteration: `1st ed., Tome 6`,
+                languages: `French`,
+                links: `<li><a href="https://archive.org/stream/histoirenaturel6geof#page/n122/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+                location: `Paris, France`,
+                medium: `Physically published book chapter, digitized`,
+                publisher: `A. Belin`,
+                summary: `TBA.`,
+                title: `Éléphant d'Asie.`,
+            },
+        ],
+        [
+            {
+                container: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>, physically published book`,
+                contributors: `Frédéric Cuvier (author)`,
+                date: `1825/11`,
+                duration: `2 pp.`,
+                iteration: `1st ed., Tome 6`,
+                languages: `French`,
+                links: `<li><a href="https://archive.org/stream/histoirenaturel6geof#page/n116/mode/2up/" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+                location: `Paris, France`,
+                medium: `Physically published book chapter, digitized`,
+                publisher: `A. Belin`,
+                summary: `Cuvier argues that African elephants are anatomically distinct enough from Asian elephants to warrant placement in a separate genus, which he names <i>Loxodonte</i>.`,
+                title: `<span id="Cuvier_1825_1"> Éléphant d'Afrique.`,
+            },
+            {
+                container: `<i>The Zoological Journal</i> (Zool. J.), physically published academic journal`,
+                contributors: `Anonymous`,
+                date: `1827/01`,
+                duration: `pp. 140-143`,
+                iteration: `Vol. 3, No. 9`,
+                languages: `English`,
+                links: `<li><a href="https://archive.org/stream/zoologicaljourna03lond#page/140/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Natural History Museum Library, London<li><a href="https://archive.org/stream/zoologicaljourna318271828sowe#page/140/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+                location: `London, England`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `W. Phillips`,
+                summary: `The anonymous author Latinizes <a onclick="goToSource('1800-1899','Cuvier_1825_1', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
+                title: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriees, Dessinées d'Après des Animaux Vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hillaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
+            },
+            {
+                container: `<i>A Prodromus of a Synopsis Animalium, Comprising A Catalogue Raisonné, of the Zootomical Collection Of Joshua Brookes, Esq. F.R.S. Etc.</i>, physically published catalogue`,
+                contributors: `Joshua Brookes (author)`,
+                date: `1828/<07/<28`,
+                duration: `76 pp.`,
+                iteration: `Part 1`,
+                languages: `English`,
+                links: `<li><a href="https://www.google.com/books/edition/_/4DwAAAAAQAAJ?hl=en&gbpv=1&pg=PA73" target="_blank">From Google Books</a>, copy provided by Oxford University (<a href="https://web.archive.org/web/20210214192925/https://books.googleusercontent.com/books/content?req=AKW5QadwVSVwUZftumH5axJcOdEm56MH-pPNzuN3WEUeWrIl2STrnlws_LwE2-pZ_brdV-uWMBcmRpgXM2LKJwVLWU-D3VT81_OnaML49OzE4tqAVjgk_DqwrVCyJAlm1WKnfLd2aYSWUyvz3kOkioTlN_gZ9fLJKfPGkUFDqPV4NtlBxLZlLOnxDubZctc_ZsV2rFXhLeYVaNzNyv3yCbm8rH-tDpG5ApLWrq8JqD6UkgoH0Qyp8qL_vB2YU3wnHADvmEQbq0_2" target="_blank">archived in the Wayback Machine</a>)<li><a href="https://archive.org/stream/brookesianmuseu00broogoog#page/n99/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Oxford University`,
+                location: `London, England`,
+                medium: `Physically published catalogue, digitized`,
+                publisher: `Printed by Richard Taylor`,
+                summary: `The section on elephants, "Fam. 1. Elephantidae. Proboscidea", is on pages 73-74.  Details TBA.`,
+                title: `A Catalogue of the Anatomical & Zoological Museum of Joshua Brookes, Esq. F.R.S. Etc.`,
+            },
+            {
+                container: `<i>Transactions of the American Philosophical Society</i> (Trans. Am. Philos. Soc.), physically published academic journal`,
+                contributors: `John Davidson Godman (author)`,
+                date: `1830/>01/>01`,
+                duration: `pp. 478-485`,
+                iteration: `New Ser., Vol. 3`,
+                languages: `English`,
+                links: `<li><a href="https://archive.org/stream/transactionsofam03amer#page/478/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the New York Botanical Garden LuEsther T. Mertz Library<li><a href="https://archive.org/stream/transactionsofam03inamer#page/478/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the University of Pittsburgh Library System<li><a href="https://doi.org/10.2307/1005152" target="_blank">From JSTOR (DOI: 10.2307/1005152)</a>`,
+                location: `Philadelphia, Pennsylvania, United States of America`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `American Philosophical Society (APS)`,
+                summary: `TBA.`,
+                title: `No. XIX. Description of a New Genus and New Species of Extinct Mammiferous Quadruped.`,
+            }
+        ],
+        [
+            {
+                container: `<i>Proceedings of the Royal Irish Academy</i> (Proc. R. Ir. Acad.), physically published academic journal`,
+                contributors: `Robert Harrison (author)`,
+                date: `1847/>03/>31`,
+                duration: `pp. 385-398`,
+                iteration: `Vol. 3`,
+                languages: `English`,
+                links: `<li><a href="https://archive.org/stream/proceedingsofroy03dubl#page/385/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Natural History Museum Library, London`,
+                location: `Dublin, Ireland`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Printed by M. H. Gill for the Royal Irish Academy`,
+                summary: `TBA.`,
+                title: `On the Anatomy of the Elephant.`,
+            },
+            {
+                contributors: `Coenraad Jacob Temminck (author)`,
+                date: `1847/>05`,
+                duration: `470 pp.`,
+                iteration: `1st ed., Tome 2`,
+                languages: `French`,
+                links: `<li><a href="https://www.google.com/books/edition/Coup_d_oeil_general_sur_les_possessions/2pU6AAAAcAAJ?hl=en&authuser=0&gbpv=1&pg=PA91" target="_blank">From Google Books</a>, copy provided by Bayerische Staatsbibliothek(<a href="https://web.archive.org/web/20210207194817/https://books.googleusercontent.com/books/content?req=AKW5QactSJpZ0V7Tum4sUxdtzTm0PRVs6Fh5WGfDUlhGbF7b-ma3BnyA78n0IJAr7HnSHs8_vey7w04pJeIgoYdWbX6c_fH1cvO-XbeSs76-6K-ozJb_gCtURFHjv4kbY5pErqueK3YSTltp117SxxemO3RPfbhY7UkHtO0XFP1RuhBX6_yr6-OEr8oZf4ZlSDqjoQvgvjfVr92DQU0d_maMChaXKhsX4bMhghNZJELy8-5flTXq3I7glNiSXrsDEzsg6BQkTY6e5l8AMKdSgwFhuyR_JUzRJLBLto7kdN28iAK1UbeToK4" target="_blank">archived in the Wayback Machine</a>)<li><a href="https://www.google.com/books/edition/_/hhkPAAAAQAAJ?hl=en&authuser=0&gbpv=1&pg=PA91" target="_blank">From Google Books</a>, copy provided by Ghent University (<a href="https://web.archive.org/web/20210207195038/https://books.googleusercontent.com/books/content?req=AKW5QadUpSJur5HYW6deSBmosTatgpCXB4oZIF19F1ib52UQZePhSTULThRWbWLM5fL_xY4aqsQvYo3zVtDb-RAYZzpjRj4-Yb4W4Z1I5NvYEEEE_qnUI58PG8fzn0THhv0ZjfoLviCBE5E6eSubo92zzzTGDfyX_R99dTS7czdN50_nA0_5TJv6xCuxLBUGbSWw6w_HQ1V-Yp8dMciAHHQbafG1CYD_e7lnwXnlSh7YfiJA03FnFkvEHfunS6fVuBYDS71jMTzMkkQfBB9ti7his70wDdxYZf4O7L25sM6xtqI1yaalIIw" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/Coup_d_oeil_g%C3%A9n%C3%A9ral_sur_les_possession/15kBAAAAQAAJ?hl=en&gbpv=1&pg=PA91" target="_blank">From Google Books</a>, copy provided by Oxford University (<a href="https://web.archive.org/web/20210214204620/https://books.googleusercontent.com/books/content?req=AKW5Qaew798VW_baDeugJKp9pAomJlj8POy20G6bl29HeEOHlbpidcMwmP_PUVwSORTB_Nbv5V6q8uKF4WN7O-ZT_ScSuiMctPBg7M6t6dXVAEcYgaZP9DnnUDhs-8lyPvx5V_dLQqRH08QX8XZZDnQCIaJ4qEzreQsljVlaGz3mOkg0knqr5BwUv2uZe5gndiVpD0jGK7W4aePX2vkeEBTwwJ_3xsaXRFvKRohuD6Y4HW3H9U0Ujj4YIfB-kdwBj20-ROChMdQVmLq8HlhxEAB8-9IuTnlViDokQodRcjzePr1ggeYwVFc" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/_/0556zAVURRwC?hl=en&authuser=0&gbpv=1&pg=PA91" target="_blank">From Google Books</a>, copy provided by the New York Public Library (<a href="https://web.archive.org/web/20210207195200/https://books.googleusercontent.com/books/content?req=AKW5QafbOH2P2eJoO794E-98xw5xgT41yHTxHsXU9Q5zsXVAOoFfndou4NmdGMxMsybR3jemyCIa6JmephcAUfLB5C8DGadjJqM2ePq0YBAt0Ji66eTdFNcWDLTMnQd5gMkgI98wsMcQzksERtg-TGP7FQOYSApDj1A-Nh100UkCr4UBqaeihKzWAvI-TiGzBR3oIexXRsC3O6YLrqMTTxIyRJjGlFuviPtLTEvcab8VX8rlrgXLH5_Eiu-i_V5_7SJupKiEs4TsD5DMNWBt7EpQNtfpawpOklODKnkJ_K_cMw8sBjj8o7U" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/Coup_d_oeil_g%C3%A9n%C3%A9ral_sur_les_possession/sBMt6rQpK_8C?hl=en&gbpv=1&pg=PA91" target="_blank">From Google Books</a>, copy provided by the University of Michigan (<a href="https://web.archive.org/web/20210207195340/https://books.googleusercontent.com/books/content?req=AKW5QacmIk4y2aMAkuSbgYQM3Q4PYbC-NTZtXKuSvG2kUD1spqtwtpzqi2E6JLq62aAeJOYKKzb7RfbCA7rjpthlTsRvpwjBOAYBFJh2JiqirAtQqIoDuF-ntPWRo2Q8LKI-P4FYv-v7yYTmj7KaYxmtxJN75QTPyFLchEEIqoafYBeFT5q_DjgyhGzbfG0STJZnI3Lyo3v6GNzGpjWus4YZKVbWHnJVrxna0ijI92Ftd5eUHh6NSvBPkw7Soy4rsW4dOUh73wlPO_u7JCsHvA71mJwbyeNnFa25s1lOywusU-xipLfqZ2w" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://archive.org/stream/coupdoeilgnrals04temmgoog#page/n105/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Oxford University <li><a href="https://archive.org/stream/coupdoeilgnrals03temmgoog#page/n104/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the University of Michigan <li><a href="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10276433_00103.html" target="_blank">From Bayerische Staatsbibliothek</a> (<a href="https://web.archive.org/web/20210214203429/https://download.digitale-sammlungen.de/pdf/16133347498888bsb10276433.pdf" target="_blank">archived in the Wayback Machine</a>)`,
+                location: `Leiden, Netherlands`,
+                medium: `Physically published book, digitized`,
+                publisher: `A. Arnz & Comp.`,
+                summary: `Temminck proposes on pages 91-92 that the elephants found on the island of Sumatra are a distinct species from those found elsewhere in Asia based on skeletal differences. He dubs these elephants <i>Elephas sumatranus</i>.`,
+                title: `<span id="Temminck_1847_1">Coup-d'Oeil Général sur les Possessions Néerlandaises dans l'Inde Archipélagique.`,
+            },
+            {
+                container: `<i>The Quarterly Journal of the Geological Society of London</i> (Q. J. Geol. Soc. Lond.), physically published academic journal`,
+                contributors: `Hugh Falconer (author)`,
+                date: `1857/>06/>30`,
+                duration: `pp. 307-360`,
+                iteration: `Vol. 8, Part 1`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1144/GSL.JGS.1857.013.01-02.43" target="_blank">From publisher (DOI: 10.1144/GSL.JGS.1857.013.01-02.43 )</a><li><a href="https://archive.org/stream/quarterlyjourna131857geol#page/307/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+                location: `London, England`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Longman, Brown, Green, Longmans, and Roberts.`,
+                summary: `TBA.`,
+                title: `On the Species of Mastodon and Elephant occuring in the fossil state in Great Britain. Part I. Mastodon.`,
+            },
+            {
+                container: `<i>Harper's Weekly. A Journal of Civilization.</i>, physically published newspaper`,
+                contributors: `Thomas Nast (illustrator)`,
+                date: `1874/11/07`,
+                duration: `p. 912, 26.67 x 40.005 cm (10.5 x 15.75 in)`,
+                iteration: `Vol. 18, No. 932`,
+                languages: `English`,
+                links: `<li><a href="http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=h9m&AN=67549865&site=ehost-live" target="_blank">From George Mason University</a> <li><a href="https://www.loc.gov/resource/ppmsca.15785/" target="_blank">From the Library of Congress</a> <li><a href="https://americanhistory.si.edu/collections/search/object/nmah_528979" target="_blank">From the Smithsonian National Museum of American History</a> <li><a href="https://www.harpweek.com/09Cartoon/BrowseByDateCartoon.asp?Year=2003&Month=November&Date=7" target="_blank">From HarpWeek</a>`,
+                location: `New York, United States of America`,
+                medium: `Physically published engraving, digitized`,
+                publisher: `Harper & Brothers`,
+                summary: `The earliest use of the elephant to represent the Republican Party.`,
+                title: `The Third Term Panic.`,
+            },
+        ],
+        [
+            {
+                container: `<i>Studies in Comparative Anatomy</i>, physically published book series`,
+                contributors: `L.C. Miall (coauthor); F. Greenwood (coauthor)`,
+                date: `1878`,
+                duration: `84 pp.`,
+                iteration: `No. 2`,
+                languages: `English`,
+                links: `<li><a href="https://archive.org/stream/anatomyofindiane00mial#page/n6/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Harvard University Ernst Mayr Library of the Museum of Comparative Zoology`,
+                location: `London, England`,
+                medium: `Physically published book, digitized`,
+                publisher: `Macmillan and Co.`,
+                summary: `TBA.`,
+                title: `Anatomy of the Indian Elephant`,
+            },
+            {      
+                contributors: `Matthew Scott (author)`,
+                date: `1885/01/14~1885/09/15`,
+                duration: `96 pp.`,
+                iteration: `1st ed.`,
+                languages: `English`,
+                links: `<li><a href="https://archive.org/stream/autobiographyofm00scot#page/n8/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Boston Public Library <li><a href="https://www.fadedpage.com/showbook.php?pid=20150417" target="_blank">Digital copy from Faded Page</a>`,
+                location: `Bridgeport, Connecticut, United States of America`,
+                medium: `Physically published book, digitized`,
+                notes: `<li>Published in 1885 sometime after January 14th. Since Jumbo was killed on September 15th, 1885 but was alive at the time of writing, it must have been published between January 14th and September 15th.`,
+                publisher: `Trow's Printing and Bookbinding Co.`,
+                summary: `TBA.`,
+                title: `Autobiography of Matthew Scott, Jumbo's Keeper Formerly of the Zoölogical Society's Gardens, London, and Receiver of Sir Edwin Landseer Medal in 1866 Also Jumbo's Biography by the Same Author.`,
+            },
+            {   
+                contributors: `William Henry Flower (coauthor); Richard Lydekker (coauthor)`,
+                date: `1891/>03`,
+                duration: `763 pp.`,
+                iteration: `1st ed.`,
+                languages: `English`,
+                links: `<li><a href="https://www.google.com/books/edition/An_Introduction_to_the_Study_of_Mammals/YclRAAAAMAAJ?hl=en&gbpv=1&pg=PA418" target="_blank">From Google Books</a>, copy provided by the University of Wisconsin-Madison (<a href="https://web.archive.org/web/20210219031828/https://books.googleusercontent.com/books/content?req=AKW5QadLnZED9Lk4AHo1IdsRzR-c_YLYBCxcaZamoylOunbqvPfda-KuOvWV4LL78l1SGe2NRJdZmrR9UtcBaIFFWM9_IB60_yc2acZW2EjRG_CO6ZeyXuT-DzvQ83k8kNqw_3HHHibfY0Yd_KAa6JoOA2Dtr-rIVdnvH8FC0bcw7FlN5qA4j-AlwBSb5gNrgm5w3VbyjzSPWqlYwlVJM5aA_9zbuqDCPPIZrdLgRRY93nq40PFDANu5fB486dfMKbwyHhpAfuq_q4WCJW8HQELv7SOmxBYv7w" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://archive.org/stream/cu31924001022684#page/n437/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Cornell University Library <li><a href="https://archive.org/stream/introductiontost00flow#page/418/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Marine Biological Laboratory and Woods Hole Oceanographic Institution (MBLWHOI) Library <li><a href="https://archive.org/stream/b2191610x#page/418/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Royal College of Physicians in Edinburgh <li><a href="https://archive.org/stream/anintroductiont00lydegoog#page/n440/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the University of Wisconsin-Madison`,
+                location: `London, England`,
+                medium: `Physically published book, digitized`,
+                publisher: `Adam and Charles Black`,
+                summary: `The section on elephants, "Suborder Proboscidea", is on pages 418-436. Details TBA.`,
+                title: `An Introduction to the Study of Mammals Living and Extinct`,
+            },    
+            {
+                contributors: `Anonymous`,
+                date: `1899`,
+                duration: `106 x 72 cm (41.7 x 28 in)`,
+                languages: `English`,
+                links: `<li><a href="https://www.loc.gov/resource/ppmsca.55077/" target="_blank">From the Library of Congress</a>`,
+                location: `Buffalo, New York, United States of America`,
+                medium: `Physically published chromolithograph poster, digitized`,
+                notes: `<li><a href="https://www.loc.gov/resource/cph.3b52708/" target="_blank">Color film copy transparency from the Library of Congress.</a>`,
+                publisher: `Courier Litho. Co.`,
+                summary: `TBA.`,
+                title: `Ringling Bros. World's Greatest Shows: Nothing Like Them Ever Seen Before. The Funny, Wonderful Elephant Brass Band.`,
+            },
+        ]
+    ]
+
+    var its1900_1999 = [
+        [
+            {      
+                container: `<i>Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin</i> (Sitzber. Ges. Nat. Freunde Berl.), physically published academic journal`,
+                contributors: `Paul Matschie (author)`,
+                date: `1900/>10/>16`,
+                duration: `pp. 189-197`,
+                iteration: `No. 8`,
+                languages: `German`,
+                links: `<li><a href="https://www.google.com/books/edition/_/W5dOAQAAMAAJ?hl=en&gbpv=1&pg=PA189" target="_blank">From Google Books</a>, copy provided by the University of Illinois at Urbana-Champaign (<a href="https://web.archive.org/web/20210207193625/https://books.googleusercontent.com/books/content?req=AKW5QacuGQQil4EEMX4McXafU8riykOWuKYjcpjliKIDE0bXkrG88aQArnlbHPF2vNnmeGz3T_RwUtQOYsQodCAq3-Tkw1LUV45SF6F7Dg6pqvsntz5lW1-Gl_BPVNvGGrOfPoUoEG0d3rYqpM3_GUvsbgf5BorNzPK48W1gHxg5WAN3kjyULc4CZwgK9ugkE0ht4h8XNFwjO7G-9CKEQGo16CDtMIK98ysqerYQcV9QbBYHi2OGaackuhhql6LK8waAhC_GAjKJ_Kh3KCZNool_7yUA3zb9UMwoI4UOYb4iUFIgCBS41wc" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://archive.org/stream/sitzungsberichte1900gese#page/189/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Harvard University Ernst Mayr Library of the Museum of Comparative Zoology`,
+                location: `Berlin, Germany`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `R. Friedländer und Sohn`,
+                summary: `TBA.`,
+                title: `Über geographische Albarten des afrikanischen Elefanten.`,
+            },
+            {
+                contributors: `George Henry Evans (author)`,
+                date: `1901`,
+                duration: `343 pp.`,
+                iteration: `3rd ed.`,
+                languages: `English`,
+                links: `<li><a href="https://digital.nls.uk/indiapapers/browse/archive/75190071" target="_blank">From the National Library of Scotland</a><li><a href="https://archive.org/stream/in.ernet.dli.2015.221068#page/n3/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Digital Library of India<li><a href="https://archive.org/stream/TreatiseOnElephants#page/n3/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Digital Library of India`,
+                location: `Rangoon, Burma [Myanmar]`,
+                medium: `Physically published book, digitized`,
+                publisher: `Superintendent of Government Printing`,
+                summary: `TBA.`,
+                title: `<span id="Evans_1901_1">A Treatise On Elephants. Their Treatment in Health and Disease`,
+            },
+            {
+                container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Lond. Soc.), physically published academic journal`,
+                contributors: `Richard Lydekker (author)`,
+                date: `1907/08/01 (Back Matter, 1907)`,
+                duration: `pp. 380-403`,
+                iteration: `[Vol. 77, Issue 2]`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1111/j.1096-3642.1907.tb01824.x" target="_blank">From publisher (DOI: 10.1111/j.1096-3642.1907.tb01824.x)</a> through Wiley Online Library <li><a href="https://archive.org/stream/proceedingsofzoo19071446zool#page/380/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+                location: `London, England`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Printed by Messrs. Longmans, Green, and Co. for the Zoological Society of London`,
+                references: `<p class="refs"><a href="https://archive.org/stream/proceedingsofzoo19074471121zool#page/n391/mode/2up" target="_blank">[Back Matter]</a>. (1907). <i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i>, <i>78</i>(2).</p>`,
+                summary: `TBA.`,
+                title: `1. The Ears as a Race-Character in the African Elephant.`,
+            },
+            {
+                contributors: `Charles A. Williams (author); Arthur Smith Woodward (preface author)`,
+                duration: `46 pp.`,
+                date: `1908/>02`,
+                iteration: `1st ed.`,
+                languages: `English`,
+                links: `<li><a href="https://www.google.com/books/edition/A_Guide_to_the_Elephants_recent_and_Foss/ets4AAAAMAAJ?hl=en&gbpv=1" target="_blank">From Google Books</a>, copy provided by the University of Michigan (<a href="https://web.archive.org/web/20210223141857/https://books.googleusercontent.com/books/content?req=AKW5Qad7gTvfOOCHik8qdqoiErGshGOkxGbiOFsJsd2o2Hq_RrKj0C-D-fIpZnHim4UPZC1fEY1Raz91yDKuf6rvoMSnzgp2o-hr74Cmhrvq8X-sjiRwvS6CV96eZE88ByLrxYQDb_rmrHDVIn3TsN_L4prcL1rA6a2hqav6bpeIXNPLPPuZ91nVSRJ1nDjjAPSlRW7jsucvL-5fO-Q72DaOXv5iStyy2Uju8Llb6R_o2ZIa5nZnFXHi9x56UqJ_Ue7i57DACcE1Z2lMm8cHOxqyLuM0qthXniBX-1s_7FCSgrHGGUTxndY" target="_blank">archived in the Wayback Machine</a>)<li><a href="https://archive.org/stream/guidetoelephants00britrich#page/n4/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the University of California Libraries<li><a href="https://archive.org/stream/aguidetoelephan00andrgoog" target="_blank">From Internet Archive</a>, copy provided by the University of Michigan`,
+                location: `London, England`,
+                medium: `Physically published book, digitized`,
+                publisher: `Printed by Taylor & Francis for the Trustees of the British Museum`,
+                summary: `TBA.`,
+                title: `A Guide to the Elephants (Recent and Fossil) Exhibited in the Department of Geology and Palæontology in the British Museum (Natural History)`, 
+            },
+        ],
+        [
+            {
+                contributors: `George Henry Evans (author)`,
+                date: `1910/>06`,
+                duration: `343 pp.`,
+                iteration: `4th ed.`,
+                languages: `English`,
+                links: `<li><a href="https://digital.nls.uk/indiapapers/browse/archive/75192017" target="_blank">From the National Library of Scotland</a><li><a href="https://archive.org/stream/elephantstheirdi00evan#page/n10/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries</li><li><a href="https://archive.org/stream/cu31924001176878#page/n23/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Cornell University Libraries<li><a href="https://web.archive.org/web/20190104030414/http://wildpro.twycrosszoo.org/S/00Ref/BooksContents/B212EvansEle/Contents.htm" target="_blank">Digital copy from Wildpro</a>, archived in the Wayback Machine`,
+                location: `Rangoon, Burma [Myanmar]`,
+                medium: `Physically published book, digitized`,
+                publisher: `Superintendent of Government Printing`,
+                summary: `The 4th edition of <a id="Evans_1901_1_color" onclick="goToSource('1900-1999','Evans_1901_1', this.id)">Evans, 1901</a>. Details TBA.`,
+                title: `Elephants and Their Diseases: A Treatise on Elephants`,
+            },
+            {
+                container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Lond. Soc.), physically published academic journal`,
+                contributors: `Richard Lydekker (author)`,
+                date: `1914/06/06 (Back Matter, 1914)`,
+                duration: `pp. 285-288`,
+                iteration: `[Vol. 84, Part 2]`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1111/j.1469-7998.1914.tb07036.x" target="_blank">From publisher (DOI: 10.1111/j.1469-7998.1914.tb07036.x)</a> through Wiley Online Library <li><a href="https://archive.org/stream/proceedingsofzoo19141490zool#page/285/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+                location: `London, England`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Printed by Messrs. Longmans, Green, and Co. for the Zoological Society of London`,
+                references: `<p class="refs"><a href="https://archive.org/stream/proceedingsofzoo19144911077zool#page/n541/mode/2up" target="_blank">[Back Matter]</a>. (1914). <i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i>, <i>85</i>(3).</p>`,
+                summary: `TBA.`,
+                title: `18. The Malay Race of the Indian Elephant, <i>Elephas maximus hirsutus</i>.`,
+            },
+            {
+                container: `<i>American Museum Novitates</i> (Am. Mus. Novit.), physically published academic journal`,
+                contributors: `Henry Fairfield Osborn (author)`,
+                date: `1921/01/31`,
+                duration: `15 pp.`,
+                iteration: `No. 1`,
+                languages: `English`,
+                links: `<li><a href="http://hdl.handle.net/2246/4663" target="_blank">From publisher</a><li><a href="https://archive.org/stream/americanmuseumno01ameruoft#page/n38/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the University of Toronto`,
+                location: `New York City, New York, United States of America`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Trustees of the American Museum of Natural History (AMNH)`,
+                summary: `TBA.`,
+                title: `The Evolution, Phylogeny, and Classification of Proboscidea`,
+            },
+            {
+                container: `<i>Proceedings of the Academy of Natural Sciences of Philadelphia</i> (Proc. Acad. Nat. Sci. Phila.), physically published academic journal`,
+                contributors: `Glover M. Allen (author)`,
+                date: `1936/03/10`,
+                duration: `pp. 15-44`,
+                iteration: `Vol. 88`,
+                languages: `English`,
+                links: `<li><a href="https://www.jstor.org/stable/4064188" target="_blank">From JSTOR</a>`,
+                location: `Philadelphia, Pennsylvania, United States of America`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Academy of Natural Sciences of Philadelphia`,
+                summary: `TBA.`,
+                title: `Zoological Results of the George Vanderbilt African Expedition of 1934. Part II: The Forest Elephant of Africa`,
+            },
+        ],
+        [
+            {
+                contributors: `Henry Fairfield Osborn (author); Mabel Rice Percy (editor)`,
+                date: `1936/08/15`,
+                duration: `802 pp.`,
+                iteration: `1st ed., Vol. 1 <i>Moeritherioidea, Deinotherioidea, Mastodontoidea</i>`,
+                languages: `English`,
+                links: ` <li><a href="https://archive.org/stream/proboscideamonog01osbo#page/n12/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library`,
+                location: `New York City, New York, United States of America`,
+                medium: `Physically published book, digitized`,
+                publisher: `Printed by the American Museum Press for the Trustees of the American Museum of Natural History (AMNH)`,
+                summary: `TBA.`,
+                title: `Proboscidea: A Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
+            }, 
+            {      
+                container: `<i>Bulletin of the Raffles Museum</i> (Bull. Raffle Mus.), physically published academic journal`,
+                contributors: `Frederick Nutter Chasen (author)`,
+                date: `1940/04`,
+                duration: `209 pp.`,
+                iteration: `No. 15`,
+                languages: `English`,
+                links: `<li><a href="https://digitalgems.nus.edu.sg/persistent/55001bfc-e505-473e-8b90-aee1d9867ca2" target="_blank">From the Biodiversity Library of Southeast Asia</a> (<a href="https://web.archive.org/web/20200212165718/https://blsea.nus.edu.sg/shared/UPLOADS/JOURNALS/LOW/BulRaf_no15.pdf" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/app/uploads/2017/04/15brmiii-209.pdf" target="_blank">From the Lee Kong Chian Natural History Museum</a>`,
+                location: `Singapore`,
+                medium: `Physically published book, digitized`,
+                publisher: `Raffles Museum`,
+                summary: `On page 190, Chasen recognizes all Asian elephants as a single species, <i>Elephas maximus</i>, with three subspecies. He retains <a id="Linnaeus_1758_1_color" onclick="goToSource('1700-1799','Linnaeus_1758_1', this.id)">Linnaeus's</a> <i>E</i>. <i>m</i>. <i>maximus</i> for the elephants of Sri Lanka, <a id="Temminck_1847_1_color" onclick="goToSource('1800-1899','Temminck_1847_1', this.id)">Temminck's</a> <i>E</i>. <i>m</i>. <i>sumatranus</i> for Sumatran elephants, and <a id="Cuvier_1798_1_color" onclick="goToSource('1700-1799','Cuvier_1798_1', this.id)">Cuvier's</a> <i>E</i>. <i>m</i>. <i>indicus</i> for all other living Asian elephants.`,
+                title: `A Handlist of Malaysian Mammals`,
+            },
+            {
+                contributors: `Henry Fairfield Osborn (author); Mabel Rice Percy (editor)`,
+                date: `1942`,
+                duration: `1675 pp.`,
+                iteration: `1st ed., Vol. 2 <i>Stegodontoidea, Elephantoidea</i>`,
+                languages: `English`,
+                links: `<li><a href="https://archive.org/stream/proboscideamonog02osbo#page/n10/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library`,
+                location: `New York City, New York, United States of America`,
+                medium: `Physically published book, digitized`,
+                publisher: `Printed by the American Museum Press for the Trustees of the American Museum of Natural History (AMNH)`,
+                summary: `TBA.`,
+                title: `Proboscidea: A Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
+            },
+            {
+                container: `<i>Földtani Közlöny</i> (Földt. Közlöny), physically published academic journal`,
+                contributors: `Kretzoi Miklós (author)`,
+                date: `1950/>05/>17`,
+                duration: `pp. 405-409`,
+                iteration: `Vol. 80, Parts 10-12`,
+                languages: `Hungarian`,
+                links: `<li><a href="https://archive.org/stream/foldtanikozlony8019magy#page/n452/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Cornell University Library`,
+                location: `Budapest, Hungary`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Magyarhoni Földtani Társulat`,
+                summary: `TBA.`,
+                title: `<i>Stegeloxodon</i> nov. gen, a <i>Loxodonta</i> elefántok esetleges ázsiai őse`,
+            }, 
+        ],
+        [
+            {
+                container: `<i>East African Wildlife Journal</i> (East Afr. Wildl. J.), physically published academic journal`,
+                contributors: `Richard M. Laws (author)`,
+                date: `1966/08`,
+                duration: `pp. 1-37`,
+                iteration: `Vol. 4`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1111/j.1365-2028.1966.tb00878.x" target="_blank">From publisher (DOI: 10.1111/j.1365-2028.1966.tb00878.x)</a> through Wiley Online Library`,
+                location: `Nairobi, Kenya`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `East African Wildlife Society (EAWLS)`,
+                summary: `TBA.`,
+                title: `Age Criteria for the African Elephant <i>Loxodonta</i> <i>a</i>. <i>africana</i>`,
+            },     
+            {   
+                container: `<i>Nature</i> (Nat.), physically published academic journal`,
+                contributors: `D.A. Hooijer (author)`,
+                date: `1972/09/22`,
+                duration: `pp. 228`,
+                iteration: `Vol. 239, Issue 5369`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1038/239228a0" target="_blank">From publisher (DOI: 10.1038/239228a0)</a>`,
+                location: `London, England`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Macmillan Journals Limited`,
+                summary: `TBA.`,
+                title: `Prehistoric Evidence for <i>Elephas maximus</i> L. in Borneo`,
+            },
+            {   
+                container: `<i>Mammalian Species</i> (Mamm. Species), physically published academic journal`,
+                contributors: `Larry Laursen (coauthor); Marc Bekoff (coauthor); Sydney Anderson (principal editor)`,
+                date: `1978/01/06`,
+                duration: `8 pp.`,
+                iteration: `No. 92`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.2307/3503889" target="_blank">From publisher (DOI: 10.2307/3503889)</a> through Oxford Academic <li><a href="https://web.archive.org/web/20130430140501/http://www.science.smith.edu/msi/pdf/i0076-3519-092-01-0001.pdf" target="_blank">From the Smith College Clark Science Center</a>, archived in the Wayback Machine <li><a href="https://www.jstor.org/stable/3503889" target="_blank">From JSTOR</a>`,
+                location: `Lawrence, Kansas, United States of America (Birney and Choate, 1994, p. 142)`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Printed by Allen Press for the American Society of Mammalogists (ASM) (Birney and Choate, 1994, p. 142)`,
+                references: `<p class="refs">Birney, Elmer F. and Choate, Jerry R. (eds.). (1994). <a href="https://archive.org/stream/seventyfiveyears00birn#page/142/mode/2up" target="_blank"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</p>`,
+                summary: `TBA.`,
+                title: `<i>Loxodonta africana</i>.`,
+            },
+            {
+                container: `<i>Elephant</i>, physically published academic journal`,
+                contributors: `A.L. Howard (author)`,
+                date: `1979/>05/>01`,
+                duration: `pp. 36-41`,
+                iteration: `Vol. 1, Issue 3`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.22237/elephant/1491420381" target="_blank">From Wayne State University DigitalCommons (DOI: 110.22237/elephant/1491420381)</a>`,
+                location: `Detroit, Michigan, United States of America`,
+                medium: `Physically academic journal article, digitized`,
+                publisher: `Wayne State University Department of Biological Sciences`,
+                summary: `TBA.`,
+                title: `"Motty"—Birth of an African/Asian Elephant at Chester Zoo`,  
+            }
+        ],
+        [
+            {
+                container: `<i>Elephant</i>, physically published academic journal`,
+                contributors: `Jeheskel Shoshani (senior author, dissector); Daniel C. Laughlin (coauthor, dissector); Franz Tisch (coauthor, dissector); Jim Williams (coauthor, dissector); John D. Taylor (coauthor); John W. Cosgriff, Jr. (coauthor, dissector); William L. Thompson (coauthor); Calvin D. Bogart (coauthor); Joseph L. Gualtieri (coauthor); John Hayden (coauthor); Katy Morehead (chief photographer); Richard Bielaczyc (coauthor, dissector, photographer); Thomas W. Roberts (coauthor); Harry Maisel (coauthor); Nicholas J. Mizeres (coauthor, dissector); Victor T. Lakits (coauthor); Jim Niedbala (coauthor, dissector); W.D. Pool (coauthor); Richard C. Manikowski and other Science Library Staff (coauthor); Gordon W. Rose (coauthor); Sandra S. Lash (coauthor, dissector); Mildred Hurt (coauthor, dissector);  Michael J. Baccala (coauthor, dissector); Marlene A. Bulgarelli (coauthor, dissector); M.  Pamela Bedore (coauthor, dissector, typist, editor); Anthony Helinski (coauthor, dissector); George Overbeck (coauthor, dissector); Susan L. Raymer (coauthor, dissector); Eyal Shy (coauthor, dissector); Lee M. Peterson (coauthor); Albert Wilson (coauthor); Dick Frederick (coauthor, dissector); Karen L. Spodarek (coauthor, dissector); Irven O. Buss (reviewer); Richard M. Laws (reviewer); Lawrence D. McGill (reviewer); Sylvia K. Sikes (reviewer); Zirka S. Clark (typist, editor); Eileen D. Koglin (typist, editor); Rick Adler (coauthor, dissector); Lynne Aldrich (coauthor); Krysty Andrews (coauthor, dissector); Allan Barbish (coauthor, dissector); Susan Barry (coauthor, dissector); Ron Battiata (coauthor, dissector); Fran Beever (coauthor); Sue ann Berbenchuk (coauthor, dissector); Jeanne Blad (coauthor); Larry Blad (coauthor); George Booth (coauthor, dissector, photographer); Nate  Bozarth (coauthor, dissector); Donna Britt (coauthor); John Burnet (coauthor); Walter Chavin (coauthor); Irene Church (coauthor, dissector); Helen Crowe (coauthor, dissector); Richard D. Cummings, Terry Cummings, Sherri L. DeFauw (coauthor, dissector); Leslie Denes (coauthor, dissector); Efstratios Efthyvoulidis (coauthor, dissector); Merlin Ekstrom (coauthor, dissector); Joseph G. Engelhard (coauthor, dissector); Patrick English (coauthor, dissector); Don Fairchild, Jr. (coauthor, dissector); Carla Fisher (coauthor, dissector); Kevin Frahm (coauthor, dissector); Susan Francis (coauthor); Judi Fried (coauthor, dissector); Theodore Gaskins (coauthor, dissector); Joanne Gatt (coauthor, dissector); Wilma Gentles (coauthor, dissector); Harry G. Goshgarian (coauthor, dissector); Susan Grabowski (coauthor, dissector); Debbie Haase (coauthor, dissector); Kathryn Hajj (coauthor, dissector); Gary Hall (coauthor, dissector); Roger Hanson (coauthor); Albert Hatche (coauthor); Debbie Hawkins (coauthor, dissector); Chris Heberer (coauthor, dissector); Shawne R. Henry (coauthor, dissector); M. Patricia Hensler, Chuck Heyka (coauthor, dissector); Mike Kemppainen (coauthor, dissector); Cathy Kendra (coauthor, dissector); Bonnie Knutsen (coauthor); Carl C.M. Knutsen (coauthor); Joy Koenig (coauthor, dissector); Louis Kolodzinski (coauthor); Paul Konarske (coauthor, dissector); Sue Konwinski (coauthor, dissector); Stephan Kopacz (coauthor, dissector); Beth Kozak (coauthor); Donna M. Laciak, (coauthor); David J.  Lowrie (coauthor); Susan Lyman (coauthor); Frances F. McCormick (coauthor); Robert McDonald (coauthor); Richard C. Martin (coauthor); Willis W. Mathews (coauthor); Stuart Meyers (coauthor, dissector); Joseph Montana (coauthor); David Montezinos (coauthor); Kathleen M. Morehead (coauthor, dissector); Pamela Moron (coauthor); Audrey Muczynski (coauthor); Anthony Muraski (coauthor, dissector); Sean Murphy (coauthor, dissector); Charles P. Otto (coauthor); Cornelius Perkins, Jr. (coauthor); Valerie Pfluke (coauthor); Robert Powitz (coauthor, dissector); Louise Radanovich (coauthor); Jose A. Rafols (coauthor, dissector); Dennis Reefer (coauthor); Lisa Rezzonica (coauthor, dissector); Edward J. Riley, Jr. (coauthor); Harold W. Rossmoore (coauthor, dissector); Lanette Rowland (coauthor); Laura Rudy (coauthor); Dave Sabo (coauthor, dissector); Dallas Schneider (coauthor); Paul J. Schwikert (coauthor, dissector); N.O. Seraphinoff (coauthor); Peter Singler (coauthor); Paul Sklut (coauthor); Joseph Skoney (coauthor, dissector); Donald Smith (coauthor, dissector); Nan Smith, Charles Storey, Peter J. Sujdak (coauthor, dissector); Robert Sumner, Curtis J.  Swanson, Todd Tarrant (coauthor, dissector); Ron Thielman (coauthor, dissector); Ronnie Thielman (coauthor, dissector); Linda Walowicz (coauthor, dissector); Wayne State Fund Staff (coauthor); Ann Werling (coauthor); Dorit Yehiel (coauthor, dissector)`,
+                date: `1982/>05/>02`,
+                duration: `pp. 3-93`,
+                iteration: `Vol. 2, Issue 1`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.22237/elephant/1521731887" target="_blank">From Wayne State University DigitalCommons (DOI: 10.22237/elephant/1521731887)`,
+                location: `Detroit, Michigan, United States of America`,
+                medium: `Physically academic journal article, digitized`,
+                publisher: `Wayne State University Department of Biological Sciences`,
+                summary: `TBA.`,
+                title: `On the Dissection of a Female Asian Elephant (<u>Elephas</u> <u>maximus</u> <u>maximus</u> Linnaeus, 1758) and Data from Other Elephants`, 
+            },
+            {
+                container: `<i>Mammalian Species</i> (Mamm. Species), physically published academic journal`,
+                contributors: `Jeheskel Shoshani (coauthor); John F. Eisenberg (coauthor); Timothy E. Lawlor (managing editor; Daniel F. Williams (editor); Sydney Anderson (editor); M. Pamela Bedore (typist), Eileen D. Koglin (typist)`,
+                date: `1982/06/18`,
+                duration: `8 pp.`,
+                iteration: `No. 182`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.2307/3504045" target="_blank">From publisher (DOI: 10.2307/3504045)</a> through Oxford Academic <li><a href="http://web.archive.org/web/20150318181534/http://www.science.smith.edu/msi/pdf/i0076-3519-182-01-0001.pdf" target="_blank">From the Smith College Clark Science Center</a>, archived in the Wayback Machine <li><a href="https://repository.si.edu/handle/10088/4414" target="_blank">From Smithsonian Research Online DSpace Repository</a> <li><a href="https://www.jstor.org/stable/3504045" target="_blank">From JSTOR</a>`,
+                location: `Lawrence, Kansas, United States of America (Birney and Choate, 1994, p. 142)`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Printed by Allen Press for the American Society of Mammalogists (ASM) (Birney and Choate, 1994, p. 142)`,
+                references: `<p class="refs">Birney, Elmer F. and Choate, Jerry R. (eds.). (1994). <a href="https://archive.org/stream/seventyfiveyears00birn#page/142/mode/2up" target="_blank"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</p>`,
+                summary: `TBA.`,
+                title: `<i>Elephas maximus</i>.`,
+            },
+            {
+                container: `<i>African Journal of Ecology</i> (Afr. J. Ecol.), physically published academic journal`,
+                contributors: `G. Merz (author)`,
+                date: `1986/06`,
+                duration: `pp. 133-136`,
+                iteration: `Vol. 24, Issue 2`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1111/j.1365-2028.1986.tb00353.x" target="_blank">From publisher (DOI: 10.1111/j.1365-2028.1986.tb00353.x)</a> through Wiley Online Library`,
+                location: `Nairobi, Kenya`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `East African Wildlife Society (EAWLS)`,
+                summary: `TBA.`,
+                title: `Movement patterns and group size of the African forest elephant <i>Loxodonta africana cyclotis</i> in the Tai National Park, Ivory Coast`,
+            },
+            {
+                container: `<i>Animal Behavior</i> (Anim. Behav.), physically published academic journal`,
+                contributors: `Phyllis C. Lee (author)`,
+                date: `1987/02`,
+                duration: `pp. 278-291`,
+                iteration: `Vol. 35, Issue 1`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1016/S0003-3472(87)80234-8" target="_blank">From publisher (DOI: 10.1016/S0003-3472(87)80234-8)</a> through Elsevier`,
+                location: `London, England`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Association for the Study of Animal Behaviour (ASAB)`,
+                summary: `TBA.`,
+                title: `Allomothering among African elephants`,
+            }, 
+        ],
+        [
+            {
+                container: `<i>Journal of Zoology London</i> (J. Zool. Lond.), physically published academic journal`,
+                contributors: `Phyllis C. Lee (coauthor); Cynthia J. Moss (coauthor)`,
+                date: `1995/05`,
+                duration: `pp. 29-41`,
+                iteration: `Vol. 236, Issue 1`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1111/j.1469-7998.1995.tb01782.x" target="_blank">From publisher (DOI: 10.1111/j.1469-7998.1995.tb01782.x)</a> through Wiley Online Library`,
+                location: `London, England`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Zoological Society of London (ZSL)`,
+                summary: `TBA.`,
+                title: `<span id="Lee_Moss_1995_1">Statural growth in known‐age African elephants (<i>Loxodonta africana</i>)`,
+            },
+            {
+                container: `<i>Acta Theriologica</i> (Acta Theriol.), physically published academic journal`,
+                contributors: `Fred Kurt (coauthor); Günther B. Hartl (coauthor); Ralph Tiedemann (coauthor)`,
+                date: `1995/10/12 (Tuskless bulls, n.d.)`,
+                duration: `pp. 125-143`,
+                iteration: `Suppl. 3`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.4098/at.arch.95-51" target="_blank">From publisher (DOI: 10.4098/at.arch.95-51</a> through Repozytorium Cyfrowe Instytutów Naukowych`,
+                location: `Białowieża, Poland`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Mammal Research Institute of the Polish Academy of Sciences`,
+                references: `<p class="refs">Tuskless bulls in Asian elephant Elephas maximus. History and population genetics of a man-made phenomenon. (n.d.). <i>Scilit</i>. <a href="https://www.scilit.net/article/2eeb3de43a2074f5147565699a2c31c5" target="_blank">https://www.scilit.net/article/2eeb3de43a2074f5147565699a2c31c5</a></p>`,
+                summary: `TBA.`,
+                title: `Tuskless bulls in Asian elephant <i>Elephas maximus</i>. History and population genetics of a man-made phenomenon`,
+            },
+            {
+                contributors: `Kadzo Kangwana (editor, coauthor); Cynthia J. Moss (coauthor, copy editor); Joyce H. Poole (coauthor); Holly T. Dublin (coauthor); Russell Taylor (coauthor); Susan Mbugua (coauthor); Iain Douglas-Hamilton (coauthor); Richard Barnes (coauthor); Hugo Jachmann (coauthor); I. J. White (coauthor); Keith Lindsay (coauthor); Phyllis C. Lee (coauthor); Karen McComb (coauthor); Chris Thouless (coauthor); Hamisi Mutinda (coauthor); Nioroge Ngure (coauthor); Nigel Leader-Williams (coauthor); Ian Whyte (coauthor); Deborah Snelson (proof-reader); Chryssee Perry Martin (copy editor); Endangered Wildlife Trust (English-to-Portugese translator); Ursula Taube (English-to-French translator)`,
+                container: '<i>AWF Technical Handbook Series</i>, physically published book series',
+                date: `1996`,
+                duration: `178 pp.`,
+                iteration: `No. 7`,
+                languages: `English, French`,
+                links: `<li><a href="https://www.awf.org/about/resources/studying-elephants" target="_blank">English copy from publisher</a><li><a href="https://www.awf.org/about/resources/letude-des-elephants" target="_blank">French copy from publisher</a>`,
+                location: `Nairobi, Kenya`,
+                medium: `Digitally published book`,
+                publisher: `African Wildlife Foundation (AWF)`,
+                summary: `TBA.`,
+                title: `Studying Elephants`,
+            },    
+            {
+                container: `<i>Zeitschrift für Säugetierkunde</i> (Z. Saugetierkd.), physically published academic journal`,
+                contributors: `Günther B. Hartl (coauthor); Fred Kurt (coauthor); Ralph Tiedemann (coauthor); Christine Gmeiner (coauthor); K. Nadlinger (coauthor); Khyne U. Mar (coauthor); A. Rübel (coauthor)`,
+                date: `1996/10`,
+                duration: `pp. 285-294`,
+                iteration: `Vol. 61, No. 5`,
+                languages: `English`,
+                links: `<li><a href="https://archive.org/stream/zeitschriftfrsu611996deut#page/285/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+                location: `Jena, Germany`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Gustav Fischer`,
+                summary: `TBA.`,
+                title: `Population genetics and systematics of Asian elephant (<i>Elephas maximus</i>): A study based on sequence variation at the Cyt b gene of PCR-amplified mitochondrial DNA from hair bulbs`,
+            },
+        ],
+        [
+            {
+                container: `<i>Elephant Encyclopedia</i>, published website`,
+                contributors: `Dan Koehl (author)`,
+                date: `Created >1998/>01/>17, last updated >2020/>07/>23`,
+                duration: `1120 words`,
+                languages: `English`,
+                links: `<li><a href="https://www.elephant.se/Motty_the_elephant_crossbreed.php?open=Living%20Elephant%20Species" target="_blank">From publisher</a>`,
+                location: `N/A`,
+                medium: `Pyblished webpage`,
+                publisher: `Dan Koehl`,
+                summary: `A detailed summary of the birth of Motty, the only known hybrid between an Asian and African elephant. Includes firsthand information about his anatomy and nutrition from zoo staff, and a discussion of current elephant taxonomy.`,
+                title: `Motty the elephant crossbreed`,
+            },    
+            {
+                container: `<i>Emerging Infectious Diseases</i> (Emerg. Infect. Dis.), digitally published academic journal`,
+                contributors: `Kathleen Michalak (coauthor); Connie Austin (coauthor); Sandy Diesel (coauthor); J. Maichle Bacon (coauthor); Phil Zimmerman (coauthor); Joel N. Maslow (coauthor)`,
+                date: `1998/06/<13`,
+                duration: `pp. 283-287`,
+                iteration: `Vol. 4, No. 2`,
+                languages: `English`,
+                links: `<li><a href="https://wwwnc.cdc.gov/eid/article/4/2/98-0217_article" target="_blank">From publisher (DOI: 10.3201/eid0402.980217)</a><li><a href="http://stacks.cdc.gov/view/cdc/15492/cdc_15492_DS1.pdf" target="_blank">From publisher</a><li><a href="https://europepmc.org/article/PMC/2640151" target="_blank">From Europe PMC</a><li><a href="https://www.researchgate.net/publication/13663698_Mycobacterium_tuberculosis_infection_as_a_Zoonotic_Disease_Transmission_between_Humans_and_Elephants" target="_blank">From ResearchGate</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Centers for Disease Control and Prevention (CDC)`,
+                summary: `TBA.`,
+                title: `<i>Mycobacterium tuberculosis</i> infection as a Zoonotic Disease: Transmission between Humans and Elephants`,  
+            },
+            {
+                container: `<i>Proceedings of the National Academy of Sciences</i> (PNAS), digitally published academic journal`,
+                contributors: `Michael J. Stanhope (coauthor); Victor G. Waddell (coauthor); Ole Madsen (coauthor); Wilfried de Jong (coauthor); S. Blair Hedges (coauthor); Gregory C. Cleven (coauthor); Diana Kao (coauthor); Mark S. Springer (coauthor)`,
+                date: `1998/08/18`,
+                duration: `pp. 9967–9972`,
+                iteration: `Vol. 95, No. 17`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1073/pnas.95.17.9967" target="_blank">From publisher (DOI: 10.1073/pnas.95.17.9967)</a><li><a href="http://www.guptalab.org/shubhg/pdf/Proj_report_phylogenic.pdf" target="_blank">From the Dhirubhai Ambani Institute of Information and Communication Technology Gupta laboratory of Natural Information Processing</a><li><a href="https://www.researchgate.net/publication/235608390_Molecular_evidence_for_multiple_origins_of_the_Insectivora_and_for_a_new_order_of_endemic_African_mammals" target="_blank">From ResearchGate</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `National Academy of Sciences (NAS)`,
+                summary: `TBA.`,
+                title: `Molecular evidence for multiple origins of Insectivora and for a new order of endemic African insectivore mammals`,
+            },
+            {
+                container: `<i>Trends in Ecology and Evolution</i> (TREE), digitally published academic journal`,
+                contributors: `Jeheskel Shoshani (author)`,
+                date: `1998/12/01`,
+                duration: `pp. 480-487`,
+                iteration: `Vol. 13, No. 12`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1016/S0169-5347(98)01491-8" target="_blank">From publisher (DOI: 10.1016/S0169-5347(98)01491-8)</a><li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0169534798014918" target="_blank">From Elsevier</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Cell Press`,
+                summary: `TBA.`,
+                title: `Understanding proboscidean evolution: a formidable task`,  
+            },
+        ]
+    ]
+
+    var its2000_2021 = [
+        [
+            {
+                container: `<i>Elephant</i>, physically published academic journal`,
+                contributors: `Peter Grubb (coauthor); Colin P. Groves (coauthor); Joseph P. Dudley (coauthor); Jeheskel Shoshani (coauthor)`,
+                date: `2000/01`,
+                duration: `pp. 1-4`,
+                iteration: `Vol. 2, No. 4`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.22237/elephant/1521732169" target="_blank">From Wayne State University DigitalCommons (DOI: 10.22237/elephant/1521732169)`,
+                location: `Bloomfield Hills, Michigan, United States of America`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Elephant Research Foundation (ERF)`,
+                summary: `TBA.`,
+                title: `Living African Elephants Belong to Two Species: <i>Loxodonta africana</i> (Blumenbach, 1797) and <i>Loxodonta cyclotis</i> (Matschie, 1900)`,
+            },
+            {
+                container: `<i>Elephant</i>, physically published academic journal`,
+                contributors: `Colin P. Groves (coauthor); Peter Grubb (coauthor)`,
+                date: `2000/01`,
+                duration: `pp. 4-7`,
+                iteration: `Vol. 2, No. 4`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.22237/elephant/1521732173" target="_blank">From Wayne State University DigitalCommons (DOI: 10.22237/elephant/1521732173)</a>`,
+                location: `Bloomfield Hills, Michigan, United States of America`,
+                medium: `Physically published academic journal article, digitized`,
+                publisher: `Elephant Research Foundation (ERF)`,
+                summary: `TBA.`,
+                title: `Do <i>Loxodonta cyclotis</i> and <i>L</i>. <i>africana</i> Interbreed?`,
+                
+            },
+            {
+                container: `<i>Heredity</i> (Hered.), digitally published academic journal`,
+                contributors: `Prithiviraj Fernando (coauthor); Michael E. Pfrender (coauthor); Sandra E. Encalada (coauthor); Russell Lande (coauthor)`,
+                date: `2000/03/01`,
+                duration: `pp. 362-372`,
+                iteration: `Vol. 84`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1046/j.1365-2540.2000.00674.x" target="_blank">From publisher (DOI: 10.1046/j.1365-2540.2000.00674.x)</a><li><a href="https://www3.nd.edu/~mpfrende/PDFs/Fernando%20et%20al%20Heredity%202000.pdf" target="_blank">From the University of Notre Dame</a><li><a href="https://www.researchgate.net/publication/290500155_Mitochondrial_DNA_variation_phylogeography_and_population_structure_of_the_Asian_elephant" target="_blank">From ResearchGate</a><li><a href="https://www.researchgate.net/publication/12554926_Fernando_P_Pfrender_ME_Encalada_SE_Lande_R_Mitochondrial_DNA_variation_phylogeography_and_population_structure_of_the_Asian_elephant_Heredity_84_362-372" target="_blank">From ResearchGate</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Nature Publishing Group`,
+                summary: `TBA.`,
+                title: `Mitochondrial DNA variation, phylogeography and population structure of the Asian elephant`,
+            },
+            {
+                container: `<i>News in Physiological Sciences</i> (NIPS), digitally published academic journal`,
+                contributors: `John B. West (author)`,
+                date: `2002/04/01`,
+                duration: `pp. 47-50`,
+                iteration: `Vol. 17, Issue 2`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1152/nips.01374.2001" target="_blank">From publisher (DOI: 10.1152/nips.01374.2001)</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `American Physiological Society (APS)`,
+                summary: `TBA.`,
+                title: `Why Doesn't the Elephant Have a Pleural Space?`,
+            },
+        ],
+        [
+            {
+                container: `<i>PLoS Biology</i> (PLoS Biol.), digitally published academic journal`,
+                contributors: `Prithiviraj Fernando (coauthor); T.N.C. Vidya (coauthor); John Payne (coauthor); Michael Stuewe (coauthor); Geoffrey Davison (coauthor); Raymond J. Alfred (coauthor); Patrick Andau (coauthor); Edwin Bosi (coauthor); Annelisa Kilbourn (coauthor); Don J. Melnick (coauthor)`,
+                date: `2003/08/18`,
+                duration: `pp. 110-115`,
+                iteration: `Vol. 1, Issue 1`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1371/journal.pbio.0000006" target="_blank">From publisher (DOI: 10.1371/journal.pbio.0000006)</a><li><a href="https://academiccommons.columbia.edu/doi/10.7916/D8W958ZZ" target="_blank">From Columbia University Libraries</a><li><a href="https://www.researchgate.net/publication/6233845_DNA_Analysis_Indicates_That_Asian_Elephants_Are_Native_to_Borneo_and_Are_Therefore_a_High_Priority_for_Conservation" target="_blank">From ResearchGate</a><li><a href="https://fh-sites.imgix.net/sites/4169/2020/06/17185748/fernando_2003.pdf" target="_blank">From imgIX</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Public Library of Science (PLoS)`,
+                summary: `TBA.`,
+                title: `DNA Analysis Indicates That Asian Elephants Are Native to Borneo and Are Therefore a High Priority for Conservation`,
+            },
+            {
+                container: `<i>Physiological and Biochemical Zoology: Ecological and Evolutionary Approaches</i> (Phys. Biochem. Zool.), digitally published academic journal`,
+                contributors: `Kathleen E. Hunt (coauthor); Samuel K. Wasser (coauthor)`,
+                date: `2003/>12`,
+                duration: `pp. 918-928`,
+                iteration: `Vol. 76, No. 6`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1086/380209" target="_blank">From publisher (DOI: 10.1086/380209)</a> <li><a href="https://www.jstor.org/stable/10.1086/380209" target="_blank">From JSTOR</a> <li><a href="https://www.researchgate.net/publication/5384225_Effect_of_Long-Term_Preservation_Methods_on_Fecal_Glucocorticoid_Concentrations_of_Grizzly_Bear_and_African_Elephant" target="_blank">From ResearchGate</a>`,
+                location: `Chicago, Illinois, United States of America`,
+                medium: `Digitally published academic journal article`,
+                publisher: `The University of Chicago Press`,
+                summary: `TBA.`,
+                title: `Effect of Long‐Term Preservation Methods on Fecal Glucocorticoid Concentrations of Grizzly Bear and African Elephant`,
+            },
+            {
+                container: `<i>Quaternary International</i> (Quat. Int.), digitally published academic journal`,
+                contributors: `Jeheskel Shoshani (coauthor); Pascal Tassy (coauthor)`,
+                date: `2004/06/26`,
+                duration: `pp. 5-20`,
+                iteration: `Vols. 126-128 <i>Studying Proboscideans: knowledge, Problems and Perspectives. Selected papers from"The world of Elephants" Congress, Rome</i>`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1016/j.quaint.2004.04.011" target="_blank">From publisher (DOI: 10.1016/j.quaint.2004.04.011)</a><li><a href="http://biochem.flas.kps.ku.ac.th/elephant.pdf" target="_blank">From Envi Biochem KPS ชีวเคมี สิ่งแวดล้อม เทคโนโลยีและชีวิต</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Elsevier`,
+                summary: `TBA.`,
+                title: `Advances in proboscidean taxonomy & classification, anatomy & physiology, and ecology & behavior`,
+            },    
+            {
+                container: `<i>YouTube</i>, website`,
+                contributors: `jawed (uploader)`,
+                date: `2005/04/23`,
+                duration: `18 s`,
+                languages: `English`,
+                links: `<li><a href="https://www.youtube.com/watch?v=jNQXAC9IVRw" target="_blank">From publisher</a>`,
+                location: `N/A`,
+                medium: `Digitally published video`,
+                publisher: `YouTube`,
+                summary: `The first YouTube video, filmed at the elephant exhibit at the San Diego Zoo.`,
+                title: `Me at the zoo`,
+            },    
+        ],
+        [    
+            {
+                container: `<i>Genetics</i> (Genet.), digitally published academic journal`,
+                contributors: `Shozo Yokoyama (coauthor); Naomi Takenaka (coauthor); Dalen W. Agnew (coauthor); Jeheskel Shoshani (coauthor)`,
+                date: `2005/05/01`,
+                duration: `pp. 335-344`,
+                iteration: `Vol. 170, No. 1`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1534/genetics.104.039511" target="_blank">From publisher (DOI: 10.1534/genetics.104.039511)</a><li><a href="https://www.researchgate.net/publication/7952815_Elephants_and_Human_Color-Blind_Deuteranopes_Have_Identical_Sets_of_Visual_Pigments" target="_blank">From ResearchGate</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Genetics Society of America (GSA)`,
+                summary: `TBA.`,
+                title: `Elephants and Human Color-Blind Deuteranopes Have Identical Sets of Visual Pigments`,
+            },
+            {
+                container: `<i>Brain Research Bulletin</i> (Brain Res. Bull.), digitally published academic journal`,
+                contributors: `Jeheskel Shoshani (coauthor); William J. Kupsky (coauthor); Gary H. Marchant (coauthor)`,
+                date: `2006/04/18`,
+                duration: `pp. 124-157`,
+                iteration: `Vol. 70, Issue 2`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1016/j.brainresbull.2006.03.016" target="_blank">From publisher (DOI: 10.1016/j.brainresbull.2006.03.016)</a><li><a href="http://drnissani.net/MNISSANI/ElephantCorner/ElephantBrain_shoshani.pdf" target="_blank">From Moti Nissani's Webpage</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Elsevier`,
+                summary: `TBA.`,
+                title: `Elephant brain: Part I: Gross morphology, functions, comparative anatomy, and evolution`,
+            },
+            {
+                container: `<i>Applied Animal Behaviour Science</i> (Appl. Anim. Behav. Sci.), digitally published academic journal`,
+                contributors: `Iain Douglas-Hamilton (coauthor); Shivani Bhalla (coauthor); George Wittemyer (coauthor); Fritz Vollrath (coauthor)`,
+                date: `2006/06/27`,
+                duration: `pp. 87-102`,
+                iteration: `Vol. 100, Issues 1-2`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1016/j.applanim.2006.04.014" target="_blank">From publisher (DOI: 10.1016/j.applanim.2006.04.014)</a><li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.588.1305" target="_blank">From CiteSeerX</a><li><a href="https://web.archive.org/web/20121127020837/http://www.savetheelephants.org/files/pdf/publications/2006%20Douglas-Hamilton%20et%20al%20Behavioural%20reactions%20of%20elephants%20to%20a%20dying%20matriarch.pdf" target="_blank">From Save the Elephants</a>, archived in the Wayback Machine`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Elsevier`,
+                summary: `TBA.`,
+                title: `Behavioural reactions of elephants towards a dying and deceased matriarch`,
+            },
+            {
+                container: `<i>PLoS Biology</i> (PLoS Biol.), digitally published academic journal`,
+                contributors: `Liza Gross (author)`,
+                date: `2007/04/03`,
+                duration: `pp. 0001-0003`,
+                iteration: `Vol. 5, Issue 4`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1371/journal.pbio.0050115" target="_blank">From publisher (DOI: 10.1371/journal.pbio.0050115)</a>`,
+                location: `N/A`,
+                medium: `Digitally published article`,
+                publisher: `Public Library of Science (PLoS)`,
+                summary: `A laymen-oriented summary of <a id="Blake_et_al_2007_color" onclick="goToSource('2000-2021','Blake_et_al_2007_1', this.id)">Blake et al., 2007</a>.`,
+                title: `In the Shadows of the Congo Basin Forest, Elephants Fall to the Illegal Ivory Trade`,
+            },
+        ],
+        [
+            {
+                container: `<i>PLoS Biology</i> (PLoS Biol.), digitally published academic journal`,
+                contributors: `Stephen Blake (coauthor); Samantha Strindberg (coauthor); Patrick Boudjan (coauthor); Calixte Makombo (coauthor); Inogwabini Bila-Isia (coauthor); Omari Ilambu (coauthor); Falk Grossmann (coauthor); Lambert Bene-Bene (coauthor); Bruno de Semboli (coauthor); Valentin Mbenzo (coauthor); Dino S'hwa (coauthor); Rosine Bayogo (coauthor); Liz Williamson (coauthor); Mike Fay (coauthor); John Hart (coauthor); Fiona Maisels (coauthor)`,
+                date: `2007/04/03`,
+                duration: `pp. 0945-0953`,
+                iteration: `Vol. 5, Issue 4`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1371/journal.pbio.0050111" target="_blank">From publisher (DOI: 10.1371/journal.pbio.0050111)</a><li><a href="https://dspace.stir.ac.uk/handle/1893/1176#.YCfc_3WYXx4" target="_blank">From the University of Stirling Online Research Repository (STORRE)</a><li><a href="https://www.academia.edu/11927981/Forest_elephant_crisis_in_the_Congo_Basin" target="_blank">From Academia</a><li><a href="https://www.academia.edu/12991147/Forest_Elephant_Crisis_in_the_Congo_Basin" target="_blank">From Academia</a><li><a href="https://www.researchgate.net/publication/6415339_Forest_Elephant_Crisis_in_the_Congo_Basin" target="_blank">From ResearchGate</a><li><a href="https://www.researchgate.net/publication/215934739_Forest_elephant_crisis_in_the_Congo_Basin" target="_blank">From ResearchGate</a><li><a href="https://www.sciencebuzz.com/forest-elephant-crisis-in-the-congo-basin/" target="_blank">From Science Buzz</a>`,
+                location: `N/A`,
+                medium: `Digitally published article`,
+                publisher: `Public Library of Science (PLoS)`,
+                summary: `TBA.`,
+                title: `<span id="Blake_et_al_2007_1">Forest Elephant Crisis in the Congo Basin`,
+            },
+            {
+                container: `<i>Molecular Ecology</i> (Mol. Ecol.), digitally published academic journal`,
+                contributors: `Elizabeth A. Archie (coauthor); Julie A. Hollister‐Smith (coauthor); Joyce H. Poole (coauthor); Phyllis C. Lee (coauthor); Cynthia J. Moss (coauthor); Jésus E. Maldonado (coauthor); Robert C. Fleischer (coauthor); Susan C. Alberts (coauthor)`,
+                date: `2007/09/04`,
+                duration: `pp. 4138-4148`,
+                iteration: `Vol. 16, Issue 19`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1111/j.1365-294X.2007.03483.x" target="_blank">From publisher (DOI: 10.1111/j.1365-294X.2007.03483.x)</a><li><a href="https://web.archive.org/web/20160308224835/https://sites.biology.duke.edu/albertslab/pdfs/Archie&al_2007.pdf" target="_blank">From the Duke University Department of Biology</a>, archived in the Wayback Machine<li><a href="https://repository.si.edu/handle/10088/6000" target="_blank">From Smithsonian Research Online DSpace Repository</a><li><a href="https://web.archive.org/web/20170110131548/http://www3.nd.edu:80/~earchie/documents/1543inbreeding.pdf" target="_blank">From the University of Notre Dame</a>, archived in the Wayback Machine<li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.515.7606" target="_blank">From CiteSeerX</a><li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.510.5270" target="_blank">From CiteSeerX</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Wiley Online Library`,
+                summary: `TBA.`,
+                title: `Behavioural inbreeding avoidance in wild African elephants`,
+            },
+            {
+                container: `<i>Current Biology</i> (Curr. Biol.), digitally published academic journal`,
+                contributors: `Lucy E. King (coauthor); Iain Douglas-Hamilton (coauthor); Fritz Vollrath (coauthor)`,
+                date: `2007/10/09`,
+                duration: `2 pp.`,
+                iteration: `Vol. 17, Issue 19`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1016/j.cub.2007.07.038" target="_blank">From publisher (DOI: 10.1016/j.cub.2007.07.038)</a><li><a href="https://www.sciencedirect.com/science/article/pii/S0960982207017186" target="_blank">From Elsevier</a><li><a href="https://core.ac.uk/download/pdf/82503538.pdf" target="_blank">From CORE</a><li><a href="https://www.researchgate.net/publication/5920247_African_elephants_run_from_the_sound_of_disturbed_bees" target="_blank">From ResearchGate</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Cell Press`,
+                summary: `TBA.`,
+                title: `African elephants run from the sound of disturbed bees`,
+            },    
+            {
+                container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
+                contributors: `J. Blanc (author); D. Balfour (reviewer); C. Craig (reviewer); Holly T. Dublin (reviewer); Chris Thouless (reviewer)`,
+                date: `2008/06/30`,
+                duration: `16 pp.`,
+                languages: `English`,
+                links: `<li><a href="https://dx.doi.org/10.2305/IUCN.UK.2008.RLTS.T12392A3339343.en" target="_blank">From publisher (DOI: 10.2305/IUCN.UK.2008.RLTS.T12392A3339343.en)</a>`,
+                location: `N/A`,
+                medium: `Digitally published article`,
+                publisher: `International Union for Conservation of Nature (IUCN)`,
+                summary: `TBA.`,
+                title: `<i>Loxodonta africana</i>, African elephant`,
+            },
+        ],
+        [
+            {
+                container: `<i>Philosophical Transactions of the Royal Society B</i> (Phil. Trans. R. Soc. B), digitally published academic journal`,
+                contributors: `T.N.C. Vidya (coauthor); Raman Sukumar (coauthor); Don J. Melnick (coauthor)`,
+                date: `2008/11/18`,
+                duration: `pp. 893-902`,
+                iteration: `Vol. 276, Issue 1658`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1098/rspb.2008.1494" target="_blank">From publisher (DOI: 10.1098/rspb.2008.1494)</a><li><a href="https://www.researchgate.net/publication/23483866_Range-wide_mtDNA_phylogeography_yields_insights_into_the_origins_of_Asian_elephants" target="_blank">From ResearchGate</a><li><a href="https://www.jstor.org/stable/30243964" target="_blank">Digitized physical copy from JSTOR</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `The Royal Society`,
+                summary: `TBA.`,
+                title: `Range-wide mtDNA phylogeography yields insights into the origins of Asian elephants`,
+            },
+            {
+                container: `<i>Biotropica</i>, digitally published academic journal`,
+                contributors: `Ahimsa Campos‐Arceiz (author)`,
+                date: `2009/06/29`,
+                duration: `pp. 406-407`,
+                iteration: `Vol. 41, Issue 4`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1111/j.1744-7429.2009.00525.x" target="_blank">From publisher (DOI: 10.1111/j.1744-7429.2009.00525.x)</a><li><a href="http://www.chm.bris.ac.uk/sillymolecules/shithappens.pdf" target="_blank">From the University of Bristol's School of Chemistry</a> <li><a href="https://www.academia.edu/1486428/Shit_Happens_to_be_Useful_Use_of_Elephant_Dung_as_Habitat_by_Amphibians" target="_blank">From Academia</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Wiley Online Library on behalf of the Association for Tropical Biology and Conservation`,
+                summary: `TBA.`,
+                title: `Shit Happens (to be Useful)! Use of Elephant Dung as Habitat by Amphibians`,
+            },
+            {
+                container: `<i>The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology</i> (Anat. Rec.), digitally published academic journal`,
+                contributors: `Nancy E. Todd (author)`,
+                date: `2009/12/28`,
+                duration: `pp. 62-73`,
+                iteration: `Vol. 293, Issue 1`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1002/ar.21011" target="_blank">From publisher (DOI: 10.1002/ar.21011)</a> through Wiley Online Library`,
+                location: `Rockville, Maryland, United States of America`,
+                medium: `Digitally published academic journal article`,
+                publisher: `American Association for Anatomy (AAA)`,
+                summary: `TBA.`,
+                title: `Qualitative Comparison of the Cranio‐Dental Osteology of the Extant Elephants, <i>Elephas maximus</i> (Asian Elephant) and <i>Loxodonta africana</i> (African Elephant)`,
+            },
+            {
+                container: `<i>The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology</i> (Anat. Rec.), digitally published academic journal`,
+                contributors: `Nancy E. Todd (author)`,
+                date: `2009/12/28`,
+                duration: `pp. 74-90`,
+                iteration: `Vol. 293, Issue 1`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1002/ar.21010" target="_blank">From publisher (DOI: 10.1002/ar.21010)</a> through Wiley Online Library<li><a href="https://www.academia.edu/10092521/New_Phylogenetic_Analysis_of_the_Family_Elephantidae_Based_on_Cranial_Dental_Morphology" target="_blank">From Academia</a>`,
+                location: `Rockville, Maryland, United States of America`,
+                medium: `Digitally published academic journal article`,
+                publisher: `American Association for Anatomy (AAA)`,
+                summary: `TBA.`,
+                title: `New Phylogenetic Analysis of the Family Elephantidae Based on Cranial‐Dental Morphology`,
+            },    
+        ],
+        [
+            {
+                container: `<i>PLoS Biology</i> (PLoS Biol.), digitally published academic journal`,
+                contributors: `Nadin Rohland (coauthor); David Reich (coauthor); Swapan Mallick (coauthor); Matthias Meyer (coauthor); Richard E. Green (coauthor); Nicholas J. Georgiadis (coauthor); Alfred L. Roca (coauthor); Michael Hofreiter (coauthor)`,
+                date: `2010/12/21`,
+                duration: `10 pp.`,
+                iteration: `Vol. 8, Issue 12`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1371/journal.pbio.1000564" target="_blank">From publisher (DOI: 10.1371/journal.pbio.1000564)</a><li><a href="https://genetics.med.harvard.edu/reichlab/Reich_Lab/Publications_files/2010_Rohland_Mastodon.pdf" target="_blank">From the David Reich Lab</a><li><a href="http://nrs.harvard.edu/urn-3:HUL.InstRepos:4874828" target="_blank">From Digital Access to Scholarship at Harvard (DASH)</a><li><a href="https://europepmc.org/article/PMC/3006346" target="_blank">From Europe PMC</a><li><a href="https://www.academia.edu/35196283/Genomic_DNA_sequences_from_mastodon_and_woolly_mammoth_reveal_deep_speciation_of_forest_and_savanna_elephants" target="_blank">From Academia</a>
+                <li><a href="https://www.researchgate.net/publication/49726374_Genomic_DNA_Sequences_from_Mastodon_and_Woolly_Mammoth_Reveal_Deep_Speciation_of_Forest_and_Savanna_Elephants" target="_blank">From ResearchGate</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Public Library of Science (PLoS)`,
+                summary: `TBA.`,
+                title: `<span id="Rohland_et_al_2010_1">Genomic DNA Sequences from Mastodon and Woolly Mammoth Reveal Deep Speciation of Forest and Savanna Elephants`,
+            },
+            {
+                container: `<i>Nature News</i>, published news website`,
+                contributors: `Natasha Gilbert (author)`,
+                date: `2010/12/21`,
+                duration: `549 words`,
+                languages: `N/A`,
+                links: `<li><a href="https://doi.org/10.1038/news.2010.691" target="_blank">From publisher (DOI: 10.1038/news.2010.691)</a>`,
+                location: `London, England`,
+                medium: `Digitally published news article`,                
+                publisher: `Nature Publishing Group`,
+                summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_1_color" onclick="goToSource('2000-2021','Rohland_et_al_2010_1', this.id)">Rohland et al., 2010</a> with quotes from one of the paper's coauthors.`,
+                title: `African elephants are two distinct species`,
+            },
+            {
+                container: `<i>Zoological Journal of the Linnean Society</i> (Zool. J. Linn. Soc.), digitally published academic journal`,
+                contributors: `Advait M. Jukar (coauthor); S. Kathleen Lyons (coauthor); Mark D. Uhen (coauthor)`,
+                date: `2018/01/16`,
+                duration: `pp. 919-931`,
+                iteration: `Vol. 184, Issue 3`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1093/zoolinnean/zlx108" target="_blank">From publisher (DOI: 10.1093/zoolinnean/zlx108)</a>`,
+                location: `London, England`,
+                medium: `Digitally published academic journal article`,
+                publisher: `The Linnean Society of London`,
+                summary: `TBA.`,
+                title: `A cranial correlate of body mass in proboscideans`,
+            },
+            {
+                container: `<i>Proceedings of the National Academy of Sciences</i> (PNAS), digitally published academic journal`,
+                contributors: `Eleftheria Palkopoulou (coauthor); Mark Lipson (coauthor); Swapan Mallick (coauthor); Svend Nielsen (coauthor); Nadin Rohland (coauthor); Sina Baleka (coauthor); Emil Karpinski (coauthor); Atma M. Ivancevic (coauthor); Thu-Hien To (coauthor); R. Daniel Kortschak (coauthor); Joy M. Raison (coauthor); Zhipeng Qu (coauthor); Tat-Jun Chin (coauthor); Kurt W. Alt (coauthor); Stefan Claesson (coauthor); Love Dalén (coauthor); Ross D.E. MacPhee (coauthor); Harald Meller (coauthor); Alfred L. Roca (coauthor); Oliver A. Ryder (coauthor); David Heiman (coauthor); Sarah Young (coauthor); Matthew Breen (coauthor); Christina Williams (coauthor); Bronwen L. Aken (coauthor); Magali Ruffier (coauthor); Elinor Karlsson (coauthor); Jeremy Johnson (coauthor); Federica Di Palma (coauthor); Jessica Alfoldi (coauthor);  David L. Adelson (coauthor); Thomas Mailund (coauthor); Kasper Munch (coauthor); Kerstin Lindblad-Toh (coauthor); Michael Hofreiter (coauthor); Hendrik Poinar (coauthor); David Reich (coauthor)`,
+                date: `2018/02/26`,
+                duration: `pp. E2566–E2574`,
+                iteration: `Vol. 115, No. 11`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1073/pnas.1720554115" target="_blank">From publisher (DOI: 10.1073/pnas.1720554115)</a><li><a href="https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2018_PNAS_ElephantGenome_3.pdf" target="_blank">From the David Reich Lab</a><li><a href="https://www.researchgate.net/publication/323409209_A_comprehensive_genomic_history_of_extinct_and_living_elephants" target="_blank">From ResearchGate</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `National Academy of Sciences (NAS)`,
+                summary: `TBA.`,
+                title: `<span id="Palkopoulou_et_al_2018_1">A comprehensive genomic history of extinct and living elephants`,
+            },    
+        ],
+        [
+            {
+                container: `<i>Behavioral Ecology</i> (Behav. Ecol.), digitally published academic journal`,
+                contributors: `Michael A. Pardo (coauthor); Joyce H. Poole (coauthor); Angela S. Stoeger (coauthor); Peter H. Wrege (coauthor); Caitlin E. O'Connell-Rodwell (coauthor); Udaha Kapugedara Padmalal (coauthor); Shermin de Silva (coauthor)`,
+                date: `2019/02/23`,
+                duration: `pp. 809-820`,
+                iteration: `Vol. 30, Issue 3`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1093/beheco/arz018" target="_blank">From publisher (DOI: 10.1093/beheco/arz018)</a> <li><a href="https://www.researchgate.net/publication/331875685_Differences_in_combinatorial_calls_among_the_3_elephant_species_cannot_be_explained_by_phylogeny" target="_blank">From ResearchGate</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,
+                publisher: `Oxford Academic`,
+                summary: `TBA.`,
+                title: `<span id="Pardo_et_al_2019_1">Differences in combinatorial calls among the 3 elephant species cannot be explained by phylogeny`,
+            },
+            {
+                container: `<i>Maximus</i>, published blog`,
+                contributors: `Michael A. Pardo (author)`,
+                date: `2019/05/01`,
+                duration: `798 words`,
+                languages: `N/A`,
+                links: `<li><a href="https://maximus.trunksnleaves.org/2019/05/01/call-combinations-differ/" target="_blank">From publisher</a>`,
+                location: `N/A`,
+                medium: `Published blog post`,                
+                publisher: `Trunks & Leaves Inc.`,
+                summary: `A laymen-oriented summary of <a id="Pardo_et_al_2019_1_color" onclick="goToSource('2000-2021','Pardo_et_al_2019_1', this.id)">Pardo et al., 2019</a> by one of the paper's coauthors.`,
+                title: `Call Combinations Differ Among Living Elephants`,
+            },
+            {
+                container: `<i>Polygon</i>, published news website`,
+                contributors: `Matt Patches (author)`,
+                date: `2019/06/07`,
+                duration: `1774 words`,
+                languages: `English`,
+                links: `<li><a href="https://www.polygon.com/2019/6/7/18648048/godzilla-king-of-monsters-post-credits-ending-kong-woolly-mammoth-interview" target="_blank">From publisher</a>`,
+                location: `N/A`,
+                medium: `Digitally published news article`,
+                publisher: `Polygon`,                
+                summary: `An interview with <i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty, in which he says that Behemoth's design was heavily inspired by woolly mammoths.`,
+                title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
+            },
+            {
+                container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
+                contributors: `C. Williams (coauthor, reviewer, facilitator, compiler); S.K. Tiwari (coauthor, facilitator, compiler); V.R. Goswami (coauthor); S. de Silva (coauthor); A. Kumar (coauthor); N. Baskaran (coauthor); K. Yoganand (coauthor); V. Menon (coauthor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
+                date: `2019/09/18`,
+                duration: `29 pp.`,
+                languages: `English`,
+                links: `<li><a href="https://dx.doi.org/10.2305/IUCN.UK.2020-3.RLTS.T7140A45818198.en" target="_blank">From publisher (DOI: 10.2305/IUCN.UK.2020-3.RLTS.T7140A45818198.en)</a>`,
+                location: `N/A`,
+                medium: `Digitally published article`,
+                publisher: `International Union for Conservation of Nature (IUCN)`,
+                summary: `TBA.`,
+                title: `<i>Elephas maximus</i>, Asian elephant`,
+            },    
+        ],
+        [
+            {
+                container: `<i>Primates</i>, digitally published academic journal`,
+                contributors: `Shifra Z. Goldenberg (coauthor); George Wittemyer (coauthor)`,
+                date: `2019/11/11`,
+                duration: `pp. 119-128`,
+                iteration: `Vol. 61`,
+                languages: `English`,
+                links: `<li><a href="https://doi.org/10.1007/s10329-019-00766-5" target="_blank">From publisher (DOI: 10.1007/s10329-019-00766-5)</a>`,
+                location: `N/A`,
+                medium: `Digitally published academic journal article`,              
+                publisher: `SpringerLink`,
+                summary: `TBA.`,
+                title: `<span id = Goldenberg_Wittemyer_2019_1>Elephant behavior toward the dead: A review and insights from field observations`,
+            },
+            {   
+                container: `<i>Pokémon Trading Card Game (TCG): Sword and Shield — Darkness Ablaze</i>, physically published trading card game expansion`,
+                contributors: `Kouki Saito (illustrator)`,
+                date: `<li>Japanese copy: 2020/06/05 (ムゲンゾーン, 2020)<li>English copy: 2020/08/14 (Sword & Shield, 2020)`,
+                duration: `6.3 x 8.8 cm (2.5 x 3.5 in)`,
+                iteration:`<li>Japanese copy: No. 134/190<li>English copy: No. 132/189`,
+                languages: `Japanese, English`,
+                links: `<li><a href="https://www.pokemon-card.com/card-search/details.php/card/38779/regu/XY" target="_blank">Japanese copy from publisher</a><li><a href="https://bulbapedia.bulbagarden.net/wiki/File:CopperajahDarknessAblaze132.jpg" target="_blank">Japanese copy from Bulbapedia</a>, copy provided by Ruixiang95<li><a href="https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/ss-series/swsh3/132/" target="_blank">English copy from publisher</a><li><a href="https://pkmncards.com/card/copperajah-darkness-ablaze-daa-132/" target="_blank">English copy from PkmnCards</a><li><a href="https://www.serebii.net/card/darknessablaze/132.shtml" target="_blank">English copy from Serebii.net</a>`,
+                location: `N/A`,
+                medium: `Physically published trading card, digitized`,
+                publisher: `The Pokémon Company`,
+                references:`<p class="refs">ムゲンゾーン (2020). <i>ポケモンカードゲーム</i>. <a href="https://www.pokemon-card.com/ex/s3/" target="_blank">https://www.pokemon-card.com/ex/s3/</a></p><p class="refs"">Sword & Shield—Darkness Ablaze (2020). <i>The Official Pokémon Website</i>. <a href="https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/" target="_blank">https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/</a></p>`,
+                summary: `TBA.`,
+                title: `Copperajah`,
+            },
+            {
+                container: `<i>IUCN News</i>, published news website`,
+                contributors: `IUCN SSC African Elephant Specialist Group (author)`,
+                date: `2020/07/20`,
+                duration: `1 p.`,
+                languages: `English`,
+                links: `<li><a href="https://www.iucn.org/news/species-survival-commission/202007/statement-iucn-ssc-african-elephant-specialist-group-elephant-deaths-botswana" target="_blank">From publisher</a>`,
+                location: `Nairobi, Kenya`,
+                medium: `Digitally published news article`,
+                publisher: `International Union for Conservation of Nature (IUCN)`,
+                summary: `TBA.`,
+                title: `Statement of the IUCN SSC African Elephant Specialist Group on elephant deaths in Botswana`,
+            },
+            {
+                container: `<i>A Moment of Science</i>, published radio program`,
+                contributors: `Paul Patton (author)`,
+                date: `2021/02/08`,
+                duration: `<li>Article: 261 words <li>Radio segment: 2 min`,
+                languages: `English`,
+                links: `<li><a href="https://indianapublicmedia.org/amomentofscience/do-elephants-grieve-their-dead.php" target="_blank">From publisher</a>`,
+                location: `Bloomington, Indiana, United States of America`,
+                medium: `Digitally published news article and radio segment`,
+                publisher: `Indiana Public Media`,
+                summary: `A laymen-oriented summary of <a id="Goldenberg_Wittemyer_2019_1_color" onclick="goToSource('2000-2021','Goldenberg_Wittemyer_2019_1', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
+                title: `Do Elephants Grieve Their Dead?`,
+            },
+        ]
+    ]
+
+    getPeriod('Pre-1700_table', 'Pre_1700')
+    getPeriod('1700-1799_table', '1700-1799')
+    getPeriod('1800-1899_table', '1800-1899')
+    getPeriod('1900-1999_table', '1900-1999')
+    getPeriod('2000-2021_table', '2000-2021')
+
+
+    async function getPeriod(id, endpoint) {
+        var myPeriod = await fetch(`https://ptdb-api.herokuapp.com/api/v1/${endpoint}`);
+        myPeriod = await myPeriod.json();
+        buildTable(myPeriod, id)
+    }
+
+    function buildTable(data, id) {
+        var table = document.getElementById(id)
+        table.innerHTML = ''
+        for (var i = 0; i < data.length; i++) {
+            var row =
+                `<tr>
+                    <td>
+                        <p class="title">${data[i][0].title}</p>
+                        <p class="medium">${data[i][0].medium}</p>
+                        <u class="heading">Contributor(s)</u>
+                        <ul class="info">${data[i][0].contributors}</ul>
+                        <u class="heading">Publication date</u>
+                        <ul class="info">${data[i][0].date}</ul>
+                        <u class="heading">Duration</u>
+                        <ul class="info">${data[i][0].duration}</ul>
+                        <u class="heading">Publisher</u>
+                        <ul class="info">${data[i][0].publisher}</ul>
+                        <u class="heading">Publication location</u>
+                        <ul class="info">${data[i][0].location}</ul>
+                        <u class="heading">Language(s)</u>
+                        <ul class="info">${data[i][0].languages}</ul>`
+
+                        if (data[i][0].container != undefined) {
+                            row +=
+                                `<u class="heading">Container</u>
+                                <ul class="info">${data[i][0].container}</ul>`
+                        }
+
+                        if (data[i][0].iteration != undefined) {
+                            row +=
+                                `<u class="heading">Iteration</u>
+                                <ul class="info">${data[i][0].iteration}</ul>`
+                        }
+
+                        row +=
+                            `<u class="heading">Summary and significance</u>
+                                <ul class="info">${data[i][0].summary}</ul>
+                                <u class="heading">Link(s) to source</u>
+                                <ul class="info">${data[i][0].links}</ul>`
+
+                        if (data[i][0].notes != undefined) {
+                            row +=
+                                `<u class="heading">Notes</u>
+                                <ul class="info">${data[i][0].notes}</ul>`
+                        }
+
+                        if (data[i][0].references != undefined) {
+                            row +=
+                                `<u class="heading">References</u>
+                                <br>${data[i][0].references}`
+                        }
+                row +=
+                    `</td>`
+                    if (data[i][1].title != undefined) {
+                        row +=
+                        `<td>
+                        <p class="title">${data[i][1].title}</p>
+                        <p class="medium">${data[i][1].medium}</p>
+                        <u class="heading">Contributor(s)</u>
+                        <ul class="info">${data[i][1].contributors}</ul>
+                        <u class="heading">Publication date</u>
+                        <ul class="info">${data[i][1].date}</ul>
+                        <u class="heading">Duration</u>
+                        <ul class="info">${data[i][1].duration}</ul>
+                        <u class="heading">Publisher</u>
+                        <ul class="info">${data[i][1].publisher}</ul>
+                        <u class="heading">Publication location</u>
+                        <ul class="info">${data[i][1].location}</ul>
+                        <u class="heading">Language(s)</u>
+                        <ul class="info">${data[i][1].languages}</ul>`
+
+                        if (data[i][1].container != undefined) {
+                            row +=
+                                `<u class="heading">Container</u>
+                                <ul class="info">${data[i][1].container}</ul>`
+                        }
+
+                        if (data[i][1].iteration != undefined) {
+                            row +=
+                                `<u class="heading">Iteration</u>
+                                <ul class="info">${data[i][1].iteration}</ul>`
+                        }
+
+                        row +=
+                            `<u class="heading">Summary and significance</u>
+                                <ul class="info">${data[i][1].summary}</ul>
+                                <u class="heading">Link(s) to source</u>
+                                <ul class="info">${data[i][1].links}</ul>`
+
+                        if (data[i][1].notes != undefined) {
+                            row +=
+                                `<u class="heading">Notes</u>
+                                <ul class="info">${data[i][1].notes}</ul>`
+                        }
+
+                        if (data[i][1].references != undefined) {
+                            row +=
+                                `<u class="heading">References</u>
+                                <br>${data[i][1].references}`
+                        }
+                        `</td>`
+                    }
+                    row += 
+                    `</tr>`
+                    row +=
+                    `<tr>`
+                    if (data[i][2].title != undefined) {
+                        row +=
+                        `<td>
+                        <p class="title">${data[i][2].title}</p>
+                        <p class="medium">${data[i][2].medium}</p>
+                        <u class="heading">Contributor(s)</u>
+                        <ul class="info">${data[i][2].contributors}</ul>
+                        <u class="heading">Publication date</u>
+                        <ul class="info">${data[i][2].date}</ul>
+                        <u class="heading">Duration</u>
+                        <ul class="info">${data[i][2].duration}</ul>
+                        <u class="heading">Publisher</u>
+                        <ul class="info">${data[i][2].publisher}</ul>
+                        <u class="heading">Publication location</u>
+                        <ul class="info">${data[i][2].location}</ul>
+                        <u class="heading">Language(s)</u>
+                        <ul class="info">${data[i][2].languages}</ul>`
+
+                        if (data[i][2].container != undefined) {
+                            row +=
+                                `<u class="heading">Container</u>
+                                <ul class="info">${data[i][2].container}</ul>`
+                        }
+
+                        if (data[i][2].iteration != undefined) {
+                            row +=
+                                `<u class="heading">Iteration</u>
+                                <ul class="info">${data[i][2].iteration}</ul>`
+                        }
+
+                        row +=
+                            `<u class="heading">Summary and significance</u>
+                                <ul class="info">${data[i][2].summary}</ul>
+                                <u class="heading">Link(s) to source</u>
+                                <ul class="info">${data[i][2].links}</ul>`
+
+                        if (data[i][2].notes != undefined) {
+                            row +=
+                                `<u class="heading">Notes</u>
+                                <ul class="info">${data[i][2].notes}</ul>`
+                        }
+
+                        if (data[i][2].references != undefined) {
+                            row +=
+                                `<u class="heading">References</u>
+                                <br>${data[i][2].references}`
+                        }
+                        `</td>`
+                    if (data[i][3].title != undefined) {
+                        row +=
+                        `<td>
+                        <p class="title">${data[i][3].title}</p>
+                        <p class="medium">${data[i][3].medium}</p>
+                        <u class="heading">Contributor(s)</u>
+                        <ul class="info">${data[i][3].contributors}</ul>
+                        <u class="heading">Publication date</u>
+                        <ul class="info">${data[i][3].date}</ul>
+                        <u class="heading">Duration</u>
+                        <ul class="info">${data[i][3].duration}</ul>
+                        <u class="heading">Publisher</u>
+                        <ul class="info">${data[i][3].publisher}</ul>
+                        <u class="heading">Publication location</u>
+                        <ul class="info">${data[i][3].location}</ul>
+                        <u class="heading">Language(s)</u>
+                        <ul class="info">${data[i][3].languages}</ul>`
+
+                        if (data[i][3].container != undefined) {
+                            row +=
+                                `<u class="heading">Container</u>
+                                <ul class="info">${data[i][3].container}</ul>`
+                        }
+
+                        if (data[i][3].iteration != undefined) {
+                            row +=
+                                `<u class="heading">Iteration</u>
+                                <ul class="info">${data[i][3].iteration}</ul>`
+                        }
+
+                        row +=
+                            `<u class="heading">Summary and significance</u>
+                                <ul class="info">${data[i][3].summary}</ul>
+                                <u class="heading">Link(s) to source</u>
+                                <ul class="info">${data[i][3].links}</ul>`
+
+                        if (data[i][3].notes != undefined) {
+                            row +=
+                                `<u class="heading">Notes</u>
+                                <ul class="info">${data[i][3].notes}</ul>`
+                        }
+
+                        if (data[i][3].references != undefined) {
+                            row +=
+                                `<u class="heading">References</u>
+                                <br>${data[i][3].references}`
+                        }
+                        `</td>`
+                    }
+                        
+                    }
+                
+            table.innerHTML += row
+        }
+
+    }
+
+</script>

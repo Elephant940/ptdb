@@ -6,8 +6,15 @@ app.use(cors());
 const PORT = process.env.PORT || 8080; 
 const HOST = "0.0.0.0";
 
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname + "/index.html"));
+});
+
 const Pre_1700 = require('./Pre_1700');
 const its1700_1799 = require('./its1700_1799');
+const its1800_1899 = require('./its1800_1899');
+const its1900_1999 = require('./its1900_1999');
+const its2000_2021 = require('./its2000_2021');
 
 app.get('/api/v1/Pre_1700', (req, res) => {
     res.status(200).send(Pre_1700);
