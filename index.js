@@ -2,7 +2,11 @@ const path = require("path")
 const express = require("express");
 const app = express();
 const cors = require("cors");
-app.use(cors());
+var corsOptions = {
+    origin: 'https://ptdb.herokuapp.com/',
+    optionsSuccessStatus: 200
+  }
+app.use(cors(corsOptions));
 
 const PORT = process.env.PORT || 8080; 
 const HOST = "0.0.0.0";
@@ -11,7 +15,7 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + "/index.html"));
 });
 
-const Pre_1700 = require('./Pre_1700');
+const Pre_1700 = require('./periods/Pre_1700');
 const its1700_1799 = require('./periods/its1700_1799');
 const its1800_1899 = require('./periods/its1800_1899');
 const its1900_1999 = require('./periods/its1900_1999');
