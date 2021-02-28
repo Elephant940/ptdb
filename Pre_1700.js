@@ -1,5 +1,4 @@
-module.exports = 
-[
+module.exports = [
     [
         {
             contributors: `Cornelis Cort (engraver)`,
