@@ -458,7 +458,7 @@ module.exports = [
             summary: `TBA.`,
             title: `Statement of the IUCN SSC African Elephant Specialist Group on elephant deaths in Botswana`,
         },
-    ]
+    ],
     [
         {
             container: `<i>A Moment of Science</i>, published radio program`,
