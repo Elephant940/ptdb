@@ -246,6 +246,20 @@ module.exports = [
             title: `<i>Loxodonta africana</i>, African elephant`,
         },
         {
+            container: `<i>Animal Welfare</i> (Anim. Welf.), digitally published academic journal`,
+            contributors: `D.L. Wells (coauthor); R.M. Irwin (coauthor)`,
+            date: `2008/11/01`,
+            duration: `pp. 335-340`,
+            iteration: `Vol. 17, No. 4`,
+            languages: `English`,
+            links: `<li><a href="https://www.ingentaconnect.com/content/ufaw/aw/2008/00000017/00000004/art00001" target="_blank">From publisher</a> through Ingenta Connect`,
+            location: `N/A`,
+            medium: `Digitally published academic journal article`,
+            publisher: `Universities Federation for Animal Welfare (UFAW)`,
+            summary: `TBA.`,
+            title: `Auditory stimulation as enrichment for zoo-housed Asian elephants (<i>Elephas maximus</i>)`,
+        },
+        {
             container: `<i>Philosophical Transactions of the Royal Society B</i> (Phil. Trans. R. Soc. B), digitally published academic journal`,
             contributors: `T.N.C. Vidya (coauthor); Raman Sukumar (coauthor); Don J. Melnick (coauthor)`,
             date: `2008/11/18`,
@@ -273,6 +287,8 @@ module.exports = [
             summary: `TBA.`,
             title: `Shit Happens (to be Useful)! Use of Elephant Dung as Habitat by Amphibians`,
         },
+    ],
+    [
         {
             container: `<i>The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology</i> (Anat. Rec.), digitally published academic journal`,
             contributors: `Nancy E. Todd (author)`,
@@ -287,8 +303,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Qualitative Comparison of the Cranio‐Dental Osteology of the Extant Elephants, <i>Elephas maximus</i> (Asian Elephant) and <i>Loxodonta africana</i> (African Elephant)`,
         },   
-    ],
-    [
         {
             container: `<i>The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology</i> (Anat. Rec.), digitally published academic journal`,
             contributors: `Nancy E. Todd (author)`,
@@ -331,6 +345,8 @@ module.exports = [
             summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_1_color" onclick="goToSource('2000-2021','Rohland_et_al_2010_1', this.id)">Rohland et al., 2010</a> with quotes from one of the paper's coauthors.`,
             title: `African elephants are two distinct species`,
         },
+    ],
+    [
         {
             container: `<i>Zoological Journal of the Linnean Society</i> (Zool. J. Linn. Soc.), digitally published academic journal`,
             contributors: `Advait M. Jukar (coauthor); S. Kathleen Lyons (coauthor); Mark D. Uhen (coauthor)`,
@@ -345,8 +361,6 @@ module.exports = [
             summary: `TBA.`,
             title: `A cranial correlate of body mass in proboscideans`,
         },   
-    ],
-    [
         {
             container: `<i>Proceedings of the National Academy of Sciences</i> (PNAS), digitally published academic journal`,
             contributors: `Eleftheria Palkopoulou (coauthor); Mark Lipson (coauthor); Swapan Mallick (coauthor); Svend Nielsen (coauthor); Nadin Rohland (coauthor); Sina Baleka (coauthor); Emil Karpinski (coauthor); Atma M. Ivancevic (coauthor); Thu-Hien To (coauthor); R. Daniel Kortschak (coauthor); Joy M. Raison (coauthor); Zhipeng Qu (coauthor); Tat-Jun Chin (coauthor); Kurt W. Alt (coauthor); Stefan Claesson (coauthor); Love Dalén (coauthor); Ross D.E. MacPhee (coauthor); Harald Meller (coauthor); Alfred L. Roca (coauthor); Oliver A. Ryder (coauthor); David Heiman (coauthor); Sarah Young (coauthor); Matthew Breen (coauthor); Christina Williams (coauthor); Bronwen L. Aken (coauthor); Magali Ruffier (coauthor); Elinor Karlsson (coauthor); Jeremy Johnson (coauthor); Federica Di Palma (coauthor); Jessica Alfoldi (coauthor);  David L. Adelson (coauthor); Thomas Mailund (coauthor); Kasper Munch (coauthor); Kerstin Lindblad-Toh (coauthor); Michael Hofreiter (coauthor); Hendrik Poinar (coauthor); David Reich (coauthor)`,
@@ -388,6 +402,8 @@ module.exports = [
             summary: `A laymen-oriented summary of <a id="Pardo_et_al_2019_1_color" onclick="goToSource('2000-2021','Pardo_et_al_2019_1', this.id)">Pardo et al., 2019</a> by one of the paper's coauthors.`,
             title: `Call Combinations Differ Among Living Elephants`,
         },
+    ],
+    [
         {
             container: `<i>Polygon</i>, published news website`,
             contributors: `Matt Patches (author)`,
@@ -401,8 +417,6 @@ module.exports = [
             summary: `An interview with <i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty, in which he says that Behemoth's design was heavily inspired by woolly mammoths.`,
             title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
         },  
-    ],
-    [
         {
             container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
             contributors: `C. Williams (coauthor, reviewer, facilitator, compiler); S.K. Tiwari (coauthor, facilitator, compiler); V.R. Goswami (coauthor); S. de Silva (coauthor); A. Kumar (coauthor); N. Baskaran (coauthor); K. Yoganand (coauthor); V. Menon (coauthor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
@@ -445,6 +459,8 @@ module.exports = [
             summary: `TBA.`,
             title: `Copperajah`,
         },
+    ],
+    [
         {
             container: `<i>IUCN News</i>, published news website`,
             contributors: `IUCN SSC African Elephant Specialist Group (author)`,
@@ -458,8 +474,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Statement of the IUCN SSC African Elephant Specialist Group on elephant deaths in Botswana`,
         },
-    ],
-    [
         {
             container: `<i>A Moment of Science</i>, published radio program`,
             contributors: `Paul Patton (author)`,
@@ -473,5 +487,7 @@ module.exports = [
             summary: `A laymen-oriented summary of <a id="Goldenberg_Wittemyer_2019_1_color" onclick="goToSource('2000-2021','Goldenberg_Wittemyer_2019_1', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
             title: `Do Elephants Grieve Their Dead?`,
         },
+        {},
+        {},
     ]
 ]
