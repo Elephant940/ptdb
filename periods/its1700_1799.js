@@ -47,6 +47,7 @@ module.exports = [
             contributors: `Carolus Linnaeus (author)`,
             date: `1758`,
             duration: `823 pp.`,
+            eyedee: `Linnaeus_1758`,
             iteration: `10th ed., Tome 1`,
             languages: `Latin`,
             links: `<li><a href="https://archive.org/stream/mobot31753000798865#page/33/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Missouri Botanical Garden <li><a href="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10076014_00041.html" target="_blank">From Bayerische Staatsbibliothek</a> (<a href="https://web.archive.org/web/20210207005415/https://download.digitale-sammlungen.de/pdf/16126589828888bsb10076014.pdf" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://gdz.sub.uni-goettingen.de/id/PPN362053006?tify={%22pages%22:[37],%22view%22:%22info%22}" target="_blank">From Göt­tinger Digi­tali­sierungs­zentrum (GDZ)</a>`,
@@ -54,7 +55,7 @@ module.exports = [
             medium: `Physically published book, digitized`,
             publisher: `Laurentius Salvius`,
             summary: `Linnaeus establishes a system of biological classification in which each animal is given a two part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into the same genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus classifies all living elephants as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.`,
-            title:`<span id="Linnaeus_1758_1">Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
+            title:`Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
         }
     ],
     [
@@ -89,6 +90,7 @@ module.exports = [
             contributors: `Carolus Linnaeus (coauthor); Johann Fridrich Gmelin (coauthor)`,
             date: `1788`,
             duration: `500 pp.`,
+            eyedee: `Linnaeus_Gmelin_1788`,
             iteration: `13th ed., Tome 1`,
             languages: `Latin`,
             links: `<li><a href="https://archive.org/stream/mobot31753000801537#page/58/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Missouri Botanical Garden<li><a href="https://archive.org/stream/carolilinnsys01linn#page/58/mode/2up" target="_blank">From Internet archive</a>, copy provided by NCSU Libraries`,
@@ -96,13 +98,14 @@ module.exports = [
             medium: `Physically published book, digitized`,
             publisher: `Georg. Emmanuel Beer`,
             summary: `The 13th edition of <a id="Linnaeus_1758_1_color" onclick="goToSource('1700-1799','Linnaeus_1758_1', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants has been expanded but retains most of Linnaeus's original description, and can be found on page 58.`,
-            title: `<span id="Linnaeus_Gmelin_1788_1">Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
+            title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
             
         },
         {
             contributors: `Johann Friedrich Blumenbach (author)`,
             date: `1797/>03/>20`,
             duration: `714 pp.`,
+            eyedee: `Blumenbach_1797`,
             iteration: `5th ed.`,
             languages: `German, Latin`,
             links: `<li><a href="https://www.google.com/books/edition/Handbuch_der_Naturgeschichte/c4g5AAAAcAAJ?hl=en&gbpv=1&pg=PA124" target="_blank">From Google Books</a>, copy provided by Bayerische Staatsbibliothek (<a href="https://web.archive.org/web/20210207161402/https://books.googleusercontent.com/books/content?req=AKW5Qae5HmmtQeVus5uQJRzeuTVfw17qZB9b6zEByrLwdDTBi2D_zmnmyg3Q9P5iuGAEz426xOgn1CeZuLmdg7efp_HzPSXoGIdqiLVnFdD7uDEagC5dZVoMYifJtn8JPlOGiBi8d96-0HdXcyxXMjF7FkKx6pz8AcXVnaQfSvKNN__TRgR3_r_TdmhOnQy6-9kBPZH_hKbFM-v_Tam_yLWkaJDG-7-XcL4JYFUHX57lVF5z0O8VTFavnKaAWXO8BGuOnKqwWdW7CKHeI2cqcsiFsFHs-Z8QyA" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/D_Joh_Fr_Blumenbachs_Handbuch_der_Naturg/d5dlAAAAcAAJ?hl=en&gbpv=1&pg=PA124" target="_blank">From Google Books</a>, copy provided by Bayerische Staatsbibliothek (<a href="https://web.archive.org/web/20210207161809/https://books.googleusercontent.com/books/content?req=AKW5Qac42eZ_lX1QQ1nrFIwgtJlbjNpkClqTHU5cpAqlGNpovwSsS71MFIVNZQ_YjcrHA5Wh8IdRpxdlopejNK2xfO80rWUxiVKqsSF-Pn4qSj_3yiZa0sPtpVvSajNGlX-U7-_DuvWmoGrnlnfBAXV51O5ArKnInLmIFGyWpIzhzt47WscOzI_g6o1RNtVzcLvFtJFAkswBI6T4QdUGKjuf85FjvpYUKApw4MV-lneuMqwpPKrSLOWhJqW7XsXvdeZC0uH3YoNBegoZ7cV-dWQRFv1EnFYNREvdqNjDqMbbH7p8rEQvRn8" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/_/xTZcAAAAcAAJ?hl=en&gbpv=1&pg=PA124" target="_blank">From Google Books</a>, copy provided by Bayerische Staatsbibliothek (<a href="https://web.archive.org/web/20210207162329/https://books.googleusercontent.com/books/content?req=AKW5Qae40lEcE9cWPn5gETbzSol6VGbpbBJLhIrnV9bsTANoMldU-zmaojHifTPkxmeKNaPwnEMlLDOdPNzvlo8uu6CNAnflq6N89Tha21PqcF6l20OnIreDaVORXZGOXJJQU9B66ThAlQ8-VsZlJxN5P57T7jjDiuDnOqlFHqXv9gcJ1S-EUiOLZxxeBBvHIKJBeh7jdbgKzT9hsix0e2qHpo-tF2LdWsLHSmtxE1Yl9j8CHjZHOijSKgvG3A-FOOsTyIrEGU3VK_8pJseheksfyO_jHddiuA" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/D_Joh_Friedr_Blumenbachs_Handbuch_der_Na/xaxgAAAAcAAJ?hl=en&gbpv=1&pg=PA124" target="_blank">From Google Books</a>, copy provided by the British Library (<a href="https://web.archive.org/web/20210207163638/https://books.googleusercontent.com/books/content?req=AKW5QafTV_Mr9vnGqXUzzutnF21c2L-72y2P80CZ7Zaw2h_LMjjxhqc2PfY87gORmI371m46nnVmFK8xcd32BLNijlbhu4BOLVFm9sXGUiB5-v1QzdYaWymC6T6S5Zbepn7Sh2M8qDYbk0SdZzGW7lfpba1A9IAL4GbhB0XakJkbrrEhIZknGnYoVmAc_99xKP9AwqQyCH4ifR5kwC_BKYKLmwAYzR-SwdhukXf-eHXra0uHim6qiPxHC7EhYEVZU01kKU3_ptfzAcWzCTLEJpn0J0TocWudcc24OshJQyy3Dde6-KzCbw4" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://archive.org/stream/djohfrblumenbach00blum#page/124/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries <li><a href="https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb10074883.html?pageNo=148" target="_blank">From Bayerische Staatsbibliothek</a> (<a href="https://web.archive.org/web/20210207011419/https://download.digitale-sammlungen.de/pdf/16126596538888bsb10074883.pdf" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11271835.html?pageNo=146" target="_blank">From Bayerische Staatsbibliothek</a> (<a  href="https://web.archive.org/web/20210207011458/https://download.digitale-sammlungen.de/pdf/16126597818888bsb11271835.pdf" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11112082.html?pageNo=142" target="_blank">From Bayerische Staatsbibliothek</a> (<a  href="https://web.archive.org/web/20210207011638/https://download.digitale-sammlungen.de/pdf/16126599738888bsb11112082.pdf" target="_blank">archived in the Wayback Machine</a>) <li><a href="http://access.bl.uk/item/viewer/ark:/81055/vdc_100027397547.0x000001#?c=0&m=0&s=0&cv=147&xywh=-1344%2C-127%2C5158%2C2535" target="_blank">From the British Library</a> <li><a href="https://blumenbach-online.de/fileadmin/wikiuser/Daten_Digitalisierung/ID%2000026/00026.pdf" target="_blank">From the Göttingen Academy of Sciences's Blumenbach Online</a> <li><a href="https://blumenbach-online.de/fileadmin/wikiuser/Daten_Digitalisierung/ID%2000038/00038.pdf" target="_blank">From the Göttingen Academy of Sciences's Blumenbach Online</a> <li><a href="https://www.deutschestextarchiv.de/book/view/blumenbach_naturgeschichte_1797?p=146" target="_blank">From the Deutsches Textarchiv</a>`,
@@ -111,7 +114,7 @@ module.exports = [
             publisher: `Johann Christian Dieterich`,
             summary: `Blumenbach recognizes two species of living elephants and describes them on pages 124-125. He gives each a distinct name, <i>Elephas asiaticus</i> for the Asian elephant and <i>E</i>. <i>africanus</i> for the African elephant, and places them in the order Belluae.`,
             medium: `Physically published book, digitized`,
-            title: `<span id="Blumenbach_1797_1">Handbuch der Naturgeschichte.`,
+            title: `Handbuch der Naturgeschichte.`,
         }
     ],
     [
@@ -119,6 +122,7 @@ module.exports = [
             contributors: `Georges Léopold Chrétien Frédéric Dagobert Cuvier (author)`,
             date: `1798`,
             duration: `710 pp.`,
+            eyedee: `Cuvier_1798`,
             iteration: `1st ed.`,
             languages: `French`,
             links: `<li><a href="https://archive.org/stream/tableaulment00cuvi#page/146/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries <li><a href="https://archive.org/stream/tableaulmen00cuvi#page/146/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the University of Toronto`,
@@ -128,7 +132,7 @@ module.exports = [
             publisher: `Printed by Baudouin for the Corps législatif and l'Institut national`,
             references: `<p class="refs">Convention nationale (1793). <a href="https://tolosana.univ-toulouse.fr/fr/notice/042658012" target="_blank"><i>Calendrier de la République française</i></a>. Paris: Imprimerie nationale France.</p>`,
             summary: `Cuvier recognizes two species of living elephants and describes them on pages 148-149. He gives each a distinct name, <i>Elephas indicus</i> for the Asian elephant and <i>E</i>. <i>capensis</i> for the African elephant, and states that elephants warrant placement in a new, unnamed order.`,
-            title: `<span id="Cuvier_1798_1">Tableau Élémentaire de l'Histoire Naturelle des Animaux.`,
+            title: `Tableau Élémentaire de l'Histoire Naturelle des Animaux.`,
         },
         {
             container: `<i>Philosophical Transactions of the Royal Society of London</i> (Phil. Trans. R. Soc. Lond.), physically published academic journal`,

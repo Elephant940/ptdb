@@ -10,7 +10,7 @@ module.exports = [
             location: `London, England`,
             medium: `Physically published book, digitized`,
             publisher: `Printed for Lackington, Allen, and Co.`,
-            summary: `An English translation of <a id="Linnaeus_Gmelin_1788_1_color" onclick="goToSource('1700-1799','Linnaeus_Gmelin_1788_1', this.id)">Linnaeus and Gmelin, 1788</a>. The elephant section is on page 35.`,
+            summary: `An English translation of <a id="Linnaeus_Gmelin_1788_color" onclick="goToSource('1700-1799','Linnaeus_Gmelin_1788', this.id)">Linnaeus and Gmelin, 1788</a>. The elephant section is on page 35.`,
             title: `A General System of Nature: Through the Three Grand Kingdoms of Animals, Vegetables, and Minerals; Systematically Divided Into Their Several Classes, Orders, Genera, Species, and Varieties With Their Habitations, Manners, Economy, Structure, and Peculiarities.`,
         },
         {
@@ -36,7 +36,7 @@ module.exports = [
             location: `Berlin, Germany`,
             medium: `Physically published book, digitized`,
             publisher: `C. Salfeld`,
-            summary: `Illiger employs <a id="Cuvier_1798_1_color" onclick="goToSource('1700-1799','Cuvier_1798_1', this.id)">Cuvier's</a> <i>Elephas indicus</i> for the Asian elephant and <a id="Blumenbach_1797_1_color" onclick="goToSource('1700-1799','Blumenbach_1797_1', this.id)">Blumenbach's</a> <i>E</i>. <i>africanus</i> for the African elephant, and on page 96 proposes the name Proboscidea for the family encompassing both.`,
+            summary: `Illiger employs <a id="Cuvier_1798_color" onclick="goToSource('1700-1799','Cuvier_1798', this.id)">Cuvier's</a> <i>Elephas indicus</i> for the Asian elephant and <a id="Blumenbach_1797_color" onclick="goToSource('1700-1799','Blumenbach_1797', this.id)">Blumenbach's</a> <i>E</i>. <i>africanus</i> for the African elephant, and on page 96 proposes the name Proboscidea for the family encompassing both.`,
             title: `Prodromus Systematis Mammalium et Avium Additis Terminis Zoographicis Utriusque Classis, Eorumque Versione Germanica.`,
             
         },
@@ -61,6 +61,7 @@ module.exports = [
             contributors: `Frédéric Cuvier (author)`,
             date: `1825/11`,
             duration: `2 pp.`,
+            eyedee: `Cuvier_1825b`,
             iteration: `1st ed., Tome 6`,
             languages: `French`,
             links: `<li><a href="https://archive.org/stream/histoirenaturel6geof#page/n116/mode/2up/" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
@@ -68,7 +69,7 @@ module.exports = [
             medium: `Physically published book chapter, digitized`,
             publisher: `A. Belin`,
             summary: `Cuvier argues that African elephants are anatomically distinct enough from Asian elephants to warrant placement in a separate genus, which he names <i>Loxodonte</i>.`,
-            title: `<span id="Cuvier_1825_1"> Éléphant d'Afrique.`,
+            title: `Éléphant d'Afrique.`,
         },
         {
             container: `<i>The Zoological Journal</i> (Zool. J.), physically published academic journal`,
@@ -81,7 +82,7 @@ module.exports = [
             location: `London, England`,
             medium: `Physically published academic journal article, digitized`,
             publisher: `W. Phillips`,
-            summary: `The anonymous author Latinizes <a onclick="goToSource('1800-1899','Cuvier_1825_1', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
+            summary: `The anonymous author Latinizes <a onclick="goToSource('1800-1899','Cuvier_1825b', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
             title: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriees, Dessinées d'Après des Animaux Vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hillaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
         },
         {
@@ -132,6 +133,7 @@ module.exports = [
             contributors: `Coenraad Jacob Temminck (author)`,
             date: `1847/>05`,
             duration: `470 pp.`,
+            eyedee: `Temminck_1847`,
             iteration: `1st ed., Tome 2`,
             languages: `French`,
             links: `<li><a href="https://www.google.com/books/edition/Coup_d_oeil_general_sur_les_possessions/2pU6AAAAcAAJ?hl=en&authuser=0&gbpv=1&pg=PA91" target="_blank">From Google Books</a>, copy provided by Bayerische Staatsbibliothek(<a href="https://web.archive.org/web/20210207194817/https://books.googleusercontent.com/books/content?req=AKW5QactSJpZ0V7Tum4sUxdtzTm0PRVs6Fh5WGfDUlhGbF7b-ma3BnyA78n0IJAr7HnSHs8_vey7w04pJeIgoYdWbX6c_fH1cvO-XbeSs76-6K-ozJb_gCtURFHjv4kbY5pErqueK3YSTltp117SxxemO3RPfbhY7UkHtO0XFP1RuhBX6_yr6-OEr8oZf4ZlSDqjoQvgvjfVr92DQU0d_maMChaXKhsX4bMhghNZJELy8-5flTXq3I7glNiSXrsDEzsg6BQkTY6e5l8AMKdSgwFhuyR_JUzRJLBLto7kdN28iAK1UbeToK4" target="_blank">archived in the Wayback Machine</a>)<li><a href="https://www.google.com/books/edition/_/hhkPAAAAQAAJ?hl=en&authuser=0&gbpv=1&pg=PA91" target="_blank">From Google Books</a>, copy provided by Ghent University (<a href="https://web.archive.org/web/20210207195038/https://books.googleusercontent.com/books/content?req=AKW5QadUpSJur5HYW6deSBmosTatgpCXB4oZIF19F1ib52UQZePhSTULThRWbWLM5fL_xY4aqsQvYo3zVtDb-RAYZzpjRj4-Yb4W4Z1I5NvYEEEE_qnUI58PG8fzn0THhv0ZjfoLviCBE5E6eSubo92zzzTGDfyX_R99dTS7czdN50_nA0_5TJv6xCuxLBUGbSWw6w_HQ1V-Yp8dMciAHHQbafG1CYD_e7lnwXnlSh7YfiJA03FnFkvEHfunS6fVuBYDS71jMTzMkkQfBB9ti7his70wDdxYZf4O7L25sM6xtqI1yaalIIw" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/Coup_d_oeil_g%C3%A9n%C3%A9ral_sur_les_possession/15kBAAAAQAAJ?hl=en&gbpv=1&pg=PA91" target="_blank">From Google Books</a>, copy provided by Oxford University (<a href="https://web.archive.org/web/20210214204620/https://books.googleusercontent.com/books/content?req=AKW5Qaew798VW_baDeugJKp9pAomJlj8POy20G6bl29HeEOHlbpidcMwmP_PUVwSORTB_Nbv5V6q8uKF4WN7O-ZT_ScSuiMctPBg7M6t6dXVAEcYgaZP9DnnUDhs-8lyPvx5V_dLQqRH08QX8XZZDnQCIaJ4qEzreQsljVlaGz3mOkg0knqr5BwUv2uZe5gndiVpD0jGK7W4aePX2vkeEBTwwJ_3xsaXRFvKRohuD6Y4HW3H9U0Ujj4YIfB-kdwBj20-ROChMdQVmLq8HlhxEAB8-9IuTnlViDokQodRcjzePr1ggeYwVFc" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/_/0556zAVURRwC?hl=en&authuser=0&gbpv=1&pg=PA91" target="_blank">From Google Books</a>, copy provided by the New York Public Library (<a href="https://web.archive.org/web/20210207195200/https://books.googleusercontent.com/books/content?req=AKW5QafbOH2P2eJoO794E-98xw5xgT41yHTxHsXU9Q5zsXVAOoFfndou4NmdGMxMsybR3jemyCIa6JmephcAUfLB5C8DGadjJqM2ePq0YBAt0Ji66eTdFNcWDLTMnQd5gMkgI98wsMcQzksERtg-TGP7FQOYSApDj1A-Nh100UkCr4UBqaeihKzWAvI-TiGzBR3oIexXRsC3O6YLrqMTTxIyRJjGlFuviPtLTEvcab8VX8rlrgXLH5_Eiu-i_V5_7SJupKiEs4TsD5DMNWBt7EpQNtfpawpOklODKnkJ_K_cMw8sBjj8o7U" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://www.google.com/books/edition/Coup_d_oeil_g%C3%A9n%C3%A9ral_sur_les_possession/sBMt6rQpK_8C?hl=en&gbpv=1&pg=PA91" target="_blank">From Google Books</a>, copy provided by the University of Michigan (<a href="https://web.archive.org/web/20210207195340/https://books.googleusercontent.com/books/content?req=AKW5QacmIk4y2aMAkuSbgYQM3Q4PYbC-NTZtXKuSvG2kUD1spqtwtpzqi2E6JLq62aAeJOYKKzb7RfbCA7rjpthlTsRvpwjBOAYBFJh2JiqirAtQqIoDuF-ntPWRo2Q8LKI-P4FYv-v7yYTmj7KaYxmtxJN75QTPyFLchEEIqoafYBeFT5q_DjgyhGzbfG0STJZnI3Lyo3v6GNzGpjWus4YZKVbWHnJVrxna0ijI92Ftd5eUHh6NSvBPkw7Soy4rsW4dOUh73wlPO_u7JCsHvA71mJwbyeNnFa25s1lOywusU-xipLfqZ2w" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://archive.org/stream/coupdoeilgnrals04temmgoog#page/n105/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Oxford University <li><a href="https://archive.org/stream/coupdoeilgnrals03temmgoog#page/n104/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the University of Michigan <li><a href="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10276433_00103.html" target="_blank">From Bayerische Staatsbibliothek</a> (<a href="https://web.archive.org/web/20210214203429/https://download.digitale-sammlungen.de/pdf/16133347498888bsb10276433.pdf" target="_blank">archived in the Wayback Machine</a>)`,
@@ -139,7 +141,7 @@ module.exports = [
             medium: `Physically published book, digitized`,
             publisher: `A. Arnz & Comp.`,
             summary: `Temminck proposes on pages 91-92 that the elephants found on the island of Sumatra are a distinct species from those found elsewhere in Asia based on skeletal differences. He dubs these elephants <i>Elephas sumatranus</i>.`,
-            title: `<span id="Temminck_1847_1">Coup-d'Oeil Général sur les Possessions Néerlandaises dans l'Inde Archipélagique.`,
+            title: `Coup-d'Oeil Général sur les Possessions Néerlandaises dans l'Inde Archipélagique.`,
         },
         {
             container: `<i>The Quarterly Journal of the Geological Society of London</i> (Q. J. Geol. Soc. Lond.), physically published academic journal`,
