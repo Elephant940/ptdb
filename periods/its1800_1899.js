@@ -82,7 +82,7 @@ module.exports = [
             location: `London, England`,
             medium: `Physically published academic journal article, digitized`,
             publisher: `W. Phillips`,
-            summary: `The anonymous author Latinizes <a onclick="goToSource('1800-1899','Cuvier_1825b', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
+            summary: `The anonymous author Latinizes <a id="Cuvier_1825b_color" onclick="goToSource('1800-1899','Cuvier_1825b', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
             title: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriees, Dessinées d'Après des Animaux Vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hillaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
         },
         {
