@@ -25,7 +25,9 @@ module.exports = [
             publisher: `H.J. Jansen`,
             summary: `TBA.`,
             title: `Description Anatomique d'un Éléphant Mâle`,
-        },        
+        },
+    ],
+    [
         {
             contributors: `Carolus D. Illiger (author)`,
             date: `1811/>04`,
@@ -85,6 +87,8 @@ module.exports = [
             summary: `The anonymous author Latinizes <a id="Cuvier_1825b_color" onclick="goToSource('1800-1899','Cuvier_1825b', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
             title: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriees, Dessinées d'Après des Animaux Vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hillaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
         },
+    ],
+    [
         {
             container: `<i>A Prodromus of a Synopsis Animalium, Comprising A Catalogue Raisonné, of the Zootomical Collection Of Joshua Brookes, Esq. F.R.S. Etc.</i>, physically published catalogue`,
             contributors: `Joshua Brookes (author)`,
@@ -143,6 +147,8 @@ module.exports = [
             summary: `Temminck proposes on pages 91-92 that the elephants found on the island of Sumatra are a distinct species from those found elsewhere in Asia based on skeletal differences. He dubs these elephants <i>Elephas sumatranus</i>.`,
             title: `Coup-d'Oeil Général sur les Possessions Néerlandaises dans l'Inde Archipélagique.`,
         },
+    ],
+    [
         {
             container: `<i>The Quarterly Journal of the Geological Society of London</i> (Q. J. Geol. Soc. Lond.), physically published academic journal`,
             contributors: `Hugh Falconer (author)`,
@@ -201,6 +207,8 @@ module.exports = [
             summary: `TBA.`,
             title: `Autobiography of Matthew Scott, Jumbo's Keeper Formerly of the Zoölogical Society's Gardens, London, and Receiver of Sir Edwin Landseer Medal in 1866 Also Jumbo's Biography by the Same Author.`,
         },
+    ],
+    [    
         {   
             contributors: `William Henry Flower (coauthor); Richard Lydekker (coauthor)`,
             date: `1891/>03`,

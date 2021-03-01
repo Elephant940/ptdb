@@ -87,15 +87,21 @@
         text-align: center;
     }
 
-    table {
-        display: inline-block;
+    .period {
+        /* display: inline-block;
         font-size: 16px;
         height: 99vh;
-        table-layout: fixed; 
+        table-layout: fixed;  */
+        display:grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+        margin: 0 auto;
+        max-width: 1000px;
+        font-family: sans-serif
     }
 
 
-    td {
+    .entry {
         margin: 10px;
         padding: 10px;
         text-align: left;
@@ -108,11 +114,6 @@
         border-collapse: separate;
         border-spacing: 40px;
     }
-
-    /* tr:nth-child(even) td:nth-child(odd),
-    tr:nth-child(odd) td:nth-child(even) {
-        background: rgb(230, 230, 230);
-    } */
 
     p.title {
         font-size: 18px;
@@ -195,27 +196,27 @@
         <input type="radio" id="Pre-1700" name="mytabs" checked="checked">
         <label for="Pre-1700" style=border-left-width:0px;>Pre 1700</label>
         <div class="tab">
-            <table id="Pre-1700_table"></table>
+            <div class="period" id="Pre-1700_table"></div>
         </div>
         <input type="radio" id="1700-1799" name="mytabs">
         <label for="1700-1799">1700-1799</label>
         <div class="tab">
-            <table id="1700-1799_table"></table>
+            <div class="period" id="1700-1799_table"></div>
         </div>
         <input type="radio" id="1800-1899" name="mytabs">
         <label for="1800-1899">1800-1899</label>
         <div class="tab">
-            <table id="1800-1899_table"></table>
+            <div class="period" id="1800-1899_table"></div>
         </div>
         <input type="radio" id="1900-1999" name="mytabs">
         <label for="1900-1999">1900-1999</label>
         <div class="tab">
-            <table id="1900-1999_table"></table>
+            <div class="period" id="1900-1999_table"></div>
         </div>
         <input type="radio" id="2000-2021" name="mytabs">
         <label for="2000-2021" style=border-right-width:0px;>2000-2021</label>
         <div class="tab">
-            <table id="2000-2021_table"></table>
+            <div class="period" id="2000-2021_table"></div>
         </div>
     </div>
 
@@ -243,210 +244,110 @@
         buildTable(myPeriod, id)
     }
 
-    function buildTable(data, id) {
-        var table = document.getElementById(id)
-        table.innerHTML = ''
+    function buildCards(data, id) {
+        var card = document.getElementById(id)
+        card.innerHTML = ''
         for (var i = 0; i < data.length; i++) {
             var row =
-                `<tr>
-                    <td id=${data[i][0].eyedee}>
-                        <p class="title">${data[i][0].title}</p>
-                        <p class="medium">${data[i][0].medium}</p>
-                        <u class="heading">Contributor(s)</u>
-                        <ul class="info">${data[i][0].contributors}</ul>
-                        <u class="heading">Publication date</u>
-                        <ul class="info">${data[i][0].date}</ul>
-                        <u class="heading">Duration</u>
-                        <ul class="info">${data[i][0].duration}</ul>
-                        <u class="heading">Publisher</u>
-                        <ul class="info">${data[i][0].publisher}</ul>
-                        <u class="heading">Publication location</u>
-                        <ul class="info">${data[i][0].location}</ul>
-                        <u class="heading">Language(s)</u>
-                        <ul class="info">${data[i][0].languages}</ul>`
+                `<div class="entry" id=${data[i][0].eyedee}>
+                    <p class="title">${data[i][0].title}</p>
+                    <p class="medium">${data[i][0].medium}</p>
+                    <u class="heading">Contributor(s)</u>
+                    <ul class="info">${data[i][0].contributors}</ul>
+                    <u class="heading">Publication date</u>
+                    <ul class="info">${data[i][0].date}</ul>
+                    <u class="heading">Duration</u>
+                    <ul class="info">${data[i][0].duration}</ul>
+                    <u class="heading">Publisher</u>
+                    <ul class="info">${data[i][0].publisher}</ul>
+                    <u class="heading">Publication location</u>
+                    <ul class="info">${data[i][0].location}</ul>
+                    <u class="heading">Language(s)</u>
+                    <ul class="info">${data[i][0].languages}</ul>`
 
-                        if (data[i][0].container != undefined) {
-                            row +=
-                                `<u class="heading">Container</u>
-                                <ul class="info">${data[i][0].container}</ul>`
-                        }
-
-                        if (data[i][0].iteration != undefined) {
-                            row +=
-                                `<u class="heading">Iteration</u>
-                                <ul class="info">${data[i][0].iteration}</ul>`
-                        }
-
+                    if (data[i][0].container != undefined) {
                         row +=
-                            `<u class="heading">Summary and significance</u>
-                                <ul class="info">${data[i][0].summary}</ul>
-                                <u class="heading">Link(s) to source</u>
-                                <ul class="info">${data[i][0].links}</ul>`
+                            `<u class="heading">Container</u>
+                            <ul class="info">${data[i][0].container}</ul>`
+                    }
 
-                        if (data[i][0].notes != undefined) {
-                            row +=
-                                `<u class="heading">Notes</u>
-                                <ul class="info">${data[i][0].notes}</ul>`
-                        }
+                    if (data[i][0].iteration != undefined) {
+                        row +=
+                            `<u class="heading">Iteration</u>
+                            <ul class="info">${data[i][0].iteration}</ul>`
+                    }
 
-                        if (data[i][0].references != undefined) {
-                            row +=
-                                `<u class="heading">References</u>
-                                <br>${data[i][0].references}`
-                        }
+                    row +=
+                        `<u class="heading">Summary and significance</u>
+                            <ul class="info">${data[i][0].summary}</ul>`
+
+                    if (data[i][0].notes != undefined) {
+                        row +=
+                            `<u class="heading">Notes</u>
+                            <ul class="info">${data[i][0].notes}</ul>`
+                    }
+
+                    if (data[i][0].references != undefined) {
+                        row +=
+                            `<u class="heading">References</u>
+                            <br>${data[i][0].references}`
+                    }
+                    row +=
+                `<div class="links"><u class="heading">Link(s) to source</u>
+                            <ul class="info">${data[i][0].links}</ul></div>`
                 row +=
-                    `</td>`
+                    `</div>`
                     if (data[i][1].title != undefined) {
                         row +=
-                        `<td id=${data[i][1].eyedee}>
-                        <p class="title">${data[i][1].title}</p>
-                        <p class="medium">${data[i][1].medium}</p>
-                        <u class="heading">Contributor(s)</u>
-                        <ul class="info">${data[i][1].contributors}</ul>
-                        <u class="heading">Publication date</u>
-                        <ul class="info">${data[i][1].date}</ul>
-                        <u class="heading">Duration</u>
-                        <ul class="info">${data[i][1].duration}</ul>
-                        <u class="heading">Publisher</u>
-                        <ul class="info">${data[i][1].publisher}</ul>
-                        <u class="heading">Publication location</u>
-                        <ul class="info">${data[i][1].location}</ul>
-                        <u class="heading">Language(s)</u>
-                        <ul class="info">${data[i][1].languages}</ul>`
+                        `<div class="entry" id=${data[i][1].eyedee}>
+                            <p class="title">${data[i][1].title}</p>
+                            <p class="medium">${data[i][1].medium}</p>
+                            <u class="heading">Contributor(s)</u>
+                            <ul class="info">${data[i][1].contributors}</ul>
+                            <u class="heading">Publication date</u>
+                            <ul class="info">${data[i][1].date}</ul>
+                            <u class="heading">Duration</u>
+                            <ul class="info">${data[i][1].duration}</ul>
+                            <u class="heading">Publisher</u>
+                            <ul class="info">${data[i][1].publisher}</ul>
+                            <u class="heading">Publication location</u>
+                            <ul class="info">${data[i][1].location}</ul>
+                            <u class="heading">Language(s)</u>
+                            <ul class="info">${data[i][1].languages}</ul>`
 
-                        if (data[i][1].container != undefined) {
+                            if (data[i][1].container != undefined) {
+                                row +=
+                                    `<u class="heading">Container</u>
+                                    <ul class="info">${data[i][1].container}</ul>`
+                            }
+
+                            if (data[i][0].iteration != undefined) {
+                                row +=
+                                    `<u class="heading">Iteration</u>
+                                    <ul class="info">${data[i][1].iteration}</ul>`
+                            }
+
                             row +=
-                                `<u class="heading">Container</u>
-                                <ul class="info">${data[i][1].container}</ul>`
-                        }
+                                `<u class="heading">Summary and significance</u>
+                                    <ul class="info">${data[i][1].summary}</ul>`
 
-                        if (data[i][1].iteration != undefined) {
+                            if (data[i][1].notes != undefined) {
+                                row +=
+                                    `<u class="heading">Notes</u>
+                                    <ul class="info">${data[i][1].notes}</ul>`
+                            }
+
+                            if (data[i][1].references != undefined) {
+                                row +=
+                                    `<u class="heading">References</u>
+                                    <br>${data[i][1].references}`
+                            }
                             row +=
-                                `<u class="heading">Iteration</u>
-                                <ul class="info">${data[i][1].iteration}</ul>`
-                        }
+                        `<div class="links"><u class="heading">Link(s) to source</u>
+                                    <ul class="info">${data[i][1].links}</ul></div>`
 
-                        row +=
-                            `<u class="heading">Summary and significance</u>
-                                <ul class="info">${data[i][1].summary}</ul>
-                                <u class="heading">Link(s) to source</u>
-                                <ul class="info">${data[i][1].links}</ul>`
-
-                        if (data[i][1].notes != undefined) {
-                            row +=
-                                `<u class="heading">Notes</u>
-                                <ul class="info">${data[i][1].notes}</ul>`
-                        }
-
-                        if (data[i][1].references != undefined) {
-                            row +=
-                                `<u class="heading">References</u>
-                                <br>${data[i][1].references}`
-                        }
-                        `</td>`
-                    }
-                    row += 
-                    `</tr>`
                     row +=
-                    `<tr>`
-                    if (data[i][2].title != undefined) {
-                        row +=
-                        `<td id=${data[i][2].eyedee}>
-                        <p class="title">${data[i][2].title}</p>
-                        <p class="medium">${data[i][2].medium}</p>
-                        <u class="heading">Contributor(s)</u>
-                        <ul class="info">${data[i][2].contributors}</ul>
-                        <u class="heading">Publication date</u>
-                        <ul class="info">${data[i][2].date}</ul>
-                        <u class="heading">Duration</u>
-                        <ul class="info">${data[i][2].duration}</ul>
-                        <u class="heading">Publisher</u>
-                        <ul class="info">${data[i][2].publisher}</ul>
-                        <u class="heading">Publication location</u>
-                        <ul class="info">${data[i][2].location}</ul>
-                        <u class="heading">Language(s)</u>
-                        <ul class="info">${data[i][2].languages}</ul>`
-
-                        if (data[i][2].container != undefined) {
-                            row +=
-                                `<u class="heading">Container</u>
-                                <ul class="info">${data[i][2].container}</ul>`
-                        }
-
-                        if (data[i][2].iteration != undefined) {
-                            row +=
-                                `<u class="heading">Iteration</u>
-                                <ul class="info">${data[i][2].iteration}</ul>`
-                        }
-
-                        row +=
-                            `<u class="heading">Summary and significance</u>
-                                <ul class="info">${data[i][2].summary}</ul>
-                                <u class="heading">Link(s) to source</u>
-                                <ul class="info">${data[i][2].links}</ul>`
-
-                        if (data[i][2].notes != undefined) {
-                            row +=
-                                `<u class="heading">Notes</u>
-                                <ul class="info">${data[i][2].notes}</ul>`
-                        }
-
-                        if (data[i][2].references != undefined) {
-                            row +=
-                                `<u class="heading">References</u>
-                                <br>${data[i][2].references}`
-                        }
-                        `</td>`
-                    if (data[i][3].title != undefined) {
-                        row +=
-                        `<td id=${data[i][3].eyedee}>
-                        <p class="title">${data[i][3].title}</p>
-                        <p class="medium">${data[i][3].medium}</p>
-                        <u class="heading">Contributor(s)</u>
-                        <ul class="info">${data[i][3].contributors}</ul>
-                        <u class="heading">Publication date</u>
-                        <ul class="info">${data[i][3].date}</ul>
-                        <u class="heading">Duration</u>
-                        <ul class="info">${data[i][3].duration}</ul>
-                        <u class="heading">Publisher</u>
-                        <ul class="info">${data[i][3].publisher}</ul>
-                        <u class="heading">Publication location</u>
-                        <ul class="info">${data[i][3].location}</ul>
-                        <u class="heading">Language(s)</u>
-                        <ul class="info">${data[i][3].languages}</ul>`
-
-                        if (data[i][3].container != undefined) {
-                            row +=
-                                `<u class="heading">Container</u>
-                                <ul class="info">${data[i][3].container}</ul>`
-                        }
-
-                        if (data[i][3].iteration != undefined) {
-                            row +=
-                                `<u class="heading">Iteration</u>
-                                <ul class="info">${data[i][3].iteration}</ul>`
-                        }
-
-                        row +=
-                            `<u class="heading">Summary and significance</u>
-                                <ul class="info">${data[i][3].summary}</ul>
-                                <u class="heading">Link(s) to source</u>
-                                <ul class="info">${data[i][3].links}</ul>`
-
-                        if (data[i][3].notes != undefined) {
-                            row +=
-                                `<u class="heading">Notes</u>
-                                <ul class="info">${data[i][3].notes}</ul>`
-                        }
-
-                        if (data[i][3].references != undefined) {
-                            row +=
-                                `<u class="heading">References</u>
-                                <br>${data[i][3].references}`
-                        }
-                        `</td>`
-                    }
-                        
+                    `</div>`
                     }
                 
             table.innerHTML += row
