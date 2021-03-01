@@ -343,7 +343,7 @@
         for (var i = 0; i < data.length; i++) {
             var row =
                 `<tr>
-                    <td id=${eyedee}>
+                    <td id=${data[i][0].eyedee}>
                         <p class="title">${data[i][0].title}</p>
                         <p class="medium">${data[i][0].medium}</p>
                         <u class="heading">Contributor(s)</u>
@@ -392,7 +392,7 @@
                     `</td>`
                     if (data[i][1].title != undefined) {
                         row +=
-                        `<td id=${eyedee}>
+                        `<td id=${data[i][1].eyedee}>
                         <p class="title">${data[i][1].title}</p>
                         <p class="medium">${data[i][1].medium}</p>
                         <u class="heading">Contributor(s)</u>
@@ -445,7 +445,7 @@
                     `<tr>`
                     if (data[i][2].title != undefined) {
                         row +=
-                        `<td id=${eyedee}>
+                        `<td id=${data[i][2].eyedee}>
                         <p class="title">${data[i][2].title}</p>
                         <p class="medium">${data[i][2].medium}</p>
                         <u class="heading">Contributor(s)</u>
@@ -493,7 +493,7 @@
                         `</td>`
                     if (data[i][3].title != undefined) {
                         row +=
-                        `<td id=${eyedee}>
+                        `<td id=${data[i][3].eyedee}>
                         <p class="title">${data[i][3].title}</p>
                         <p class="medium">${data[i][3].medium}</p>
                         <u class="heading">Contributor(s)</u>
