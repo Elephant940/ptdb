@@ -398,7 +398,7 @@ module.exports = [
             location: `N/A`,
             medium: `Digitally published magazine article`,                
             publisher: `Smithsonian`,
-            summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_1_color" onclick="goToSource('2000-2021','Rohland_et_al_2010_1', this.id)">Rohland et al., 2010</a>.`,
+            summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_1_color" onclick="goToSource('2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a>.`,
             title: `The Elephant Family Tree, Extinct and Extant`,
         },
         {
@@ -473,7 +473,7 @@ module.exports = [
             location: `N/A`,
             medium: `Published blog post`,                
             publisher: `Trunks & Leaves Inc.`,
-            summary: `A laymen-oriented summary of <a id="Pardo_et_al_2019_1_color" onclick="goToSource('2000-2021','Pardo_et_al_2019_1', this.id)">Pardo et al., 2019</a> by one of the paper's coauthors.`,
+            summary: `A laymen-oriented summary of <a id="Pardo_et_al_2019_1_color" onclick="goToSource('2000-2021','Pardo_et_al_2019', this.id)">Pardo et al., 2019</a> by one of the paper's coauthors.`,
             title: `Call Combinations Differ Among Living Elephants`,
         },
         {
@@ -578,7 +578,7 @@ module.exports = [
             location: `Bloomington, Indiana, United States of America`,
             medium: `Digitally published news article and radio segment`,
             publisher: `Indiana Public Media`,
-            summary: `A laymen-oriented summary of <a id="Goldenberg_Wittemyer_2019_1_color" onclick="goToSource('2000-2021','Goldenberg_Wittemyer_2019_1', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
+            summary: `A laymen-oriented summary of <a id="Goldenberg_Wittemyer_2019_1_color" onclick="goToSource('2000-2021','Goldenberg_Wittemyer_2019', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
             title: `Do Elephants Grieve Their Dead?`,
         },
         {},
