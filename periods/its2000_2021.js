@@ -274,6 +274,22 @@ module.exports = [
             title: `Range-wide mtDNA phylogeography yields insights into the origins of Asian elephants`,
         },
         {
+            container: `<i>Science</i> (Sci.), digitally published academic journal`,
+            contributors: `Ros Clubb (coauthor); Marcus Rowcliffe (coauthor); Phyllis C. Lee (coauthor); Khyne U. Mar (coauthor); Cynthia J. Moss (coauthor); Georgia J. Mason (coauthor)`,
+            date: `2008/12/12`,
+            duration: `p. 1649`,
+            iteration: `Vol. 322, Issue 5908`,
+            languages: `English`,
+            links: `<li><a href="https://doi.org/10.1126/science.1164298" target="_blank">From publisher (DOI: 10.1126/science.1164298)</a><li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.940.3314" target="_blank">From CiteSeerX</a><li><a href="https://www.academia.edu/5078924/Compromised_Survivorship_in_Zoo_Elephants" target="_blank">From Academia</a><li><a href="https://www.researchgate.net/publication/23655237_Compromised_Survivorship_in_Zoo_Elephants" target="_blank">From ResearchGate</a><li><a href="https://web.archive.org/web/20090529195253/http://www.elephants.com/media/Compromised%20Survivorship%20in%20Zoo%20Elephants.pdf" target="_blank">From the Elephant Sanctuary</a>, archived in the Wayback Machine<li><a href="https://endcap.eu/wp-content/uploads/2012/06/Compromised-Survivorship-in-Zoo-Elephants-2008-G.-Mason-et-al.pdf" target="_blank">From ENDCAP</a><li><a href="http://www.freewpzelephants.com/wp-content/uploads/2008/12/zoo-life-harmful-to-elephants.pdf" target="_blank">From the Friends of Woodland Park Zoo Elephants</a><li><a href="https://web.archive.org/web/20170808115604/http://www.rufford.org/files/Science%20Vol%20322%2012%20December%202008.pdf" target="_blank">From the Rufford Foundation</a>, archived in the Wayback Machine<li><a href="https://web.archive.org/web/20170809215617/http://www.rufford.org/files/Science%20Clubb%20etal%202008.pdf" target="_blank">From the Rufford Foundation</a>, archived in the Wayback Machine`,
+            location: `N/A`,
+            medium: `Digitally published academic journal article`,
+            publisher: `American Association for the Advancement of Science (AAAS)`,
+            summary: `TBA.`,
+            title: `Compromised Survivorship in Zoo Elephants`,
+        },
+    ],
+    [
+        {
             container: `<i>Biotropica</i>, digitally published academic journal`,
             contributors: `Ahimsa Campos‐Arceiz (author)`,
             date: `2009/06/29`,
@@ -287,8 +303,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Shit Happens (to be Useful)! Use of Elephant Dung as Habitat by Amphibians`,
         },
-    ],
-    [
         {
             container: `<i>The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology</i> (Anat. Rec.), digitally published academic journal`,
             contributors: `Nancy E. Todd (author)`,
@@ -332,6 +346,8 @@ module.exports = [
             summary: `TBA.`,
             title: `<span id="Rohland_et_al_2010_1">Genomic DNA Sequences from Mastodon and Woolly Mammoth Reveal Deep Speciation of Forest and Savanna Elephants`,
         },
+    ],
+    [
         {
             container: `<i>Nature News</i>, published news website`,
             contributors: `Natasha Gilbert (author)`,
@@ -345,8 +361,19 @@ module.exports = [
             summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_1_color" onclick="goToSource('2000-2021','Rohland_et_al_2010_1', this.id)">Rohland et al., 2010</a> with quotes from one of the paper's coauthors.`,
             title: `African elephants are two distinct species`,
         },
-    ],
-    [
+        {
+            container: `<i>Smithsonian Magazine</i>, digitally published magazine`,
+            contributors: `Laura Helmuth (author)`,
+            date: `2010/12/27`,
+            duration: `476 words`,
+            languages: `N/A`,
+            links: `<li><a href="https://www.smithsonianmag.com/science-nature/the-elephant-family-tree-extinct-and-extant-40883904/" target="_blank">From publisher</a>`,
+            location: `N/A`,
+            medium: `Digitally published magazine article`,                
+            publisher: `Smithsonian`,
+            summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_1_color" onclick="goToSource('2000-2021','Rohland_et_al_2010_1', this.id)">Rohland et al., 2010</a>.`,
+            title: `The Elephant Family Tree, Extinct and Extant`,
+        },
         {
             container: `<i>Zoological Journal of the Linnean Society</i> (Zool. J. Linn. Soc.), digitally published academic journal`,
             contributors: `Advait M. Jukar (coauthor); S. Kathleen Lyons (coauthor); Mark D. Uhen (coauthor)`,
@@ -375,6 +402,8 @@ module.exports = [
             summary: `TBA.`,
             title: `<span id="Palkopoulou_et_al_2018_1">A comprehensive genomic history of extinct and living elephants`,
         }, 
+    ],
+    [
         {
             container: `<i>Behavioral Ecology</i> (Behav. Ecol.), digitally published academic journal`,
             contributors: `Michael A. Pardo (coauthor); Joyce H. Poole (coauthor); Angela S. Stoeger (coauthor); Peter H. Wrege (coauthor); Caitlin E. O'Connell-Rodwell (coauthor); Udaha Kapugedara Padmalal (coauthor); Shermin de Silva (coauthor)`,
@@ -402,8 +431,6 @@ module.exports = [
             summary: `A laymen-oriented summary of <a id="Pardo_et_al_2019_1_color" onclick="goToSource('2000-2021','Pardo_et_al_2019_1', this.id)">Pardo et al., 2019</a> by one of the paper's coauthors.`,
             title: `Call Combinations Differ Among Living Elephants`,
         },
-    ],
-    [
         {
             container: `<i>Polygon</i>, published news website`,
             contributors: `Matt Patches (author)`,
@@ -430,6 +457,9 @@ module.exports = [
             summary: `TBA.`,
             title: `<i>Elephas maximus</i>, Asian elephant`,
         },  
+        
+    ],
+    [
         {
             container: `<i>Primates</i>, digitally published academic journal`,
             contributors: `Shifra Z. Goldenberg (coauthor); George Wittemyer (coauthor)`,
@@ -459,8 +489,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Copperajah`,
         },
-    ],
-    [
         {
             container: `<i>IUCN News</i>, published news website`,
             contributors: `IUCN SSC African Elephant Specialist Group (author)`,
@@ -487,7 +515,5 @@ module.exports = [
             summary: `A laymen-oriented summary of <a id="Goldenberg_Wittemyer_2019_1_color" onclick="goToSource('2000-2021','Goldenberg_Wittemyer_2019_1', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
             title: `Do Elephants Grieve Their Dead?`,
         },
-        {},
-        {},
     ]
 ]
