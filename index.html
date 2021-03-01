@@ -71,9 +71,6 @@
         font-size: 25px;
         font-weight: bold;
         padding: 10px 0px;
-        position: sticky;
-        position: -webkit-sticky;
-        top: 0;
         width: 20%;
     }
 
@@ -95,7 +92,7 @@
         bottom: 0;
         display: inline-block;
         font-size: 16px;
-        height: auto;
+        height: 100vh;
         margin: 0px;
         padding: 0px;
         table-layout: fixed; 
@@ -195,9 +192,15 @@
             width: 70%;
         }
 
-        }
+    }
     
     @media screen and (min-width:226px) and (max-width: 330px) {
+
+        table {
+            position: sticky;
+            position: -webkit-sticky;
+            top: 0;
+        }
 
         tr {
             display: block;
@@ -225,9 +228,15 @@
             width: 70%;
         }
 
-        }
+    }
     
     @media screen and (min-width:331px) and (max-width: 375px) {
+
+        table {
+            position: sticky;
+            position: -webkit-sticky;
+            top: 0;
+        }
 
         tr {
             display: block;
