@@ -241,7 +241,7 @@
     async function getPeriod(id, endpoint) {
         var myPeriod = await fetch(`/api/v1/${endpoint}`);
         myPeriod = await myPeriod.json();
-        buildTable(myPeriod, id)
+        buildCards(myPeriod, id)
     }
 
     function buildCards(data, id) {
