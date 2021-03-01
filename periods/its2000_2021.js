@@ -7,7 +7,7 @@ module.exports = [
             duration: `pp. 1-4`,
             iteration: `Vol. 2, No. 4`,
             languages: `English`,
-            links: `<li><a href="https://doi.org/10.22237/elephant/1521732169" target="_blank">From Wayne State University DigitalCommons (DOI: 10.22237/elephant/1521732169)`,
+            links: `<li><a href="https://doi.org/10.22237/elephant/1521732169" target="_blank">From Wayne State University DigitalCommons (DOI: 10.22237/elephant/1521732169)</a>`,
             location: `Bloomfield Hills, Michigan, United States of America`,
             medium: `Physically published academic journal article, digitized`,
             publisher: `Elephant Research Foundation (ERF)`,
@@ -26,8 +26,7 @@ module.exports = [
             medium: `Physically published academic journal article, digitized`,
             publisher: `Elephant Research Foundation (ERF)`,
             summary: `TBA.`,
-            title: `Do <i>Loxodonta cyclotis</i> and <i>L</i>. <i>africana</i> Interbreed?`,
-            
+            title: `Do <i>Loxodonta cyclotis</i> and <i>L</i>. <i>africana</i> Interbreed?`,   
         },
     ],
     [
