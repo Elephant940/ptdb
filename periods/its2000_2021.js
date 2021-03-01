@@ -29,8 +29,6 @@ module.exports = [
             title: `Do <i>Loxodonta cyclotis</i> and <i>L</i>. <i>africana</i> Interbreed?`,
             
         },
-    ],
-    [
         {
             
             container: `<i>Heredity</i> (Hered.), digitally published academic journal`,
@@ -90,8 +88,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Effect of Long‐Term Preservation Methods on Fecal Glucocorticoid Concentrations of Grizzly Bear and African Elephant`,
         },
-    ],
-    [
         {
             container: `<i>Quaternary International</i> (Quat. Int.), digitally published academic journal`,
             contributors: `Jeheskel Shoshani (coauthor); Pascal Tassy (coauthor)`,
@@ -149,8 +145,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Elephant brain: Part I: Gross morphology, functions, comparative anatomy, and evolution`,
         },
-    ],
-    [
         {
             container: `<i>Applied Animal Behaviour Science</i> (Appl. Anim. Behav. Sci.), digitally published academic journal`,
             contributors: `Iain Douglas-Hamilton (coauthor); Shivani Bhalla (coauthor); George Wittemyer (coauthor); Fritz Vollrath (coauthor)`,
@@ -210,8 +204,6 @@ module.exports = [
             summary: `TBA.`,
             title: `The distribution, density and three‐dimensional histomorphology of Pacinian corpuscles in the foot of the Asian elephant (<i>Elephas maximus</i>) and their potential role in seismic communication`,
         },
-    ],
-    [
         {
             container: `<i>Molecular Ecology</i> (Mol. Ecol.), digitally published academic journal`,
             contributors: `Elizabeth A. Archie (coauthor); Julie A. Hollister‐Smith (coauthor); Joyce H. Poole (coauthor); Phyllis C. Lee (coauthor); Cynthia J. Moss (coauthor); Jésus E. Maldonado (coauthor); Robert C. Fleischer (coauthor); Susan C. Alberts (coauthor)`,
@@ -269,8 +261,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Auditory stimulation as enrichment for zoo-housed Asian elephants (<i>Elephas maximus</i>)`,
         },
-    ],
-    [
         {
             container: `<i>Philosophical Transactions of the Royal Society B</i> (Phil. Trans. R. Soc. B), digitally published academic journal`,
             contributors: `T.N.C. Vidya (coauthor); Raman Sukumar (coauthor); Don J. Melnick (coauthor)`,
@@ -328,9 +318,7 @@ module.exports = [
             publisher: `American Association for Anatomy (AAA)`,
             summary: `TBA.`,
             title: `Qualitative Comparison of the Cranio‐Dental Osteology of the Extant Elephants, <i>Elephas maximus</i> (Asian Elephant) and <i>Loxodonta africana</i> (African Elephant)`,
-        },
-    ],
-    [
+        },   
         {
             container: `<i>The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology</i> (Anat. Rec.), digitally published academic journal`,
             contributors: `Nancy E. Todd (author)`,
@@ -389,8 +377,6 @@ module.exports = [
             summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_color" onclick="goToSource('2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a>.`,
             title: `The Elephant Family Tree, Extinct and Extant`,
         },
-    ],
-    [
         {
             container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
             contributors: `A. Gopala (coauthor); O. Hadian (coauthor); Sunarto (coauthor); A. Sitompul (coauthor); A. Williams (coauthor); P. Leimgruber (coauthor); S.E. Chambliss (coauthor); D. Gunaryardi (coauthor); S. Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
@@ -450,8 +436,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Differences in combinatorial calls among the 3 elephant species cannot be explained by phylogeny`,
         },
-    ],
-    [
         {
             container: `<i>Maximus</i>, published blog`,
             contributors: `Michael A. Pardo (author)`,
@@ -508,8 +492,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Elephant behavior toward the dead: A review and insights from field observations`,
         },
-    ],
-    [
         {   
             container: `<i>Pokémon Trading Card Game (TCG): Sword and Shield — Darkness Ablaze</i>, physically published trading card game expansion`,
             contributors: `Kouki Saito (illustrator)`,
@@ -567,5 +549,7 @@ module.exports = [
             summary: `A laymen-oriented summary of <a id="Goldenberg_Wittemyer_2019_color" onclick="goToSource('2000-2021','Goldenberg_Wittemyer_2019', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
             title: `Do Elephants Grieve Their Dead?`,
         },
+        {},
+        {},
     ]
 ]

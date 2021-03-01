@@ -28,8 +28,6 @@ module.exports = [
             summary: `TBA.`,
             title: `A Treatise On Elephants. Their Treatment in Health and Disease`,
         },
-    ],
-    [
         {
             container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Lond. Soc.), physically published academic journal`,
             contributors: `Richard Lydekker (author)`,
@@ -88,8 +86,6 @@ module.exports = [
             summary: `TBA.`,
             title: `18. The Malay Race of the Indian Elephant, <i>Elephas maximus hirsutus</i>.`,
         },
-    ],
-    [
         {
             container: `<i>American Museum Novitates</i> (Am. Mus. Novit.), physically published academic journal`,
             contributors: `Henry Fairfield Osborn (author)`,
@@ -147,8 +143,6 @@ module.exports = [
             summary: `On page 190, Chasen recognizes all Asian elephants as a single species, <i>Elephas maximus</i>, with three subspecies. He retains <a id="Linnaeus_1758_color" onclick="goToSource('1700-1799','Linnaeus_1758', this.id)">Linnaeus's</a> <i>E</i>. <i>m</i>. <i>maximus</i> for the elephants of Sri Lanka, <a id="Temminck_1847_color" onclick="goToSource('1800-1899','Temminck_1847', this.id)">Temminck's</a> <i>E</i>. <i>m</i>. <i>sumatranus</i> for Sumatran elephants, and <a id="Cuvier_1798_color" onclick="goToSource('1700-1799','Cuvier_1798', this.id)">Cuvier's</a> <i>E</i>. <i>m</i>. <i>indicus</i> for all other living Asian elephants.`,
             title: `A Handlist of Malaysian Mammals`,
         },
-    ],
-    [
         {
             contributors: `Henry Fairfield Osborn (author); Mabel Rice Percy (editor)`,
             date: `1942`,
@@ -206,8 +200,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Prehistoric Evidence for <i>Elephas maximus</i> L. in Borneo`,
         },
-    ],
-    [
         {   
             container: `<i>Mammalian Species</i> (Mamm. Species), physically published academic journal`,
             contributors: `Larry Laursen (coauthor); Marc Bekoff (coauthor); Sydney Anderson (principal editor)`,
@@ -268,8 +260,6 @@ module.exports = [
             summary: `TBA.`,
             title: `<i>Elephas maximus</i>.`,
         },
-    ],
-    [
         {
             container: `<i>African Journal of Ecology</i> (Afr. J. Ecol.), physically published academic journal`,
             contributors: `G. Merz (author)`,
@@ -330,8 +320,6 @@ module.exports = [
             summary: `TBA.`,
             title: `Tuskless bulls in Asian elephant <i>Elephas maximus</i>. History and population genetics of a man-made phenomenon`,
         },
-    ],
-    [
         {
             contributors: `Kadzo Kangwana (editor, coauthor); Cynthia J. Moss (coauthor, copy editor); Joyce H. Poole (coauthor); Holly T. Dublin (coauthor); Russell Taylor (coauthor); Susan Mbugua (coauthor); Iain Douglas-Hamilton (coauthor); Richard Barnes (coauthor); Hugo Jachmann (coauthor); I. J. White (coauthor); Keith Lindsay (coauthor); Phyllis C. Lee (coauthor); Karen McComb (coauthor); Chris Thouless (coauthor); Hamisi Mutinda (coauthor); Nioroge Ngure (coauthor); Nigel Leader-Williams (coauthor); Ian Whyte (coauthor); Deborah Snelson (proof-reader); Chryssee Perry Martin (copy editor); Endangered Wildlife Trust (English-to-Portugese translator); Ursula Taube (English-to-French translator)`,
             container: '<i>AWF Technical Handbook Series</i>, physically published book series',
@@ -389,8 +377,6 @@ module.exports = [
             summary: `TBA.`,
             title: `<i>Mycobacterium tuberculosis</i> infection as a Zoonotic Disease: Transmission between Humans and Elephants`,  
         },
-    ],
-    [
         {
             container: `<i>Proceedings of the National Academy of Sciences</i> (PNAS), digitally published academic journal`,
             contributors: `Michael J. Stanhope (coauthor); Victor G. Waddell (coauthor); Ole Madsen (coauthor); Wilfried de Jong (coauthor); S. Blair Hedges (coauthor); Gregory C. Cleven (coauthor); Diana Kao (coauthor); Mark S. Springer (coauthor)`,

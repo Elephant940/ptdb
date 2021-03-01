@@ -29,8 +29,6 @@ module.exports = [
             title: `I. An Account of Elephants Teeth and Bones found under Ground.`,
             
         },
-    ],
-    [
         {
             container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (Phil. Trans.), physically published academic journal`,
             contributors: `John Philip Breyne (author)`,
@@ -88,8 +86,6 @@ module.exports = [
             summary: `The chapter on elephants, "XIV. Elephant.", is on pages 85-93.  Details TBA.`,
             title: `Synopsis of Quadrupeds`,
         },
-    ],
-    [
         {
             contributors: `Carolus Linnaeus (coauthor); Johann Fridrich Gmelin (coauthor)`,
             date: `1788`,
@@ -152,5 +148,7 @@ module.exports = [
             summary: `TBA.`,
             title: `XIII. Observations on the Different Species of Asiatic Elephants, and Their Mode of Dentition.`,
         },
+        {},
+        {}
     ]
 ]
