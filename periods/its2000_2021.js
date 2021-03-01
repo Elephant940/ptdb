@@ -375,6 +375,19 @@ module.exports = [
             title: `The Elephant Family Tree, Extinct and Extant`,
         },
         {
+            container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
+            contributors: `A. Gopala (coauthor); O. Hadian (coauthor); Sunarto (coauthor); A. Sitompul (coauthor); A. Williams (coauthor); P. Leimgruber (coauthor); S.E. Chambliss (coauthor); D. Gunaryardi (coauthor); S. Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
+            date: `2011/08/01`,
+            duration: `11 pp.`,
+            languages: `English`,
+            links: `<li><a href="https://dx.doi.org/10.2305/IUCN.UK.2011-2.RLTS.T199856A9129626.en" target="_blank">From publisher (DOI: 10.2305/IUCN.UK.2011-2.RLTS.T199856A9129626.en)</a>`,
+            location: `N/A`,
+            medium: `Digitally published article`,
+            publisher: `International Union for Conservation of Nature (IUCN)`,
+            summary: `TBA.`,
+            title: `<i>Elephas maximus</i> ssp. <i>maximus</i>, Sumatran elephant`,
+        },
+        {
             container: `<i>Zoological Journal of the Linnean Society</i> (Zool. J. Linn. Soc.), digitally published academic journal`,
             contributors: `Advait M. Jukar (coauthor); S. Kathleen Lyons (coauthor); Mark D. Uhen (coauthor)`,
             date: `2018/01/16`,
@@ -387,7 +400,9 @@ module.exports = [
             publisher: `The Linnean Society of London`,
             summary: `TBA.`,
             title: `A cranial correlate of body mass in proboscideans`,
-        },   
+        },      
+    ],
+    [
         {
             container: `<i>Proceedings of the National Academy of Sciences</i> (PNAS), digitally published academic journal`,
             contributors: `Eleftheria Palkopoulou (coauthor); Mark Lipson (coauthor); Swapan Mallick (coauthor); Svend Nielsen (coauthor); Nadin Rohland (coauthor); Sina Baleka (coauthor); Emil Karpinski (coauthor); Atma M. Ivancevic (coauthor); Thu-Hien To (coauthor); R. Daniel Kortschak (coauthor); Joy M. Raison (coauthor); Zhipeng Qu (coauthor); Tat-Jun Chin (coauthor); Kurt W. Alt (coauthor); Stefan Claesson (coauthor); Love Dalén (coauthor); Ross D.E. MacPhee (coauthor); Harald Meller (coauthor); Alfred L. Roca (coauthor); Oliver A. Ryder (coauthor); David Heiman (coauthor); Sarah Young (coauthor); Matthew Breen (coauthor); Christina Williams (coauthor); Bronwen L. Aken (coauthor); Magali Ruffier (coauthor); Elinor Karlsson (coauthor); Jeremy Johnson (coauthor); Federica Di Palma (coauthor); Jessica Alfoldi (coauthor);  David L. Adelson (coauthor); Thomas Mailund (coauthor); Kasper Munch (coauthor); Kerstin Lindblad-Toh (coauthor); Michael Hofreiter (coauthor); Hendrik Poinar (coauthor); David Reich (coauthor)`,
@@ -402,8 +417,6 @@ module.exports = [
             summary: `TBA.`,
             title: `<span id="Palkopoulou_et_al_2018_1">A comprehensive genomic history of extinct and living elephants`,
         }, 
-    ],
-    [
         {
             container: `<i>Behavioral Ecology</i> (Behav. Ecol.), digitally published academic journal`,
             contributors: `Michael A. Pardo (coauthor); Joyce H. Poole (coauthor); Angela S. Stoeger (coauthor); Peter H. Wrege (coauthor); Caitlin E. O'Connell-Rodwell (coauthor); Udaha Kapugedara Padmalal (coauthor); Shermin de Silva (coauthor)`,
@@ -444,6 +457,8 @@ module.exports = [
             summary: `An interview with <i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty, in which he says that Behemoth's design was heavily inspired by woolly mammoths.`,
             title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
         },  
+    ],
+    [
         {
             container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
             contributors: `C. Williams (coauthor, reviewer, facilitator, compiler); S.K. Tiwari (coauthor, facilitator, compiler); V.R. Goswami (coauthor); S. de Silva (coauthor); A. Kumar (coauthor); N. Baskaran (coauthor); K. Yoganand (coauthor); V. Menon (coauthor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
@@ -457,9 +472,6 @@ module.exports = [
             summary: `TBA.`,
             title: `<i>Elephas maximus</i>, Asian elephant`,
         },  
-        
-    ],
-    [
         {
             container: `<i>Primates</i>, digitally published academic journal`,
             contributors: `Shifra Z. Goldenberg (coauthor); George Wittemyer (coauthor)`,
@@ -502,6 +514,21 @@ module.exports = [
             summary: `TBA.`,
             title: `Statement of the IUCN SSC African Elephant Specialist Group on elephant deaths in Botswana`,
         },
+    ],
+    [
+        {
+            container: `<i>Wikipedia</i>, published website`,
+            contributors: `Elephant940 (compiler)`,
+            date: `Created 2020/12/29, last updated 2021/01/09`,
+            duration: `388 Wikipedia articles`,
+            languages: `English`,
+            links: `<li><a href="https://en.wikipedia.org/wiki/User:Elephant940/Books/Elephants" target="_blank">From publisher</a>`,
+            location: `N/A`,
+            medium: `Published webpage`,
+            publisher: `Wikimedia Foundation`,
+            summary: `A comprehensive list of English Wikipedia articles relating to probsocideans.`,
+            title: `User:Elephant940/Books/Elephants`,
+        },
         {
             container: `<i>A Moment of Science</i>, published radio program`,
             contributors: `Paul Patton (author)`,
@@ -515,5 +542,8 @@ module.exports = [
             summary: `A laymen-oriented summary of <a id="Goldenberg_Wittemyer_2019_1_color" onclick="goToSource('2000-2021','Goldenberg_Wittemyer_2019_1', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
             title: `Do Elephants Grieve Their Dead?`,
         },
+        {},
+        {},
+        {},
     ]
 ]
