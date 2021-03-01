@@ -140,7 +140,7 @@ module.exports = [
             location: `Singapore`,
             medium: `Physically published book, digitized`,
             publisher: `Raffles Museum`,
-            summary: `On page 190, Chasen recognizes all Asian elephants as a single species, <i>Elephas maximus</i>, with three subspecies. He retains <a id="Linnaeus_1758_color" onclick="goToSource('1700-1799','Linnaeus_1758', this.id)">Linnaeus's</a> <i>E</i>. <i>m</i>. <i>maximus</i> for the elephants of Sri Lanka, <a id="Temminck_1847_color" onclick="goToSource('1800-1899','Temminck_1847', this.id)">Temminck's</a> <i>E</i>. <i>m</i>. <i>sumatranus</i> for Sumatran elephants, and <a id="Cuvier_1798_color" onclick="goToSource('1700-1799','Cuvier_1798', this.id)">Cuvier's</a><i>E</i>. <i>m</i>. <i>indicus</i> for all other living Asian elephants.`,
+            summary: `On page 190, Chasen recognizes all Asian elephants as a single species, <i>Elephas maximus</i>, with three subspecies. He retains <a id="Linnaeus_1758_color" onclick="goToSource('1700-1799','Linnaeus_1758', this.id)">Linnaeus's</a> <i>E</i>. <i>m</i>. <i>maximus</i> for the elephants of Sri Lanka, <a id="Temminck_1847_color" onclick="goToSource('1800-1899','Temminck_1847', this.id)">Temminck's</a> <i>E</i>. <i>m</i>. <i>sumatranus</i> for Sumatran elephants, and <a id="Cuvier_1798_color" onclick="goToSource('1700-1799','Cuvier_1798', this.id)">Cuvier's</a> <i>E</i>. <i>m</i>. <i>indicus</i> for all other living Asian elephants.`,
             title: `A Handlist of Malaysian Mammals`,
         },
         {
