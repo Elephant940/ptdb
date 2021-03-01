@@ -1,6 +1,5 @@
 module.exports = [
-    [
-        {
+        [{
             contributors: `Cornelis Cort (engraver)`,
             date: `1567`,
             duration: `approx. 41.8 x 53.8 cm (16.4 x 21.2 in)`,
@@ -13,8 +12,8 @@ module.exports = [
             publisher: `Antonio Lafreri`,
             summary: `TBA.`,
             title: `[The Battle Between Scipio and Hannibal at Zama]`,
-        },
-        {
+        }],
+        [{
             contributors: `Edward Topsell (author)`,
             date: `1607`,
             duration: `757 pp.`,
@@ -26,10 +25,8 @@ module.exports = [
             publisher: `Printed by William Jaggard`,
             summary: `TBA.`,
             title: `The Historie of Fovre-Footed Beastes. Describing the true and liuely figure of euery Beast, with a discourse of their seuerall Names, Conditions, Kindes, Vertues (both naturall and medicinall), Countries of their breed, their loue and hate to Mandkinde, and the wonderfull worke of God in their Creation, Preseruation, and Destruction. Necessary for all Diuines and Students, because the story of euery Beast is amplified with Narrations out of Scriptures, Fathers, Phylosophers, Physitians, and Poets: wherein are declared diuers Hyerogliphicks, Emblems, Epigrams, and other good Histories, Collected out of all the Volumes of Conradvs Gesner, and all other writers to this present day.`,   
-        },
-    ],
-    [
-        {
+        }],
+        [{
             contributors: `A. Moulines (author)`,
             date: `1682/>08/>28`,
             duration: `72 pp.`,
@@ -41,7 +38,5 @@ module.exports = [
             publisher: `Printed for Sam Smith`,
             summary: `TBA.`,
             title: `An Anatomical Account of the Elephant Accidentally Burnt in Dublin on Fryday, June 17 in the Year 1681. Sent in a Letter to Sir Will. Petty, Fellow of the Royal Society. Together With a Relation of new Anatomical Observations in the Eyes of Animals, Communicated in another Letter to the Honourable R. Boyle, Esq; Fellow of the same Society.`,
-        },
-        {}
-    ],
+        }],
 ]
