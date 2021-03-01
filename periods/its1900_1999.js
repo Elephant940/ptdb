@@ -18,6 +18,7 @@ module.exports = [
             contributors: `George Henry Evans (author)`,
             date: `1901`,
             duration: `343 pp.`,
+            eyedee: `Evans_1901`,
             iteration: `3rd ed.`,
             languages: `English`,
             links: `<li><a href="https://digital.nls.uk/indiapapers/browse/archive/75190071" target="_blank">From the National Library of Scotland</a><li><a href="https://archive.org/stream/in.ernet.dli.2015.221068#page/n3/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Digital Library of India<li><a href="https://archive.org/stream/TreatiseOnElephants#page/n3/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Digital Library of India`,
@@ -25,7 +26,7 @@ module.exports = [
             medium: `Physically published book, digitized`,
             publisher: `Superintendent of Government Printing`,
             summary: `TBA.`,
-            title: `<span id="Evans_1901_1">A Treatise On Elephants. Their Treatment in Health and Disease`,
+            title: `A Treatise On Elephants. Their Treatment in Health and Disease`,
         },
         {
             container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Lond. Soc.), physically published academic journal`,
@@ -67,7 +68,7 @@ module.exports = [
             location: `Rangoon, Burma [Myanmar]`,
             medium: `Physically published book, digitized`,
             publisher: `Superintendent of Government Printing`,
-            summary: `The 4th edition of <a id="Evans_1901_1_color" onclick="goToSource('1900-1999','Evans_1901_1', this.id)">Evans, 1901</a>. Details TBA.`,
+            summary: `The 4th edition of <a id="Evans_1901_color" onclick="goToSource('1900-1999','Evans_1901', this.id)">Evans, 1901</a>. Details TBA.`,
             title: `Elephants and Their Diseases: A Treatise on Elephants`,
         },
         {
@@ -294,6 +295,7 @@ module.exports = [
             contributors: `Phyllis C. Lee (coauthor); Cynthia J. Moss (coauthor)`,
             date: `1995/05`,
             duration: `pp. 29-41`,
+            eyedee: `Lee_Moss_1995`,
             iteration: `Vol. 236, Issue 1`,
             languages: `English`,
             links: `<li><a href="https://doi.org/10.1111/j.1469-7998.1995.tb01782.x" target="_blank">From publisher (DOI: 10.1111/j.1469-7998.1995.tb01782.x)</a> through Wiley Online Library`,
@@ -301,7 +303,7 @@ module.exports = [
             medium: `Physically published academic journal article, digitized`,
             publisher: `Zoological Society of London (ZSL)`,
             summary: `TBA.`,
-            title: `<span id="Lee_Moss_1995_1">Statural growth in known‐age African elephants (<i>Loxodonta africana</i>)`,
+            title: `Statural growth in known‐age African elephants (<i>Loxodonta africana</i>)`,
         },
         {
             container: `<i>Acta Theriologica</i> (Acta Theriol.), physically published academic journal`,
