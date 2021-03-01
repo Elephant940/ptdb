@@ -97,10 +97,6 @@
         table-layout: fixed; 
     }
 
-    tr {
-        scroll-margin-top: 900px;
-    }
-
     tr td {
         background-color: white;
     }
@@ -110,8 +106,7 @@
         padding: 10px;
         text-align:left;
         vertical-align: top;
-        width: 50vw;
-        
+        width: 50vw;   
     }
 
     tr:nth-child(even) td:nth-child(odd),
@@ -348,7 +343,7 @@
         for (var i = 0; i < data.length; i++) {
             var row =
                 `<tr>
-                    <td>
+                    <td id=${eyedee}>
                         <p class="title">${data[i][0].title}</p>
                         <p class="medium">${data[i][0].medium}</p>
                         <u class="heading">Contributor(s)</u>
@@ -397,7 +392,7 @@
                     `</td>`
                     if (data[i][1].title != undefined) {
                         row +=
-                        `<td>
+                        `<td id=${eyedee}>
                         <p class="title">${data[i][1].title}</p>
                         <p class="medium">${data[i][1].medium}</p>
                         <u class="heading">Contributor(s)</u>
@@ -450,7 +445,7 @@
                     `<tr>`
                     if (data[i][2].title != undefined) {
                         row +=
-                        `<td>
+                        `<td id=${eyedee}>
                         <p class="title">${data[i][2].title}</p>
                         <p class="medium">${data[i][2].medium}</p>
                         <u class="heading">Contributor(s)</u>
@@ -498,7 +493,7 @@
                         `</td>`
                     if (data[i][3].title != undefined) {
                         row +=
-                        `<td>
+                        `<td id=${eyedee}>
                         <p class="title">${data[i][3].title}</p>
                         <p class="medium">${data[i][3].medium}</p>
                         <u class="heading">Contributor(s)</u>

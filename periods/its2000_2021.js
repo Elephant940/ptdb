@@ -169,12 +169,13 @@ module.exports = [
             location: `N/A`,
             medium: `Digitally published article`,
             publisher: `Public Library of Science (PLoS)`,
-            summary: `A laymen-oriented summary of <a id="Blake_et_al_2007_color" onclick="goToSource('2000-2021','Blake_et_al_2007_1', this.id)">Blake et al., 2007</a>.`,
+            summary: `A laymen-oriented summary of <a id="Blake_et_al_2007_color" onclick="goToSource('2000-2021','Blake_et_al_2007a', this.id)">Blake et al., 2007</a>.`,
             title: `In the Shadows of the Congo Basin Forest, Elephants Fall to the Illegal Ivory Trade`,
         },
     ],
     [
         {
+            eyedee: `Blake_et_al_2007a`,
             container: `<i>PLoS Biology</i> (PLoS Biol.), digitally published academic journal`,
             contributors: `Stephen Blake (coauthor); Samantha Strindberg (coauthor); Patrick Boudjan (coauthor); Calixte Makombo (coauthor); Inogwabini Bila-Isia (coauthor); Omari Ilambu (coauthor); Falk Grossmann (coauthor); Lambert Bene-Bene (coauthor); Bruno de Semboli (coauthor); Valentin Mbenzo (coauthor); Dino S'hwa (coauthor); Rosine Bayogo (coauthor); Liz Williamson (coauthor); Mike Fay (coauthor); John Hart (coauthor); Fiona Maisels (coauthor)`,
             date: `2007/04/03`,
@@ -186,7 +187,7 @@ module.exports = [
             medium: `Digitally published article`,
             publisher: `Public Library of Science (PLoS)`,
             summary: `TBA.`,
-            title: `<span id="Blake_et_al_2007_1">Forest Elephant Crisis in the Congo Basin`,
+            title: `Forest Elephant Crisis in the Congo Basin`,
         },
         {
             container: `<i>Journal of Anatomy</i> (J. Anat.), digitally published academic journal`,
