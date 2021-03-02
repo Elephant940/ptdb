@@ -95,7 +95,7 @@
     }
 
     .entry {
-        min-height: 100%
+        display: flex
     }
 
     .entry_title {
@@ -248,6 +248,7 @@
         for (var i = 0; i < data.length; i++) {
             var row =
                 `<div class="entry">
+                    <div class="subentry">
                 <div class="entry_title" id=${data[i][0].eyedee}>
                     <p class="title">${data[i][0].title}</p>
                     <p class="medium">${data[i][0].medium}</p>
@@ -298,6 +299,8 @@
                             <ul class="info">${data[i][0].links}</ul></div>`
                 row +=
                     `</div>`
+                row +=
+                `</div>`
                 row +=
                 `</div>`
                 
