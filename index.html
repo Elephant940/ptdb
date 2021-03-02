@@ -88,6 +88,7 @@
     .period {
         display:grid;
         grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(auto-fill, 250px);
         gap: 0.7vw;
         padding: 0.7vw;
         background:rgb(237, 227, 214);
@@ -243,7 +244,7 @@
         card.innerHTML = ''
         for (var i = 0; i < data.length; i++) {
             var row =
-                `<div class="w3-hover-shadow">
+                `<div class="entry">
                 <div class="entry_title" id=${data[i][0].eyedee}>
                     <p class="title">${data[i][0].title}</p>
                     <p class="medium">${data[i][0].medium}</p>
