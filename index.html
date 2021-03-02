@@ -234,8 +234,9 @@
         card.innerHTML = ''
         for (var i = 0; i < data.length; i++) {
             var row =
-                `<div class="entry" id=${data[i][0].eyedee}>
-                    <p class="title">${data[i][0].title}</p>
+                `
+                <div class="title">${data[i][0].title}</div>
+                <div class="entry" id=${data[i][0].eyedee}>
                     <p class="medium">${data[i][0].medium}</p>
                     <u class="heading">Contributor(s)</u>
                     <ul class="info">${data[i][0].contributors}</ul>
