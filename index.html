@@ -114,14 +114,17 @@
     .medium {
         font-size: 15px;
         margin: 0px 0px 10px 0px;
+        padding: 1.4vw;
     }
 
     .heading {
         margin-left: 0px;
+        padding: 1.4vw;
     }
 
     .info {
         margin: 0px 0px 5px 0px;
+        padding: 1.4vw;
         text-align: left;
     }
 
@@ -129,6 +132,7 @@
         margin-bottom: 5px;
         margin-left: 43px;
         margin-top: 0px;
+        padding: 1.4vw;
         padding-left: 25px;
         text-indent: -25px;
     }
@@ -234,9 +238,9 @@
         card.innerHTML = ''
         for (var i = 0; i < data.length; i++) {
             var row =
-                `<div class="title">${data[i][0].title}</div>`
-                row +=
-                `<div class="entry" id=${data[i][0].eyedee}>
+                `
+                <div class="entry" id=${data[i][0].eyedee}>
+                    <p class="title">${data[i][0].title}</p>
                     <p class="medium">${data[i][0].medium}</p>
                     <u class="heading">Contributor(s)</u>
                     <ul class="info">${data[i][0].contributors}</ul>
