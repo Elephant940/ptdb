@@ -1,6 +1,5 @@
 module.exports = [
-    [
-        {
+        [{
             container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (Phil. Trans.), physically published academic journal`,
             contributors: `Anthony van Leeuwenhoek (author)`,
             date: `1712/>12`,
@@ -13,8 +12,8 @@ module.exports = [
             publisher: `Printed for H. Clemens, William Innys, and D. Brown`,
             summary: `TBA.`,
             title: `I. Some Remarks upon the Disposition of the Parts, and Microscopical Observations upon the Contexture of the Skin of Elephants.`,
-        },
-        {
+        }],
+        [{
             container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (Phil. Trans.), physically published academic journal`,
             contributors: `Hans Sloane (author)`,
             date: `1728/>09`,
@@ -28,10 +27,8 @@ module.exports = [
             summary: `TBA.`,
             title: `I. An Account of Elephants Teeth and Bones found under Ground.`,
             
-        },
-    ],
-    [
-        {
+        }],
+        [{
             container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (Phil. Trans.), physically published academic journal`,
             contributors: `John Philip Breyne (author)`,
             date: `1739`,
@@ -44,8 +41,8 @@ module.exports = [
             publisher: `Printed by T. Woodward and C. Davis for the Royal Society`,
             summary: `TBA.`,
             title: `VIII. A Letter From John Phil. Breyne, M. D. F. R. S. To Sir Hans Sloane, Bart. Pres. R. S. With Observations, and a Description of Some Mammoth's Bones Dug Up in Siberia.`,   
-        },
-        {
+        }],
+        [{
             contributors: `Carolus Linnaeus (author)`,
             date: `1758`,
             duration: `823 pp.`,
@@ -58,10 +55,8 @@ module.exports = [
             publisher: `Laurentius Salvius`,
             summary: `Linnaeus establishes a system of biological classification in which each animal is given a two part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into the same genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus classifies all living elephants as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.`,
             title:`Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
-        }
-    ],
-    [
-        {
+        }],
+        [{
             container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (Phil. Trans.), physically published academic journal`,
             contributors: `William Hunter (author)`,
             date: `1769/>06/>15`,
@@ -74,8 +69,8 @@ module.exports = [
             publisher: `Printed by L. Davis and C. Reymers for the Royal Society`,
             summary: `TBA.`,
             title: `V. Observations on Bones, Commonly Supposed to Be Elephant Bones, Which Have Been Found Near the River Ohio in America.`,
-        },
-        {
+        }],
+        [{
             contributors: `Thomas Pennant (author)`,
             date: `1771/>03/>20`,
             duration: `382 pp.`,
@@ -87,10 +82,8 @@ module.exports = [
             publisher: `Printed by J. Monk`,
             summary: `The chapter on elephants, "XIV. Elephant.", is on pages 85-93.  Details TBA.`,
             title: `Synopsis of Quadrupeds`,
-        },
-    ],
-    [
-        {
+        }],
+        [{
             contributors: `Carolus Linnaeus (coauthor); Johann Fridrich Gmelin (coauthor)`,
             date: `1788`,
             duration: `500 pp.`,
@@ -104,8 +97,8 @@ module.exports = [
             summary: `The 13th edition of <a id="Linnaeus_1758_color" onclick="goToSource('1700-1799','Linnaeus_1758', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants has been expanded but retains most of Linnaeus's original description, and can be found on page 58.`,
             title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
             
-        },
-        {
+        }],
+        [{
             contributors: `Johann Friedrich Blumenbach (author)`,
             date: `1797/>03/>20`,
             duration: `714 pp.`,
@@ -119,10 +112,8 @@ module.exports = [
             summary: `Blumenbach recognizes two species of living elephants and describes them on pages 124-125. He gives each a distinct name, <i>Elephas asiaticus</i> for the Asian elephant and <i>E</i>. <i>africanus</i> for the African elephant, and places them in the order Belluae.`,
             medium: `Physically published book, digitized`,
             title: `Handbuch der Naturgeschichte.`,
-        }
-    ],
-    [
-        {
+        }],
+        [{
             contributors: `Georges Léopold Chrétien Frédéric Dagobert Cuvier (author)`,
             date: `1798`,
             duration: `710 pp.`,
@@ -137,8 +128,8 @@ module.exports = [
             references: `<p class="refs">Convention nationale (1793). <a href="https://tolosana.univ-toulouse.fr/fr/notice/042658012" target="_blank"><i>Calendrier de la République française</i></a>. Paris: Imprimerie nationale France.</p>`,
             summary: `Cuvier recognizes two species of living elephants and describes them on pages 148-149. He gives each a distinct name, <i>Elephas indicus</i> for the Asian elephant and <i>E</i>. <i>capensis</i> for the African elephant, and states that elephants warrant placement in a new, unnamed order.`,
             title: `Tableau Élémentaire de l'Histoire Naturelle des Animaux.`,
-        },
-        {
+        }],
+        [{
             container: `<i>Philosophical Transactions of the Royal Society of London</i> (Phil. Trans. R. Soc. Lond.), physically published academic journal`,
             contributors: `John Corse (author)`,
             date: `1799/>06/>13`,
@@ -151,6 +142,5 @@ module.exports = [
             publisher: `W. Bulmer & Co.`,
             summary: `TBA.`,
             title: `XIII. Observations on the Different Species of Asiatic Elephants, and Their Mode of Dentition.`,
-        },
-    ]
+        }],
 ]

@@ -1,6 +1,5 @@
 module.exports = [
-    [
-        {
+        [{
             contributors: `Carolus Linnaeus (coauthor); Johann Fridrich Gmelin (coauthor); William Turton (Latin-to-English translator)`,
             date: `1802`,
             duration: `943 pp.`,
@@ -12,8 +11,8 @@ module.exports = [
             publisher: `Printed for Lackington, Allen, and Co.`,
             summary: `An English translation of <a id="Linnaeus_Gmelin_1788_color" onclick="goToSource('1700-1799','Linnaeus_Gmelin_1788', this.id)">Linnaeus and Gmelin, 1788</a>. The elephant section is on page 35.`,
             title: `A General System of Nature: Through the Three Grand Kingdoms of Animals, Vegetables, and Minerals; Systematically Divided Into Their Several Classes, Orders, Genera, Species, and Varieties With Their Habitations, Manners, Economy, Structure, and Peculiarities.`,
-        },
-        {
+        }],
+        [{
             contributors: `Pierre Camper (author); A.G. Camper (address author)`,
             date: `1802/>08/>18`,
             duration: `107 pp.`,
@@ -25,10 +24,8 @@ module.exports = [
             publisher: `H.J. Jansen`,
             summary: `TBA.`,
             title: `Description Anatomique d'un Éléphant Mâle`,
-        },
-    ],
-    [
-        {
+        }],
+        [{
             contributors: `Carolus D. Illiger (author)`,
             date: `1811/>04`,
             duration: `301 pp.`,
@@ -39,10 +36,9 @@ module.exports = [
             medium: `Physically published book, digitized`,
             publisher: `C. Salfeld`,
             summary: `Illiger employs <a id="Cuvier_1798_color" onclick="goToSource('1700-1799','Cuvier_1798', this.id)">Cuvier's</a> <i>Elephas indicus</i> for the Asian elephant and <a id="Blumenbach_1797_color" onclick="goToSource('1700-1799','Blumenbach_1797', this.id)">Blumenbach's</a> <i>E</i>. <i>africanus</i> for the African elephant, and on page 96 proposes the name Proboscidea for the family encompassing both.`,
-            title: `Prodromus Systematis Mammalium et Avium Additis Terminis Zoographicis Utriusque Classis, Eorumque Versione Germanica.`,
-            
-        },
-        {
+            title: `Prodromus Systematis Mammalium et Avium Additis Terminis Zoographicis Utriusque Classis, Eorumque Versione Germanica.`, 
+        }],
+        [{
             container: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>, physically published book`,
             contributors: `Frédéric Cuvier (author)`,
             date: `1825/09`,
@@ -55,10 +51,8 @@ module.exports = [
             publisher: `A. Belin`,
             summary: `TBA.`,
             title: `Éléphant d'Asie.`,
-        },
-    ],
-    [
-        {
+        }],
+        [{
             container: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>, physically published book`,
             contributors: `Frédéric Cuvier (author)`,
             date: `1825/11`,
@@ -72,8 +66,8 @@ module.exports = [
             publisher: `A. Belin`,
             summary: `Cuvier argues that African elephants are anatomically distinct enough from Asian elephants to warrant placement in a separate genus, which he names <i>Loxodonte</i>.`,
             title: `Éléphant d'Afrique.`,
-        },
-        {
+        }],
+        [{
             container: `<i>The Zoological Journal</i> (Zool. J.), physically published academic journal`,
             contributors: `Anonymous`,
             date: `1827/01`,
@@ -86,10 +80,8 @@ module.exports = [
             publisher: `W. Phillips`,
             summary: `The anonymous author Latinizes <a id="Cuvier_1825b_color" onclick="goToSource('1800-1899','Cuvier_1825b', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
             title: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriees, Dessinées d'Après des Animaux Vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hillaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
-        },
-    ],
-    [
-        {
+        }],
+        [{
             container: `<i>A Prodromus of a Synopsis Animalium, Comprising A Catalogue Raisonné, of the Zootomical Collection Of Joshua Brookes, Esq. F.R.S. Etc.</i>, physically published catalogue`,
             contributors: `Joshua Brookes (author)`,
             date: `1828/<07/<28`,
@@ -102,8 +94,8 @@ module.exports = [
             publisher: `Printed by Richard Taylor`,
             summary: `The section on elephants, "Fam. 1. Elephantidae. Proboscidea", is on pages 73-74.  Details TBA.`,
             title: `A Catalogue of the Anatomical & Zoological Museum of Joshua Brookes, Esq. F.R.S. Etc.`,
-        },
-        {
+        }],
+        [{
             container: `<i>Transactions of the American Philosophical Society</i> (Trans. Am. Philos. Soc.), physically published academic journal`,
             contributors: `John Davidson Godman (author)`,
             date: `1830/>01/>01`,
@@ -116,10 +108,8 @@ module.exports = [
             publisher: `American Philosophical Society (APS)`,
             summary: `TBA.`,
             title: `No. XIX. Description of a New Genus and New Species of Extinct Mammiferous Quadruped.`,
-        }
-    ],
-    [
-        {
+        }],
+        [{
             container: `<i>Proceedings of the Royal Irish Academy</i> (Proc. R. Ir. Acad.), physically published academic journal`,
             contributors: `Robert Harrison (author)`,
             date: `1847/>03/>31`,
@@ -132,8 +122,8 @@ module.exports = [
             publisher: `Printed by M. H. Gill for the Royal Irish Academy`,
             summary: `TBA.`,
             title: `On the Anatomy of the Elephant.`,
-        },
-        {
+        }],
+        [{
             contributors: `Coenraad Jacob Temminck (author)`,
             date: `1847/>05`,
             duration: `470 pp.`,
@@ -146,10 +136,8 @@ module.exports = [
             publisher: `A. Arnz & Comp.`,
             summary: `Temminck proposes on pages 91-92 that the elephants found on the island of Sumatra are a distinct species from those found elsewhere in Asia based on skeletal differences. He dubs these elephants <i>Elephas sumatranus</i>.`,
             title: `Coup-d'Oeil Général sur les Possessions Néerlandaises dans l'Inde Archipélagique.`,
-        },
-    ],
-    [
-        {
+        }],
+        [{
             container: `<i>The Quarterly Journal of the Geological Society of London</i> (Q. J. Geol. Soc. Lond.), physically published academic journal`,
             contributors: `Hugh Falconer (author)`,
             date: `1857/>06/>30`,
@@ -162,8 +150,8 @@ module.exports = [
             publisher: `Longman, Brown, Green, Longmans, and Roberts.`,
             summary: `TBA.`,
             title: `On the Species of Mastodon and Elephant occuring in the fossil state in Great Britain. Part I. Mastodon.`,
-        },
-        {
+        }],
+        [{
             container: `<i>Harper's Weekly. A Journal of Civilization.</i>, physically published newspaper`,
             contributors: `Thomas Nast (illustrator)`,
             date: `1874/11/07`,
@@ -176,10 +164,8 @@ module.exports = [
             publisher: `Harper & Brothers`,
             summary: `The earliest use of the elephant to represent the Republican Party.`,
             title: `The Third Term Panic.`,
-        },
-    ],
-    [
-        {
+        }],
+        [{
             container: `<i>Studies in Comparative Anatomy</i>, physically published book series`,
             contributors: `L.C. Miall (coauthor); F. Greenwood (coauthor)`,
             date: `1878`,
@@ -192,8 +178,8 @@ module.exports = [
             publisher: `Macmillan and Co.`,
             summary: `TBA.`,
             title: `Anatomy of the Indian Elephant`,
-        },
-        {      
+        }],
+        [{      
             contributors: `Matthew Scott (author)`,
             date: `1885/01/14~1885/09/15`,
             duration: `96 pp.`,
@@ -206,10 +192,8 @@ module.exports = [
             publisher: `Trow's Printing and Bookbinding Co.`,
             summary: `TBA.`,
             title: `Autobiography of Matthew Scott, Jumbo's Keeper Formerly of the Zoölogical Society's Gardens, London, and Receiver of Sir Edwin Landseer Medal in 1866 Also Jumbo's Biography by the Same Author.`,
-        },
-    ],
-    [    
-        {   
+        }],  
+        [{   
             contributors: `William Henry Flower (coauthor); Richard Lydekker (coauthor)`,
             date: `1891/>03`,
             duration: `763 pp.`,
@@ -221,8 +205,8 @@ module.exports = [
             publisher: `Adam and Charles Black`,
             summary: `The section on elephants, "Suborder Proboscidea", is on pages 418-436. Details TBA.`,
             title: `An Introduction to the Study of Mammals Living and Extinct`,
-        },    
-        {
+        }],    
+        [{
             contributors: `Anonymous`,
             date: `1899`,
             duration: `106 x 72 cm (41.7 x 28 in)`,
@@ -234,6 +218,5 @@ module.exports = [
             publisher: `Courier Litho. Co.`,
             summary: `TBA.`,
             title: `Ringling Bros. World's Greatest Shows: Nothing Like Them Ever Seen Before. The Funny, Wonderful Elephant Brass Band.`,
-        },
-    ]
+        }],
 ]
