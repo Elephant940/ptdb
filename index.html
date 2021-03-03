@@ -242,55 +242,55 @@
         card.innerHTML = ''
         for (var i = 0; i < data.length; i++) {
             var row =
-                `<div class="entry" id=${data[i].eyedee}>
+                `<div class="entry" id=${data[i][0].eyedee}>
                     <div class="entry_title">
-                    <p class="title">${data[i].title}</p>
-                    <p class="medium">${data[i].medium}</p>
+                    <p class="title">${data[i][0].title}</p>
+                    <p class="medium">${data[i][0].medium}</p>
                     </div>
                     <div class="entry_info">
                     <u class="heading">Contributor(s)</u>
-                    <ul class="info">${data[i].contributors}</ul>
+                    <ul class="info">${data[i][0].contributors}</ul>
                     <u class="heading">Publication date</u>
-                    <ul class="info">${data[i].date}</ul>
+                    <ul class="info">${data[i][0].date}</ul>
                     <u class="heading">Duration</u>
-                    <ul class="info">${data[i].duration}</ul>
+                    <ul class="info">${data[i][0].duration}</ul>
                     <u class="heading">Publisher</u>
-                    <ul class="info">${data[i].publisher}</ul>
+                    <ul class="info">${data[i][0].publisher}</ul>
                     <u class="heading">Publication location</u>
-                    <ul class="info">${data[i].location}</ul>
+                    <ul class="info">${data[i][0].location}</ul>
                     <u class="heading">Language(s)</u>
-                    <ul class="info">${data[i].languages}</ul>`
+                    <ul class="info">${data[i][0].languages}</ul>`
 
-                    if (data[i].container != undefined) {
+                    if (data[i][0].container != undefined) {
                         row +=
                             `<u class="heading">Container</u>
-                            <ul class="info">${data[i].container}</ul>`
+                            <ul class="info">${data[i][0].container}</ul>`
                     }
 
-                    if (data[i].iteration != undefined) {
+                    if (data[i][0].iteration != undefined) {
                         row +=
                             `<u class="heading">Iteration</u>
-                            <ul class="info">${data[i].iteration}</ul>`
+                            <ul class="info">${data[i][0].iteration}</ul>`
                     }
 
                     row +=
                         `<u class="heading">Summary and significance</u>
-                            <ul class="info">${data[i].summary}</ul>`
+                            <ul class="info">${data[i][0].summary}</ul>`
 
-                    if (data[i].notes != undefined) {
+                    if (data[i][0].notes != undefined) {
                         row +=
                             `<u class="heading">Notes</u>
-                            <ul class="info">${data[i].notes}</ul>`
+                            <ul class="info">${data[i][0].notes}</ul>`
                     }
 
-                    if (data[i].references != undefined) {
+                    if (data[i][0].references != undefined) {
                         row +=
                             `<u class="heading">References</u>
-                            <br>${data[i].references}`
+                            <br>${data[i][0].references}`
                     }
                     row +=
                 `<div class="links"><u class="heading">Link(s) to source</u>
-                            <ul class="info">${data[i].links}</ul></div>`
+                            <ul class="info">${data[i][0].links}</ul></div>`
                 row +=
                     `</div>`
                 row +=
