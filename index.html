@@ -216,7 +216,7 @@
         var grid = document.getElementsByClassName('period')[0],
         rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap')),
         rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
-        var rowSpan = Math.ceil((item.querySelector('.entry').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
+        var rowSpan = Math.ceil((item.querySelector('.entry-content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
         item.style.gridRowEnd = 'span '+rowSpan;
     }
 
@@ -258,6 +258,7 @@
         for (var i = 0; i < data.length; i++) {
             var row =
                 `<div class="entry" id=${data[i][0].eyedee}>
+                    <div class="entry-content">
                     <div class="entry_title">
                     <p class="title">${data[i][0].title}</p>
                     <p class="medium">${data[i][0].medium}</p>
@@ -306,6 +307,8 @@
                             <br>${data[i][0].references}`
                     }
                     row +=
+                        `</div>`
+                        row +=
                         `</div>`
                 row +=
                 `</div>`
