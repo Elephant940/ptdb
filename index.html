@@ -217,7 +217,7 @@
 <script>
 
     function resizeMasonryItem(item){
-        var grid = document.getElementsByClassName('period'),
+        var grid = document.getElementsByClassName('period')[0],
         rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap')),
         rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
         var rowSpan = Math.ceil((item.querySelector('.entry-content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
@@ -235,7 +235,6 @@
         masonryEvents.forEach( function(event) {
         window.addEventListener(event, resizeAllMasonryItems);
     } );
-
 
     function goToSource(tab, source, eyedee) {
         document.getElementById(tab).checked = true;
