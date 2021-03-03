@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <head>
-    <link rel="icon" loading="lazy" href="https://web.archive.org/web/20210131141812if_/http://www.phylopic.org/assets/images/submissions/09af15bc-97ee-4fa0-9379-da7ee328560a.64.png"/>
+    <link rel="icon" loading="lazy" href="https://web.archive.org/web/20210131141812if_/http://www.phylopic.org/assets/images/submissions/09af15bc-97ee-4fa0-9379-da7ee328560a.64.png" />
     <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 
@@ -185,7 +185,6 @@
 <p class="favicon">Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to <a href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/" target="_blank">Richard Ruggiero and Zimices on PhyloPic</a>.</p>
 
 <body>
-
     <div class="mytabs">
         <input type="radio" id="Pre-1700" name="mytabs" checked="checked">
         <label for="Pre-1700" style=border-left-width:0px;>Pre 1700</label>
@@ -215,6 +214,7 @@
     </div>
 
 </body>
+
 
 <script>
 
@@ -277,16 +277,16 @@
                         `<u class="heading">Summary and significance</u>
                             <ul class="info">${data[i][0].summary}</ul>`
                     }
-
                     row +=
                         `<div class="links"><u class="heading">Link(s) to source</u>
                             <ul class="info">${data[i][0].links}</ul></div>`
-                    }
+
                     
                     if (data[i][0].notes != undefined) {
                         row +=
                             `<u class="heading">Notes</u>
                             <ul class="info">${data[i][0].notes}</ul>`
+                    
                     
                     if (data[i][0].references != undefined) {
                         row +=
@@ -300,4 +300,7 @@
                 
             card.innerHTML += row
         }
+
+    }
+
 </script>
