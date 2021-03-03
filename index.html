@@ -62,14 +62,14 @@
     }
 
     .mytabs label {
-        box-sizing: border-box;
         background:rgb(221, 202, 174);
+        border-radius: 40px 40px 0px 0px;
+        box-sizing: border-box;
         display: block;
         font-size: 25px;
         font-weight: bold;
         padding: 10px 0px;
         width: 20%;
-        border-radius: 40px 40px 0px 0px
     }
 
     .summary {
@@ -86,11 +86,11 @@
     }
 
     .period {
-        display:grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
-        padding: 10px;
         background:rgb(237, 227, 214);
+        display: grid;
+        gap: 10px;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 10px;
     }
 
     .entry {
@@ -99,21 +99,21 @@
     }
     
     .entry_title {
+        background-color:rgb(230, 230, 230);
+        border-radius: 20px 20px 0px 0px;
+        box-sizing: border-box;
+        margin: 0px;
         padding: 20px;
         padding-bottom: 10px;
         text-align: left;
         width: 100%;
-        box-sizing: border-box;
-        background-color:rgb(230, 230, 230);
-        border-radius: 20px 20px 0px 0px;
-        margin: 0px
     }
 
     .title {
+        border-radius: 20px;
         font-size: 18px;
         font-weight: bold;
         margin: 0px;
-        border-radius: 20px;
     }
 
     .medium {
@@ -122,14 +122,14 @@
     }
 
     .entry_info {
+        background-color:rgb(255, 255, 255);
+        border-radius: 0px 0px 20px 20px;
+        box-sizing: border-box;
+        margin: 0px;
         padding: 20px;
         padding-top: 10px;
         text-align: left;
         width: 100%;
-        box-sizing: border-box;
-        background-color:rgb(255, 255, 255);
-        border-radius: 0px 0px 20px 20px;
-        margin: 0px
     }
 
     .heading {
@@ -160,24 +160,6 @@
 
         .period {
             grid-template-columns: repeat(1, 1fr);
-            gap: 10px;
-            padding: 10px;
-        }
-
-        .entry {
-            border-radius: 20px;
-        }
-
-        .entry_title {
-            padding: 20px;
-            padding-bottom: 10px;
-            border-radius: 20px 20px 0px 0px;
-        }
-        
-        .entry_info {
-            padding: 20px;
-            padding-top: 10px;
-            border-radius: 0px 0px 20px 20px;
         }
 
         .mytabs label {
