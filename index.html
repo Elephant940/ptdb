@@ -101,30 +101,23 @@
     border-radius: 10px;
     }
 
-    .entry_title {
-        padding: 0.7vw;
-        text-align: left;
-        width: 100%;
-        box-sizing: border-box;
-        background-color: rgb(230,230,230);
-        border-radius: 1.4vw 1.4vw 0vw 0vw;
-    }
-    
-    .entry_info {
+    .entry {
         padding: 1.4vw;
         text-align: left;
         width: 100%;
         box-sizing: border-box;
         background-color:rgb(255, 255, 255);
-        border-radius: 0vw 0vw 1.4vw 1.4vw;
+        border-radius: 1.4vw;
+        box-sizing: border-box;
     }
 
-    
     .title {
         font-size: 18px;
         font-weight: bold;
         margin: 0px;
         background-color: rgb(230,230,230);
+        padding: 1.4vw;
+        width: 100%
     }
 
     .medium {
@@ -258,12 +251,9 @@
         card.innerHTML = ''
         for (var i = 0; i < data.length; i++) {
             var row =
-                `<div class="entry">
-                <div class="entry_title" id=${data[i][0].eyedee}>
+                `<div class="entry" id=${data[i][0].eyedee}>
                     <p class="title">${data[i][0].title}</p>
                     <p class="medium">${data[i][0].medium}</p>
-                </div>
-                <div class="entry_info" id=${data[i][0].eyedee}>
                     <u class="heading">Contributor(s)</u>
                     <ul class="info">${data[i][0].contributors}</ul>
                     <u class="heading">Publication date</u>
