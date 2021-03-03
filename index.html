@@ -213,7 +213,7 @@
 <script>
 
     function resizeMasonryItem(item){
-        var grid = document.getElementsByClassName('period')[0],
+        var grid = document.getElementsByClassName('period'),
         rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap')),
         rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
         var rowSpan = Math.ceil((item.querySelector('.entry-content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
