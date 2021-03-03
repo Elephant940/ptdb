@@ -89,6 +89,7 @@
         background:rgb(237, 227, 214);
         display: grid;
         gap: 10px;
+        grid-auto-rows: 0;
         grid-template-columns: repeat(2, 1fr);
         padding: 10px;
     }
@@ -211,34 +212,25 @@
 
 <script>
 
-function resizeMasonryItem(item){
-  /* Get the grid object, its row-gap, and the size of its implicit rows */
-  var grid = document.getElementsByClassName('period')[0],
-      rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap')),
-      rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
-var rowSpan = Math.ceil((item.querySelector('.entry').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
+    function resizeMasonryItem(item){
+        var grid = document.getElementsByClassName('period')[0],
+        rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap')),
+        rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
+        var rowSpan = Math.ceil((item.querySelector('.entry').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
+        item.style.gridRowEnd = 'span '+rowSpan;
+    }
 
-  /* Set the spanning as calculated above (S) */
-  item.style.gridRowEnd = 'span '+rowSpan;
-}
+    function resizeAllMasonryItems(){
+        var allItems = document.getElementsByClassName('entry');
+        for(var i=0;i<allItems.length;i++){
+            resizeMasonryItem(allItems[i]);
+        }
+    }
 
-function resizeAllMasonryItems(){
-  // Get all item class objects in one list
-  var allItems = document.getElementsByClassName('entry');
-
-  /*
-   * Loop through the above list and execute the spanning function to
-   * each list-item (i.e. each masonry item)
-   */
-  for(var i=0;i<allItems.length;i++){
-    resizeMasonryItem(allItems[i]);
-  }
-}
-
-var masonryEvents = ['load', 'resize'];
-masonryEvents.forEach( function(event) {
-  window.addEventListener(event, resizeAllMasonryItems);
-} );
+    var masonryEvents = ['load', 'resize'];
+        masonryEvents.forEach( function(event) {
+        window.addEventListener(event, resizeAllMasonryItems);
+    } );
 
 
     function goToSource(tab, source, eyedee) {
