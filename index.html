@@ -276,23 +276,21 @@
                     row +=
                         `<u class="heading">Summary and significance</u>
                             <ul class="info">${data[i][0].summary}</ul>`
-                    }
-                    row +=
-                        `<div class="links"><u class="heading">Link(s) to source</u>
-                            <ul class="info">${data[i][0].links}</ul></div>`
 
-                    
                     if (data[i][0].notes != undefined) {
                         row +=
                             `<u class="heading">Notes</u>
                             <ul class="info">${data[i][0].notes}</ul>`
-                    
-                    
+                    }
+
                     if (data[i][0].references != undefined) {
                         row +=
                             `<u class="heading">References</u>
                             <br>${data[i][0].references}`
                     }
+                    row +=
+                        `<div class="links"><u class="heading">Link(s) to source</u>
+                            <ul class="info">${data[i][0].links}</ul></div>`
                     row +=
                         `</div>`
                 row +=
