@@ -91,6 +91,7 @@
         gap: 10px;
         grid-auto-rows: 0;
         grid-template-columns: repeat(2, 1fr);
+        height: 100vh;
         padding: 10px;
     }
 
@@ -220,7 +221,9 @@
         var grid = document.getElementsByClassName('period')[0],
         rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap')),
         rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
+        
         var rowSpan = Math.ceil((item.querySelector('.entry-content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
+        
         item.style.gridRowEnd = 'span '+rowSpan;
     }
 
@@ -247,7 +250,6 @@
     getPeriod('1800-1899_table', '1800-1899')
     getPeriod('1900-1999_table', '1900-1999')
     getPeriod('2000-2021_table', '2000-2021')
-
 
     async function getPeriod(id, endpoint) {
         var myPeriod = await fetch(`/api/v1/${endpoint}`);
