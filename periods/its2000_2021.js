@@ -424,7 +424,7 @@ module.exports = [
             duration: `pp. 139-167`,
             iteration: `Vol. 3`,
             languages: `English`,
-            links: `<li><a href="https://doi.org/10.1146/annurev-animal-022114-110838" target="_blank">From publisher (DOI: 10.1146/annurev-animal-022114-110838</a>`,
+            links: `<li><a href="https://doi.org/10.1146/annurev-animal-022114-110838" target="_blank">From publisher (DOI: 10.1146/annurev-animal-022114-110838)</a>`,
             location: `N/A`,
             medium: `Digitally published academic journal article`,
             publisher: `Annual Reviews`,
