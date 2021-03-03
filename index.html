@@ -86,23 +86,20 @@
     }
 
     .period {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
-        grid-gap: 1.4vw;
-        grid-auto-rows: minmax(500px, auto);
-        grid-auto-flow: dense;
-        background: rgb(237, 227, 214);
-
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.7vw;
+        padding: 0.7vw;
+        background:rgb(237, 227, 214);
     }
 
     .entry {
         padding: 1.4vw;
-        margin: 0.7vw 0.7vw;
         text-align: left;
+        width: 100%;
         box-sizing: border-box;
         background-color:rgb(255, 255, 255);
         border-radius: 1.4vw;
-        box-sizing: border-box;
     }
 
     .title {
@@ -110,13 +107,13 @@
         font-weight: bold;
         margin: 0px;
         background-color: rgb(230,230,230);
-        padding: 0;
-        width: 100
+        border-radius: 20px;
+        padding: 10px
     }
 
     .medium {
         font-size: 15px;
-        margin: 0px;
+        margin: 0px 0px 10px 0px;
     }
 
     .heading {
@@ -146,27 +143,19 @@
     @media screen and (max-width: 540px) {
 
         .period {
-            grid-template-columns: repeat(1, 1fr);
-            gap: 5px;
-            padding: 5px;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+        padding: 10px;
         }
 
         .entry {
-            padding: 5px;
+            padding: 20px;
             border-radius: 20px;
         }
 
-        .entry_title {
-            padding: 10px;
-        }
-    
-        .entry_info {
-            padding: 20px;
-        }
-
         .mytabs label {
-        border-radius: 25px 25px 0px 0px
-        }
+        border-radius: 30px 30px 0px 0px
+    }
 
     }
 
@@ -245,7 +234,8 @@
         card.innerHTML = ''
         for (var i = 0; i < data.length; i++) {
             var row =
-                `<div class="entry" id=${data[i][0].eyedee}>
+                `
+                <div class="entry" id=${data[i][0].eyedee}>
                     <p class="title">${data[i][0].title}</p>
                     <p class="medium">${data[i][0].medium}</p>
                     <u class="heading">Contributor(s)</u>
@@ -293,12 +283,8 @@
                             <ul class="info">${data[i][0].links}</ul></div>`
                 row +=
                     `</div>`
-                row +=
-                `</div>`
                 
             card.innerHTML += row
         }
 
     }
-
-</script>
