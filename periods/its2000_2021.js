@@ -650,7 +650,7 @@ module.exports = [
             duration: `7 pp.`,
             iteration: `Vol. 16, Issue 4`,
             languages: `English`,
-            links: `<li><a href="https://doi.org/10.1098/rsbl.2020.0070" target="_blank">From publisher (DOI: 10.1098/rsbl.2020.0070</a>`,
+            links: `<li><a href="https://doi.org/10.1098/rsbl.2020.0070" target="_blank">From publisher (DOI: 10.1098/rsbl.2020.0070)</a>`,
             location: `N/A`,
             medium: `Digitally published academic journal article`,
             publisher: `The Royal Society`,
