@@ -439,7 +439,7 @@ module.exports = [
             eyedee: `Larramendi_2015`,
             iteration: `Vol. 61, No. 3`,
             languages: `English`,
-            links: `<li><a href="http://dx.doi.org/10.4202/app.00136.2014" target="_blank">From publisher (DOI: 10.4202/app.00136.2014)</a><li><a href="https://bioone.org/journals/acta-palaeontologica-polonica/volume-61/issue-3/app.00136.2014/Shoulder-Height-Body-Mass-and-Shape-of-Proboscideans/10.4202/app.00136.2014.full" target="_blank">From BioOne</a>`,
+            links: `<li><a href="http://dx.doi.org/10.4202/app.00136.2014" target="_blank">From publisher (DOI: 10.4202/app.00136.2014)</a><li><a href="https://bioone.org/journals/acta-palaeontologica-polonica/volume-61/issue-3/app.00136.2014/Shoulder-Height-Body-Mass-and-Shape-of-Proboscideans/10.4202/app.00136.2014.full" target="_blank">From BioOne</a><li><a href="https://www.researchgate.net/publication/280014062_Shoulder_Height_Body_Mass_and_Shape_of_Proboscideans" target="_blank">From ResearchGate</a>`,
             location: `N/A`,
             medium: `Digitally published article`,
             publisher: `Institute of Palaeobiology of the Polish Academy of Sciences`,
