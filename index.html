@@ -90,7 +90,8 @@
         padding: 10px;
         display: flex;
         flex-flow: column wrap;
-        height: 5000vh
+        flex-direction: column;
+        height: 2881vh
     }
 
     .entry {
@@ -101,16 +102,16 @@
         width: 49%
     }
 
-    .entry:nth-child(odd) { order: 1; }
-.entry:nth-child(even) { order: 2; }
+    .entry:nth-child(2n+1) { order: 1; }
+    .entry:nth-child(2n+2) { order: 2; }
 
-.period::before,
-.period::after {
-  content: "";
-  flex-basis: 100%;
-  width: 0;
-  order: 2;
-}
+        .period::before,
+        .period::after {
+        content: "";
+        flex-basis: 100%;
+        width: 0;
+        order: 2;
+        }
 
     .entry_title {
         background-color:rgb(230, 230, 230);
@@ -165,9 +166,7 @@
 
     @media screen and (max-width: 750px) {
 
-        .period {
-            grid-template-columns: repeat(1, 1fr);
-        }
+        .entry:nth-child() { order: 1; }
 
         .mytabs label {
             border-radius: 20px 20px 0px 0px
