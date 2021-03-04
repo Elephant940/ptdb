@@ -87,11 +87,11 @@
 
     .period {
         background:rgb(237, 227, 214);
-        padding: 10px;
         display: flex;
         flex-flow: column wrap;
         flex-direction: column;
-        height: 2881vh
+        height: 2881vh;
+        padding-right: 10px;
     }
 
     .entry {
@@ -99,17 +99,17 @@
         border-radius: 20px;
         break-inside: avoid;
         margin: 10px;
-        width: 49%
+        width: 49%;
+        order: 1;
     }
 
     .entry:nth-child(2n+1) { order: 1; }
     .entry:nth-child(2n+2) { order: 2; }
 
-        .period::before,
-        .period::after {
+    .period::before,
+    .period::after {
         content: "";
         flex-basis: 100%;
-        width: 0;
         order: 2;
         }
 
@@ -166,7 +166,15 @@
 
     @media screen and (max-width: 750px) {
 
-        .entry:nth-child() { order: 1; }
+        .entry {
+            background-color:rgb(255, 255, 255);
+            border-radius: 20px;
+            break-inside: avoid;
+            width: 98%;
+        }
+
+        .entry:nth-child(2n+1) { order: 1; }
+        .entry:nth-child(2n+2) { order: 1; }
 
         .mytabs label {
             border-radius: 20px 20px 0px 0px
@@ -175,9 +183,14 @@
 
     @media screen and (min-width: 1500px) {
 
-        .period {
-        grid-template-columns: repeat(3, 1fr);
-        }
+        .entry:nth-child(3n+1) { order: 1; }
+        .entry:nth-child(3n+2) { order: 2; }
+        .entry:nth-child(3n) { order: 3 }
+
+        .entry {
+        width: 32%
+    }
+
     }
 
 </style>
