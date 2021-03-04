@@ -90,15 +90,17 @@
         display: flex;
         flex-flow: column wrap;
         flex-direction: column;
-        height: 2881vh;
-        padding-right: 10px;
+        height: 15045px;
+        padding: 10px;
+        padding-right: 0px;
+        overflow: hidden;
     }
 
     .entry {
         background-color:rgb(255, 255, 255);
         border-radius: 20px;
         break-inside: avoid;
-        margin: 10px;
+        margin-bottom: 10px;
         width: 49%;
         order: 1;
     }
@@ -173,6 +175,10 @@
             width: 98%;
         }
 
+        .period {
+            height: auto;
+        }
+
         .entry:nth-child(2n+1) { order: 1; }
         .entry:nth-child(2n+2) { order: 1; }
 
@@ -189,7 +195,11 @@
 
         .entry {
         width: 32%
-    }
+        }
+
+        .period {
+            height: 10395px;
+        }
 
     }
 
