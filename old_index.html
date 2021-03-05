@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 
 <head>
     <link rel="icon" loading="lazy" href="https://web.archive.org/web/20210131141812if_/http://www.phylopic.org/assets/images/submissions/09af15bc-97ee-4fa0-9379-da7ee328560a.64.png" />
-    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta charset="UTF-8"/>
 </head>
 
 <style>
@@ -86,19 +87,35 @@
     }
 
     .period {
-        background: rgb(237, 227, 214);
+        background:rgb(237, 227, 214);
         display: flex;
-        justify-content: center;
-        align-items: center;
-        border-radius: 8px;
-        }
+        flex-flow: column wrap;
+        flex-direction: column;
+        height: 16245px;
+        padding: 10px;
+        padding-right: 0px;
+        overflow: hidden;
+    }
 
     .entry {
         background-color:rgb(255, 255, 255);
         border-radius: 20px;
-        width: 50vw
+        break-inside: avoid;
+        margin-bottom: 10px;
+        width: 49%;
+        order: 1;
     }
-    
+
+    .entry:nth-child(2n+1) { order: 1; }
+    .entry:nth-child(2n+2) { order: 2; }
+
+    .period::before,
+    .period::after {
+        content: "";
+        flex-basis: 100%;
+        order: 1;
+        }
+
     .entry_title {
         background-color:rgb(230, 230, 230);
         border-radius: 20px 20px 0px 0px;
@@ -152,20 +169,39 @@
 
     @media screen and (max-width: 750px) {
 
-        .period {
-            grid-template-columns: repeat(1, 1fr);
+        .entry {
+            background-color:rgb(255, 255, 255);
+            border-radius: 20px;
+            break-inside: avoid;
+            width: 98%;
         }
+
+        .period {
+            height: auto;
+        }
+
+        .entry:nth-child(2n+1) { order: 1; }
+        .entry:nth-child(2n+2) { order: 1; }
 
         .mytabs label {
             border-radius: 20px 20px 0px 0px
         }
     }
 
-    @media screen and (min-width: 1500px) {
+    @media screen and (min-width: 1700px) {
+
+        .entry:nth-child(3n+1) { order: 1; }
+        .entry:nth-child(3n+2) { order: 2; }
+        .entry:nth-child(3n) { order: 3 }
+
+        .entry {
+        width: 32%
+        }
 
         .period {
-        grid-template-columns: repeat(3, 1fr);
+            height: 10395px;
         }
+
     }
 
 </style>
@@ -209,7 +245,7 @@
 
 </body>
 
-<script src="https://unpkg.com/magic-grid/dist/magic-grid.cjs.js"></script>
+
 <script>
 
     function goToSource(tab, source, eyedee) {
@@ -223,16 +259,6 @@
     getPeriod('1800-1899_table', '1800-1899')
     getPeriod('1900-1999_table', '1900-1999')
     getPeriod('2000-2021_table', '2000-2021')
-
-    let magicGrid = new MagicGrid({
-    container: '.period',
-    animate: true,
-    gutter: 30,
-    static: true,
-    useMin: true
-    });
-
-    magicGrid.listen();
 
 
     async function getPeriod(id, endpoint) {

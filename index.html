@@ -2,23 +2,22 @@
 
 <head>
     <link rel="icon" loading="lazy" href="https://web.archive.org/web/20210131141812if_/http://www.phylopic.org/assets/images/submissions/09af15bc-97ee-4fa0-9379-da7ee328560a.64.png" />
-    <meta charset="UTF-8"/>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 
 <style>
     header {
         background: #a2be96;
         color: black;
-        font-size: 45px;
-        margin: 0px;
-        padding: 10px;
+        font-size: 2.8125rem;
+        margin: 0;
+        padding: 0.625rem;
         word-break: break-word;
         word-wrap: break-word;
     }
 
     a {
         color:#3d90c8;
-   
     }
 
     a:visited {
@@ -26,8 +25,8 @@
     }
 
     p.favicon {
-        font-size: 12px;
-        margin: 10px;
+        font-size: 0.75rem;
+        margin: 0.625rem;
         word-break: break-word;
         word-wrap: break-word;
     }
@@ -35,8 +34,8 @@
     body {
         background: white;
         font-family: Helvetica;
-        margin: 0px;
-        padding: 0px;
+        margin: 0;
+        padding: 0;
         word-break: break-word;
         word-wrap: break-word;
     }
@@ -44,8 +43,8 @@
     .mytabs {
         display: flex;
         flex-wrap: wrap;
-        margin: 0px;
-        padding: 0px;
+        margin: 0;
+        padding: 0;
         text-align: center;
     }
 
@@ -63,144 +62,108 @@
 
     .mytabs label {
         background:rgb(221, 202, 174);
-        border-radius: 40px 40px 0px 0px;
+        border-radius: 2.5rem 2.5rem 0 0;
         box-sizing: border-box;
         display: block;
-        font-size: 25px;
+        font-size: 1.5625rem;
         font-weight: bold;
-        padding: 10px 0px;
+        padding: 0.625rem 0;
         width: 20%;
     }
 
     .summary {
-        margin: 10px;
+        margin: 0.625rem;
     }
 
     .tab {
         background: #fff;
         display: none;
-        margin: 0px;        
+        margin: 0;        
         order: 1;
-        padding: 0px;
+        padding: 0;
         text-align: center;
     }
 
     .period {
         background:rgb(237, 227, 214);
-        display: flex;
-        flex-flow: column wrap;
-        flex-direction: column;
-        height: 16245px;
-        padding: 10px;
-        padding-right: 0px;
-        overflow: hidden;
+        display: grid;
+        gap: 0.625rem;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0.625rem;
     }
 
     .entry {
         background-color:rgb(255, 255, 255);
-        border-radius: 20px;
-        break-inside: avoid;
-        margin-bottom: 10px;
-        width: 49%;
-        order: 1;
+        border-radius: 1.25rem;
     }
-
-    .entry:nth-child(2n+1) { order: 1; }
-    .entry:nth-child(2n+2) { order: 2; }
-
-    .period::before,
-    .period::after {
-        content: "";
-        flex-basis: 100%;
-        order: 1;
-        }
-
+    
     .entry_title {
         background-color:rgb(230, 230, 230);
-        border-radius: 20px 20px 0px 0px;
+        border-radius: 1.25rem 1.25rem 0 0;
         box-sizing: border-box;
-        margin: 0px;
-        padding: 20px;
-        padding-bottom: 10px;
+        margin: 0;
+        padding: 1.25rem;
+        padding-bottom: 0.625rem;
         text-align: left;
         width: 100%;
     }
 
     .title {
-        border-radius: 20px;
-        font-size: 18px;
+        border-radius: 1.1.5625rem;
+        font-size: 1.125rem;
         font-weight: bold;
-        margin: 0px;
+        margin: 0;
     }
 
     .medium {
-        font-size: 15px;
-        margin: 0px;
+        font-size: 0.9375rem;
+        margin: 0;
     }
 
     .entry_info {
         background-color:rgb(255, 255, 255);
-        border-radius: 0px 0px 20px 20px;
+        border-radius: 0 0 1.25rem 1.25rem;
         box-sizing: border-box;
-        margin: 0px;
-        padding: 20px;
-        padding-top: 10px;
+        margin: 0;
+        padding: 1.25rem;
+        padding-top: 0.625rem;
         text-align: left;
         width: 100%;
     }
 
     .heading {
-        margin-left: 0px;
+        margin-left: 0;
     }
 
     .info {
-        margin: 0px 0px 5px 0px;
+        margin: 0 0 0.3125rem 0;
         text-align: left;
     }
 
     .refs {
-        margin-bottom: 5px;
-        margin-left: 43px;
-        margin-top: 0px;
-        padding-left: 25px;
-        text-indent: -25px;
+        margin-bottom: 0.3125rem;
+        margin-left: 2.6875rem;
+        margin-top: 0;
+        padding-left: 1.5625rem;
+        text-indent: -1.5625rem;
     }
 
     @media screen and (max-width: 750px) {
 
-        .entry {
-            background-color:rgb(255, 255, 255);
-            border-radius: 20px;
-            break-inside: avoid;
-            width: 98%;
-        }
-
         .period {
-            height: auto;
+            grid-template-columns: repeat(1, 1fr);
         }
-
-        .entry:nth-child(2n+1) { order: 1; }
-        .entry:nth-child(2n+2) { order: 1; }
 
         .mytabs label {
-            border-radius: 20px 20px 0px 0px
+            border-radius: 1.25rem 1.25rem 0 0
         }
     }
 
-    @media screen and (min-width: 1700px) {
-
-        .entry:nth-child(3n+1) { order: 1; }
-        .entry:nth-child(3n+2) { order: 2; }
-        .entry:nth-child(3n) { order: 3 }
-
-        .entry {
-        width: 32%
-        }
+    @media screen and (min-width: 1500px) {
 
         .period {
-            height: 10395px;
+        grid-template-columns: repeat(3, 1fr);
         }
-
     }
 
 </style>
@@ -271,7 +234,7 @@
         card.innerHTML = ''
         for (var i = 0; i < data.length; i++) {
             var row =
-                `<div class="entry" id=${data[i][0].eyedee}>
+                `<article class="entry" id=${data[i][0].eyedee}>
                     <div class="entry_title">
                     <p class="title">${data[i][0].title}</p>
                     <p class="medium">${data[i][0].medium}</p>
@@ -322,7 +285,7 @@
                     row +=
                         `</div>`
                 row +=
-                `</div>`
+                `</article>`
                 
             card.innerHTML += row
         }
