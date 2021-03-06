@@ -5,10 +5,10 @@ const cors = require("cors");
 var corsOptions = {
     origin: 'https://ptdb.herokuapp.com/',
     optionsSuccessStatus: 200
-  }
-app.use(cors());
+}
+app.use(cors(corsOptions));
 
-const PORT = process.env.PORT || 8080; 
+const PORT = process.env.PORT || 8080;
 const HOST = "0.0.0.0";
 
 app.get('/', (req, res) => {

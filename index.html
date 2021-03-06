@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 
 <head>
-    <link rel="icon" loading="lazy" href="https://web.archive.org/web/20210131141812if_/http://www.phylopic.org/assets/images/submissions/09af15bc-97ee-4fa0-9379-da7ee328560a.64.png" />
-    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="icon" loading="lazy"
+        href="https://web.archive.org/web/20210131141812if_/http://www.phylopic.org/assets/images/submissions/09af15bc-97ee-4fa0-9379-da7ee328560a.64.png" />
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 
 <style>
@@ -17,11 +18,11 @@
     }
 
     a {
-        color:#3d90c8;
+        color: #3d90c8;
     }
 
     a:visited {
-        color:#523dc8;
+        color: #523dc8;
     }
 
     p.favicon {
@@ -61,7 +62,7 @@
     }
 
     .mytabs label {
-        background:rgb(221, 202, 174);
+        background: rgb(221, 202, 174);
         border-radius: 2.5rem 2.5rem 0 0;
         box-sizing: border-box;
         display: block;
@@ -78,14 +79,14 @@
     .tab {
         background: #fff;
         display: none;
-        margin: 0;        
+        margin: 0;
         order: 1;
         padding: 0;
         text-align: center;
     }
 
     .period {
-        background:rgb(237, 227, 214);
+        background: rgb(237, 227, 214);
         display: grid;
         gap: 0.625rem;
         grid-template-columns: repeat(2, 1fr);
@@ -93,12 +94,12 @@
     }
 
     .entry {
-        background-color:rgb(255, 255, 255);
+        background-color: rgb(255, 255, 255);
         border-radius: 1.25rem;
     }
-    
+
     .entry_title {
-        background-color:rgb(230, 230, 230);
+        background-color: rgb(230, 230, 230);
         border-radius: 1.25rem 1.25rem 0 0;
         box-sizing: border-box;
         margin: 0;
@@ -121,7 +122,7 @@
     }
 
     .entry_info {
-        background-color:rgb(255, 255, 255);
+        background-color: rgb(255, 255, 255);
         border-radius: 0 0 1.25rem 1.25rem;
         box-sizing: border-box;
         margin: 0;
@@ -162,19 +163,23 @@
     @media screen and (min-width: 1500px) {
 
         .period {
-        grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(3, 1fr);
         }
     }
-
 </style>
 
 
 <title>Proboscidean Text Database</title>
 <header><b>The Proboscidean Text Database</b></header>
 
-<p class="summary"> The Proboscidean Text Database (PTDb) is a digital collection of resources about the Proboscidea, the evolutionary group comprising elephants, mammoths, mastodons, and their relatives. All catalogued sources have been saved in Internet Archive's <a href="https://web.archive.org/" target="_blank">Wayback Machine</a>, so if any are unavailable they should be accessible there.</p>
+<p class="summary"> The Proboscidean Text Database (PTDb) is a digital collection of resources about the Proboscidea,
+    the evolutionary group comprising elephants, mammoths, mastodons, and their relatives. All catalogued sources have
+    been saved in Internet Archive's <a href="https://web.archive.org/" target="_blank">Wayback Machine</a>, so if any
+    are unavailable they should be accessible there.</p>
 
-<p class="favicon">Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to <a href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/" target="_blank">Richard Ruggiero and Zimices on PhyloPic</a>.</p>
+<p class="favicon">Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to <a
+        href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/" target="_blank">Richard Ruggiero and
+        Zimices on PhyloPic</a>.</p>
 
 <body>
     <div class="mytabs">
@@ -213,9 +218,9 @@
     function goToSource(tab, source, eyedee) {
         document.getElementById(tab).checked = true;
         document.getElementById(source).scrollIntoView();
-        document.getElementById(eyedee).style.color="#523dc8"
+        document.getElementById(eyedee).style.color = "#523dc8"
     }
-   
+
     getPeriod('Pre-1700_table', 'Pre_1700')
     getPeriod('1700-1799_table', '1700-1799')
     getPeriod('1800-1899_table', '1800-1899')
@@ -253,40 +258,40 @@
                     <u class="heading">Language(s)</u>
                     <ul class="info">${data[i][0].languages}</ul>`
 
-                    if (data[i][0].container != undefined) {
-                        row +=
-                            `<u class="heading">Container</u>
+            if (data[i][0].container != undefined) {
+                row +=
+                    `<u class="heading">Container</u>
                             <ul class="info">${data[i][0].container}</ul>`
-                    }
+            }
 
-                    if (data[i][0].iteration != undefined) {
-                        row +=
-                            `<u class="heading">Iteration</u>
+            if (data[i][0].iteration != undefined) {
+                row +=
+                    `<u class="heading">Iteration</u>
                             <ul class="info">${data[i][0].iteration}</ul>`
-                    }
+            }
 
-                    row +=
-                        `<u class="heading">Summary and significance</u>
+            row +=
+                `<u class="heading">Summary and significance</u>
                             <ul class="info">${data[i][0].summary}</ul>
                         <u class="heading">Link(s) to source</u>
                             <ul class="info">${data[i][0].links}</ul>`
 
-                    if (data[i][0].notes != undefined) {
-                        row +=
-                            `<u class="heading">Notes</u>
-                            <ul class="info">${data[i][0].notes}</ul>`
-                    }
-
-                    if (data[i][0].references != undefined) {
-                        row +=
-                            `<u class="heading">References</u>
-                            <br>${data[i][0].references}`
-                    }
-                    row +=
-                        `</div>`
+            if (data[i][0].notes != undefined) {
                 row +=
+                    `<u class="heading">Notes</u>
+                            <ul class="info">${data[i][0].notes}</ul>`
+            }
+
+            if (data[i][0].references != undefined) {
+                row +=
+                    `<u class="heading">References</u>
+                            <br>${data[i][0].references}`
+            }
+            row +=
+                `</div>`
+            row +=
                 `</article>`
-                
+
             card.innerHTML += row
         }
 
