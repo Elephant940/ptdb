@@ -24,16 +24,16 @@ const its2000_2021 = require('./periods/its2000_2021');
 app.get('/api/v1/Pre_1700', (req, res) => {
     res.status(200).send(Pre_1700);
 });
-app.get('/api/v1/1700-1799', (req, res) => {
+app.get('/api/v1/its1700-1799', (req, res) => {
     res.status(200).send(its1700_1799);
 });
-app.get('/api/v1/1800-1899', (req, res) => {
+app.get('/api/v1/its1800-1899', (req, res) => {
     res.status(200).send(its1800_1899);
 });
-app.get('/api/v1/1900-1999', (req, res) => {
+app.get('/api/v1/its1900-1999', (req, res) => {
     res.status(200).send(its1900_1999);
 });
-app.get('/api/v1/2000-2021', (req, res) => {
+app.get('/api/v1/its2000-2021', (req, res) => {
     res.status(200).send(its2000_2021);
 });
 

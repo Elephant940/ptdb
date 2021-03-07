@@ -261,7 +261,7 @@ module.exports = [
         links: `<li><a href="https://doi.org/10.3758/BF03333758" target="_blank">From publisher (DOI: 10.3758/BF03333758)</a> through SpringerLink`,
         location: `Chicago, Illinois, United States of America`,
         medium: `Physically published academic journal article, digitized`,
-        publisher: `The Psychonomic Society`,
+        publisher: `Psychonomic Society`,
         summary: `TBA.`,
         title: `Alcohol self-administration by elephants`,
     }],

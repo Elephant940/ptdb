@@ -87,15 +87,17 @@
 
     .period {
         background: rgb(237, 227, 214);
-        display: grid;
-        gap: 0.625rem;
-        grid-template-columns: repeat(2, 1fr);
-        padding: 0.625rem;
+        overflow-x: hidden;
+        display: flex;
+        flex-wrap: wrap;
+        min-height: 100vh;
     }
 
     .entry {
         background-color: rgb(255, 255, 255);
         border-radius: 1.25rem;
+        flex: 1 0 500px;
+        margin: 0.625rem
     }
 
     .entry_title {
@@ -148,24 +150,6 @@
         padding-left: 1.5625rem;
         text-indent: -1.5625rem;
     }
-
-    @media screen and (max-width: 750px) {
-
-        .period {
-            grid-template-columns: repeat(1, 1fr);
-        }
-
-        .mytabs label {
-            border-radius: 1.25rem 1.25rem 0 0
-        }
-    }
-
-    @media screen and (min-width: 1500px) {
-
-        .period {
-            grid-template-columns: repeat(3, 1fr);
-        }
-    }
 </style>
 
 
@@ -188,25 +172,25 @@
         <div class="tab">
             <div class="period" id="Pre-1700_table"></div>
         </div>
-        <input type="radio" id="1700-1799" name="mytabs">
-        <label for="1700-1799">1700-1799</label>
+        <input type="radio" id="its1700-1799" name="mytabs">
+        <label for="its1700-1799">1700-1799</label>
         <div class="tab">
-            <div class="period" id="1700-1799_table"></div>
+            <div class="period" id="its1700-1799_table"></div>
         </div>
-        <input type="radio" id="1800-1899" name="mytabs">
-        <label for="1800-1899">1800-1899</label>
+        <input type="radio" id="its1800-1899" name="mytabs">
+        <label for="its1800-1899">1800-1899</label>
         <div class="tab">
-            <div class="period" id="1800-1899_table"></div>
+            <div class="period" id="its1800-1899_table"></div>
         </div>
-        <input type="radio" id="1900-1999" name="mytabs">
-        <label for="1900-1999">1900-1999</label>
+        <input type="radio" id="its1900-1999" name="mytabs">
+        <label for="its1900-1999">1900-1999</label>
         <div class="tab">
-            <div class="period" id="1900-1999_table"></div>
+            <div class="period" id="its1900-1999_table"></div>
         </div>
-        <input type="radio" id="2000-2021" name="mytabs">
-        <label for="2000-2021" style=border-right-width:0px;>2000-2021</label>
+        <input type="radio" id="its2000-2021" name="mytabs">
+        <label for="its2000-2021" style=border-right-width:0px;>2000-2021</label>
         <div class="tab">
-            <div class="period" id="2000-2021_table"></div>
+            <div class="period" id="its2000-2021_table"></div>
         </div>
     </div>
 
@@ -222,10 +206,10 @@
     }
 
     getPeriod('Pre-1700_table', 'Pre_1700')
-    getPeriod('1700-1799_table', '1700-1799')
-    getPeriod('1800-1899_table', '1800-1899')
-    getPeriod('1900-1999_table', '1900-1999')
-    getPeriod('2000-2021_table', '2000-2021')
+    getPeriod('its1700-1799_table', 'its1700-1799')
+    getPeriod('its1800-1899_table', 'its1800-1899')
+    getPeriod('its1900-1999_table', 'its1900-1999')
+    getPeriod('its2000-2021_table', 'its2000-2021')
 
 
     async function getPeriod(id, endpoint) {
