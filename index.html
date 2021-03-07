@@ -235,7 +235,7 @@
         card.innerHTML = ''
         for (var i = 0; i < data.length; i++) {
             var row =
-                `<article class="entry" id=${data[i][0].eyedee}>
+                `<div class="entry" id=${data[i][0].eyedee}>
                     <div class="entry_title">
                     <p class="title">${data[i][0].title}</p>
                     <p class="medium">${data[i][0].medium}</p>
@@ -286,7 +286,7 @@
             row +=
                 `</div>`
             row +=
-                `</article>`
+                `</div>`
 
             card.innerHTML += row
         }
