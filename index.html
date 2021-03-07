@@ -41,6 +41,11 @@
         word-wrap: break-word;
     }
 
+    .summary {
+        margin: 0.625rem;
+    }
+
+
     .mytabs {
         display: flex;
         flex-wrap: wrap;
@@ -92,17 +97,20 @@
         background-color: rgb(255, 255, 255);
         border-radius: 1.25rem;
         flex: 1 0 29.9795rem;
-        max-height: 45rem;
         margin: 0.625rem;
-        overflow-x: auto;
+        padding-bottom: 0;
     }
- 
-    .entry_title {
+
+    .entry:hover {
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    }
+
+    .entry-heading {
         background-color: rgb(230, 230, 230);
+        border-radius: 1.25rem 1.25rem 0 0;
         box-sizing: border-box;
         margin: 0;
-        padding: 1.25rem;
-        padding-bottom: 0.625rem;
+        padding: 1.25rem 1.25rem 0.625rem 1.25rem;
         text-align: left;
         width: 100%;
     }
@@ -119,32 +127,29 @@
         margin: 0;
     }
 
-    .entry_info {
+    .entry-content {
         background-color: rgb(255, 255, 255);
         border-radius: 0 0 1.25rem 1.25rem;
         box-sizing: border-box;
         margin: 0;
-        padding: 1.25rem;
-        padding-top: 0.625rem;
+        max-height: 43rem;
+        overflow-x: auto;
+        padding: 0.625rem 1.25rem 0.3125rem 1.25rem;
         text-align: left;
         width: 100%;
     }
 
     .heading {
-        margin-left: 0;
+        margin-top: -0.625rem;
     }
 
     .info {
-        margin: 0 0 0.3125rem 0;
+        margin: 0 0 0.625rem 0;
         text-align: left;
     }
 
-    .summary {
-        margin: 0.625rem;
-    }
-
     .refs {
-        margin-bottom: 0.3125rem;
+        margin-bottom: 0.625rem;
         margin-left: 2.6875rem;
         margin-top: 0;
         padding-left: 1.5625rem;
@@ -159,6 +164,10 @@
 
         .entry {
             flex: 1 0 calc(100vw - 1.25rem);
+        }
+
+        .entry-content {
+            max-height: 86rem;
         }
     }
 </style>
@@ -235,11 +244,11 @@
         for (var i = 0; i < data.length; i++) {
             var row =
                 `<div class="entry" id=${data[i][0].eyedee}>
-                    <div class="entry_title">
+                    <div class="entry-heading">
                     <p class="title">${data[i][0].title}</p>
                     <p class="medium">${data[i][0].medium}</p>
                     </div>
-                    <div class="entry_info">
+                    <div class="entry-content">
                     <u class="heading">Contributor(s)</u>
                     <ul class="info">${data[i][0].contributors}</ul>
                     <u class="heading">Publication date</u>
