@@ -15,26 +15,26 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + "/index.html"));
 });
 
-const Pre_1700 = require('./periods/Pre_1700');
-const its1700_1799 = require('./periods/its1700_1799');
-const its1800_1899 = require('./periods/its1800_1899');
-const its1900_1999 = require('./periods/its1900_1999');
-const its2000_2021 = require('./periods/its2000_2021');
+const Pre_1700 = require('./periods/B1700');
+const D1700_1799 = require('./periods/D1700_1799');
+const D1800_1899 = require('./periods/D1800_1899');
+const D1900_1999 = require('./periods/D1900_1999');
+const D2000_2021 = require('./periods/D2000_2021');
 
-app.get('/api/v1/Pre_1700', (req, res) => {
+app.get('/api/v1/B1700', (req, res) => {
     res.status(200).send(Pre_1700);
 });
-app.get('/api/v1/its1700-1799', (req, res) => {
-    res.status(200).send(its1700_1799);
+app.get('/api/v1/D1700-1799', (req, res) => {
+    res.status(200).send(D1700_1799);
 });
-app.get('/api/v1/its1800-1899', (req, res) => {
-    res.status(200).send(its1800_1899);
+app.get('/api/v1/D1800-1899', (req, res) => {
+    res.status(200).send(D1800_1899);
 });
-app.get('/api/v1/its1900-1999', (req, res) => {
-    res.status(200).send(its1900_1999);
+app.get('/api/v1/D1900-1999', (req, res) => {
+    res.status(200).send(D1900_1999);
 });
-app.get('/api/v1/its2000-2021', (req, res) => {
-    res.status(200).send(its2000_2021);
+app.get('/api/v1/D2000-2021', (req, res) => {
+    res.status(200).send(D2000_2021);
 });
 
 app.listen(PORT, HOST);

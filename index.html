@@ -66,7 +66,7 @@
         border-radius: 2.5rem 2.5rem 0 0;
         box-sizing: border-box;
         display: block;
-        font-size: 1.1rem;
+        font-size: 1.75vw;
         font-weight: bold;
         padding: 0.625rem 0;
         width: 20%;
@@ -92,7 +92,7 @@
     .entry {
         background-color: rgb(255, 255, 255);
         border-radius: 1.25rem;
-        flex: 1 0 500px;
+        flex: 1 0 29.9799rem;
         margin: 0.625rem;
         overflow-x: auto;
     }
@@ -155,7 +155,7 @@
     @media screen and (max-width: 540px) {
         .mytabs label {
             border-radius: 1.25rem 1.25rem 0 0;
-            font-size: 0.75rem;
+            font-size: 2.5vw;
         }
 
         .entry {
@@ -179,30 +179,30 @@
 
 <body>
     <div class="mytabs">
-        <input type="radio" id="Pre-1700" name="mytabs" checked="checked">
-        <label for="Pre-1700" style=border-left-width:0px;>Pre 1700</label>
+        <input type="radio" id="B1700" name="mytabs" checked="checked">
+        <label for="B1700" style=border-left-width:0px;>Before 1700</label>
         <div class="tab">
-            <div class="period" id="Pre-1700_table"></div>
+            <div class="period" id="B1700_table"></div>
         </div>
-        <input type="radio" id="its1700-1799" name="mytabs">
-        <label for="its1700-1799">1700-1799</label>
+        <input type="radio" id="D1700-1799" name="mytabs">
+        <label for="D1700-1799">1700-1799</label>
         <div class="tab">
-            <div class="period" id="its1700-1799_table"></div>
+            <div class="period" id="D1700-1799_table"></div>
         </div>
-        <input type="radio" id="its1800-1899" name="mytabs">
-        <label for="its1800-1899">1800-1899</label>
+        <input type="radio" id="D1800-1899" name="mytabs">
+        <label for="D1800-1899">1800-1899</label>
         <div class="tab">
-            <div class="period" id="its1800-1899_table"></div>
+            <div class="period" id="D1800-1899_table"></div>
         </div>
-        <input type="radio" id="its1900-1999" name="mytabs">
-        <label for="its1900-1999">1900-1999</label>
+        <input type="radio" id="D1900-1999" name="mytabs">
+        <label for="D1900-1999">1900-1999</label>
         <div class="tab">
-            <div class="period" id="its1900-1999_table"></div>
+            <div class="period" id="D1900-1999_table"></div>
         </div>
-        <input type="radio" id="its2000-2021" name="mytabs">
-        <label for="its2000-2021" style=border-right-width:0px;>2000-2021</label>
+        <input type="radio" id="D2000-2021" name="mytabs">
+        <label for="D2000-2021" style=border-right-width:0px;>2000-2021</label>
         <div class="tab">
-            <div class="period" id="its2000-2021_table"></div>
+            <div class="period" id="D2000-2021_table"></div>
         </div>
     </div>
 
@@ -217,11 +217,11 @@
         document.getElementById(eyedee).style.color = "#523dc8"
     }
 
-    getPeriod('Pre-1700_table', 'Pre_1700')
-    getPeriod('its1700-1799_table', 'its1700-1799')
-    getPeriod('its1800-1899_table', 'its1800-1899')
-    getPeriod('its1900-1999_table', 'its1900-1999')
-    getPeriod('its2000-2021_table', 'its2000-2021')
+    getPeriod('B1700_table', 'B1700')
+    getPeriod('D1700-1799_table', 'D1700-1799')
+    getPeriod('D1800-1899_table', 'D1800-1899')
+    getPeriod('D1900-1999_table', 'D1900-1999')
+    getPeriod('D2000-2021_table', 'D2000-2021')
 
 
     async function getPeriod(id, endpoint) {
