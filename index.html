@@ -66,14 +66,10 @@
         border-radius: 2.5rem 2.5rem 0 0;
         box-sizing: border-box;
         display: block;
-        font-size: 1.5625rem;
+        font-size: 110%;
         font-weight: bold;
         padding: 0.625rem 0;
         width: 20%;
-    }
-
-    .summary {
-        margin: 0.625rem;
     }
 
     .tab {
@@ -90,14 +86,15 @@
         display: flex;
         flex-wrap: wrap;
         min-height: 100vh;
-        overflow-x: hidden;
+        overflow-x: auto;
     }
 
     .entry {
         background-color: rgb(255, 255, 255);
         border-radius: 1.25rem;
         flex: 1 0 500px;
-        margin: 0.625rem
+        margin: 0.625rem;
+        overflow-x: auto;
     }
 
     .entry_title {
@@ -143,12 +140,22 @@
         text-align: left;
     }
 
+    .summary {
+        margin: 0.625rem;
+    }
+
     .refs {
         margin-bottom: 0.3125rem;
         margin-left: 2.6875rem;
         margin-top: 0;
         padding-left: 1.5625rem;
         text-indent: -1.5625rem;
+    }
+
+    @media screen and (max-width: 540px) {
+        .entry {
+            flex: 1 0 161px;
+        }
     }
 </style>
 
