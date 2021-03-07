@@ -6,7 +6,7 @@ module.exports = [
         languages: `Latin`,
         links: `<li><a href="https://www.britishmuseum.org/collection/object/P_1988-1105-8" target="_blank">From the British Museum</a><li><a href="https://www.metmuseum.org/art/collection/search/389779" target="_blank">From the Metropolitan Museum of Art</a><li><a href="https://www.rijksmuseum.nl/en/collection/RP-P-OB-7152" target="_blank">From the Rijksmuseum</a>`,
         notes: `<li>Inscription reads "From the original print by Raphael Urbinati, which is in the possession of Tommaso dei Cavalieri, a Roman noble. Antonio Lafreri Seovani printed it in Rome." Bottom right corner reads "By grant and privilege 1567" (<a href="https://www.csus.edu/indiv/r/rileymt/" target="_blank">Riley</a>, pers. comm.).<li>Rijksmueum copy formerly owned by Nicolaas Cornelis de Gijselaar, as indicated by N.G. in the bottom right corner (Lugt, 1921, p. 359).<li><a href="https://www.loc.gov/resource/pga.00039/" target="_blank">Reprint from the Library of Congress</a>, published circa 1600.`,
-        references: `<p class="refs">Lugt, F. (1921). <a href="https://archive.org/stream/lesmarquesdecoll00lugt#page/359/mode/2up" target="_blank"><i>Les Marques de Collections de Dessins & d'Estampes</i></a>. Amsterdam: Vereenigde Drukkerijen.</p>`,
+        references: `<ul class="refs">Lugt, F. (1921). <a href="https://archive.org/stream/lesmarquesdecoll00lugt#page/359/mode/2up" target="_blank"><i>Les Marques de Collections de Dessins & d'Estampes</i></a>. Amsterdam: Vereenigde Drukkerijen.</ul>`,
         location: `Rome, Italy`,
         medium: `Physically published engraving, digitized`,
         publisher: `Antonio Lafreri`,

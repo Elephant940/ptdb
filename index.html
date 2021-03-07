@@ -98,7 +98,6 @@
         border-radius: 1.25rem;
         flex: 1 0 29.9795rem;
         margin: 0.625rem;
-        padding-bottom: 0;
     }
 
     .entry:hover {
@@ -134,26 +133,28 @@
         margin: 0;
         max-height: 43rem;
         overflow-x: auto;
-        padding: 0.625rem 1.25rem 0.3125rem 1.25rem;
+        padding: 0.625rem 1.25rem 0rem 1.25rem;
         text-align: left;
         width: 100%;
     }
 
     .heading {
-        margin-top: -0.625rem;
+        margin-left: 0;
     }
 
     .info {
-        margin: 0 0 0.625rem 0;
-        text-align: left;
+        margin: 0 0 0.3125rem 0;
     }
 
     .refs {
-        margin-bottom: 0.625rem;
         margin-left: 2.6875rem;
         margin-top: 0;
         padding-left: 1.5625rem;
         text-indent: -1.5625rem;
+    }
+
+    ul:nth-last-child(1) {
+        padding-bottom: 0.9375rem;
     }
 
     @media screen and (max-width: 540px) {
