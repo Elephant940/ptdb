@@ -6,6 +6,14 @@
     <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 
+<!DOCTYPE html>
+
+<head>
+    <link rel="icon" loading="lazy"
+        href="https://web.archive.org/web/20210131141812if_/http://www.phylopic.org/assets/images/submissions/09af15bc-97ee-4fa0-9379-da7ee328560a.64.png" />
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
 <style>
     header {
         background: rgb(162, 190, 150);
@@ -41,11 +49,6 @@
         word-wrap: break-word;
     }
 
-    .summary {
-        margin: 0.625rem;
-    }
-
-
     .mytabs {
         display: flex;
         flex-wrap: wrap;
@@ -71,10 +74,14 @@
         border-radius: 2.5rem 2.5rem 0 0;
         box-sizing: border-box;
         display: block;
-        font-size: 1.5rem;
+        font-size: 1.5625rem;
         font-weight: bold;
         padding: 0.625rem 0;
         width: 20%;
+    }
+
+    .summary {
+        margin: 0.625rem;
     }
 
     .tab {
@@ -88,20 +95,15 @@
 
     .period {
         background: rgb(237, 227, 214);
-        display: flex;
-        flex-wrap: wrap;
-        margin-bottom: 0;
+        display: grid;
+        gap: 0.625rem;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0.625rem;
     }
 
     .entry {
         background-color: rgb(255, 255, 255);
         border-radius: 1.25rem;
-        flex: 1 0 29.9795rem;
-        margin: 0.625rem;
-    }
-
-    .entry:hover {
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
     }
 
     .entry-heading {
@@ -109,13 +111,14 @@
         border-radius: 1.25rem 1.25rem 0 0;
         box-sizing: border-box;
         margin: 0;
-        padding: 1.25rem 1.25rem 0.625rem 1.25rem;
+        padding: 1.25rem;
+        padding-bottom: 0.625rem;
         text-align: left;
         width: 100%;
     }
 
     .title {
-        border-radius: 1.5625rem;
+        border-radius: 1.1.5625rem;
         font-size: 1.125rem;
         font-weight: bold;
         margin: 0;
@@ -131,9 +134,8 @@
         border-radius: 0 0 1.25rem 1.25rem;
         box-sizing: border-box;
         margin: 0;
-        max-height: 44.7rem;
-        overflow-x: auto;
-        padding: 0.625rem 1.25rem 0rem 1.25rem;
+        padding: 1.25rem;
+        padding-top: 0.625rem;
         text-align: left;
         width: 100%;
     }
@@ -144,31 +146,32 @@
 
     .info {
         margin: 0 0 0.3125rem 0;
+        text-align: left;
     }
 
     .refs {
+        margin-bottom: 0.3125rem;
         margin-left: 2.6875rem;
         margin-top: 0;
         padding-left: 1.5625rem;
         text-indent: -1.5625rem;
     }
 
-    ul:nth-last-child(1) {
-        padding-bottom: 0.9375rem;
+    @media screen and (max-width: 750px) {
+
+        .period {
+            grid-template-columns: repeat(1, 1fr);
+        }
+
+        .mytabs label {
+            border-radius: 1.25rem 1.25rem 0 0
+        }
     }
 
-    @media screen and (max-width: 540px) {
-        .mytabs label {
-            border-radius: 1.25rem 1.25rem 0 0;
-            font-size: 4.25vw;
-        }
+    @media screen and (min-width: 1500px) {
 
-        .entry {
-            flex: 1 0 calc(100vw - 1.25rem);
-        }
-
-        .entry-content {
-            max-height: 86rem;
+        .period {
+            grid-template-columns: repeat(3, 1fr);
         }
     }
 </style>
