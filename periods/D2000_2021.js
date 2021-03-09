@@ -89,7 +89,7 @@ module.exports = [
         contributors: `Jeheskel Shoshani (coauthor); Pascal Tassy (coauthor)`,
         date: `2004/06/26`,
         duration: `pp. 5-20`,
-        iteration: `Vols. 126-128 <i>Studying Proboscideans: knowledge, Problems and Perspectives. Selected papers from"The world of Elephants" Congress, Rome</i>`,
+        iteration: `Vols. 126-128 <i>Studying Proboscideans: knowledge, Problems and Perspectives. Selected papers from "The world of Elephants" Congress, Rome</i>`,
         languages: `English`,
         links: `<li><a href="https://doi.org/10.1016/j.quaint.2004.04.011" target="_blank">From publisher (DOI: 10.1016/j.quaint.2004.04.011)</a><li><a href="http://biochem.flas.kps.ku.ac.th/elephant.pdf" target="_blank">From Envi Biochem KPS ชีวเคมี สิ่งแวดล้อม เทคโนโลยีและชีวิต</a>`,
         location: `N/A`,
