@@ -94,7 +94,7 @@ module.exports = [
         location: `Leizpig, Germany`,
         medium: `Physically published book, digitized`,
         publisher: `Georg. Emmanuel Beer`,
-        summary: `The 13th edition of <a id="Linnaeus_1758_color_0" onclick="goToSource('1700-1799','Linnaeus_1758', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants has been expanded but retains most of Linnaeus's original description, and can be found on page 58.`,
+        summary: `The 13th edition of <a id="Linnaeus_1758_color_0" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants has been expanded but retains most of Linnaeus's original description, and can be found on page 58.`,
         title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
 
     }],

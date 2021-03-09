@@ -9,7 +9,7 @@ module.exports = [
         location: `London, England`,
         medium: `Physically published book, digitized`,
         publisher: `Printed for Lackington, Allen, and Co.`,
-        summary: `An English translation of <a id="Linnaeus_Gmelin_1788_color_0" onclick="goToSource('1700-1799','Linnaeus_Gmelin_1788', this.id)">Linnaeus and Gmelin, 1788</a>. The elephant section is on page 35.`,
+        summary: `An English translation of <a id="Linnaeus_Gmelin_1788_color_0" onclick="goToSource('D1700-1799','Linnaeus_Gmelin_1788', this.id)">Linnaeus and Gmelin, 1788</a>. The elephant section is on page 35.`,
         title: `A General System of Nature: Through the Three Grand Kingdoms of Animals, Vegetables, and Minerals; Systematically Divided Into Their Several Classes, Orders, Genera, Species, and Varieties With Their Habitations, Manners, Economy, Structure, and Peculiarities.`,
     }],
     [{
@@ -35,7 +35,7 @@ module.exports = [
         location: `Berlin, Germany`,
         medium: `Physically published book, digitized`,
         publisher: `C. Salfeld`,
-        summary: `Illiger employs <a id="Cuvier_1798_color_0" onclick="goToSource('1700-1799','Cuvier_1798', this.id)">Cuvier's</a> <i>Elephas indicus</i> for the Asian elephant and <a id="Blumenbach_1797_color_0" onclick="goToSource('1700-1799','Blumenbach_1797', this.id)">Blumenbach's</a> <i>E</i>. <i>africanus</i> for the African elephant, and on page 96 proposes the name Proboscidea for the family encompassing both.`,
+        summary: `Illiger employs <a id="Cuvier_1798_color_0" onclick="goToSource('D1700-1799','Cuvier_1798', this.id)">Cuvier's</a> <i>Elephas indicus</i> for the Asian elephant and <a id="Blumenbach_1797_color_0" onclick="goToSource('D1700-1799','Blumenbach_1797', this.id)">Blumenbach's</a> <i>E</i>. <i>africanus</i> for the African elephant, and on page 96 proposes the name Proboscidea for the family encompassing both.`,
         title: `Prodromus Systematis Mammalium et Avium Additis Terminis Zoographicis Utriusque Classis, Eorumque Versione Germanica.`,
     }],
     [{
@@ -78,7 +78,7 @@ module.exports = [
         location: `London, England`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `W. Phillips`,
-        summary: `The anonymous author Latinizes <a id="Cuvier_1825b_color" onclick="goToSource('1800-1899','Cuvier_1825b', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
+        summary: `The anonymous author Latinizes <a id="Cuvier_1825b_color" onclick="goToSource('D1800-1899','Cuvier_1825b', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
         title: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriees, Dessinées d'Après des Animaux Vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hillaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
     }],
     [{

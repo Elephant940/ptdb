@@ -12,9 +12,8 @@
     }
 
     ::-webkit-scrollbar {
+        background: rgb(241, 241, 241);
         width: 1vw;
-        height: auto;
-        background: rgb(241, 241, 241)
     }
 
     ::-webkit-scrollbar-thumb {
@@ -53,7 +52,6 @@
         padding: 0;
         word-break: break-word;
         word-wrap: break-word;
-        position: static;
     }
 
     .summary {
@@ -101,22 +99,25 @@
     }
 
     .period {
+        align-content: flex-start;
         background: rgb(237, 227, 214);
         display: flex;
         flex-wrap: wrap;
         padding: 0 auto;
         min-height: 100vh;
         min-width: 99vw;
-        justify-content: top;
-        align-content: flex-start;
     }
 
     .entry {
         background-color: rgb(255, 255, 255);
         border-radius: 1.25rem;
+        box-sizing: border-box;
         flex: 1 0 29.9795rem;
         margin: 0.625rem;
-
+        max-height: 46.85rem;
+        overflow-x: auto;
+        text-align: left;
+        width: 100%;
     }
 
     .entry:hover {
@@ -125,11 +126,13 @@
 
     .entry-heading {
         background-color: rgb(230, 230, 230);
-        border-radius: 1.25rem 1.25rem 0 0;
         box-sizing: border-box;
-        margin: 0;
+        margin-bottom: 0.625rem;
+        object-fit: fill;
         padding: 1.25rem 1.25rem 0.625rem 1.25rem;
+        position: sticky;
         text-align: left;
+        top: 0;
         width: 100%;
     }
 
@@ -143,38 +146,25 @@
     .medium {
         font-size: 0.9375rem;
         margin: 0;
-        position: sticky;
-    }
-
-    .entry-content {
-        background-color: rgb(255, 255, 255);
-        border-radius: 0 0 1.25rem 1.25rem;
-        box-sizing: border-box;
-        margin: 0;
-        max-height: 44.7rem;
-        overflow-x: auto;
-        padding: 0.625rem 1.25rem 1.25rem 1.25rem;
-        text-align: left;
-        width: 100%;
     }
 
     .heading {
         margin-left: 0;
+        padding: 0.625rem 1.25rem 0.625rem 1.25rem;
     }
 
     .info {
-        margin: 0 0 0.3125rem 0;
+        margin: 0 0.625rem 0.3125rem 0;
     }
 
     .refs {
-        margin-left: 2.6875rem;
         margin-top: 0;
         padding-left: 1.5625rem;
         text-indent: -1.5625rem;
     }
 
     ul:nth-last-child(1) {
-        padding-bottom: 0.9375rem;
+        padding-bottom: 0.625rem;
     }
 
     @media screen and (max-width: 540px) {
@@ -185,10 +175,7 @@
 
         .entry {
             flex: 1 1 calc(99vw - 1.25rem);
-        }
-
-        .entry {
-            max-height: 86rem;
+            max-height: 93.6rem
         }
     }
 </style>
@@ -264,12 +251,11 @@
         card.innerHTML = ''
         for (var i = 0; i < data.length; i++) {
             var row =
-                `   <div class="entry" id=${data[i][0].eyedee}>
-                    <div class="entry-heading">
+                `   <div class="entry" >
+                    <div class="entry-heading" id=${data[i][0].eyedee}>
                     <p class="title">${data[i][0].title}</p>
                     <p class="medium">${data[i][0].medium}</p>
                     </div>
-                    <div class="entry-content">
                     <u class="heading">Contributor(s)</u>
                     <ul class="info">${data[i][0].contributors}</ul>
                     <u class="heading">Publication date</u>
@@ -310,11 +296,8 @@
             if (data[i][0].references != undefined) {
                 row +=
                     `<u class="heading">References</u>
-                            <br>${data[i][0].references}`
+                    <ul class="info">${data[i][0].references}</ul>`
             }
-            row +=
-                `</div>`
-
             row +=
                 `</div>`
 
