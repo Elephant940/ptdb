@@ -13,16 +13,29 @@
 
     ::-webkit-scrollbar {
         background: rgb(241, 241, 241);
-        width: 0.75vw;
+        width: 1.05vw;
+    }
+
+    .entry::-webkit-scrollbar {
+        border-radius: 0 0.625rem 0.625rem 0;
     }
 
     ::-webkit-scrollbar-thumb {
         background: rgb(193, 193, 193);
     }
 
-    .scroller::-webkit-scrollbar-thumb:vertical:hover {
-    background-color: #000;
-}
+    .entry::-webkit-scrollbar-thumb {
+        background: rgb(193, 193, 193);
+        border-radius: 0 0.625rem 0.625rem 0;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: rgb(120, 120, 120);
+    }
+
+    .entry::-webkit-scrollbar-track {
+        border-radius: 0.625rem 0 0.625rem 0;
+    }
 
     header {
         background: rgb(162, 190, 150);
@@ -107,7 +120,6 @@
         background: rgb(237, 227, 214);
         display: flex;
         flex-wrap: wrap;
-        padding: 0 auto;
         min-height: 100vh;
         min-width: 99vw;
     }
@@ -172,7 +184,7 @@
         padding-bottom: 0.625rem;
     }
 
-    @media screen and (max-width: 540px){
+    @media screen and (max-width: 540px) {
         .mytabs label {
             border-radius: 1.25rem 1.25rem 0 0;
             font-size: 4.25vw;
@@ -180,8 +192,8 @@
 
         .entry {
             flex: 1 1 calc(99vw - 1.25rem);
-            max-height: 93.6rem;
-            max-width: 97.0717424vw;
+            max-height: calc(197ch - 1.25rem);
+            max-width: calc(99vw - 1.25rem);
         }
     }
 </style>
