@@ -137,25 +137,24 @@
         background: rgb(237, 227, 214);
         display: flex;
         flex-wrap: wrap;
-        min-height: 100vh;
-        min-width: 99vw;
+        min-width: 100%;
+        padding: 0.625rem
     }
 
     .entry {
         background-color: rgb(255, 255, 255);
         border-radius: 1.25rem;
         box-sizing: border-box;
-        flex: 1 1 26.9589rem; /* The smallest width each box can be while being two columns on a 1366px wide monitor */
+        flex: 1 1 26.9589rem;
         margin: 0.625rem;
         max-height: calc(92.5ch - 1.25rem);
-        max-width: calc(49.5vw - 1.25rem);
+        max-width: calc(50vw - 1.25rem);
         overflow-x: auto;
         text-align: left;
-        width: 100%;
     }
 
     .entry:hover {
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        box-shadow: 0 0 1.25rem rgb(0, 0, 0);
     }
 
     .entry-heading {
@@ -201,16 +200,16 @@
         padding-bottom: 0.625rem;
     }
 
-    @media screen and (max-width: 540px) {
+    @media screen and (max-width: 40.6875rem) {
         .mytabs label {
             border-radius: 1.25rem 1.25rem 0 0;
             font-size: 4.25vw;
         }
 
         .entry {
-            flex: 1 1 calc(99vw - 1.25rem);
+            flex: 1 1 calc(100vw - 1.25rem);
             max-height: calc(185ch - 1.25rem);
-            max-width: calc(99vw - 1.25rem);
+            max-width: calc(100vw - 1.25rem);
         }
     }
 </style>
