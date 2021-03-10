@@ -8,7 +8,7 @@
 
 <style>
     html {
-        overflow-x: hidden
+        overflow-x: hidden;
     }
 
     ::-webkit-scrollbar {
@@ -124,9 +124,9 @@
     }
 
     .tab {
-        background: #fff;
         display: none;
         margin: 0;
+        min-width: 99.5vw;
         order: 1;
         padding: 0;
         text-align: center;
@@ -135,23 +135,20 @@
     .period {
         align-content: flex-start;
         background: rgb(237, 227, 214);
-        display: flex;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(27.34081936rem, 1fr));
+        gap: 0.625rem;
+        padding: 0.625rem calc(0.625rem + 0.5vw) 0.625rem 0.625rem;
         min-height: 100vh;
-        min-width: 99vw;
     }
 
     .entry {
         background-color: rgb(255, 255, 255);
         border-radius: 1.25rem;
         box-sizing: border-box;
-        flex: 1 1 26.9384756088256818173932rem; /* The smallest width each box can be while being two columns on a 1366px wide monitor */
-        margin: 0.625rem;
-        max-height: calc(92.5ch - 1.25rem);
-        max-width: calc(49.5vw - 1.25rem);
+        max-height: 38.277147104rem;
         overflow-x: auto;
         text-align: left;
-        width: 100%;
     }
 
     .entry:hover {
@@ -166,8 +163,7 @@
         padding: 1.25rem 1.25rem 0.625rem 1.25rem;
         position: sticky;
         text-align: left;
-        top: 0;
-        width: 100%;
+        top: -1px;
     }
 
     .title {
@@ -201,16 +197,18 @@
         padding-bottom: 0.625rem;
     }
 
-    @media screen and (max-width: 540px) {
+    @media screen and (max-width: 56.8125rem) {
         .mytabs label {
             border-radius: 1.25rem 1.25rem 0 0;
             font-size: 4.25vw;
         }
 
+        .period {
+            grid-template-columns: repeat(1, 1fr);
+        }
+
         .entry {
-            flex: 1 1 calc(99vw - 1.25rem);
-            max-height: calc(185ch - 1.25rem);
-            max-width: calc(99vw - 1.25rem);
+            max-height: 76.554294208rem;
         }
     }
 </style>
