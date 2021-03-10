@@ -36,15 +36,23 @@
     .entry::-webkit-scrollbar-track {
         border-radius: 0.625rem 0 0.625rem 0;
     }
-
-    header {
+    
+    .header {
         background: rgb(162, 190, 150);
         color: black;
-        font-size: 2.8125rem;
         margin: 0;
         padding: 0.625rem;
         word-break: break-word;
         word-wrap: break-word;
+    }
+    
+    header {
+        font-size: 2.8125rem;
+    }
+
+    .credit {
+        font-size: 0.75rem;
+        margin-right: 0
     }
 
     a {
@@ -55,7 +63,7 @@
         color: #523dc8;
     }
 
-    p.favicon {
+    .favicon {
         font-size: 0.75rem;
         margin: 0.625rem;
         word-break: break-word;
@@ -73,6 +81,15 @@
 
     .summary {
         margin: 0.625rem;
+    }
+
+    #searchBar {
+        border-radius: 3px;
+        border: 1px solid #eaeaea;
+        font-size: 12px;
+        height: 32px;
+        justify-self: center;
+        padding: 5px 10px;
     }
 
     .mytabs {
@@ -200,51 +217,64 @@
 
 
 <title>Proboscidean Text Database</title>
-<header><b>The Proboscidean Text Database</b></header>
+<div class="header">
+    <header><b>The Proboscidean Text Database</b></header>
+    <div class="medium">Created by Trent Grasso (tjgrasso940@gmail.com)</div>
+</div>
 
-<p class="summary"> The Proboscidean Text Database (PTDb) is a digital collection of resources about the Proboscidea,
-    the evolutionary group comprising elephants, mammoths, mastodons, and their relatives. All catalogued sources have
-    been saved in Internet Archive's <a href="https://web.archive.org/" target="_blank">Wayback Machine</a>, so if any
-    are unavailable they should be accessible there.</p>
+<p class="summary"> The Proboscidean Text Database (PTDb) is a digital collection of resources about the Proboscidea, the evolutionary group comprising elephants, mammoths, mastodons, and their relatives. All catalogued sources have been saved in Internet Archive's <a href="https://web.archive.org/" target="_blank">Wayback Machine</a>, so if any are unavailable they should be accessible there.</p>
 
-<p class="favicon">Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to <a
-        href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/" target="_blank">Richard Ruggiero and
-        Zimices on PhyloPic</a>.</p>
+<p class="favicon">Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to <a href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/" target="_blank">Richard Ruggiero and Zimices on PhyloPic</a>.</p>
 
 <body>
-    <div class="mytabs">
-        <input type="radio" id="B1700" name="mytabs" checked="checked">
-        <label for="B1700" style=border-left-width:0px;>Before 1700</label>
-        <div class="tab">
-            <div class="period" id="B1700_table"></div>
+    <!-- <div id="searchWrapper">
+        <input type="text" name="searchBar" id="searchBar" placeholder="search for a character" /> -->
+        <div class="mytabs">
+            <input type="radio" id="B1700" name="mytabs" checked="checked">
+            <label for="B1700" style=border-left-width:0px;>Before 1700</label>
+            <div class="tab">
+                <div class="period" id="B1700_table"></div>
+            </div>
+            <input type="radio" id="D1700-1799" name="mytabs">
+            <label for="D1700-1799">1700-1799</label>
+            <div class="tab">
+                <div class="period" id="D1700-1799_table"></div>
+            </div>
+            <input type="radio" id="D1800-1899" name="mytabs">
+            <label for="D1800-1899">1800-1899</label>
+            <div class="tab">
+                <div class="period" id="D1800-1899_table"></div>
+            </div>
+            <input type="radio" id="D1900-1999" name="mytabs">
+            <label for="D1900-1999">1900-1999</label>
+            <div class="tab">
+                <div class="period" id="D1900-1999_table"></div>
+            </div>
+            <input type="radio" id="D2000-2021" name="mytabs">
+            <label for="D2000-2021" style=border-right-width:0px;>2000-2021</label>
+            <div class="tab">
+                <div class="period" id="D2000-2021_table"></div>
+            </div>
         </div>
-        <input type="radio" id="D1700-1799" name="mytabs">
-        <label for="D1700-1799">1700-1799</label>
-        <div class="tab">
-            <div class="period" id="D1700-1799_table"></div>
-        </div>
-        <input type="radio" id="D1800-1899" name="mytabs">
-        <label for="D1800-1899">1800-1899</label>
-        <div class="tab">
-            <div class="period" id="D1800-1899_table"></div>
-        </div>
-        <input type="radio" id="D1900-1999" name="mytabs">
-        <label for="D1900-1999">1900-1999</label>
-        <div class="tab">
-            <div class="period" id="D1900-1999_table"></div>
-        </div>
-        <input type="radio" id="D2000-2021" name="mytabs">
-        <label for="D2000-2021" style=border-right-width:0px;>2000-2021</label>
-        <div class="tab">
-            <div class="period" id="D2000-2021_table"></div>
-        </div>
-    </div>
 
 </body>
 
 
 <script>
+    let myPeriod = []
 
+//     searchBar.addEventListener('keyup', (e) => {
+//         console.log(e.target.value);
+//         const searchString = e.target.value.toLowerCase();
+
+//     const filteredPeriod = myPeriod.filter((row) => {
+//         return (
+//             row.data.i.title.toLowerCase().includes(searchString)
+//         );
+//     });
+//     console.log(filteredPeriod);
+// });
+    
     function goToSource(tab, source, eyedee) {
         document.getElementById(tab).checked = true;
         document.getElementById(source).scrollIntoView();
@@ -262,6 +292,7 @@
         var myPeriod = await fetch(`/api/v1/${endpoint}`);
         myPeriod = await myPeriod.json();
         buildCards(myPeriod, id)
+        console.log(myPeriod)
     }
 
     function buildCards(data, id) {
@@ -270,51 +301,51 @@
         for (var i = 0; i < data.length; i++) {
             var row =
                 `   <div class="entry" >
-                    <div class="entry-heading" id=${data[i][0].eyedee}>
-                    <p class="title">${data[i][0].title}</p>
-                    <p class="medium">${data[i][0].medium}</p>
+                    <div class="entry-heading" id=${data[i].eyedee}>
+                    <p class="title">${data[i].title}</p>
+                    <p class="medium">${data[i].medium}</p>
                     </div>
                     <u class="heading">Contributor(s)</u>
-                    <ul class="info">${data[i][0].contributors}</ul>
+                    <ul class="info">${data[i].contributors}</ul>
                     <u class="heading">Publication date</u>
-                    <ul class="info">${data[i][0].date}</ul>
+                    <ul class="info">${data[i].date}</ul>
                     <u class="heading">Duration</u>
-                    <ul class="info">${data[i][0].duration}</ul>
+                    <ul class="info">${data[i].duration}</ul>
                     <u class="heading">Publisher</u>
-                    <ul class="info">${data[i][0].publisher}</ul>
+                    <ul class="info">${data[i].publisher}</ul>
                     <u class="heading">Publication location</u>
-                    <ul class="info">${data[i][0].location}</ul>
+                    <ul class="info">${data[i].location}</ul>
                     <u class="heading">Language(s)</u>
-                    <ul class="info">${data[i][0].languages}</ul>`
+                    <ul class="info">${data[i].languages}</ul>`
 
-            if (data[i][0].container != undefined) {
+            if (data[i].container != undefined) {
                 row +=
                     `<u class="heading">Container</u>
-                            <ul class="info">${data[i][0].container}</ul>`
+                            <ul class="info">${data[i].container}</ul>`
             }
 
-            if (data[i][0].iteration != undefined) {
+            if (data[i].iteration != undefined) {
                 row +=
                     `<u class="heading">Iteration</u>
-                            <ul class="info">${data[i][0].iteration}</ul>`
+                            <ul class="info">${data[i].iteration}</ul>`
             }
 
             row +=
                 `<u class="heading">Summary and significance</u>
-                            <ul class="info">${data[i][0].summary}</ul>
+                            <ul class="info">${data[i].summary}</ul>
                         <u class="heading">Link(s) to source</u>
-                            <ul class="info">${data[i][0].links}</ul>`
+                            <ul class="info">${data[i].links}</ul>`
 
-            if (data[i][0].notes != undefined) {
+            if (data[i].notes != undefined) {
                 row +=
                     `<u class="heading">Notes</u>
-                            <ul class="info">${data[i][0].notes}</ul>`
+                            <ul class="info">${data[i].notes}</ul>`
             }
 
-            if (data[i][0].references != undefined) {
+            if (data[i].references != undefined) {
                 row +=
                     `<u class="heading">References</u>
-                    <ul class="info">${data[i][0].references}</ul>`
+                    <ul class="info">${data[i].references}</ul>`
             }
             row +=
                 `</div>`

@@ -1,5 +1,5 @@
 module.exports = [
-    [{
+    {
         container: `<i>Elephant</i>, physically published academic journal`,
         contributors: `Peter Grubb (coauthor); Colin P. Groves (coauthor); Joseph P. Dudley (coauthor); Jeheskel Shoshani (coauthor)`,
         date: `2000/01`,
@@ -12,8 +12,8 @@ module.exports = [
         publisher: `Elephant Research Foundation (ERF)`,
         summary: `TBA.`,
         title: `Living African Elephants Belong to Two Species: <i>Loxodonta africana</i> (Blumenbach, 1797) and <i>Loxodonta cyclotis</i> (Matschie, 1900)`,
-    }],
-    [{
+    },
+    {
         container: `<i>Elephant</i>, physically published academic journal`,
         contributors: `Colin P. Groves (coauthor); Peter Grubb (coauthor)`,
         date: `2000/01`,
@@ -26,8 +26,8 @@ module.exports = [
         publisher: `Elephant Research Foundation (ERF)`,
         summary: `TBA.`,
         title: `Do <i>Loxodonta cyclotis</i> and <i>L</i>. <i>africana</i> Interbreed?`,
-    }],
-    [{
+    },
+    {
 
         container: `<i>Heredity</i> (Hered.), digitally published academic journal`,
         contributors: `Prithiviraj Fernando (coauthor); Michael E. Pfrender (coauthor); Sandra E. Encalada (coauthor); Russell Lande (coauthor)`,
@@ -41,8 +41,8 @@ module.exports = [
         publisher: `Nature Publishing Group`,
         summary: `TBA.`,
         title: `Mitochondrial DNA variation, phylogeography and population structure of the Asian elephant`,
-    }],
-    [{
+    },
+    {
         container: `<i>News in Physiological Sciences</i> (NIPS), digitally published academic journal`,
         contributors: `John B. West (author)`,
         date: `2002/04/01`,
@@ -55,8 +55,8 @@ module.exports = [
         publisher: `American Physiological Society (APS)`,
         summary: `TBA.`,
         title: `Why Doesn't the Elephant Have a Pleural Space?`,
-    }],
-    [{
+    },
+    {
         container: `<i>PLoS Biology</i> (PLoS Biol.), digitally published academic journal`,
         contributors: `Prithiviraj Fernando (coauthor); T.N.C. Vidya (coauthor); John Payne (coauthor); Michael Stuewe (coauthor); Geoffrey Davison (coauthor); Raymond J. Alfred (coauthor); Patrick Andau (coauthor); Edwin Bosi (coauthor); Annelisa Kilbourn (coauthor); Don J. Melnick (coauthor)`,
         date: `2003/08/18`,
@@ -69,8 +69,8 @@ module.exports = [
         publisher: `Public Library of Science (PLoS)`,
         summary: `TBA.`,
         title: `DNA Analysis Indicates That Asian Elephants Are Native to Borneo and Are Therefore a High Priority for Conservation`,
-    }],
-    [{
+    },
+    {
         container: `<i>Physiological and Biochemical Zoology: Ecological and Evolutionary Approaches</i> (Phys. Biochem. Zool.), digitally published academic journal`,
         contributors: `Kathleen E. Hunt (coauthor); Samuel K. Wasser (coauthor)`,
         date: `2003/>12`,
@@ -83,8 +83,8 @@ module.exports = [
         publisher: `The University of Chicago Press`,
         summary: `TBA.`,
         title: `Effect of Long‐Term Preservation Methods on Fecal Glucocorticoid Concentrations of Grizzly Bear and African Elephant`,
-    }],
-    [{
+    },
+    {
         container: `<i>Quaternary International</i> (Quat. Int.), digitally published academic journal`,
         contributors: `Jeheskel Shoshani (coauthor); Pascal Tassy (coauthor)`,
         date: `2004/06/26`,
@@ -97,8 +97,8 @@ module.exports = [
         publisher: `Elsevier`,
         summary: `TBA.`,
         title: `Advances in proboscidean taxonomy & classification, anatomy & physiology, and ecology & behavior`,
-    }],
-    [{
+    },
+    {
         container: `<i>YouTube</i>, website`,
         contributors: `jawed (uploader)`,
         date: `2005/04/23`,
@@ -110,8 +110,8 @@ module.exports = [
         publisher: `YouTube`,
         summary: `The first YouTube video, filmed at the elephant exhibit at the San Diego Zoo.`,
         title: `Me at the zoo`,
-    }],
-    [{
+    },
+    {
         container: `<i>Genetics</i> (Genet.), digitally published academic journal`,
         contributors: `Shozo Yokoyama (coauthor); Naomi Takenaka (coauthor); Dalen W. Agnew (coauthor); Jeheskel Shoshani (coauthor)`,
         date: `2005/05/01`,
@@ -124,8 +124,8 @@ module.exports = [
         publisher: `Genetics Society of America (GSA)`,
         summary: `TBA.`,
         title: `Elephants and Human Color-Blind Deuteranopes Have Identical Sets of Visual Pigments`,
-    }],
-    [{
+    },
+    {
         container: `<i>ScienceDaily</i>, published news website`,
         contributors: `Anonymous`,
         date: `2005/12/05`,
@@ -137,8 +137,8 @@ module.exports = [
         publisher: `ScienceDaily`,
         summary: `A laymen-oriented summary of <a id="Morris_et_al_2006_color_0" onclick="goToSource('D2000-2021','Morris_et_al_2006', this.id)">Morris et al., 2006</a>.`,
         title: `Drunken Elephants: The Marula Fruit Myth`,
-    }],
-    [{
+    },
+    {
         container: `<i>National Geographic</i>, digitally published magazine`,
         contributors: `Nicholas Bakalar (author)`,
         date: `2005/12/21`,
@@ -150,8 +150,8 @@ module.exports = [
         publisher: `National Geographic Society`,
         summary: `A laymen-oriented summary of <a id="Morris_et_al_2006_color_1" onclick="goToSource('D2000-2021','Morris_et_al_2006', this.id)">Morris et al., 2006</a> with quotes from one of the paper's coauthors.`,
         title: `Elephants Drunk in the Wild? Scientists Put the Myth to Rest`,
-    }],
-    [{
+    },
+    {
         container: `<i>Physiological and Biochemical Zoology: Ecological and Evolutionary Approaches</i> (Phys. Biochem. Zool.), digitally published academic journal`,
         contributors: `Steve Morris (coauthor); David Humphreys (coauthor); Dan Reynolds (coauthor)`,
         date: `2006/02/06`,
@@ -165,8 +165,8 @@ module.exports = [
         publisher: `The University of Chicago Press`,
         summary: `TBA.`,
         title: `Myth, Marula, and Elephant: An Assessment of Voluntary Ethanol Intoxication of the African Elephant (<i>Loxodonta africana</i>) Following Feeding on the Fruit of the Marula Tree (<i>Sclerocarya birrea</i>)`,
-    }],
-    [{
+    },
+    {
         container: `<i>Brain Research Bulletin</i> (Brain Res. Bull.), digitally published academic journal`,
         contributors: `Jeheskel Shoshani (coauthor); William J. Kupsky (coauthor); Gary H. Marchant (coauthor)`,
         date: `2006/04/18`,
@@ -179,8 +179,8 @@ module.exports = [
         publisher: `Elsevier`,
         summary: `TBA.`,
         title: `Elephant brain: Part I: Gross morphology, functions, comparative anatomy, and evolution`,
-    }],
-    [{
+    },
+    {
         container: `<i>Applied Animal Behaviour Science</i> (Appl. Anim. Behav. Sci.), digitally published academic journal`,
         contributors: `Iain Douglas-Hamilton (coauthor); Shivani Bhalla (coauthor); George Wittemyer (coauthor); Fritz Vollrath (coauthor)`,
         date: `2006/06/27`,
@@ -193,8 +193,8 @@ module.exports = [
         publisher: `Elsevier`,
         summary: `TBA.`,
         title: `Behavioural reactions of elephants towards a dying and deceased matriarch`,
-    }],
-    [{
+    },
+    {
         container: `<i>PLoS Biology</i> (PLoS Biol.), digitally published academic journal`,
         contributors: `Liza Gross (author)`,
         date: `2007/04/03`,
@@ -207,8 +207,8 @@ module.exports = [
         publisher: `Public Library of Science (PLoS)`,
         summary: `A laymen-oriented summary of <a id="Blake_et_al_2007_color_0" onclick="goToSource('D2000-2021','Blake_et_al_2007', this.id)">Blake et al., 2007</a>.`,
         title: `In the Shadows of the Congo Basin Forest, Elephants Fall to the Illegal Ivory Trade`,
-    }],
-    [{
+    },
+    {
         container: `<i>PLoS Biology</i> (PLoS Biol.), digitally published academic journal`,
         contributors: `Stephen Blake (coauthor); Samantha Strindberg (coauthor); Patrick Boudjan (coauthor); Calixte Makombo (coauthor); Inogwabini Bila-Isia (coauthor); Omari Ilambu (coauthor); Falk Grossmann (coauthor); Lambert Bene-Bene (coauthor); Bruno de Semboli (coauthor); Valentin Mbenzo (coauthor); Dino S'hwa (coauthor); Rosine Bayogo (coauthor); Liz Williamson (coauthor); Mike Fay (coauthor); John Hart (coauthor); Fiona Maisels (coauthor)`,
         date: `2007/04/03`,
@@ -222,8 +222,8 @@ module.exports = [
         publisher: `Public Library of Science (PLoS)`,
         summary: `TBA.`,
         title: `Forest Elephant Crisis in the Congo Basin`,
-    }],
-    [{
+    },
+    {
         container: `<i>Journal of Anatomy</i> (J. Anat.), digitally published academic journal`,
         contributors: `D.M. Bouley (coauthor); C.N. Alarcón (coauthor); T. Hildebrandt (coauthor); Caitlin E. O’Connell‐Rodwell (coauthor)`,
         date: `2007/08/15`,
@@ -236,8 +236,8 @@ module.exports = [
         publisher: `Wiley Online Library on behalf of the Anatomical Society (AS)`,
         summary: `TBA.`,
         title: `The distribution, density and three‐dimensional histomorphology of Pacinian corpuscles in the foot of the Asian elephant (<i>Elephas maximus</i>) and their potential role in seismic communication`,
-    }],
-    [{
+    },
+    {
         container: `<i>Molecular Ecology</i> (Mol. Ecol.), digitally published academic journal`,
         contributors: `Elizabeth A. Archie (coauthor); Julie A. Hollister‐Smith (coauthor); Joyce H. Poole (coauthor); Phyllis C. Lee (coauthor); Cynthia J. Moss (coauthor); Jésus E. Maldonado (coauthor); Robert C. Fleischer (coauthor); Susan C. Alberts (coauthor)`,
         date: `2007/09/04`,
@@ -250,8 +250,8 @@ module.exports = [
         publisher: `Wiley Online Library`,
         summary: `TBA.`,
         title: `Behavioural inbreeding avoidance in wild African elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Current Biology</i> (Curr. Biol.), digitally published academic journal`,
         contributors: `Lucy E. King (coauthor); Iain Douglas-Hamilton (coauthor); Fritz Vollrath (coauthor)`,
         date: `2007/10/09`,
@@ -264,8 +264,8 @@ module.exports = [
         publisher: `Cell Press`,
         summary: `TBA.`,
         title: `African elephants run from the sound of disturbed bees`,
-    }],
-    [{
+    },
+    {
         container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
         contributors: `J. Blanc (author); D. Balfour (reviewer); C. Craig (reviewer); Holly T. Dublin (reviewer); Chris Thouless (reviewer)`,
         date: `2008/06/30`,
@@ -277,8 +277,8 @@ module.exports = [
         publisher: `International Union for Conservation of Nature (IUCN)`,
         summary: `TBA.`,
         title: `<i>Loxodonta africana</i>, African elephant`,
-    }],
-    [{
+    },
+    {
         container: `<i>Animal Welfare</i> (Anim. Welf.), digitally published academic journal`,
         contributors: `D.L. Wells (coauthor); R.M. Irwin (coauthor)`,
         date: `2008/11/01`,
@@ -291,8 +291,8 @@ module.exports = [
         publisher: `Universities Federation for Animal Welfare (UFAW)`,
         summary: `TBA.`,
         title: `Auditory stimulation as enrichment for zoo-housed Asian elephants (<i>Elephas maximus</i>)`,
-    }],
-    [{
+    },
+    {
         container: `<i>Philosophical Transactions of the Royal Society B</i> (Phil. Trans. R. Soc. B), digitally published academic journal`,
         contributors: `T.N.C. Vidya (coauthor); Raman Sukumar (coauthor); Don J. Melnick (coauthor)`,
         date: `2008/11/18`,
@@ -305,8 +305,8 @@ module.exports = [
         publisher: `Royal Society`,
         summary: `TBA.`,
         title: `Range-wide mtDNA phylogeography yields insights into the origins of Asian elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Science</i> (Sci.), digitally published academic journal`,
         contributors: `Ros Clubb (coauthor); Marcus Rowcliffe (coauthor); Phyllis C. Lee (coauthor); Khyne U. Mar (coauthor); Cynthia J. Moss (coauthor); Georgia J. Mason (coauthor)`,
         date: `2008/12/12`,
@@ -319,8 +319,8 @@ module.exports = [
         publisher: `American Association for the Advancement of Science (AAAS)`,
         summary: `TBA.`,
         title: `Compromised Survivorship in Zoo Elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Biotropica</i>, digitally published academic journal`,
         contributors: `Ahimsa Campos‐Arceiz (author)`,
         date: `2009/06/29`,
@@ -333,8 +333,8 @@ module.exports = [
         publisher: `Wiley Online Library on behalf of the Association for Tropical Biology and Conservation`,
         summary: `TBA.`,
         title: `Shit Happens (to be Useful)! Use of Elephant Dung as Habitat by Amphibians`,
-    }],
-    [{
+    },
+    {
         container: `<i>The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology</i> (Anat. Rec.), digitally published academic journal`,
         contributors: `Nancy E. Todd (author)`,
         date: `2009/12/28`,
@@ -347,8 +347,8 @@ module.exports = [
         publisher: `American Association for Anatomy (AAA)`,
         summary: `TBA.`,
         title: `Qualitative Comparison of the Cranio‐Dental Osteology of the Extant Elephants, <i>Elephas maximus</i> (Asian Elephant) and <i>Loxodonta africana</i> (African Elephant)`,
-    }],
-    [{
+    },
+    {
         container: `<i>The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology</i> (Anat. Rec.), digitally published academic journal`,
         contributors: `Nancy E. Todd (author)`,
         date: `2009/12/28`,
@@ -361,8 +361,8 @@ module.exports = [
         publisher: `American Association for Anatomy (AAA)`,
         summary: `TBA.`,
         title: `New Phylogenetic Analysis of the Family Elephantidae Based on Cranial‐Dental Morphology`,
-    }],
-    [{
+    },
+    {
         container: `<i>PLoS Biology</i> (PLoS Biol.), digitally published academic journal`,
         contributors: `Nadin Rohland (coauthor); David Reich (coauthor); Swapan Mallick (coauthor); Matthias Meyer (coauthor); Richard E. Green (coauthor); Nicholas J. Georgiadis (coauthor); Alfred L. Roca (coauthor); Michael Hofreiter (coauthor)`,
         date: `2010/12/21`,
@@ -376,8 +376,8 @@ module.exports = [
         publisher: `Public Library of Science (PLoS)`,
         summary: `TBA.`,
         title: `Genomic DNA Sequences from Mastodon and Woolly Mammoth Reveal Deep Speciation of Forest and Savanna Elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Nature</i> (Nat.), digitally published academic journal`,
         contributors: `Natasha Gilbert (author)`,
         date: `2010/12/21`,
@@ -389,8 +389,8 @@ module.exports = [
         publisher: `Nature Publishing Group`,
         summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_color_0" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a> with quotes from one of the paper's coauthors.`,
         title: `African elephants are two distinct species`,
-    }],
-    [{
+    },
+    {
         container: `<i>Smithsonian Magazine</i>, digitally published magazine`,
         contributors: `Laura Helmuth (author)`,
         date: `2010/12/27`,
@@ -402,8 +402,8 @@ module.exports = [
         publisher: `Smithsonian`,
         summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_color_1" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a>.`,
         title: `The Elephant Family Tree, Extinct and Extant`,
-    }],
-    [{
+    },
+    {
         container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
         contributors: `A. Gopala (coauthor); O. Hadian (coauthor); Sunarto (coauthor); A. Sitompul (coauthor); A. Williams (coauthor); P. Leimgruber (coauthor); S.E. Chambliss (coauthor); D. Gunaryardi (coauthor); S. Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
         date: `2011/08/01`,
@@ -415,8 +415,8 @@ module.exports = [
         publisher: `International Union for Conservation of Nature (IUCN)`,
         summary: `TBA.`,
         title: `<i>Elephas maximus</i> ssp. <i>maximus</i>, Sumatran elephant`,
-    }],
-    [{
+    },
+    {
         container: `<i>Science</i> (Sci.), digitally published academic journal`,
         contributors: `Elizabeth Pennisi (author)`,
         date: `2011/12/22`,
@@ -428,8 +428,8 @@ module.exports = [
         publisher: `American Association for the Advancement of Science (AAAS)`,
         summary: `A laymen-oriented summary of <a id="Hutchinson_et_al_2011_color_0" onclick="goToSource('D2000-2021','Hutchinson_et_al_2011', this.id)">Hutchinson et al., 2011</a>.`,
         title: `Elephants Have a Sixth 'Toe'`,
-    }],
-    [{
+    },
+    {
         container: `<i>Science</i> (Sci.), digitally published academic journal`,
         contributors: `Josh R. Hutchinson (coauthor); Cyrille Delmer (coauthor); Charlotte E. Miller (coauthor); Thomas Hildebrandt (coauthor); Andrew A. Pitsillides (coauthor); Alan Boyde (coauthor)`,
         date: `2011/12/23`,
@@ -443,8 +443,8 @@ module.exports = [
         publisher: `American Association for the Advancement of Science (AAAS)`,
         summary: `TBA.`,
         title: `From Flat Foot to Fat Foot: Structure, Ontogeny, Function, and Evolution of Elephant “Sixth Toes”`,
-    }],
-    [{
+    },
+    {
         container: `<i>Brain, Behavior and Evolution</i> (Brain Behav. Evol.), digitally published academic journal`,
         contributors: `Busisiwe C. Maseko (coauthor); Bob Jacobs (coauthor); Muhammad A. Spocter (coauthor); Chet C. Sherwood (coauthor); P.R. Hoff (coauthor); Paul R. Manger (coauthor)`,
         date: `2012/12/29`,
@@ -457,8 +457,8 @@ module.exports = [
         publisher: `Karger`,
         summary: `TBA.`,
         title: `Qualitative and Quantitative Aspects of the Microanatomy of the African Elephant Cerebellar Cortex`,
-    }],
-    [{
+    },
+    {
         container: `<i>PLoS ONE</i>, digitally published academic journal`,
         contributors: `Andrea K. Turkalo (coauthor); Peter H. Wrege (coauthor); George Wittemyer (coauthor)`,
         date: `2013/12/26`,
@@ -471,8 +471,8 @@ module.exports = [
         publisher: `Public Library of Science (PLoS)`,
         summary: `TBA.`,
         title: `Long-Term Monitoring of Dzanga Bai Forest Elephants: Forest Clearing Use Patterns`,
-    }],
-    [{
+    },
+    {
         container: `<i>Empire</i>, digitally published magazine`,
         contributors: `Simon Otto (author)`,
         date: `2014/07/10`,
@@ -484,8 +484,8 @@ module.exports = [
         publisher: `Empire`,
         summary: `Simon Otto, then Dreamworks's Head of Character animation, describes the Bewilderbeast from <i>How to Train Your Dragon 2</i> (2014) as being part mammoth.`,
         title: `How To Create Your Dragon: The Inspirations Behind The Creatures`,
-    }],
-    [{
+    },
+    {
         container: `<i>Annual Review of Animal Biosciences</i> (Annu. Rev. Anim. Biosci.), digitally published academic journal`,
         contributors: `Alfred L. Roca (coauthor); Yasuko Ishida (coauthor); Adam L. Brandt (coauthor); Neal R. Benjamin (coauthor); Kai Zhao (coauthor); Nicholas J. Georgiadis (coauthor)`,
         date: `2014/12/08`,
@@ -498,8 +498,8 @@ module.exports = [
         publisher: `Annual Reviews`,
         summary: `TBA.`,
         title: `Elephant Natural History: A Genomic Perspective`,
-    }],
-    [{
+    },
+    {
         container: `<i>Acta Palaeontologica Polonica</i> (Acta Palaeontol. Pol.), digitally published academic journal`,
         contributors: `Asier Larramendi (author)`,
         date: `2015/07/15`,
@@ -513,8 +513,8 @@ module.exports = [
         publisher: `Institute of Palaeobiology of the Polish Academy of Sciences`,
         summary: `TBA.`,
         title: `Shoulder height, body mass and shape of proboscideans`,
-    }],
-    [{
+    },
+    {
         container: `<i>Animal Cognition</i> (Anim. Cogn.), digitally published academic journal`,
         contributors: `Kaori Mizuno (coauthor); Naoko Irie (coauthor); Mariko Hiraiwa-Hasegawa (coauthor); Nobuyuki Kutsukake (coauthor)`,
         date: `2015/11/05`,
@@ -527,8 +527,8 @@ module.exports = [
         publisher: `SpringerLink`,
         summary: `TBA.`,
         title: `Asian elephants acquire inaccessible food by blowing`,
-    }],
-    [{
+    },
+    {
         container: `<i>Journal of Vertebrate Paleontology</i> (J. Vertebr. Paleontol.), digitally published academic journal`,
         contributors: `W. David Lambert (author); Marcelo Sanchez-Villagra (handling editor)`,
         date: `2016/02/18`,
@@ -541,8 +541,8 @@ module.exports = [
         publisher: `Taylor & Francis Group`,
         summary: `TBA.`,
         title: `<i>Eurybelodon shoshanii</i>, an unusual new shovel-tusked gomphothere (Mammalia, Proboscidea) from the late Miocene of Oregon`,
-    }],
-    [{
+    },
+    {
         container: `<i>Nature</i> (Nat.), digitally published academic journal`,
         contributors: `Ewen Callaway (author)`,
         date: `2016/09/16`,
@@ -554,8 +554,8 @@ module.exports = [
         publisher: `Nature Publishing Group`,
         summary: `A laymen-oriented summary of the 2016 announcement of <a id="Palkopoulou_et_al_2018_color_0" onclick="goToSource('D2000-2021','Palkopoulou_et_al_2018', this.id)">Palkopoulou et al., 2018</a>, with quotes from one of the paper's coauthors.`,
         title: `Elephant history rewritten by ancient genomes`,
-    }],
-    [{
+    },
+    {
         container: `<i>State Council Law</i>, digitally published legislation`,
         contributors: `Anonymous`,
         date: `2016/12/30`,
@@ -568,8 +568,8 @@ module.exports = [
         publisher: `State Council of the People's Republic of China`,
         summary: `TBA.`,
         title: `国务院办公厅关于有序停止商业性加工销售象牙及制品活动的通知`,
-    }],
-    [{
+    },
+    {
         container: `<i>eLife</i>, digitally published academic journal`,
         contributors: `Matthias Meyer (coauthor); Eleftheria Palkopoulou (coauthor); Sina Baleka (coauthor); Mathias Stiller (coauthor); Kirsty E.H. Penkman (coauthor); Kurt W. Alt (coauthor); Yasuko Ishida (coauthor); Dietrich Mania (coauthor); Swapan Mallick (coauthor); Tom Meijer (coauthor); Harald Meller (coauthor); Sarah Nagel (coauthor); Birgit Nickel (coauthor); Sven Ostritz (coauthor); Nadin Rohland (coauthor); Karol Schauer (coauthor); Tim Schüler (coauthor); Alfred L/ Roca (coauthor); David Reich (coauthor); Beth Shapiro (coauthor); Michael Hofreiter (coauthor); Antonis Rokas (reviewing editor)`,
         date: `2017/06/06`,
@@ -583,8 +583,8 @@ module.exports = [
         publisher: `eLife`,
         summary: `TBA.`,
         title: `Palaeogenomes of Eurasian straight-tusked elephants challenge the current view of elephant evolution`,
-    }],
-    [{
+    },
+    {
         container: `<i>Illinois News Bureau</i>, published news website`,
         contributors: `Diana Yates (author)`,
         date: `2017/06/06`,
@@ -596,8 +596,8 @@ module.exports = [
         publisher: `University of Illinois at Urbana-Champaign`,
         summary: `A laymen-oriented summary of <a id="Meyer_et_al_2017_color_0" onclick="goToSource('D2000-2021','Meyer_et_al_2017', this.id)">Meyer et al., 2017</a> with quotes from the paper's coauthors.`,
         title: `Genetic study shakes up the elephant family tree`,
-    }],
-    [{
+    },
+    {
         container: `<i>PLoS ONE</i>, digitally published academic journal`,
         contributors: `Robert A.R. Guldemond (coauthor); Andrew Purdon (coauthor); Rudi J. van Aarde (coauthor)`,
         date: `2017/06/07`,
@@ -610,8 +610,8 @@ module.exports = [
         publisher: `Public Library of Science (PLoS)`,
         summary: `TBA.`,
         title: `A systematic review of elephant impact across Africa`,
-    }],
-    [{
+    },
+    {
         container: `<i>Journal of Vertebrate Paleontology</i> (J. Vertebr. Paleontol.), digitally published academic journal`,
         contributors: `Shi-Qi Wang (coauthor); Yu Li (coauthor); Jaroon Duangkrayom (coauthor); Xiang-Wen Yang (coauthor); Wen He (coauthor); Shan-Qin Chen (coauthor)`,
         date: `2017/06/13`,
@@ -624,8 +624,8 @@ module.exports = [
         publisher: `Taylor & Francis Group`,
         summary: `TBA.`,
         title: `A new species of <i>Gomphotherium</i> (Proboscidea, Mammalia) from China and the evolution of Gomphotherium in Eurasia`,
-    }],
-    [{
+    },
+    {
         container: `<i>Der Zoologische Garten</i> (Zool. Gart.), digitally published academic journal`,
         contributors: `Ulrich Schürer (author)`,
         date: `2017/06/20`,
@@ -638,8 +638,8 @@ module.exports = [
         publisher: `Elsevier`,
         summary: `TBA.`,
         title: `Über Waldelefanten`,
-    }],
-    [{
+    },
+    {
         container: `<i>Wikimedia Commons</i>, published website`,
         contributors: `Steveoc 86 (illustrator)`,
         date: `2017/10/13`,
@@ -651,8 +651,8 @@ module.exports = [
         publisher: `Wikimedia Foundation`,
         summary: `An illustrated comparison of a man's and a woman's heights with the average shoulder height of male, female, adult, and juvenile African bush elephants (<i>Loxodonta africana</i>), as well as the tallest known adult male. Shoulder heights are based on data from <a id="Lee_Moss_1995_color_0" onclick="goToSource('D1900-1999','Lee_Moss_1995', this.id)">Lee and Moss, 1995</a> and <a id="Larramendi_2015_color_0" onclick="goToSource('D2000-2021','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
         title: `File:African-Elephant-Scale-Chart-SVG-Steveoc86.svg`,
-    }],
-    [{
+    },
+    {
         container: `<i>Zoological Journal of the Linnean Society</i> (Zool. J. Linn. Soc.), digitally published academic journal`,
         contributors: `Advait M. Jukar (coauthor); S. Kathleen Lyons (coauthor); Mark D. Uhen (coauthor)`,
         date: `2018/01/16`,
@@ -665,8 +665,8 @@ module.exports = [
         publisher: `Linnean Society of London`,
         summary: `TBA.`,
         title: `A cranial correlate of body mass in proboscideans`,
-    }],
-    [{
+    },
+    {
         container: `<i>Scientific Reports</i> (Sci. Rep.), digitally published academic journal`,
         contributors: `Reeta Sharma (coauthor); Benoit Goossens (coauthor); Rasmus Heller (coauthor); Rita Rasteiro (coauthor); Nurzhafarina Othman (coauthor); Michael W. Bruford (coauthor); Lounès Chikhi (coauthor)`,
         date: `2018/01/17`,
@@ -680,8 +680,8 @@ module.exports = [
         publisher: `Nature Publishing Group`,
         summary: `TBA.`,
         title: `Genetic analyses favour an ancient and natural origin of elephants on Borneo`,
-    }],
-    [{
+    },
+    {
         container: `<i>Phys.org</i>, published news website`,
         contributors: `Instituto Gulbenkian de Ciencia (author)`,
         date: `2018/01/17`,
@@ -693,8 +693,8 @@ module.exports = [
         publisher: `Phys.org`,
         summary: `A laymen-oriented summary of <a id="Sharma_et_al_2018_color_0" onclick="goToSource('D2000-2021','Sharma_et_al_2018', this.id)">Sharma et al., 2018</a> with quotes from the paper's coauthors.`,
         title: `New light on the mysterious origin of Bornean elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Proceedings of the National Academy of Sciences</i> (PNAS), digitally published academic journal`,
         contributors: `Eleftheria Palkopoulou (coauthor); Mark Lipson (coauthor); Swapan Mallick (coauthor); Svend Nielsen (coauthor); Nadin Rohland (coauthor); Sina Baleka (coauthor); Emil Karpinski (coauthor); Atma M. Ivancevic (coauthor); Thu-Hien To (coauthor); R. Daniel Kortschak (coauthor); Joy M. Raison (coauthor); Zhipeng Qu (coauthor); Tat-Jun Chin (coauthor); Kurt W. Alt (coauthor); Stefan Claesson (coauthor); Love Dalén (coauthor); Ross D.E. MacPhee (coauthor); Harald Meller (coauthor); Alfred L. Roca (coauthor); Oliver A. Ryder (coauthor); David Heiman (coauthor); Sarah Young (coauthor); Matthew Breen (coauthor); Christina Williams (coauthor); Bronwen L. Aken (coauthor); Magali Ruffier (coauthor); Elinor Karlsson (coauthor); Jeremy Johnson (coauthor); Federica Di Palma (coauthor); Jessica Alfoldi (coauthor);  David L. Adelson (coauthor); Thomas Mailund (coauthor); Kasper Munch (coauthor); Kerstin Lindblad-Toh (coauthor); Michael Hofreiter (coauthor); Hendrik Poinar (coauthor); David Reich (coauthor)`,
         date: `2018/02/26`,
@@ -708,8 +708,8 @@ module.exports = [
         publisher: `National Academy of Sciences (NAS)`,
         summary: `TBA.`,
         title: `A comprehensive genomic history of extinct and living elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>WCS Newsroom</i>, published news website`,
         contributors: `Anonymous`,
         date: `2018/03/22`,
@@ -721,8 +721,8 @@ module.exports = [
         publisher: `Wildlife Conservation Society (WCS)`,
         summary: `TBA.`,
         title: `VIDEO: “Smoke-Breathing” Elephant Stumps Scientists`,
-    }],
-    [{
+    },
+    {
         container: `<i>Remote Sensing Applications: Society and Environment</i> (Remote. Sens. Appl.), digitally published academic journal`,
         contributors: `Zorodzai Dzinotizei (coauthor); Amon Murwira (coauthor); Mhosisi Masocha (coauthor)`,
         date: `2018/10/26`,
@@ -736,8 +736,8 @@ module.exports = [
         publisher: `Elsevier`,
         summary: `TBA.`,
         title: `Elephant-induced landscape heterogeneity change around artificial waterholes in a protected savanna woodland ecosystem`,
-    }],
-    [{
+    },
+    {
         container: `<i>ArtStation</i>, published website`,
         contributors: `Tianhua Xu (illustrator); Xiaodi Jin (illustrator); Ravi Bansal (art director); Loic Zimmermann (art director)`,
         date: `2018/12/06`,
@@ -749,8 +749,8 @@ module.exports = [
         publisher: `ArtStation`,
         summary: `Concept art for <i>Godzilla: King of the Monsters</i> (2019). The final design of Behemoth can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
         title: `Godzilla III`,
-    }],
-    [{
+    },
+    {
         container: `<i>Behavioral Ecology</i> (Behav. Ecol.), digitally published academic journal`,
         contributors: `Michael A. Pardo (coauthor); Joyce H. Poole (coauthor); Angela S. Stoeger (coauthor); Peter H. Wrege (coauthor); Caitlin E. O'Connell-Rodwell (coauthor); Udaha Kapugedara Padmalal (coauthor); Shermin de Silva (coauthor)`,
         date: `2019/02/23`,
@@ -764,8 +764,8 @@ module.exports = [
         publisher: `Oxford Academic`,
         summary: `TBA.`,
         title: `Differences in combinatorial calls among the 3 elephant species cannot be explained by phylogeny`,
-    }],
-    [{
+    },
+    {
         container: `<i>Maximus</i>, published blog`,
         contributors: `Michael A. Pardo (author)`,
         date: `2019/05/01`,
@@ -777,8 +777,8 @@ module.exports = [
         publisher: `Trunks & Leaves Inc.`,
         summary: `A laymen-oriented summary of <a id="Pardo_et_al_2019_color_0" onclick="goToSource('D2000-2021','Pardo_et_al_2019', this.id)">Pardo et al., 2019</a> by one of the paper's coauthors.`,
         title: `Call Combinations Differ Among Living Elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Polygon</i>, published news website`,
         contributors: `Matt Patches (author)`,
         date: `2019/06/07`,
@@ -790,8 +790,8 @@ module.exports = [
         publisher: `Polygon`,
         summary: `An interview with <i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty, in which he says that Behemoth's design was heavily inspired by woolly mammoths.`,
         title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
-    }],
-    [{
+    },
+    {
         container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
         contributors: `C. Williams (coauthor, reviewer, facilitator, compiler); S.K. Tiwari (coauthor, facilitator, compiler); V.R. Goswami (coauthor); S. de Silva (coauthor); A. Kumar (coauthor); N. Baskaran (coauthor); K. Yoganand (coauthor); V. Menon (coauthor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
         date: `2019/09/18`,
@@ -803,8 +803,8 @@ module.exports = [
         publisher: `International Union for Conservation of Nature (IUCN)`,
         summary: `TBA.`,
         title: `<i>Elephas maximus</i>, Asian elephant`,
-    }],
-    [{
+    },
+    {
         container: `<i>Primates</i>, digitally published academic journal`,
         contributors: `Shifra Z. Goldenberg (coauthor); George Wittemyer (coauthor)`,
         date: `2019/11/11`,
@@ -818,8 +818,8 @@ module.exports = [
         publisher: `SpringerLink`,
         summary: `TBA.`,
         title: `Elephant behavior toward the dead: A review and insights from field observations`,
-    }],
-    [{
+    },
+    {
         container: `<i>Journal of Paleontology</i> (J. Paleontol.), digitally published academic journal`,
         contributors: `Rodolphe Tabuce (coauthor); Raphaël Sarr (coauthor); Sylvain Adnet (coauthor); Renaud Lebrun (coauthor); Fabrice Lihoreau (coauthor); Jeremy E. Martin (coauthor); Bernard Sambou (coauthor); Mustapha Thiam (coauthor); Lionel Hautier (coauthor)`,
         date: `2019/11/29`,
@@ -832,8 +832,8 @@ module.exports = [
         publisher: `Cambridge University Press`,
         summary: `TBA.`,
         title: `Filling a gap in the proboscidean fossil record: a new genus from the Lutetian of Senegal`,
-    }],
-    [{
+    },
+    {
         container: `<i>Animals</i> (Anim.), digitally published academic journal`,
         contributors: `Martin W. Seltmann (coauthor); Susanna Ukonaho (coauthor); Sophie Reichert (coauthor); Diogo Dos Santos (coauthor); U Kyaw Nyein (coauthor); Win Htut (coauthor); Virpi Lummaa (coauthor)`,
         date: `2020/01/06`,
@@ -846,8 +846,8 @@ module.exports = [
         publisher: `Molecular Diversity Preservation International (MDPI)`,
         summary: `TBA.`,
         title: `Faecal Glucocorticoid Metabolites and H/L Ratio Are Related Markers of Stress in Semi-Captive Asian Timber Elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Science</i> (Sci.), digitally published academic journal`,
         contributors: `Zhihong Wang (coauthor); Zhengling Li (coauthor); Yongjing Tang (coauthor); Chongxue Yao (coauthor); Yu Liu (coauthor); Guilian Jiang (coauthor); Fang Wang (coauthor); Liang Liang (coauthor); Wenlan Zhao (coauthor); Gaofan Zhu (coauthor); Mingyong Chen (coauthor)`,
         date: `2020/01/24`,
@@ -860,8 +860,8 @@ module.exports = [
         publisher: `American Association for the Advancement of Science (AAAS)`,
         summary: `TBA.`,
         title: `China's dams isolate Asian elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Conservation Physiology</i> (Conserv. Physiol.), digitally published academic journal`,
         contributors: `Ruchun Tang (coauthor); Wenwen Li (coauthor); Di Zhu (coauthor); Xiaotong Shang (coauthor); Xianming Guo (coauthor); Li Zhang (coauthor)`,
         date: `2020/01/25`,
@@ -874,8 +874,8 @@ module.exports = [
         publisher: `Oxford Academic`,
         summary: `TBA.`,
         title: `Raging elephants: effects of human disturbance on physiological stress and reproductive potential in wild Asian elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Journal of Paleontology</i> (J. Paleontol.), digitally published academic journal`,
         contributors: `Ningthoujam Premjit Singh (coauthor); Advait M. Jukar (coauthor); Rajeev Patnaik (coauthor); K. Milankumar Sharma (coauthor); Nongmaithem Amardas Singh (coauthor); Yumlembam Priyananda Singh (coauthor)`,
         date: `2020/01/28`,
@@ -888,8 +888,8 @@ module.exports = [
         publisher: `Cambridge University Press`,
         summary: `TBA.`,
         title: `The first specimen of <i>Deinotherium indicum</i> (Mammalia, Proboscidea, Deinotheriidae) from the late Miocene of Kutch, India`,
-    }],
-    [{
+    },
+    {
         container: `<i>Genome Biology and Evolution</i> (Genom. Biol. Evol.), digitally published academic journal`,
         contributors: `Erin Fry (coauthor); Sun K. Kim (coauthor); Sravanthi Chigurapti (coauthor); Katelyn Mika (coauthor); Aakrosh Ratan (coauthor); Alexander Dammermann (coauthor); Brian J. Mitchell (coauthor); Webb Miller (coauthor); Vincent J. Lynch (coauthor)`,
         date: `2020/02/07`,
@@ -904,8 +904,8 @@ module.exports = [
         publisher: `Oxford Academic`,
         summary: `TBA.`,
         title: `Functional Architecture of Deleterious Genetic Variants in the Genome of a Wrangel Island Mammoth`,
-    }],
-    [{
+    },
+    {
         container: `<i>Sci-News</i>, published news website`,
         contributors: `Anonymous`,
         date: `2020/02/07`,
@@ -917,8 +917,8 @@ module.exports = [
         publisher: `Public Library of Science (PLoS)`,
         summary: `A laymen-oriented summary of <a id="Fry_et_al_2020_color_0" onclick="goToSource('D2000-2021','Fry_et_al_2020', this.id)">Fry et al., 2020</a>.`,
         title: `Scientists ‘Resurrect’ Mutated Genes of Wrangel Island Mammoths`,
-    }],
-    [{
+    },
+    {
         container: `<i>Vertebrata PalAsiatica</i> (Vertebr. PalAsiat.), digitally published academic journal`,
         contributors: `Wang Shi-Qi (coauthor); Zhang Xiao-Xiao (coauthor); Li Chun-Xiao (coauthor)`,
         date: `2020/03/13`,
@@ -931,8 +931,8 @@ module.exports = [
         publisher: `Institute of Vertebrate Paleontology and Paleoanthropology (IVPP)`,
         summary: `TBA.`,
         title: `戈壁锯齿象(<i>Serridentinus gobiensis</i> Osborn & Granger, 1932)和同心中新乳齿象(<i>Miomastodon tongxinensis</i> Chen, 1978)再研究：关于粗壮型轭齿象(<i>Zygolophodon</i>)的讨论`,
-    }],
-    [{
+    },
+    {
         container: `<i>PLoS ONE</i>, digitally published academic journal`,
         contributors: `Collin M. Brand (coauthor); Mireille B. Johnson (coauthor); Lillian D. Parker (coauthor); Jesús E. Maldonado (coauthor); Lisa Korte (coauthor); Hadrian Vanthomme (coauthor); Alfonso Alonso (coauthor); Maria Jose Ruiz-Lopez (coauthor); Caitlin Wells (coauthor); Nelson Ting (coauthor)`,
         date: `2020/04/29`,
@@ -946,8 +946,8 @@ module.exports = [
         publisher: `Public Library of Science (PLoS)`,
         summary: `TBA.`,
         title: `Abundance, density, and social structure of African forest elephants (<i>Loxodonta cyclotis</i>) in a human-modified landscape in southwestern Gabon`,
-    }],
-    [{
+    },
+    {
         container: `<i>Biology Letters</i> (Biol. Lett.), digitally published academic journal`,
         contributors: `Mareike C. Janiak (coauthor); Swellan L. Pinto (coauthor); Gwen Duytschaever (coauthor); Matthew A. Carrigan (coauthor); Amanda D. Melin (coauthor)`,
         date: `2020/04/29`,
@@ -961,8 +961,8 @@ module.exports = [
         publisher: `Royal Society`,
         summary: `TBA.`,
         title: `Genetic evidence of widespread variation in ethanol metabolism among mammals: revisiting the ‘myth' of natural intoxication`,
-    }],
-    [{
+    },
+    {
         container: `<i>The Conversation</i>, published news website`,
         contributors: `Mareike C. Janiak (author)`,
         date: `2020/04/29`,
@@ -974,8 +974,8 @@ module.exports = [
         publisher: `The Conversation`,
         summary: `A laymen-oriented summary of <a id="Janiak_et_al_2020_color_0" onclick="goToSource('D2000-2021','Janiak_et_al_2020', this.id)">Janiak et al., 2020</a> by one of the paper's coauthors.`,
         title: `Elephants get drunk because they can’t metabolize alcohol like us`,
-    }],
-    [{
+    },
+    {
         container: `<i>Science News</i>, digitally published magazine`,
         contributors: `Susan Milius (author)`,
         date: `2020/05/01`,
@@ -988,8 +988,8 @@ module.exports = [
         publisher: ` Society for Science`,
         summary: `A laymen-oriented summary of <a id="Janiak_et_al_2020_color_1" onclick="goToSource('D2000-2021','Janiak_et_al_2020', this.id)">Janiak et al., 2020</a>.`,
         title: `Why mammals like elephants and armadillos might get drunk easily`,
-    }],
-    [{
+    },
+    {
         container: `<i>Instagram</i>, published website`,
         contributors: `Michael Dougherty (author)`,
         date: `2020/05/01`,
@@ -1001,8 +1001,8 @@ module.exports = [
         publisher: `Facebook`,
         summary: `Backstory and design details about Behemoth from <i>Godzilla: King of the Monsters</i> (2019) given by director Michael Dougherty. Dougherty states that Behemoth was given physical characteristics of woolly mammoths, and, like mammoths, is herbivorous and used to live in herds.`,
         title: `Titanus Behemoth`,
-    }],
-    [{
+    },
+    {
         container: `<i>Pokémon Trading Card Game (TCG): Sword and Shield — Darkness Ablaze</i>, physically published trading card game expansion`,
         contributors: `Kouki Saito (illustrator)`,
         date: `<li>Japanese copy: 2020/06/05 (ムゲンゾーン, 2020)<li>English copy: 2020/08/14 (Sword & Shield, 2020)`,
@@ -1016,8 +1016,8 @@ module.exports = [
         references: `<ul class="refs">ムゲンゾーン (2020). <i>ポケモンカードゲーム</i>. <a href="https://www.pokemon-card.com/ex/s3/" target="_blank">https://www.pokemon-card.com/ex/s3/</a></ul><br><ul class="refs"">Sword & Shield—Darkness Ablaze (2020). <i>The Official Pokémon Website</i>. <a href="https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/" target="_blank">https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/</a></ul>`,
         summary: `TBA.`,
         title: `Copperajah`,
-    }],
-    [{
+    },
+    {
         container: `<i>Biological Conservation</i> (Biol. Conserv.), digitally published academic journal`,
         contributors: `Erin K. Buchholtz (coauthor); Amanda Stronza (coauthor); Anna Songhurst (coauthor); Graham McCulloch (coauthor); Lee A. Fitzgerald (coauthor)`,
         date: `2020/06/30`,
@@ -1031,8 +1031,8 @@ module.exports = [
         publisher: `Elsevier`,
         summary: `TBA.`,
         title: `Using landscape connectivity to predict human-wildlife conflict`,
-    }],
-    [{
+    },
+    {
         container: `<i>IUCN News</i>, published news website`,
         contributors: `IUCN SSC African Elephant Specialist Group (author)`,
         date: `2020/07/20`,
@@ -1044,8 +1044,8 @@ module.exports = [
         publisher: `International Union for Conservation of Nature (IUCN)`,
         summary: `TBA.`,
         title: `Statement of the IUCN SSC African Elephant Specialist Group on elephant deaths in Botswana`,
-    }],
-    [{
+    },
+    {
         container: `<i>Conservation Corridor</i>, published website`,
         contributors: `Erin K. Buchholtz (author)`,
         date: `2020/10/12`,
@@ -1057,8 +1057,8 @@ module.exports = [
         publisher: `Conservation Corridor`,
         summary: `A laymen-oriented summary of <a id="Buchholtz_et_al_2020_color_0" onclick="goToSource('D2000-2021','Buchholtz_et_al_2020', this.id)">Buchholtz et al., 2020</a> by one of the paper's coauthors.`,
         title: `Using landscape connectivity to predict human-wildlife conflict`,
-    }],
-    [{
+    },
+    {
         container: `<i>Remote Sensing Applications: Society and Environment</i> (Remote. Sens. Appl.), digitally published academic journal`,
         contributors: `Anonymous`,
         date: `2020/10/29`,
@@ -1071,8 +1071,8 @@ module.exports = [
         publisher: `Elsevier`,
         summary: `Indicates that <a id="Dzinotizei_et_al_2018_color_0" onclick="goToSource('D2000-2021','Dzinotizei_et_al_2018', this.id)">Dzinotizei et al., 2018</a> was missing a declaration of Competing Interests statement.`,
         title: `Erratum regarding missing declaration of Competing Interest statements in previously published articles`,
-    }],
-    [{
+    },
+    {
         container: `<i>Quaternary International</i> (Quat. Int.), digitally published academic journal`,
         contributors: `Jiao Ma (coauthor); Yuan Wang (coauthor); Gennady Baryshnikov (coauthor); Dorothée Drucker (coauthor); Krista McGrath (coauthor); Hanwen Zhang (coauthor); Hervé Bocherens (coauthor); Yaowu Hu (coauthor)`,
         date: `2020/12/23`,
@@ -1086,8 +1086,8 @@ module.exports = [
         publisher: `Elsevier`,
         summary: `TBA.`,
         title: `The <i>Mammuthus</i>-<i>Coelodonta</i> Faunal Complex at its southeastern limit: A biogeochemical paleoecology investigation in Northeast Asia`,
-    }],
-    [{
+    },
+    {
         container: `<i>Institute of Vertebrate Paleontology and Paleoanthropology News</i>, published news website`,
         contributors: `Anonymous`,
         date: `2020/12/28`,
@@ -1099,8 +1099,8 @@ module.exports = [
         publisher: `Institute of Vertebrate Paleontology and Paleoanthropology (IVPP)`,
         summary: `A laymen-oriented summary of <a id="Ma_et_al_2020_color_0" onclick="goToSource('D2000-2021','Ma_et_al_2020', this.id)">Ma et al., 2020</a>.`,
         title: `东北亚地区更新世晚期猛犸象-披毛犀动物群的古生态研究新进展`,
-    }],
-    [{
+    },
+    {
         container: `<i>Wikipedia</i>, published website`,
         contributors: `Elephant940 (compiler)`,
         date: `Created 2020/12/29, last updated 2021/03/01`,
@@ -1112,8 +1112,8 @@ module.exports = [
         publisher: `Wikimedia Foundation`,
         summary: `A comprehensive list of English Wikipedia articles relating to probsocideans.`,
         title: `User:Elephant940/Books/Elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>A Moment of Science</i>, published radio program`,
         contributors: `Paul Patton (author)`,
         date: `2021/02/08`,
@@ -1126,5 +1126,5 @@ module.exports = [
         publisher: `Indiana Public Media`,
         summary: `A laymen-oriented summary of <a id="Goldenberg_Wittemyer_2019_color_0" onclick="goToSource('D2000-2021','Goldenberg_Wittemyer_2019', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
         title: `Do Elephants Grieve Their Dead?`,
-    }]
+    }
 ]

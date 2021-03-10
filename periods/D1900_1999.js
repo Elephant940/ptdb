@@ -1,103 +1,103 @@
 module.exports = [
-    [{
+    {
         container: `<i>Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin</i> (Sitzber. Ges. Nat. Freunde Berl.), physically published academic journal`,
         contributors: `Paul Matschie (author)`,
         date: `1900/>10/>16`,
         duration: `pp. 189-197`,
         iteration: `No. 8`,
         languages: `German`,
-        links: `<li><a href="https://www.google.com/books/edition/_/W5dOAQAAMAAJ?hl=en&gbpv=1&pg=PA189" target="_blank">From Google Books</a>, copy provided by the University of Illinois at Urbana-Champaign (<a href="https://web.archive.org/web/20210207193625/https://books.googleusercontent.com/books/content?req=AKW5QacuGQQil4EEMX4McXafU8riykOWuKYjcpjliKIDE0bXkrG88aQArnlbHPF2vNnmeGz3T_RwUtQOYsQodCAq3-Tkw1LUV45SF6F7Dg6pqvsntz5lW1-Gl_BPVNvGGrOfPoUoEG0d3rYqpM3_GUvsbgf5BorNzPK48W1gHxg5WAN3kjyULc4CZwgK9ugkE0ht4h8XNFwjO7G-9CKEQGo16CDtMIK98ysqerYQcV9QbBYHi2OGaackuhhql6LK8waAhC_GAjKJ_Kh3KCZNool_7yUA3zb9UMwoI4UOYb4iUFIgCBS41wc" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://archive.org/stream/sitzungsberichte1900gese#page/189/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Harvard University Ernst Mayr Library of the Museum of Comparative Zoology`,
+        links: `<li><a href="https://www.google.com/books/edition/_/W5dOAQAAMAAJ?hl=en&gbpv=1&pg=PA189" target="_blank">From Google Books</a>, copy provided by the University of Illinois at Urbana-Champaign (<a href="https://web.archive.org/web/20210207193625/https://books.googleusercontent.com/books/content?req=AKW5QacuGQQil4EEMX4McXafU8riykOWuKYjcpjliKIDE0bXkrG88aQArnlbHPF2vNnmeGz3T_RwUtQOYsQodCAq3-Tkw1LUV45SF6F7Dg6pqvsntz5lW1-Gl_BPVNvGGrOfPoUoEG0d3rYqpM3_GUvsbgf5BorNzPK48W1gHxg5WAN3kjyULc4CZwgK9ugkE0ht4h8XNFwjO7G-9CKEQGo16CDtMIK98ysqerYQcV9QbBYHi2OGaackuhhql6LK8waAhC_GAjKJ_Kh3KCZNool_7yUA3zb9UMwoI4UOYb4iUFIgCBS41wc" target="_blank">archived in the Wayback Machine</a>) <li><a href="https://archive.org/details/sitzungsberichte1900gese/page/189/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the Harvard University Ernst Mayr Library of the Museum of Comparative Zoology`,
         location: `Berlin, Germany`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `R. Friedländer und Sohn`,
         summary: `TBA.`,
         title: `Über geographische Albarten des afrikanischen Elefanten.`,
-    }],
-    [{
+    },
+    {
         contributors: `George Henry Evans (author)`,
         date: `1901`,
         duration: `343 pp.`,
         eyedee: `Evans_1901`,
         iteration: `3rd ed.`,
         languages: `English`,
-        links: `<li><a href="https://digital.nls.uk/indiapapers/browse/archive/75190071" target="_blank">From the National Library of Scotland</a><li><a href="https://archive.org/stream/in.ernet.dli.2015.221068#page/n3/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Digital Library of India<li><a href="https://archive.org/stream/TreatiseOnElephants#page/n3/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Digital Library of India`,
+        links: `<li><a href="https://digital.nls.uk/indiapapers/browse/archive/75190071" target="_blank">From the National Library of Scotland</a><li><a href="https://archive.org/details/in.ernet.dli.2015.221068/page/n3/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the Digital Library of India<li><a href="https://archive.org/details/TreatiseOnElephants/page/n3/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the Digital Library of India`,
         location: `Rangoon, Burma [Myanmar]`,
         medium: `Physically published book, digitized`,
         publisher: `Superintendent of Government Printing`,
         summary: `TBA.`,
         title: `A Treatise On Elephants. Their Treatment in Health and Disease`,
-    }],
-    [{
+    },
+    {
         container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Lond. Soc.), physically published academic journal`,
         contributors: `Richard Lydekker (author)`,
         date: `1907/08/01 (Back Matter, 1907)`,
         duration: `pp. 380-403`,
         iteration: `[Vol. 77, Issue 2]`,
         languages: `English`,
-        links: `<li><a href="https://doi.org/10.1111/j.1096-3642.1907.tb01824.x" target="_blank">From publisher (DOI: 10.1111/j.1096-3642.1907.tb01824.x)</a> through Wiley Online Library <li><a href="https://archive.org/stream/proceedingsofzoo19071446zool#page/380/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+        links: `<li><a href="https://doi.org/10.1111/j.1096-3642.1907.tb01824.x" target="_blank">From publisher (DOI: 10.1111/j.1096-3642.1907.tb01824.x)</a> through Wiley Online Library <li><a href="https://archive.org/details/proceedingsofzoo19071446zool/page/380/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
         location: `London, England`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `Printed by Messrs. Longmans, Green, and Co. for the Zoological Society of London`,
-        references: `<p class="refs"><a href="https://archive.org/stream/proceedingsofzoo19074471121zool#page/n391/mode/2up" target="_blank">[Back Matter]</a>. (1907). <i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i>, <i>78</i>(2).</p>`,
+        references: `<p class="refs"><a href="https://archive.org/details/proceedingsofzoo19074471121zool/page/n391/mode/2up?view=theater" target="_blank">[Back Matter]</a>. (1907). <i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i>, <i>78</i>(2).</p>`,
         summary: `TBA.`,
         title: `1. The Ears as a Race-Character in the African Elephant.`,
-    }],
-    [{
+    },
+    {
         contributors: `Charles A. Williams (author); Arthur Smith Woodward (preface author)`,
         duration: `46 pp.`,
         date: `1908/>02`,
         iteration: `1st ed.`,
         languages: `English`,
-        links: `<li><a href="https://www.google.com/books/edition/A_Guide_to_the_Elephants_recent_and_Foss/ets4AAAAMAAJ?hl=en&gbpv=1" target="_blank">From Google Books</a>, copy provided by the University of Michigan (<a href="https://web.archive.org/web/20210223141857/https://books.googleusercontent.com/books/content?req=AKW5Qad7gTvfOOCHik8qdqoiErGshGOkxGbiOFsJsd2o2Hq_RrKj0C-D-fIpZnHim4UPZC1fEY1Raz91yDKuf6rvoMSnzgp2o-hr74Cmhrvq8X-sjiRwvS6CV96eZE88ByLrxYQDb_rmrHDVIn3TsN_L4prcL1rA6a2hqav6bpeIXNPLPPuZ91nVSRJ1nDjjAPSlRW7jsucvL-5fO-Q72DaOXv5iStyy2Uju8Llb6R_o2ZIa5nZnFXHi9x56UqJ_Ue7i57DACcE1Z2lMm8cHOxqyLuM0qthXniBX-1s_7FCSgrHGGUTxndY" target="_blank">archived in the Wayback Machine</a>)<li><a href="https://archive.org/stream/guidetoelephants00britrich#page/n4/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the University of California Libraries<li><a href="https://archive.org/stream/aguidetoelephan00andrgoog" target="_blank">From Internet Archive</a>, copy provided by the University of Michigan`,
+        links: `<li><a href="https://www.google.com/books/edition/A_Guide_to_the_Elephants_recent_and_Foss/ets4AAAAMAAJ?hl=en&gbpv=1" target="_blank">From Google Books</a>, copy provided by the University of Michigan (<a href="https://web.archive.org/web/20210223141857/https://books.googleusercontent.com/books/content?req=AKW5Qad7gTvfOOCHik8qdqoiErGshGOkxGbiOFsJsd2o2Hq_RrKj0C-D-fIpZnHim4UPZC1fEY1Raz91yDKuf6rvoMSnzgp2o-hr74Cmhrvq8X-sjiRwvS6CV96eZE88ByLrxYQDb_rmrHDVIn3TsN_L4prcL1rA6a2hqav6bpeIXNPLPPuZ91nVSRJ1nDjjAPSlRW7jsucvL-5fO-Q72DaOXv5iStyy2Uju8Llb6R_o2ZIa5nZnFXHi9x56UqJ_Ue7i57DACcE1Z2lMm8cHOxqyLuM0qthXniBX-1s_7FCSgrHGGUTxndY" target="_blank">archived in the Wayback Machine</a>)<li><a href="https://archive.org/details/guidetoelephants00britrich/page/n4/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the University of California Libraries<li><a href="https://archive.org/details/aguidetoelephan00andrgoog" target="_blank">From Internet Archive</a>, copy provided by the University of Michigan`,
         location: `London, England`,
         medium: `Physically published book, digitized`,
         publisher: `Printed by Taylor & Francis for the Trustees of the British Museum`,
         summary: `TBA.`,
         title: `A Guide to the Elephants (Recent and Fossil) Exhibited in the Department of Geology and Palæontology in the British Museum (Natural History)`,
-    }],
-    [{
+    },
+    {
         contributors: `George Henry Evans (author)`,
         date: `1910/>06`,
         duration: `343 pp.`,
         iteration: `4th ed.`,
         languages: `English`,
-        links: `<li><a href="https://digital.nls.uk/indiapapers/browse/archive/75192017" target="_blank">From the National Library of Scotland</a><li><a href="https://archive.org/stream/elephantstheirdi00evan#page/n10/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries</li><li><a href="https://archive.org/stream/cu31924001176878#page/n23/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Cornell University Libraries<li><a href="https://web.archive.org/web/20190104030414/http://wildpro.twycrosszoo.org/S/00Ref/BooksContents/B212EvansEle/Contents.htm" target="_blank">Digital copy from Wildpro</a>, archived in the Wayback Machine`,
+        links: `<li><a href="https://digital.nls.uk/indiapapers/browse/archive/75192017" target="_blank">From the National Library of Scotland</a><li><a href="https://archive.org/details/elephantstheirdi00evan/page/n10/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries</li><li><a href="https://archive.org/details/cu31924001176878/page/n23/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by Cornell University Libraries<li><a href="https://web.archive.org/web/20190104030414/http://wildpro.twycrosszoo.org/S/00Ref/BooksContents/B212EvansEle/Contents.htm" target="_blank">Digital copy from Wildpro</a>, archived in the Wayback Machine`,
         location: `Rangoon, Burma [Myanmar]`,
         medium: `Physically published book, digitized`,
         publisher: `Superintendent of Government Printing`,
         summary: `The 4th edition of <a id="Evans_1901_color_0" onclick="goToSource('D1900-1999','Evans_1901', this.id)">Evans, 1901</a>. Details TBA.`,
         title: `Elephants and Their Diseases: A Treatise on Elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Lond. Soc.), physically published academic journal`,
         contributors: `Richard Lydekker (author)`,
         date: `1914/06/06 (Back Matter, 1914)`,
         duration: `pp. 285-288`,
         iteration: `[Vol. 84, Part 2]`,
         languages: `English`,
-        links: `<li><a href="https://doi.org/10.1111/j.1469-7998.1914.tb07036.x" target="_blank">From publisher (DOI: 10.1111/j.1469-7998.1914.tb07036.x)</a> through Wiley Online Library <li><a href="https://archive.org/stream/proceedingsofzoo19141490zool#page/285/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+        links: `<li><a href="https://doi.org/10.1111/j.1469-7998.1914.tb07036.x" target="_blank">From publisher (DOI: 10.1111/j.1469-7998.1914.tb07036.x)</a> through Wiley Online Library <li><a href="https://archive.org/details/proceedingsofzoo19141490zool/page/285/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
         location: `London, England`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `Printed by Messrs. Longmans, Green, and Co. for the Zoological Society of London`,
-        references: `<p class="refs"><a href="https://archive.org/stream/proceedingsofzoo19144911077zool#page/n541/mode/2up" target="_blank">[Back Matter]</a>. (1914). <i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i>, <i>85</i>(3).</p>`,
+        references: `<p class="refs"><a href="https://archive.org/details/proceedingsofzoo19144911077zool/page/n541/mode/2up?view=theater" target="_blank">[Back Matter]</a>. (1914). <i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i>, <i>85</i>(3).</p>`,
         summary: `TBA.`,
         title: `18. The Malay Race of the Indian Elephant, <i>Elephas maximus hirsutus</i>.`,
-    }],
-    [{
+    },
+    {
         container: `<i>American Museum Novitates</i> (Am. Mus. Novit.), physically published academic journal`,
         contributors: `Henry Fairfield Osborn (author)`,
         date: `1921/01/31`,
         duration: `15 pp.`,
         iteration: `No. 1`,
         languages: `English`,
-        links: `<li><a href="http://hdl.handle.net/2246/4663" target="_blank">From publisher</a><li><a href="https://archive.org/stream/americanmuseumno01ameruoft#page/n38/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the University of Toronto`,
+        links: `<li><a href="http://hdl.handle.net/2246/4663" target="_blank">From publisher</a><li><a href="https://archive.org/details/americanmuseumno01ameruoft/page/n38/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the University of Toronto`,
         location: `New York City, New York, United States of America`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `Trustees of the American Museum of Natural History (AMNH)`,
         summary: `TBA.`,
         title: `The Evolution, Phylogeny, and Classification of Proboscidea`,
-    }],
-    [{
+    },
+    {
         container: `<i>Proceedings of the Academy of Natural Sciences of Philadelphia</i> (Proc. Acad. Nat. Sci. Phila.), physically published academic journal`,
         contributors: `Glover M. Allen (author)`,
         date: `1936/03/10`,
@@ -110,21 +110,21 @@ module.exports = [
         publisher: `Academy of Natural Sciences of Philadelphia`,
         summary: `TBA.`,
         title: `Zoological Results of the George Vanderbilt African Expedition of 1934. Part II: The Forest Elephant of Africa`,
-    }],
-    [{
+    },
+    {
         contributors: `Henry Fairfield Osborn (author); Mabel Rice Percy (editor)`,
         date: `1936/08/15`,
         duration: `802 pp.`,
         iteration: `1st ed., Vol. 1 <i>Moeritherioidea, Deinotherioidea, Mastodontoidea</i>`,
         languages: `English`,
-        links: ` <li><a href="https://archive.org/stream/proboscideamonog01osbo#page/n12/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library`,
+        links: ` <li><a href="https://archive.org/details/proboscideamonog01osbo/page/n12/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library`,
         location: `New York City, New York, United States of America`,
         medium: `Physically published book, digitized`,
         publisher: `Printed by the American Museum Press for the Trustees of the American Museum of Natural History (AMNH)`,
         summary: `TBA.`,
         title: `Proboscidea: A Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
-    }],
-    [{
+    },
+    {
         container: `<i>Bulletin of the Raffles Museum</i> (Bull. Raffle Mus.), physically published academic journal`,
         contributors: `Frederick Nutter Chasen (author)`,
         date: `1940/04`,
@@ -137,35 +137,35 @@ module.exports = [
         publisher: `Raffles Museum`,
         summary: `On page 190, Chasen recognizes all Asian elephants as a single species, <i>Elephas maximus</i>, with three subspecies. He retains <a id="Linnaeus_1758_color_1" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus's</a> <i>E</i>. <i>m</i>. <i>maximus</i> for the elephants of Sri Lanka, <a id="Temminck_1847_color_0" onclick="goToSource('D1800-1899','Temminck_1847', this.id)">Temminck's</a> <i>E</i>. <i>m</i>. <i>sumatranus</i> for Sumatran elephants, and <a id="Cuvier_1798_color_1" onclick="goToSource('D1700-1799','Cuvier_1798', this.id)">Cuvier's</a> <i>E</i>. <i>m</i>. <i>indicus</i> for all other living Asian elephants.`,
         title: `A Handlist of Malaysian Mammals`,
-    }],
-    [{
+    },
+    {
         contributors: `Henry Fairfield Osborn (author); Mabel Rice Percy (editor)`,
         date: `1942`,
         duration: `1675 pp.`,
         iteration: `1st ed., Vol. 2 <i>Stegodontoidea, Elephantoidea</i>`,
         languages: `English`,
-        links: `<li><a href="https://archive.org/stream/proboscideamonog02osbo#page/n10/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library`,
+        links: `<li><a href="https://archive.org/details/proboscideamonog02osbo/page/n10/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library`,
         location: `New York City, New York, United States of America`,
         medium: `Physically published book, digitized`,
         publisher: `Printed by the American Museum Press for the Trustees of the American Museum of Natural History (AMNH)`,
         summary: `TBA.`,
         title: `Proboscidea: A Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
-    }],
-    [{
+    },
+    {
         container: `<i>Földtani Közlöny</i> (Földt. Közlöny), physically published academic journal`,
         contributors: `Kretzoi Miklós (author)`,
         date: `1950/>05/>17`,
         duration: `pp. 405-409`,
         iteration: `Vol. 80, Parts 10-12`,
         languages: `Hungarian`,
-        links: `<li><a href="https://archive.org/stream/foldtanikozlony8019magy#page/n452/mode/2up" target="_blank">From Internet Archive</a>, copy provided by the Cornell University Library`,
+        links: `<li><a href="https://archive.org/details/foldtanikozlony8019magy/page/n452/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the Cornell University Library`,
         location: `Budapest, Hungary`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `Magyarhoni Földtani Társulat`,
         summary: `TBA.`,
         title: `<i>Stegeloxodon</i> nov. gen, a <i>Loxodonta</i> elefántok esetleges ázsiai őse`,
-    }],
-    [{
+    },
+    {
         container: `<i>East African Wildlife Journal</i> (East Afr. Wildl. J.), physically published academic journal`,
         contributors: `Richard M. Laws (author)`,
         date: `1966/08`,
@@ -178,8 +178,8 @@ module.exports = [
         publisher: `East African Wildlife Society (EAWLS)`,
         summary: `TBA.`,
         title: `Age Criteria for the African Elephant <i>Loxodonta</i> <i>a</i>. <i>africana</i>`,
-    }],
-    [{
+    },
+    {
         container: `<i>Nature</i> (Nat.), physically published academic journal`,
         contributors: `D.A. Hooijer (author)`,
         date: `1972/09/22`,
@@ -192,8 +192,8 @@ module.exports = [
         publisher: `Macmillan Journals Limited`,
         summary: `TBA.`,
         title: `Prehistoric Evidence for <i>Elephas maximus</i> L. in Borneo`,
-    }],
-    [{
+    },
+    {
         container: `<i>Mammalian Species</i> (Mamm. Species), physically published academic journal`,
         contributors: `Larry Laursen (coauthor); Marc Bekoff (coauthor); Sydney Anderson (principal editor)`,
         date: `1978/01/06`,
@@ -204,11 +204,11 @@ module.exports = [
         location: `Lawrence, Kansas, United States of America (Birney and Choate, 1994, p. 142)`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `Printed by Allen Press for the American Society of Mammalogists (ASM) (Birney and Choate, 1994, p. 142)`,
-        references: `<p class="refs">Birney, Elmer F. and Choate, Jerry R. (eds.). (1994). <a href="https://archive.org/stream/seventyfiveyears00birn#page/142/mode/2up" target="_blank"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</p>`,
+        references: `<p class="refs">Birney, Elmer F. and Choate, Jerry R. (eds.). (1994). <a href="https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater" target="_blank"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</p>`,
         summary: `TBA.`,
         title: `<i>Loxodonta africana</i>.`,
-    }],
-    [{
+    },
+    {
         container: `<i>Elephant</i>, physically published academic journal`,
         contributors: `A.L. Howard (author)`,
         date: `1979/>05/>01`,
@@ -221,8 +221,8 @@ module.exports = [
         publisher: `Wayne State University Department of Biological Sciences`,
         summary: `TBA.`,
         title: `"Motty"—Birth of an African/Asian Elephant at Chester Zoo`,
-    }],
-    [{
+    },
+    {
         container: `<i>Elephant</i>, physically published academic journal`,
         contributors: `Jeheskel Shoshani (senior author, dissector); Daniel C. Laughlin (coauthor, dissector); Franz Tisch (coauthor, dissector); Jim Williams (coauthor, dissector); John D. Taylor (coauthor); John W. Cosgriff, Jr. (coauthor, dissector); William L. Thompson (coauthor); Calvin D. Bogart (coauthor); Joseph L. Gualtieri (coauthor); John Hayden (coauthor); Katy Morehead (chief photographer); Richard Bielaczyc (coauthor, dissector, photographer); Thomas W. Roberts (coauthor); Harry Maisel (coauthor); Nicholas J. Mizeres (coauthor, dissector); Victor T. Lakits (coauthor); Jim Niedbala (coauthor, dissector); W.D. Pool (coauthor); Richard C. Manikowski and other Science Library Staff (coauthor); Gordon W. Rose (coauthor); Sandra S. Lash (coauthor, dissector); Mildred Hurt (coauthor, dissector);  Michael J. Baccala (coauthor, dissector); Marlene A. Bulgarelli (coauthor, dissector); M.  Pamela Bedore (coauthor, dissector, typist, editor); Anthony Helinski (coauthor, dissector); George Overbeck (coauthor, dissector); Susan L. Raymer (coauthor, dissector); Eyal Shy (coauthor, dissector); Lee M. Peterson (coauthor); Albert Wilson (coauthor); Dick Frederick (coauthor, dissector); Karen L. Spodarek (coauthor, dissector); Irven O. Buss (reviewer); Richard M. Laws (reviewer); Lawrence D. McGill (reviewer); Sylvia K. Sikes (reviewer); Zirka S. Clark (typist, editor); Eileen D. Koglin (typist, editor); Rick Adler (coauthor, dissector); Lynne Aldrich (coauthor); Krysty Andrews (coauthor, dissector); Allan Barbish (coauthor, dissector); Susan Barry (coauthor, dissector); Ron Battiata (coauthor, dissector); Fran Beever (coauthor); Sue ann Berbenchuk (coauthor, dissector); Jeanne Blad (coauthor); Larry Blad (coauthor); George Booth (coauthor, dissector, photographer); Nate  Bozarth (coauthor, dissector); Donna Britt (coauthor); John Burnet (coauthor); Walter Chavin (coauthor); Irene Church (coauthor, dissector); Helen Crowe (coauthor, dissector); Richard D. Cummings, Terry Cummings, Sherri L. DeFauw (coauthor, dissector); Leslie Denes (coauthor, dissector); Efstratios Efthyvoulidis (coauthor, dissector); Merlin Ekstrom (coauthor, dissector); Joseph G. Engelhard (coauthor, dissector); Patrick English (coauthor, dissector); Don Fairchild, Jr. (coauthor, dissector); Carla Fisher (coauthor, dissector); Kevin Frahm (coauthor, dissector); Susan Francis (coauthor); Judi Fried (coauthor, dissector); Theodore Gaskins (coauthor, dissector); Joanne Gatt (coauthor, dissector); Wilma Gentles (coauthor, dissector); Harry G. Goshgarian (coauthor, dissector); Susan Grabowski (coauthor, dissector); Debbie Haase (coauthor, dissector); Kathryn Hajj (coauthor, dissector); Gary Hall (coauthor, dissector); Roger Hanson (coauthor); Albert Hatche (coauthor); Debbie Hawkins (coauthor, dissector); Chris Heberer (coauthor, dissector); Shawne R. Henry (coauthor, dissector); M. Patricia Hensler, Chuck Heyka (coauthor, dissector); Mike Kemppainen (coauthor, dissector); Cathy Kendra (coauthor, dissector); Bonnie Knutsen (coauthor); Carl C.M. Knutsen (coauthor); Joy Koenig (coauthor, dissector); Louis Kolodzinski (coauthor); Paul Konarske (coauthor, dissector); Sue Konwinski (coauthor, dissector); Stephan Kopacz (coauthor, dissector); Beth Kozak (coauthor); Donna M. Laciak, (coauthor); David J.  Lowrie (coauthor); Susan Lyman (coauthor); Frances F. McCormick (coauthor); Robert McDonald (coauthor); Richard C. Martin (coauthor); Willis W. Mathews (coauthor); Stuart Meyers (coauthor, dissector); Joseph Montana (coauthor); David Montezinos (coauthor); Kathleen M. Morehead (coauthor, dissector); Pamela Moron (coauthor); Audrey Muczynski (coauthor); Anthony Muraski (coauthor, dissector); Sean Murphy (coauthor, dissector); Charles P. Otto (coauthor); Cornelius Perkins, Jr. (coauthor); Valerie Pfluke (coauthor); Robert Powitz (coauthor, dissector); Louise Radanovich (coauthor); Jose A. Rafols (coauthor, dissector); Dennis Reefer (coauthor); Lisa Rezzonica (coauthor, dissector); Edward J. Riley, Jr. (coauthor); Harold W. Rossmoore (coauthor, dissector); Lanette Rowland (coauthor); Laura Rudy (coauthor); Dave Sabo (coauthor, dissector); Dallas Schneider (coauthor); Paul J. Schwikert (coauthor, dissector); N.O. Seraphinoff (coauthor); Peter Singler (coauthor); Paul Sklut (coauthor); Joseph Skoney (coauthor, dissector); Donald Smith (coauthor, dissector); Nan Smith, Charles Storey, Peter J. Sujdak (coauthor, dissector); Robert Sumner, Curtis J.  Swanson, Todd Tarrant (coauthor, dissector); Ron Thielman (coauthor, dissector); Ronnie Thielman (coauthor, dissector); Linda Walowicz (coauthor, dissector); Wayne State Fund Staff (coauthor); Ann Werling (coauthor); Dorit Yehiel (coauthor, dissector)`,
         date: `1982/>05/>02`,
@@ -235,8 +235,8 @@ module.exports = [
         publisher: `Wayne State University Department of Biological Sciences`,
         summary: `TBA.`,
         title: `On the Dissection of a Female Asian Elephant (<u>Elephas</u> <u>maximus</u> <u>maximus</u> Linnaeus, 1758) and Data from Other Elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Mammalian Species</i> (Mamm. Species), physically published academic journal`,
         contributors: `Jeheskel Shoshani (coauthor); John F. Eisenberg (coauthor); Timothy E. Lawlor (managing editor; Daniel F. Williams (editor); Sydney Anderson (editor); M. Pamela Bedore (typist), Eileen D. Koglin (typist)`,
         date: `1982/06/18`,
@@ -247,11 +247,11 @@ module.exports = [
         location: `Lawrence, Kansas, United States of America (Birney and Choate, 1994, p. 142)`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `Printed by Allen Press for the American Society of Mammalogists (ASM) (Birney and Choate, 1994, p. 142)`,
-        references: `<p class="refs">Birney, Elmer F. and Choate, Jerry R. (eds.). (1994). <a href="https://archive.org/stream/seventyfiveyears00birn#page/142/mode/2up" target="_blank"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</p>`,
+        references: `<p class="refs">Birney, Elmer F. and Choate, Jerry R. (eds.). (1994). <a href="https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater" target="_blank"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</p>`,
         summary: `TBA.`,
         title: `<i>Elephas maximus</i>.`,
-    }],
-    [{
+    },
+    {
         container: `<i>Bulletin of the Psychonomic Society</i> (Bull. Psychon. Soc.), physically published academic journal`,
         contributors: `Ronald K. Siegel (coauthor); Mark Brodie (coauthor)`,
         date: `1984/07`,
@@ -264,8 +264,8 @@ module.exports = [
         publisher: `Psychonomic Society`,
         summary: `TBA.`,
         title: `Alcohol self-administration by elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>African Journal of Ecology</i> (Afr. J. Ecol.), physically published academic journal`,
         contributors: `G. Merz (author)`,
         date: `1986/06`,
@@ -278,8 +278,8 @@ module.exports = [
         publisher: `East African Wildlife Society (EAWLS)`,
         summary: `TBA.`,
         title: `Movement patterns and group size of the African forest elephant <i>Loxodonta africana cyclotis</i> in the Tai National Park, Ivory Coast`,
-    }],
-    [{
+    },
+    {
         container: `<i>Animal Behavior</i> (Anim. Behav.), physically published academic journal`,
         contributors: `Phyllis C. Lee (author)`,
         date: `1987/02`,
@@ -292,8 +292,8 @@ module.exports = [
         publisher: `Association for the Study of Animal Behaviour (ASAB)`,
         summary: `TBA.`,
         title: `Allomothering among African elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Journal of Zoology London</i> (J. Zool. Lond.), physically published academic journal`,
         contributors: `Phyllis C. Lee (coauthor); Cynthia J. Moss (coauthor)`,
         date: `1995/05`,
@@ -307,8 +307,8 @@ module.exports = [
         publisher: `Zoological Society of London (ZSL)`,
         summary: `TBA.`,
         title: `Statural growth in known‐age African elephants (<i>Loxodonta africana</i>)`,
-    }],
-    [{
+    },
+    {
         container: `<i>Acta Theriologica</i> (Acta Theriol.), physically published academic journal`,
         contributors: `Fred Kurt (coauthor); Günther B. Hartl (coauthor); Ralph Tiedemann (coauthor)`,
         date: `1995/10/12 (Tuskless bulls, n.d.)`,
@@ -322,8 +322,8 @@ module.exports = [
         references: `<p class="refs">Tuskless bulls in Asian elephant Elephas maximus. History and population genetics of a man-made phenomenon. (n.d.). <i>Scilit</i>. <a href="https://www.scilit.net/article/2eeb3de43a2074f5147565699a2c31c5" target="_blank">https://www.scilit.net/article/2eeb3de43a2074f5147565699a2c31c5</a></p>`,
         summary: `TBA.`,
         title: `Tuskless bulls in Asian elephant <i>Elephas maximus</i>. History and population genetics of a man-made phenomenon`,
-    }],
-    [{
+    },
+    {
         contributors: `Kadzo Kangwana (editor, coauthor); Cynthia J. Moss (coauthor, copy editor); Joyce H. Poole (coauthor); Holly T. Dublin (coauthor); Russell Taylor (coauthor); Susan Mbugua (coauthor); Iain Douglas-Hamilton (coauthor); Richard Barnes (coauthor); Hugo Jachmann (coauthor); I. J. White (coauthor); Keith Lindsay (coauthor); Phyllis C. Lee (coauthor); Karen McComb (coauthor); Chris Thouless (coauthor); Hamisi Mutinda (coauthor); Nioroge Ngure (coauthor); Nigel Leader-Williams (coauthor); Ian Whyte (coauthor); Deborah Snelson (proof-reader); Chryssee Perry Martin (copy editor); Endangered Wildlife Trust (English-to-Portugese translator); Ursula Taube (English-to-French translator)`,
         container: '<i>AWF Technical Handbook Series</i>, physically published book series',
         date: `1996`,
@@ -336,22 +336,22 @@ module.exports = [
         publisher: `African Wildlife Foundation (AWF)`,
         summary: `TBA.`,
         title: `Studying Elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Zeitschrift für Säugetierkunde</i> (Z. Saugetierkd.), physically published academic journal`,
         contributors: `Günther B. Hartl (coauthor); Fred Kurt (coauthor); Ralph Tiedemann (coauthor); Christine Gmeiner (coauthor); K. Nadlinger (coauthor); Khyne U. Mar (coauthor); A. Rübel (coauthor)`,
         date: `1996/10`,
         duration: `pp. 285-294`,
         iteration: `Vol. 61, No. 5`,
         languages: `English`,
-        links: `<li><a href="https://archive.org/stream/zeitschriftfrsu611996deut#page/285/mode/2up" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+        links: `<li><a href="https://archive.org/details/zeitschriftfrsu611996deut/page/285/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
         location: `Jena, Germany`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `Gustav Fischer`,
         summary: `TBA.`,
         title: `Population genetics and systematics of Asian elephant (<i>Elephas maximus</i>): A study based on sequence variation at the Cyt b gene of PCR-amplified mitochondrial DNA from hair bulbs`,
-    }],
-    [{
+    },
+    {
         container: `<i>Elephant Encyclopedia</i>, published website`,
         contributors: `Dan Koehl (author)`,
         date: `Created >1998/>01/>17, last updated >2020/>07/>23`,
@@ -363,8 +363,8 @@ module.exports = [
         publisher: `Dan Koehl`,
         summary: `A detailed summary of the birth of Motty, the only known hybrid between an Asian and African elephant. Includes firsthand information about his anatomy and nutrition from zoo staff, and a discussion of current elephant taxonomy.`,
         title: `Motty the elephant crossbreed`,
-    }],
-    [{
+    },
+    {
         container: `<i>Emerging Infectious Diseases</i> (Emerg. Infect. Dis.), digitally published academic journal`,
         contributors: `Kathleen Michalak (coauthor); Connie Austin (coauthor); Sandy Diesel (coauthor); J. Maichle Bacon (coauthor); Phil Zimmerman (coauthor); Joel N. Maslow (coauthor)`,
         date: `1998/06/<13`,
@@ -377,8 +377,8 @@ module.exports = [
         publisher: `Centers for Disease Control and Prevention (CDC)`,
         summary: `TBA.`,
         title: `<i>Mycobacterium tuberculosis</i> infection as a Zoonotic Disease: Transmission between Humans and Elephants`,
-    }],
-    [{
+    },
+    {
         container: `<i>Proceedings of the National Academy of Sciences</i> (PNAS), digitally published academic journal`,
         contributors: `Michael J. Stanhope (coauthor); Victor G. Waddell (coauthor); Ole Madsen (coauthor); Wilfried de Jong (coauthor); S. Blair Hedges (coauthor); Gregory C. Cleven (coauthor); Diana Kao (coauthor); Mark S. Springer (coauthor)`,
         date: `1998/08/18`,
@@ -391,8 +391,8 @@ module.exports = [
         publisher: `National Academy of Sciences (NAS)`,
         summary: `TBA.`,
         title: `Molecular evidence for multiple origins of Insectivora and for a new order of endemic African insectivore mammals`,
-    }],
-    [{
+    },
+    {
         container: `<i>Trends in Ecology and Evolution</i> (TREE), digitally published academic journal`,
         contributors: `Jeheskel Shoshani (author)`,
         date: `1998/12/01`,
@@ -405,5 +405,5 @@ module.exports = [
         publisher: `Cell Press`,
         summary: `TBA.`,
         title: `Understanding proboscidean evolution: a formidable task`,
-    }],
+    },
 ]
