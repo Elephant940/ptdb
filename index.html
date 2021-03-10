@@ -8,7 +8,7 @@
 
 <style>
     html {
-        overflow-x: hidden;
+        overflow-x: hidden
     }
 
     ::-webkit-scrollbar {
@@ -124,9 +124,9 @@
     }
 
     .tab {
+        background: #fff;
         display: none;
         margin: 0;
-        min-width: 99.5vw;
         order: 1;
         padding: 0;
         text-align: center;
@@ -135,20 +135,23 @@
     .period {
         align-content: flex-start;
         background: rgb(237, 227, 214);
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(27.34081936rem, 1fr));
-        gap: 1.25rem;
-        padding: 1.25rem calc(1.25rem + 0.5vw) 1.25rem 1.25rem;
+        display: flex;
+        flex-wrap: wrap;
         min-height: 100vh;
+        min-width: 99vw;
     }
 
     .entry {
         background-color: rgb(255, 255, 255);
         border-radius: 1.25rem;
         box-sizing: border-box;
-        max-height: 92.5ch;
+        flex: 1 1 26.9384756088256818173932rem; /* The smallest width each box can be while being two columns on a 1366px wide monitor */
+        margin: 0.625rem;
+        max-height: calc(92.5ch - 1.25rem);
+;
         overflow-x: auto;
         text-align: left;
+        width: 100%;
     }
 
     .entry:hover {
@@ -163,7 +166,8 @@
         padding: 1.25rem 1.25rem 0.625rem 1.25rem;
         position: sticky;
         text-align: left;
-        top: -1px;
+        top: 0;
+        width: 100%;
     }
 
     .title {
@@ -197,18 +201,16 @@
         padding-bottom: 0.625rem;
     }
 
-    @media screen and (max-width: 56.8125rem) {
+    @media screen and (max-width: 540px) {
         .mytabs label {
             border-radius: 1.25rem 1.25rem 0 0;
             font-size: 4.25vw;
         }
 
-        .period {
-            grid-template-columns: repeat(1, 1fr);
-        }
-
         .entry {
-            max-height: 76.554294208rem;
+            flex: 1 1 calc(99vw - 1.25rem);
+            max-height: calc(185ch - 1.25rem);
+            max-width: calc(99vw - 1.25rem);
         }
     }
 </style>
