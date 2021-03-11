@@ -257,27 +257,27 @@
 
     <body>
         <div class="mytabs">
-            <input type="radio" id="B1700" name="mytabs" checked="checked" onClick="setCurrentTab('B1700_table')">
+            <input type="radio" id="B1700" name="mytabs" checked="checked" onClick="searchArray = B1700; currentTab = this.id + '_table'">
             <label for="B1700" style=border-left-width:0px;>Before 1700</label>
             <div class="tab">
                 <div class="period" id="B1700_table"></div>
             </div>
-            <input type="radio" id="D1700-1799" name="mytabs" onClick="setCurrentTab('D1700-1799_table')">
+            <input type="radio" id="D1700-1799" name="mytabs" onClick="searchArray = D1700_1799; currentTab = this.id + '_table'">
             <label for="D1700-1799">1700-1799</label>
             <div class="tab">
                 <div class="period" id="D1700-1799_table"></div>
             </div>
-            <input type="radio" id="D1800-1899" name="mytabs" onClick="setCurrentTab('D1800-1899_table')">
+            <input type="radio" id="D1800-1899" name="mytabs" onClick="searchArray = D1800_1899; currentTab = this.id + '_table'">
             <label for="D1800-1899">1800-1899</label>
             <div class="tab">
                 <div class="period" id="D1800-1899_table"></div>
             </div>
-            <input type="radio" id="D1900-1999" name="mytabs" onClick="setCurrentTab('D1900-1999_table')">
+            <input type="radio" id="D1900-1999" name="mytabs" onClick="searchArray = D1900_1999; currentTab = this.id + '_table'">
             <label for="D1900-1999">1900-1999</label>
             <div class="tab">
                 <div class="period" id="D1900-1999_table"></div>
             </div>
-            <input type="radio" id="D2000-2021" name="mytabs" onClick="setCurrentTab('D2000-2021_table')">
+            <input type="radio" id="D2000-2021" name="mytabs" onClick="searchArray = D2000_2021; currentTab = this.id + '_table'">
             <label for="D2000-2021" style=border-right-width:0px;>2000-2021</label>
             <div class="tab">
                 <div class="period" id="D2000-2021_table"></div>
@@ -297,17 +297,9 @@
         var D1900_1999 = []
         var D2000_2021 = []
         var searchArray = []
-
-        function setCurrentTab(tab) {
-            currentTab = tab
-            if (tab == "B1700_table") {searchArray = B1700}
-            else if (tab == "D1700-1799_table") {searchArray = D1700_1799}
-            else if (tab == "D1800-1899_table") {searchArray = D1800_1899}
-            else if (tab == "D1900-1999_table") {searchArray = D1900_1999}
-            else if (tab == "D2000-2021_table") {searchArray = D2000_2021}
-        }
         
         searchBar.addEventListener('keyup', (e) => {
+            if (e.target.value.length > 2 || e.target.value.length == 0) { 
             console.log(e.target.value);
             const searchString = e.target.value.toLowerCase();
 
@@ -323,7 +315,7 @@
             });
             console.log(filteredPeriod);
             buildCards(filteredPeriod, currentTab)
-        });
+        }});
 
         function goToSource(tab, source, eyedee) {
             document.getElementById(tab).checked = true;
