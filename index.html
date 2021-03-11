@@ -239,8 +239,7 @@
 <title>Proboscidean Text Database</title>
 <div class="header">
     <header><b>The Proboscidean Text Database</b></header>
-    <div class="medium">Created by Trent Grasso (tjgrasso940@gmail.com)<br>Technical assistance provided by Owen
-        Schwartz (oschwartz10612@gmail.com)</div>
+    <div class="medium">Created by Trent Grasso (tjgrasso940@gmail.com)<br>Technical assistance provided by Owen Schwartz (oschwartz10612@gmail.com)</div>
 </div>
 
 <div class="summary">
@@ -258,7 +257,7 @@
     <body>
         <div class="mytabs">
             <input type="radio" id="B1700" name="mytabs" checked="checked" onClick="clearSearchBar();searchArray = B1700; currentTab = this.id + '_table';">
-            <label for="B1700" style=border-left-width:0px;>Before 1700</label>
+            <label for="B1700">Before 1700</label>
             <div class="tab">
                 <div class="period" id="B1700_table"></div>
             </div>
@@ -278,7 +277,7 @@
                 <div class="period" id="D1900-1999_table"></div>
             </div>
             <input type="radio" id="D2000-2021" name="mytabs" onClick="clearSearchBar(); searchArray = D2000_2021; currentTab = this.id + '_table'">
-            <label for="D2000-2021" style=border-right-width:0px;>2000-2021</label>
+            <label for="D2000-2021">2000-2021</label>
             <div class="tab">
                 <div class="period" id="D2000-2021_table"></div>
             </div>
@@ -291,12 +290,19 @@
         getAllPeriods()
         var counter = document.getElementById('counter')
         var currentTab = 'B1700_table'
+        var searchArray = []
         var B1700 = []
         var D1700_1799 = []
         var D1800_1899 = []
         var D1900_1999 = []
         var D2000_2021 = []
-        var searchArray = []
+        
+        
+        function goToSource(tab, source, eyedee) {
+            document.getElementById(tab).checked = true;
+            document.getElementById(source).scrollIntoView();
+            document.getElementById(eyedee).style.color = "#523dc8"
+        }
         
         searchBar.addEventListener('keyup', (e) => {
             if (e.target.value.length > 2 || e.target.value.length == 0) { 
@@ -319,16 +325,13 @@
 
         function clearSearchBar() {
             searchBar.value = ''
-        }
-
-        function goToSource(tab, source, eyedee) {
-            document.getElementById(tab).checked = true;
-            document.getElementById(source).scrollIntoView();
-            document.getElementById(eyedee).style.color = "#523dc8"
+            buildCards(searchArray, currentTab)
+            console.log(searchArray)
         }
 
         async function getAllPeriods() {
-            B1700, searchArray = await getPeriod('B1700_table', 'B1700')
+            searchArray = await getPeriod('B1700_table', 'B1700')
+            B1700 = await getPeriod('B1700_table', 'B1700')
             D1700_1799 = await getPeriod('D1700-1799_table', 'D1700-1799')
             D1800_1899 = await getPeriod('D1800-1899_table', 'D1800-1899')
             D1900_1999 = await getPeriod('D1900-1999_table', 'D1900-1999')
