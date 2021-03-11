@@ -334,7 +334,7 @@
             D1800_1899 = await getPeriod('D1800-1899_table', 'D1800-1899')
             D1900_1999 = await getPeriod('D1900-1999_table', 'D1900-1999')
             D2000_2021 = await getPeriod('D2000-2021_table', 'D2000-2021')
-            counter.innerHTML = B1700.length + D1700_1799.length + D1800_1899.length + D1900_1999.length + D2000_2021.length
+            counter.innerHTML = D1700_1799.length + D1800_1899.length + D1900_1999.length + D2000_2021.length
         }
 
         async function getPeriod(id, endpoint) {
