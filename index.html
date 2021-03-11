@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 
 <head>
@@ -9,6 +8,7 @@
 
 <style>
     html {
+        font-family: Helvetica;
         overflow-x: hidden
     }
 
@@ -37,7 +37,7 @@
     .entry::-webkit-scrollbar-track {
         border-radius: 0.625rem 0 0.625rem 0;
     }
-    
+
     .header {
         background: rgb(162, 190, 150);
         color: black;
@@ -46,7 +46,7 @@
         word-break: break-word;
         word-wrap: break-word;
     }
-    
+
     header {
         font-size: 2.8125rem;
     }
@@ -73,7 +73,6 @@
 
     body {
         background: white;
-        font-family: Helvetica;
         margin: 0;
         padding: 0;
         word-break: break-word;
@@ -84,16 +83,26 @@
         margin: 0.625rem;
     }
 
+    #counter {
+        background-color: rgb(162, 190, 150);
+        display: inline-block;
+    }
+
     #searchBar {
-        border-radius: 3px;
         border: 1px solid #eaeaea;
-        font-size: 12px;
-        height: 32px;
+        border-radius: 0.625rem;
+        display: block;
+        font-size: 1rem;
+        height: 2rem;
         justify-self: center;
-        padding: 5px 10px;
+        margin: auto;
+        padding: 0.3125rem 0.625rem;
+        width: 41.2057878vw;
+        
     }
 
     .mytabs {
+        background: rgb(237, 227, 214);
         display: flex;
         flex-wrap: wrap;
         margin: 0;
@@ -115,8 +124,7 @@
 
     .mytabs label {
         background: rgb(221, 202, 174);
-        border-radius: 2.5rem 2.5rem 0 0;
-        box-sizing: border-box;
+        /* border-radius: 2.5rem 2.5rem 0 0; */
         display: block;
         font-size: 1.5rem;
         font-weight: bold;
@@ -130,6 +138,7 @@
         order: 1;
         padding: 0;
         text-align: center;
+        background: rgb(237, 227, 214);
     }
 
     .period {
@@ -138,6 +147,7 @@
         display: flex;
         flex-wrap: wrap;
         min-height: 100vh;
+        margin: auto;
         padding: 0.625rem;
     }
 
@@ -205,104 +215,160 @@
         .mytabs label {
             font-size: 4.25vw;
         }
+
+        #searchBar {
+            width: 66vw
+        }
     }
-    
-    @media screen and (max-width: 57.6875rem) {
+
+    @media screen and (max-width: 58.25rem) {
 
         .entry {
             max-height: calc(185ch - 1.25rem);
             max-width: 100vw;
         }
-    }
 
+        #searchBar {
+            width: 41.25vw
+        }
+    }
 </style>
 
 
 <title>Proboscidean Text Database</title>
 <div class="header">
     <header><b>The Proboscidean Text Database</b></header>
-    <div class="medium">Created by Trent Grasso (tjgrasso940@gmail.com)</div>
+    <div class="medium">Created by Trent Grasso (tjgrasso940@gmail.com)<br>Technical assistance provided by Owen
+        Schwartz (oschwartz10612@gmail.com)</div>
 </div>
 
-<p class="summary"> The Proboscidean Text Database (PTDb) is a digital collection of resources about the Proboscidea, the evolutionary group comprising elephants, mammoths, mastodons, and their relatives. All catalogued sources have been saved in Internet Archive's <a href="https://web.archive.org/" target="_blank">Wayback Machine</a>, so if any are unavailable they should be accessible there.</p>
+<div class="summary">
+    The Proboscidean Text Database (PTDb) is a digital collection of resources about the Proboscidea,
+    the evolutionary group comprising elephants, mammoths, mastodons, and their relatives. All catalogued sources have been saved in Internet Archive's <a href="https://web.archive.org/"target="_blank">Wayback Machine</a>, so if any are unavailable they should be accessible there.
+    <br>
+    Sources catalogued: <div id="counter"></div>
+</div>
 
-<p class="favicon">Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to <a href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/" target="_blank">Richard Ruggiero and Zimices on PhyloPic</a>.</p>
+<div id="searchWrapper">
+    <input type="text" name="searchBar" id="searchBar" placeholder="Search in the current tab..." />
 
-<body>
-    <!-- <div id="searchWrapper">
-        <input type="text" name="searchBar" id="searchBar" placeholder="search for a character" /> -->
+    <div class="favicon">Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to <a href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/" target="_blank">Richard Ruggiero and Zimices on PhyloPic</a>.</div>
+
+    <body>
         <div class="mytabs">
-            <input type="radio" id="B1700" name="mytabs" checked="checked">
+            <input type="radio" id="B1700" name="mytabs" checked="checked" onClick="setCurrentTab('B1700_table')">
             <label for="B1700" style=border-left-width:0px;>Before 1700</label>
             <div class="tab">
                 <div class="period" id="B1700_table"></div>
             </div>
-            <input type="radio" id="D1700-1799" name="mytabs">
+            <input type="radio" id="D1700-1799" name="mytabs" onClick="setCurrentTab('D1700-1799_table')">
             <label for="D1700-1799">1700-1799</label>
             <div class="tab">
                 <div class="period" id="D1700-1799_table"></div>
             </div>
-            <input type="radio" id="D1800-1899" name="mytabs">
+            <input type="radio" id="D1800-1899" name="mytabs" onClick="setCurrentTab('D1800-1899_table')">
             <label for="D1800-1899">1800-1899</label>
             <div class="tab">
                 <div class="period" id="D1800-1899_table"></div>
             </div>
-            <input type="radio" id="D1900-1999" name="mytabs">
+            <input type="radio" id="D1900-1999" name="mytabs" onClick="setCurrentTab('D1900-1999_table')">
             <label for="D1900-1999">1900-1999</label>
             <div class="tab">
                 <div class="period" id="D1900-1999_table"></div>
             </div>
-            <input type="radio" id="D2000-2021" name="mytabs">
+            <input type="radio" id="D2000-2021" name="mytabs" onClick="setCurrentTab('D2000-2021_table')">
             <label for="D2000-2021" style=border-right-width:0px;>2000-2021</label>
             <div class="tab">
                 <div class="period" id="D2000-2021_table"></div>
             </div>
         </div>
 
-</body>
+    </body>
 
 
-<script>
-    let myPeriod = []
+    <script>
+        getAllPeriods()
+        var B1700 = []
+        var D1700_1799 = []
+        var D1800_1899 = []
+        var D1900_1999 = []
+        var D2000_2021 = []
+        var searchArray = []
+        var currentTab = 'B1700_table'
+        var counter = document.getElementById('counter')
 
-//     searchBar.addEventListener('keyup', (e) => {
-//         console.log(e.target.value);
-//         const searchString = e.target.value.toLowerCase();
+        searchBar.addEventListener('keyup', (e) => {
+            console.log(e.target.value);
+            const searchString = e.target.value.toLowerCase();
 
-//     const filteredPeriod = myPeriod.filter((row) => {
-//         return (
-//             row.data.i.title.toLowerCase().includes(searchString)
-//         );
-//     });
-//     console.log(filteredPeriod);
-// });
-    
-    function goToSource(tab, source, eyedee) {
-        document.getElementById(tab).checked = true;
-        document.getElementById(source).scrollIntoView();
-        document.getElementById(eyedee).style.color = "#523dc8"
-    }
+            const filteredPeriod = searchArray.filter((row) => {
+                return (
+                    row.title.toLowerCase().includes(searchString) ||
+                    row.contributors.toLowerCase().includes(searchString) ||
+                    row.summary.toLowerCase().includes(searchString) ||
+                    row.date.toLowerCase().includes(searchString) ||
+                    row.languages.toLowerCase().includes(searchString) ||
+                    row.location.toLowerCase().includes(searchString)
 
-    getPeriod('B1700_table', 'B1700')
-    getPeriod('D1700-1799_table', 'D1700-1799')
-    getPeriod('D1800-1899_table', 'D1800-1899')
-    getPeriod('D1900-1999_table', 'D1900-1999')
-    getPeriod('D2000-2021_table', 'D2000-2021')
+                );
+            });
+            console.log(filteredPeriod);
+            buildCards(filteredPeriod, currentTab)
 
+        });
 
-    async function getPeriod(id, endpoint) {
-        var myPeriod = await fetch(`/api/v1/${endpoint}`);
-        myPeriod = await myPeriod.json();
-        buildCards(myPeriod, id)
-        console.log(myPeriod)
-    }
+        function setCurrentTab(tab) {
+            currentTab = tab
+            if (tab == "B1700_table") {
+                searchArray = B1700
+            }
 
-    function buildCards(data, id) {
-        var card = document.getElementById(id)
-        card.innerHTML = ''
-        for (var i = 0; i < data.length; i++) {
-            var row =
-                `   <div class="entry" >
+            else if (tab == "D1700-1799_table") {
+                searchArray = D1700_1799
+            }
+
+            else if (tab == "D1800-1899_table") {
+                searchArray = D1800_1899
+            }
+
+            else if (tab == "D1900-1999_table") {
+                searchArray = D1900_1999
+            }
+
+            else if (tab == "D2000-2021_table") {
+                searchArray = D2000_2021
+            }
+        }
+
+        function goToSource(tab, source, eyedee) {
+            document.getElementById(tab).checked = true;
+            document.getElementById(source).scrollIntoView();
+            document.getElementById(eyedee).style.color = "#523dc8"
+        }
+
+        async function getAllPeriods() {
+            B1700, searchArray = await getPeriod('B1700_table', 'B1700')
+            D1700_1799 = await getPeriod('D1700-1799_table', 'D1700-1799')
+            D1800_1899 = await getPeriod('D1800-1899_table', 'D1800-1899')
+            D1900_1999 = await getPeriod('D1900-1999_table', 'D1900-1999')
+            D2000_2021 = await getPeriod('D2000-2021_table', 'D2000-2021')
+            counter.innerHTML = B1700.length + D1700_1799.length + D1800_1899.length + D1900_1999.length + D2000_2021.length
+        }
+
+        async function getPeriod(id, endpoint) {
+            var myPeriod = await fetch(`/api/v1/${endpoint}`);
+            myPeriod = await myPeriod.json();
+            buildCards(myPeriod, id)
+            console.log(myPeriod)
+            return myPeriod
+        }
+
+        function buildCards(data, id) {
+            var card = document.getElementById(id)
+            card.innerHTML = ''
+            for (var i = 0; i < data.length; i++) {
+                var row =
+                    `   <div class="entry" >
                     <div class="entry-heading" id=${data[i].eyedee}>
                     <p class="title">${data[i].title}</p>
                     <p class="medium">${data[i].medium}</p>
@@ -320,41 +386,41 @@
                     <u class="heading">Language(s)</u>
                     <ul class="info">${data[i].languages}</ul>`
 
-            if (data[i].container != undefined) {
-                row +=
-                    `<u class="heading">Container</u>
+                if (data[i].container != undefined) {
+                    row +=
+                        `<u class="heading">Container</u>
                             <ul class="info">${data[i].container}</ul>`
-            }
+                }
 
-            if (data[i].iteration != undefined) {
-                row +=
-                    `<u class="heading">Iteration</u>
+                if (data[i].iteration != undefined) {
+                    row +=
+                        `<u class="heading">Iteration</u>
                             <ul class="info">${data[i].iteration}</ul>`
-            }
+                }
 
-            row +=
-                `<u class="heading">Summary and significance</u>
+                row +=
+                    `<u class="heading">Summary and significance</u>
                             <ul class="info">${data[i].summary}</ul>
                         <u class="heading">Link(s) to source</u>
                             <ul class="info">${data[i].links}</ul>`
 
-            if (data[i].notes != undefined) {
-                row +=
-                    `<u class="heading">Notes</u>
+                if (data[i].notes != undefined) {
+                    row +=
+                        `<u class="heading">Notes</u>
                             <ul class="info">${data[i].notes}</ul>`
-            }
+                }
 
-            if (data[i].references != undefined) {
-                row +=
-                    `<u class="heading">References</u>
+                if (data[i].references != undefined) {
+                    row +=
+                        `<u class="heading">References</u>
                     <ul class="info">${data[i].references}</ul>`
-            }
-            row +=
-                `</div>`
+                }
+                row +=
+                    `</div>`
 
-            card.innerHTML += row
+                card.innerHTML += row
+            }
+
         }
 
-    }
-
-</script>
+    </script>
