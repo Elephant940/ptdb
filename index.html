@@ -289,57 +289,41 @@
 
     <script>
         getAllPeriods()
+        var counter = document.getElementById('counter')
+        var currentTab = 'B1700_table'
         var B1700 = []
         var D1700_1799 = []
         var D1800_1899 = []
         var D1900_1999 = []
         var D2000_2021 = []
         var searchArray = []
-        var currentTab = 'B1700_table'
-        var counter = document.getElementById('counter')
 
+        function setCurrentTab(tab) {
+            currentTab = tab
+            if (tab == "B1700_table") {searchArray = B1700}
+            else if (tab == "D1700-1799_table") {searchArray = D1700_1799}
+            else if (tab == "D1800-1899_table") {searchArray = D1800_1899}
+            else if (tab == "D1900-1999_table") {searchArray = D1900_1999}
+            else if (tab == "D2000-2021_table") {searchArray = D2000_2021}
+        }
+        
         searchBar.addEventListener('keyup', (e) => {
             console.log(e.target.value);
             const searchString = e.target.value.toLowerCase();
 
             const filteredPeriod = searchArray.filter((row) => {
                 return (
-                    row.title.toLowerCase().includes(searchString) ||
                     row.contributors.toLowerCase().includes(searchString) ||
-                    row.summary.toLowerCase().includes(searchString) ||
                     row.date.toLowerCase().includes(searchString) ||
                     row.languages.toLowerCase().includes(searchString) ||
-                    row.location.toLowerCase().includes(searchString)
-
+                    row.location.toLowerCase().includes(searchString) ||
+                    row.summary.toLowerCase().includes(searchString) ||
+                    row.title.toLowerCase().includes(searchString)
                 );
             });
             console.log(filteredPeriod);
             buildCards(filteredPeriod, currentTab)
-
         });
-
-        function setCurrentTab(tab) {
-            currentTab = tab
-            if (tab == "B1700_table") {
-                searchArray = B1700
-            }
-
-            else if (tab == "D1700-1799_table") {
-                searchArray = D1700_1799
-            }
-
-            else if (tab == "D1800-1899_table") {
-                searchArray = D1800_1899
-            }
-
-            else if (tab == "D1900-1999_table") {
-                searchArray = D1900_1999
-            }
-
-            else if (tab == "D2000-2021_table") {
-                searchArray = D2000_2021
-            }
-        }
 
         function goToSource(tab, source, eyedee) {
             document.getElementById(tab).checked = true;
