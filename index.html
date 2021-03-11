@@ -98,7 +98,7 @@
         justify-self: center;
         margin: auto;
         padding: 0.3125rem 0.625rem;
-        width: 41.2057878vw;
+        width: 60vw;
         
     }
 
@@ -216,10 +216,6 @@
         .mytabs label {
             font-size: 4.25vw;
         }
-
-        #searchBar {
-            width: 66vw
-        }
     }
 
     @media screen and (max-width: 58.25rem) {
@@ -230,7 +226,7 @@
         }
 
         #searchBar {
-            width: 41.25vw
+            width: 66vw
         }
     }
 </style>
@@ -314,7 +310,9 @@
                     row.contributors.toLowerCase().includes(searchString) ||
                     row.date.toLowerCase().includes(searchString) ||
                     row.languages.toLowerCase().includes(searchString) ||
+                    row.links.toLowerCase().includes(searchString) ||
                     row.location.toLowerCase().includes(searchString) ||
+                    row.publisher.toLowerCase().includes(searchString) ||
                     row.summary.toLowerCase().includes(searchString) ||
                     row.title.toLowerCase().includes(searchString)
                 );

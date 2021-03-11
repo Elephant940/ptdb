@@ -96,7 +96,19 @@ module.exports = [
         publisher: `Georg. Emmanuel Beer`,
         summary: `The 13th edition of <a id="Linnaeus_1758_color_0" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants has been expanded but retains most of Linnaeus's original description, and can be found on page 58.`,
         title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
-
+    },
+    {
+        contributors: `Robert Kerr (author), Johann Fridrich Gmelin (preface author)`,
+        date: `1792/>02`,
+        duration: `644 pp.`,
+        iteration: `1st ed.`,
+        languages: `English`,
+        links: `<li><a href="https://archive.org/details/animalkingdomorz00linn/page/115/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries</a>`,
+        location: `Edinburgh, Scotland`,
+        publisher: `Printed for A. Strahan and T. Cadell in London, and W. Creech in Edinburgh`,
+        summary: `The section on elephants, "XI. Elephant‒10. Elephas. 5.", is on pages 115-117. Details TBA.`,
+        medium: `Physically published book, digitized`,
+        title: `The Animal Kingdom, or Zoological System, of the Celebrated Sir Charles Linnaeus. Class I. Mammalia `,
     },
     {
         contributors: `Johann Friedrich Blumenbach (author)`,
