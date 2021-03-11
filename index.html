@@ -331,7 +331,7 @@
 
         async function getAllPeriods() {
             searchArray = await getPeriod('B1700_table', 'B1700')
-            B1700 = await getPeriod('B1700_table', 'B1700')
+            B1700 = searchArray
             D1700_1799 = await getPeriod('D1700-1799_table', 'D1700-1799')
             D1800_1899 = await getPeriod('D1800-1899_table', 'D1800-1899')
             D1900_1999 = await getPeriod('D1900-1999_table', 'D1900-1999')
