@@ -257,27 +257,27 @@
 
     <body>
         <div class="mytabs">
-            <input type="radio" id="B1700" name="mytabs" checked="checked" onClick="searchArray = B1700; currentTab = this.id + '_table';">
+            <input type="radio" id="B1700" name="mytabs" checked="checked" onClick="clearSearchBar();searchArray = B1700; currentTab = this.id + '_table';">
             <label for="B1700" style=border-left-width:0px;>Before 1700</label>
             <div class="tab">
                 <div class="period" id="B1700_table"></div>
             </div>
-            <input type="radio" id="D1700-1799" name="mytabs" onClick=" searchArray = D1700_1799; currentTab = this.id + '_table';">
+            <input type="radio" id="D1700-1799" name="mytabs" onClick="clearSearchBar(); searchArray = D1700_1799; currentTab = this.id + '_table';">
             <label for="D1700-1799">1700-1799</label>
             <div class="tab">
                 <div class="period" id="D1700-1799_table"></div>
             </div>
-            <input type="radio" id="D1800-1899" name="mytabs" onClick=" searchArray = D1800_1899; currentTab = this.id + '_table';">
+            <input type="radio" id="D1800-1899" name="mytabs" onClick="clearSearchBar(); searchArray = D1800_1899; currentTab = this.id + '_table';">
             <label for="D1800-1899">1800-1899</label>
             <div class="tab">
                 <div class="period" id="D1800-1899_table"></div>
             </div>
-            <input type="radio" id="D1900-1999" name="mytabs" onClick=" searchArray = D1900_1999; currentTab = this.id + '_table';">
+            <input type="radio" id="D1900-1999" name="mytabs" onClick="clearSearchBar(); searchArray = D1900_1999; currentTab = this.id + '_table';">
             <label for="D1900-1999">1900-1999</label>
             <div class="tab">
                 <div class="period" id="D1900-1999_table"></div>
             </div>
-            <input type="radio" id="D2000-2021" name="mytabs" onClick=" searchArray = D2000_2021; currentTab = this.id + '_table'">
+            <input type="radio" id="D2000-2021" name="mytabs" onClick="clearSearchBar(); searchArray = D2000_2021; currentTab = this.id + '_table'">
             <label for="D2000-2021" style=border-right-width:0px;>2000-2021</label>
             <div class="tab">
                 <div class="period" id="D2000-2021_table"></div>
@@ -316,6 +316,10 @@
             console.log(filteredPeriod);
             buildCards(filteredPeriod, currentTab)
         }});
+
+        function clearSearchBar() {
+            searchBar.value = ''
+        }
 
         function goToSource(tab, source, eyedee) {
             document.getElementById(tab).checked = true;
