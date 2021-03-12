@@ -50,7 +50,8 @@ function clearSearchBar() {
 
 async function getAllPeriods() {
     var myPeriodAndHTML = await getPeriod('B1700_table', 'B1700')
-    B1700, searchArray = myPeriodAndHTML.myPeriod
+    B1700 = myPeriodAndHTML.myPeriod
+    searchArray = B1700
     B1700_html, currentTabCards_html = myPeriodAndHTML.html
 
     myPeriodAndHTML = await getPeriod('D1700-1799_table', 'D1700-1799')
