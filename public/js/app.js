@@ -53,6 +53,7 @@ async function getAllPeriods() {
     B1700 = myPeriodAndHTML.myPeriod
     searchArray = B1700
     B1700_html = myPeriodAndHTML.html
+    currentTabCards_html = B1700_html
 
     myPeriodAndHTML = await getPeriod('D1700-1799_table', 'D1700-1799')
     D1700_1799 = myPeriodAndHTML.myPeriod
@@ -70,9 +71,7 @@ async function getAllPeriods() {
     D2000_2021 = myPeriodAndHTML.myPeriod
     D2000_2021_html = myPeriodAndHTML.html
 
-
     counter.innerHTML = B1700.length + D1700_1799.length + D1800_1899.length + D1900_1999.length + D2000_2021.length
-    console.log(B1700.length)
 }
 
 async function getPeriod(id, endpoint) {
