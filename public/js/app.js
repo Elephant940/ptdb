@@ -3,10 +3,8 @@ var counter = document.getElementById('counter')
 var currentTab = 'B1700_table'
 var searchArray = []
 var B1700, D1700_1799, D1800_1899, D1900_1999, D2000_2021 = []
-var B1700_html, D1700_1799_html, D1800_1899_html, D1900_1999_html, D2000_2021_html = ''
-
-var currentTabCards_html = ''
-var didSearch = false
+var currentTabCards_html, B1700_html, D1700_1799_html, D1800_1899_html, D1900_1999_html, D2000_2021_html = ''
+var searched = false
 
 
 function goToSource(tab, source, eyedee) {
@@ -32,28 +30,28 @@ searchBar.addEventListener('keyup', (e) => {
             );
         });
         buildCards(filteredPeriod, currentTab)
-        didSearch = true
+        searched = true
     }
 
     if (e.target.value.length == 0) {
-        didSearch = false
+        searched = false
         document.getElementById(currentTab).innerHTML = currentTabCards_html
     }
 
 });
 
 function clearSearchBar() {
-    if (didSearch) {
+    if (searched) {
         searchBar.value = ''
         buildCards(searchArray, currentTab)
-        didSearch = false
+        searched = false
     }
 }
 
 async function getAllPeriods() {
     var myPeriodAndHTML = await getPeriod('B1700_table', 'B1700')
-    searchArray = myPeriodAndHTML.myPeriod
-    B1700 = searchArray
+    B1700 = myPeriodAndHTML.myPeriod
+    searchArray = B1700
     B1700_html = myPeriodAndHTML.html
 
     myPeriodAndHTML = await getPeriod('D1700-1799_table', 'D1700-1799')
