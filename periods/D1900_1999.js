@@ -172,7 +172,7 @@ module.exports = [
         duration: `pp. 168-172`,
         iteration: `Vol. 56, No. 4`,
         languages: `English`,
-        links: `<li><a href="https://doi.org/10.1080/00221345708983130" target="_blank">From Publisher (DOI: 10.1080/00221345708983130)</a>, through Taylor & Francis Online`,
+        links: `<li><a href="https://doi.org/10.1080/00221345708983130" target="_blank">From publisher (DOI: 10.1080/00221345708983130)</a>, through Taylor & Francis Online`,
         location: `Menasha, Wisconsin, United States of America`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `National Council for Geographic Education (NCGE)`,
