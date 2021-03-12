@@ -23,7 +23,7 @@ module.exports = [
         location: `London, England`,
         medium: `Physically published book, digitized`,
         publisher: `Printed by William Jaggard`,
-        summary: `TBA.`,
+        summary: `The section on elephants, "Of the Elephant", is on pages 190-211. Details TBA.`,
         title: `The Historie of Fovre-Footed Beastes. Describing the true and liuely figure of euery Beast, with a discourse of their seuerall Names, Conditions, Kindes, Vertues (both naturall and medicinall), Countries of their breed, their loue and hate to Mandkinde, and the wonderfull worke of God in their Creation, Preseruation, and Destruction. Necessary for all Diuines and Students, because the story of euery Beast is amplified with Narrations out of Scriptures, Fathers, Phylosophers, Physitians, and Poets: wherein are declared diuers Hyerogliphicks, Emblems, Epigrams, and other good Histories, Collected out of all the Volumes of Conradvs Gesner, and all other writers to this present day.`,
     },
     {

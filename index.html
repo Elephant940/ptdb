@@ -9,7 +9,7 @@
 <style>
     html {
         font-family: Helvetica;
-        overflow-x: hidden
+        overflow-x: hidden;
     }
 
     ::-webkit-scrollbar {
@@ -53,7 +53,6 @@
 
     .credit {
         font-size: 0.75rem;
-        margin-right: 0
     }
 
     a {
@@ -85,8 +84,10 @@
 
     #counter {
         background-color: rgb(162, 190, 150);
+        border-radius: 0.625rem;
         display: inline-block;
         font-size: 1rem;
+        padding: 0.15625rem;
     }
 
     #searchBar {
@@ -99,7 +100,6 @@
         margin: auto;
         padding: 0.3125rem 0.625rem;
         width: 60vw;
-        
     }
 
     .mytabs {
@@ -125,7 +125,6 @@
 
     .mytabs label {
         background: rgb(221, 202, 174);
-        /* border-radius: 2.5rem 2.5rem 0 0; */
         display: block;
         font-size: 1.5rem;
         font-weight: bold;
@@ -134,12 +133,12 @@
     }
 
     .tab {
+        background: rgb(237, 227, 214);
         display: none;
-        margin: 0;
+        min-height: 100vh;
         order: 1;
         padding: 0;
         text-align: center;
-        background: rgb(237, 227, 214);
     }
 
     .period {
@@ -147,7 +146,6 @@
         background: rgb(237, 227, 214);
         display: flex;
         flex-wrap: wrap;
-        min-height: 100vh;
         margin: auto;
         padding: 0.625rem;
     }
@@ -226,7 +224,7 @@
         }
 
         #searchBar {
-            width: 66vw
+            width: 66vw;
         }
     }
 </style>
@@ -246,7 +244,7 @@
 </div>
 
 <div id="searchWrapper">
-    <input type="text" name="searchBar" id="searchBar" placeholder="Search in the current tab..." />
+    <input type="text" name="searchBar" id="searchBar" placeholder="Search current tab..." />
 
     <div class="favicon">Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to <a href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/" target="_blank">Richard Ruggiero and Zimices on PhyloPic</a>.</div>
 
