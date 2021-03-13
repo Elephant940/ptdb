@@ -35,7 +35,7 @@ module.exports = [
         links: `<li><a href="https://archive.org/details/anatomicalaccoun01mull/page/n6/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by Duke University Libraries<li><a href="https://digital.library.villanova.edu/Item/vudl:14241#?c=&m=&s=&cv=10&xywh=-5078%2C-78%2C12421%2C2780" target="_blank">From the Villanova University Falvey Memorial Library</a>`,
         location: `London, England`,
         medium: `Physically published book, digitized`,
-        publisher: `Printed for Sam Smith`,
+        publisher: `Printed for Sam Smith at the Prince's Arms in St. Paul's Churchyard`,
         summary: `TBA.`,
         title: `An Anatomical Account of the Elephant Accidentally Burnt in Dublin on Fryday, June 17 in the Year 1681. Sent in a Letter to Sir Will. Petty, Fellow of the Royal Society. Together With a Relation of new Anatomical Observations in the Eyes of Animals, Communicated in another Letter to the Honourable R. Boyle, Esq; Fellow of the same Society.`,
     },
