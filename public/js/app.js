@@ -19,25 +19,23 @@ searchBar.addEventListener('keyup', (e) => {
 
         const filteredPeriod = searchArray.filter((row) => {
             return (
-                row.contributors.toLowerCase().includes(searchString) ||
-                row.date.toLowerCase().includes(searchString) ||
-                row.languages.toLowerCase().includes(searchString) ||
-                row.links.toLowerCase().includes(searchString) ||
-                row.location.toLowerCase().includes(searchString) ||
-                row.publisher.toLowerCase().includes(searchString) ||
-                row.summary.toLowerCase().includes(searchString) ||
-                row.title.toLowerCase().includes(searchString)
+                row.contributors.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+                row.date.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+                row.languages.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+                row.links.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+                row.location.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+                row.publisher.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+                row.summary.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+                row.title.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString)
             );
         });
         buildCards(filteredPeriod, currentTab)
         searched = true
     }
-
     if (e.target.value.length == 0) {
         searched = false
         document.getElementById(currentTab).innerHTML = currentTabCards_html
     }
-
 });
 
 function clearSearchBar() {
