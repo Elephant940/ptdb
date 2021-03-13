@@ -11,7 +11,7 @@ module.exports = [
         medium: `Physically published academic journal article, digitized`,
         publisher: `Printed for H. Clemens, William Innys, and D. Brown`,
         summary: `TBA.`,
-        title: `Osteographia Elephantina Or, A full and exact Description of all the Bones of an Elephant, which died near Dundee, April the 27th, 1706. with their several Dimensions. Communicated in a letter to Dr. Hans Sloane, R, S, Secr.`,
+        title: `Osteographia Elephantina: Or, A full and exact Description of all the Bones of an Elephant, which died near Dundee, April the 27th, 1706. with their several Dimensions. Communicated in a letter to Dr. Hans Sloane, R, S, Secr.`,
     },
     {
         container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (Phil. Trans.), physically published academic journal`,
