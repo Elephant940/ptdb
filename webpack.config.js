@@ -7,7 +7,7 @@ module.exports = {
     rules: [
       {
         test: /\.m?js$/,
-        exclude: /(node_modules|bower_components)/,
+        exclude: /node_modules/,
         use: {
           loader: "babel-loader",
           options: {
@@ -17,6 +17,7 @@ module.exports = {
       },
     ],
   },
+  target: ['web', 'es5'],
   output: {
     filename: "app.js",
     path: path.resolve(__dirname, "public/js"),

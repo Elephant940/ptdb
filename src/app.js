@@ -1,4 +1,6 @@
+import "core-js/stable";
 import "regenerator-runtime/runtime";
+import "whatwg-fetch";
 
 getAllPeriods();
 var counter = document.getElementById("counter");
