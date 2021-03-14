@@ -807,7 +807,7 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, digitally published scientific database`,
-        contributors: `C. Williams (coauthor, reviewer, facilitator, compiler); S.K. Tiwari (coauthor, facilitator, compiler); V.R. Goswami (coauthor); S. de Silva (coauthor); A. Kumar (coauthor); N. Baskaran (coauthor); K. Yoganand (coauthor); V. Menon (coauthor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
+        contributors: `C. Williams (coauthor, reviewer, facilitator, compiler); S.K. Tiwari (coauthor, facilitator, compiler); V.R. Goswami (coauthor); Shermin de Silva (coauthor); A. Kumar (coauthor); N. Baskaran (coauthor); K. Yoganand (coauthor); V. Menon (coauthor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
         date: `2019/09/18`,
         duration: `29 pp.`,
         languages: `English`,
