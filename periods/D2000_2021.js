@@ -239,7 +239,7 @@ module.exports = [
     },
     {
         container: `<i>Journal of Anatomy</i> (J. Anat.), digitally published academic journal`,
-        contributors: `D.M. Bouley (coauthor); C.N. Alarcón (coauthor); T. Hildebrandt (coauthor); Caitlin E. O’Connell‐Rodwell (coauthor)`,
+        contributors: `D.M. Bouley (coauthor); C.N. Alarcón (coauthor); Thomas Hildebrandt (coauthor); Caitlin E. O’Connell‐Rodwell (coauthor)`,
         date: `2007/08/15`,
         duration: `pp. 428-435`,
         iteration: `Vol. 211, Issue 4`,
