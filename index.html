@@ -1,66 +1,85 @@
 <!DOCTYPE html>
 
 <head>
-    <link rel="icon"
-        href="https://web.archive.org/web/20210131141812if_/http://www.phylopic.org/assets/images/submissions/09af15bc-97ee-4fa0-9379-da7ee328560a.64.png" />
-    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="/css/styles.css">
+  <link
+    rel="icon"
+    href="https://web.archive.org/web/20210131141812if_/http://www.phylopic.org/assets/images/submissions/09af15bc-97ee-4fa0-9379-da7ee328560a.64.png"
+  />
+  <meta
+    charset="UTF-8"
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" />
 </head>
 
 <title>Proboscidean Text Database</title>
 <div class="header">
-    <header><b>The Proboscidean Text Database</b></header>
-    <div class="medium">Created by Trent Grasso (tjgrasso940@gmail.com)<br>Technical assistance provided by Owen Schwartz (oschwartz10612@gmail.com)</div>
+  <header><b>The Proboscidean Text Database</b></header>
+  <div class="medium">
+    Created by Trent Grasso (tjgrasso940@gmail.com)<br />Technical assistance
+    provided by Owen Schwartz (oschwartz10612@gmail.com)
+  </div>
 </div>
 
 <div class="summary">
-    The Proboscidean Text Database (PTDb) is a digital collection of resources about the Proboscidea,
-    the evolutionary group comprising elephants, mammoths, mastodons, and their relatives. All catalogued sources have been saved in Internet Archive's <a href="https://web.archive.org/" target="_blank">Wayback Machine</a>, so if any are unavailable they should be accessible there.
-    <br>
-    Sources catalogued: <div id="counter"></div>
+  The Proboscidean Text Database (PTDb) is a digital collection of resources
+  about the Proboscidea, the evolutionary group comprising elephants, mammoths,
+  mastodons, and their relatives. All catalogued sources have been saved in
+  Internet Archive's
+  <a href="https://web.archive.org/" target="_blank">Wayback Machine</a>, so if
+  any are unavailable they should be accessible there.
+  <br />
+  Sources catalogued:
+  <div id="counter"></div>
 </div>
 
 <div id="searchWrapper">
-    <input type="text" name="searchBar" id="searchBar" placeholder="Search current tab..." />
+  <input
+    type="text"
+    name="searchBar"
+    id="searchBar"
+    placeholder="Search current tab..."
+  />
 
-    <div class="favicon">Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to <a
-            href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/" target="_blank">Richard Ruggiero
-            and Zimices on PhyloPic</a>.</div>
+  <div class="favicon">
+    Favicon: African forest elephant (<i>Loxodonta cyclotis</i>), credit to
+    <a
+      href="http://www.phylopic.org/image/09af15bc-97ee-4fa0-9379-da7ee328560a/"
+      target="_blank"
+      >Richard Ruggiero and Zimices on PhyloPic</a
+    >.
+  </div>
 
-    <body>
-        <div class="mytabs">
-            <input type="radio" id="B1700" name="mytabs" checked="checked"
-                onClick="clearSearchBar(); searchArray = B1700; currentTab = this.id + '_table'; currentTabCards_html = B1700_html;">
-            <label for="B1700">Before 1700</label>
-            <div class="tab">
-                <div class="period" id="B1700_table"></div>
-            </div>
-            <input type="radio" id="D1700-1799" name="mytabs"
-                onClick="clearSearchBar(); searchArray = D1700_1799; currentTab = this.id + '_table'; currentTabCards_html = D1700_1799_html;">
-            <label for="D1700-1799">1700-1799</label>
-            <div class="tab">
-                <div class="period" id="D1700-1799_table"></div>
-            </div>
-            <input type="radio" id="D1800-1899" name="mytabs"
-                onClick="clearSearchBar(); searchArray = D1800_1899; currentTab = this.id + '_table';  currentTabCards_html = D1800_1899_html;">
-            <label for="D1800-1899">1800-1899</label>
-            <div class="tab">
-                <div class="period" id="D1800-1899_table"></div>
-            </div>
-            <input type="radio" id="D1900-1999" name="mytabs"
-                onClick="clearSearchBar(); searchArray = D1900_1999; currentTab = this.id + '_table';  currentTabCards_html = D1900_1999_html;">
-            <label for="D1900-1999">1900-1999</label>
-            <div class="tab">
-                <div class="period" id="D1900-1999_table"></div>
-            </div>
-            <input type="radio" id="D2000-2021" name="mytabs"
-                onClick="clearSearchBar(); searchArray = D2000_2021; currentTab = this.id + '_table';  currentTabCards_html = D2000_2021_html;">
-            <label for="D2000-2021">2000-2021</label>
-            <div class="tab">
-                <div class="period" id="D2000-2021_table"></div>
-            </div>
-        </div>
+  <body>
+    <div class="mytabs">
+      <input type="radio" id="B1700" name="mytabs" checked="checked" />
+      <label for="B1700">Before 1700</label>
+      <div class="tab">
+        <div class="period" id="B1700_table"></div>
+      </div>
+      <input type="radio" id="D1700-1799" name="mytabs" />
+      <label for="D1700-1799">1700-1799</label>
+      <div class="tab">
+        <div class="period" id="D1700-1799_table"></div>
+      </div>
+      <input type="radio" id="D1800-1899" name="mytabs" />
+      <label for="D1800-1899">1800-1899</label>
+      <div class="tab">
+        <div class="period" id="D1800-1899_table"></div>
+      </div>
+      <input type="radio" id="D1900-1999" name="mytabs" />
+      <label for="D1900-1999">1900-1999</label>
+      <div class="tab">
+        <div class="period" id="D1900-1999_table"></div>
+      </div>
+      <input type="radio" id="D2000-2021" name="mytabs" />
+      <label for="D2000-2021">2000-2021</label>
+      <div class="tab">
+        <div class="period" id="D2000-2021_table"></div>
+      </div>
+    </div>
+  </body>
 
-    </body>
-
-    <script src="/js/app.js"></script>
+  <script src="/js/app.js"></script>
+</div>
