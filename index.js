@@ -1,26 +1,26 @@
-const path = require("path")
-const express = require("express");
-const app = express();
-const cors = require("cors");
+var path = require("path")
+var express = require("express");
+var app = express();
+var cors = require("cors");
 var corsOptions = {
     origin: 'https://ptdb.herokuapp.com/',
     optionsSuccessStatus: 200
 }
 app.use(cors(corsOptions));
 
-const PORT = process.env.PORT || 8080;
-const HOST = "0.0.0.0";
+var PORT = process.env.PORT || 8080;
+var HOST = "0.0.0.0";
 
 app.use(express.static('public'))
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + "/index.html"));
 });
 
-const Pre_1700 = require('./periods/B1700');
-const D1700_1799 = require('./periods/D1700_1799');
-const D1800_1899 = require('./periods/D1800_1899');
-const D1900_1999 = require('./periods/D1900_1999');
-const D2000_2021 = require('./periods/D2000_2021');
+var Pre_1700 = require('./periods/B1700');
+var D1700_1799 = require('./periods/D1700_1799');
+var D1800_1899 = require('./periods/D1800_1899');
+var D1900_1999 = require('./periods/D1900_1999');
+var D2000_2021 = require('./periods/D2000_2021');
 
 app.get('/api/v1/B1700', (req, res) => {
     res.status(200).send(Pre_1700);
