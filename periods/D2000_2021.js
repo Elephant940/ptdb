@@ -1205,7 +1205,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `The Conversation`,
-        summary: `A laymen-oriented summary of <a id="van_der_Valk_et_al_2021_color_0" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2020</a> by two of the paper's coauthors.`,
+        summary: `A laymen-oriented summary of <a id="van_der_Valk_et_al_2021_color_0" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a> by two of the paper's coauthors.`,
         title: `We sequenced the oldest ever DNA, from million-year-old mammoths`,
     },
 ]
