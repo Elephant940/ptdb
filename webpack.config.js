@@ -24,7 +24,9 @@ module.exports = {
   },
   plugins: [
     new NodemonPlugin({
-        script: 'index.js'
+        script: 'index.js',
+        watch: path.resolve(__dirname, 'periods'),
+        ext: 'js,json'
     })
   ]
 };
