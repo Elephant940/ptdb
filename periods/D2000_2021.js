@@ -148,7 +148,7 @@ module.exports = [
         location: `Rockville, Maryland, United States of America`,
         medium: `Digitally published news article`,
         publisher: `ScienceDaily`,
-        summary: `A laymen-oriented summary of <a id="Morris_et_al_2006_color_0" onclick="goToSource('D2000-2021','Morris_et_al_2006', this.id)">Morris et al., 2006</a>.`,
+        summary: `A layman-oriented summary of <a id="Morris_et_al_2006_color_0" onclick="goToSource('D2000-2021','Morris_et_al_2006', this.id)">Morris et al., 2006</a>.`,
         title: `Drunken Elephants: The Marula Fruit Myth`,
     },
     {
@@ -161,7 +161,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published magazine article`,
         publisher: `National Geographic Society`,
-        summary: `A laymen-oriented summary of <a id="Morris_et_al_2006_color_1" onclick="goToSource('D2000-2021','Morris_et_al_2006', this.id)">Morris et al., 2006</a> with quotes from one of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Morris_et_al_2006_color_1" onclick="goToSource('D2000-2021','Morris_et_al_2006', this.id)">Morris et al., 2006</a> with quotes from one of the paper's coauthors.`,
         title: `Elephants Drunk in the Wild? Scientists Put the Myth to Rest`,
     },
     {
@@ -218,7 +218,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published article`,
         publisher: `Public Library of Science (PLoS)`,
-        summary: `A laymen-oriented summary of <a id="Blake_et_al_2007_color_0" onclick="goToSource('D2000-2021','Blake_et_al_2007', this.id)">Blake et al., 2007</a>.`,
+        summary: `A layman-oriented summary of <a id="Blake_et_al_2007_color_0" onclick="goToSource('D2000-2021','Blake_et_al_2007', this.id)">Blake et al., 2007</a>.`,
         title: `In the Shadows of the Congo Basin Forest, Elephants Fall to the Illegal Ivory Trade`,
     },
     {
@@ -400,7 +400,7 @@ module.exports = [
         location: `London, England`,
         medium: `Digitally published news article`,
         publisher: `Nature Publishing Group`,
-        summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_color_0" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a> with quotes from one of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Rohland_et_al_2010_color_0" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a> with quotes from one of the paper's coauthors.`,
         title: `African elephants are two distinct species`,
     },
     {
@@ -413,7 +413,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published magazine article`,
         publisher: `Smithsonian`,
-        summary: `A laymen-oriented summary of <a id="Rohland_et_al_2010_color_1" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a>.`,
+        summary: `A layman-oriented summary of <a id="Rohland_et_al_2010_color_1" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a>.`,
         title: `The Elephant Family Tree, Extinct and Extant`,
     },
     {
@@ -439,7 +439,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published article`,
         publisher: `American Association for the Advancement of Science (AAAS)`,
-        summary: `A laymen-oriented summary of <a id="Hutchinson_et_al_2011_color_0" onclick="goToSource('D2000-2021','Hutchinson_et_al_2011', this.id)">Hutchinson et al., 2011</a>.`,
+        summary: `A layman-oriented summary of <a id="Hutchinson_et_al_2011_color_0" onclick="goToSource('D2000-2021','Hutchinson_et_al_2011', this.id)">Hutchinson et al., 2011</a>.`,
         title: `Elephants Have a Sixth 'Toe'`,
     },
     {
@@ -565,7 +565,7 @@ module.exports = [
         location: `London, England`,
         medium: `Digitally published article`,
         publisher: `Nature Publishing Group`,
-        summary: `A laymen-oriented summary of the 2016 announcement of <a id="Palkopoulou_et_al_2018_color_0" onclick="goToSource('D2000-2021','Palkopoulou_et_al_2018', this.id)">Palkopoulou et al., 2018</a>, with quotes from one of the paper's coauthors.`,
+        summary: `A layman-oriented summary of the 2016 announcement of <a id="Palkopoulou_et_al_2018_color_0" onclick="goToSource('D2000-2021','Palkopoulou_et_al_2018', this.id)">Palkopoulou et al., 2018</a>, with quotes from one of the paper's coauthors.`,
         title: `Elephant history rewritten by ancient genomes`,
     },
     {
@@ -607,7 +607,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `University of Illinois at Urbana-Champaign`,
-        summary: `A laymen-oriented summary of <a id="Meyer_et_al_2017_color_0" onclick="goToSource('D2000-2021','Meyer_et_al_2017', this.id)">Meyer et al., 2017</a> with quotes from the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Meyer_et_al_2017_color_0" onclick="goToSource('D2000-2021','Meyer_et_al_2017', this.id)">Meyer et al., 2017</a> with quotes from four of the paper's coauthors.`,
         title: `Genetic study shakes up the elephant family tree`,
     },
     {
@@ -704,7 +704,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `Phys.org`,
-        summary: `A laymen-oriented summary of <a id="Sharma_et_al_2018_color_0" onclick="goToSource('D2000-2021','Sharma_et_al_2018', this.id)">Sharma et al., 2018</a> with quotes from the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Sharma_et_al_2018_color_0" onclick="goToSource('D2000-2021','Sharma_et_al_2018', this.id)">Sharma et al., 2018</a> with quotes from three of the paper's coauthors.`,
         title: `New light on the mysterious origin of Bornean elephants`,
     },
     {
@@ -760,7 +760,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published illustrations`,
         publisher: `ArtStation`,
-        summary: `Concept art for <i>Godzilla: King of the Monsters</i> (2019). The final design of Behemoth can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
+        summary: `<i>Godzilla: King of the Monsters</i> (2019) concept art, in which the final design of Behemoth can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
         title: `Godzilla III`,
     },
     {
@@ -802,7 +802,7 @@ module.exports = [
         location: `N/A`,
         medium: `Published blog post`,
         publisher: `Trunks & Leaves Inc.`,
-        summary: `A laymen-oriented summary of <a id="Pardo_et_al_2019_color_0" onclick="goToSource('D2000-2021','Pardo_et_al_2019', this.id)">Pardo et al., 2019</a> by one of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Pardo_et_al_2019_color_0" onclick="goToSource('D2000-2021','Pardo_et_al_2019', this.id)">Pardo et al., 2019</a> by one of the paper's coauthors.`,
         title: `Call Combinations Differ Among Living Elephants`,
     },
     {
@@ -815,7 +815,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `Polygon`,
-        summary: `An interview with <i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty, in which he says that Behemoth's design was heavily inspired by woolly mammoths.`,
+        summary: `<i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty reveals that Behemoth's design was considerably influenced by his fascination with woolly mammoths.`,
         title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
     },
     {
@@ -942,7 +942,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `Public Library of Science (PLoS)`,
-        summary: `A laymen-oriented summary of <a id="Fry_et_al_2020_color_0" onclick="goToSource('D2000-2021','Fry_et_al_2020', this.id)">Fry et al., 2020</a>.`,
+        summary: `A layman-oriented summary of <a id="Fry_et_al_2020_color_0" onclick="goToSource('D2000-2021','Fry_et_al_2020', this.id)">Fry et al., 2020</a> with quotes from one of the paper's coauthors`,
         title: `Scientists ‘Resurrect’ Mutated Genes of Wrangel Island Mammoths`,
     },
     {
@@ -999,7 +999,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `The Conversation`,
-        summary: `A laymen-oriented summary of <a id="Janiak_et_al_2020_color_0" onclick="goToSource('D2000-2021','Janiak_et_al_2020', this.id)">Janiak et al., 2020</a> by one of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Janiak_et_al_2020_color_0" onclick="goToSource('D2000-2021','Janiak_et_al_2020', this.id)">Janiak et al., 2020</a> by one of the paper's coauthors.`,
         title: `Elephants get drunk because they can’t metabolize alcohol like us`,
     },
     {
@@ -1013,7 +1013,7 @@ module.exports = [
         location: `Washington, D.C., United States of America`,
         medium: `Digitally published magazine article`,
         publisher: ` Society for Science`,
-        summary: `A laymen-oriented summary of <a id="Janiak_et_al_2020_color_1" onclick="goToSource('D2000-2021','Janiak_et_al_2020', this.id)">Janiak et al., 2020</a>.`,
+        summary: `A layman-oriented summary of <a id="Janiak_et_al_2020_color_1" onclick="goToSource('D2000-2021','Janiak_et_al_2020', this.id)">Janiak et al., 2020</a> with quotes from two of the paper's coauthors.`,
         title: `Why mammals like elephants and armadillos might get drunk easily`,
     },
     {
@@ -1026,7 +1026,7 @@ module.exports = [
         location: `N/A`,
         medium: `Published webpage`,
         publisher: `Facebook`,
-        summary: `Backstory and design details about Behemoth from <i>Godzilla: King of the Monsters</i> (2019) given by director Michael Dougherty. Dougherty states that Behemoth was given physical characteristics of woolly mammoths, and, like mammoths, is herbivorous and used to live in herds.`,
+        summary: `<i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty states that Behemoth's design incorporated characteristics of woolly mammoths and that, like mammoths, Behemoth is herbivorous and lived in herds.`,
         title: `Titanus Behemoth`,
     },
     {
@@ -1108,7 +1108,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published academic journal article`,
         publisher: `Conservation Corridor`,
-        summary: `A laymen-oriented summary of <a id="Buchholtz_et_al_2020_color_0" onclick="goToSource('D2000-2021','Buchholtz_et_al_2020', this.id)">Buchholtz et al., 2020</a> by one of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Buchholtz_et_al_2020_color_0" onclick="goToSource('D2000-2021','Buchholtz_et_al_2020', this.id)">Buchholtz et al., 2020</a> by one of the paper's coauthors.`,
         title: `Using landscape connectivity to predict human-wildlife conflict`,
     },
     {
@@ -1150,7 +1150,7 @@ module.exports = [
         location: `Beijing, China`,
         medium: `Digitally published news article`,
         publisher: `Institute of Vertebrate Paleontology and Paleoanthropology (IVPP)`,
-        summary: `A laymen-oriented summary of <a id="Ma_et_al_2020_color_0" onclick="goToSource('D2000-2021','Ma_et_al_2020', this.id)">Ma et al., 2020</a>.`,
+        summary: `A layman-oriented summary of <a id="Ma_et_al_2020_color_0" onclick="goToSource('D2000-2021','Ma_et_al_2020', this.id)">Ma et al., 2020</a>.`,
         title: `东北亚地区更新世晚期猛犸象-披毛犀动物群的古生态研究新进展`,
     },
     {
@@ -1177,7 +1177,7 @@ module.exports = [
         location: `Bloomington, Indiana, United States of America`,
         medium: `Digitally published news article and radio segment`,
         publisher: `Indiana Public Media`,
-        summary: `A laymen-oriented summary of <a id="Goldenberg_Wittemyer_2019_color_0" onclick="goToSource('D2000-2021','Goldenberg_Wittemyer_2019', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
+        summary: `A layman-oriented summary of <a id="Goldenberg_Wittemyer_2019_color_0" onclick="goToSource('D2000-2021','Goldenberg_Wittemyer_2019', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
         title: `Do Elephants Grieve Their Dead?`,
     },
     {
@@ -1205,7 +1205,7 @@ module.exports = [
         location: `London, England`,
         medium: `Digitally published news article`,
         publisher: `Nature Research`,
-        summary: `A laymen-oriented summary of <a id="van_der_Valk_et_al_2021_color_0" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a>.`,
+        summary: `A layman-oriented summary of <a id="van_der_Valk_et_al_2021_color_0" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a> with quotes from two of the paper's coauthors.`,
         title: `Million-year-old mammoth genomes shatter record for oldest ancient DNA`,
     },
     {
@@ -1218,7 +1218,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `The Conversation`,
-        summary: `A laymen-oriented summary of <a id="van_der_Valk_et_al_2021_color_1" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a> by two of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="van_der_Valk_et_al_2021_color_1" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a> by two of the paper's coauthors.`,
         title: `We sequenced the oldest ever DNA, from million-year-old mammoths`,
     },
 ]
