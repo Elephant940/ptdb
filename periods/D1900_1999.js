@@ -308,6 +308,21 @@ module.exports = [
         title: `Allomothering among African elephants`,
     },
     {
+        contributors: `Charles Santiapillai (coauthor, compiler); Peter Jackson (coauthor, compiler); 
+        IUCN/SSC Asian Elephant Specialist Group (coauthor, compiler)`,
+        container: '<i>IUCN/SSC Action Plans for the Conservation of Biological Diversity</i>, physically published book series',
+        date: `1990`,
+        duration: `79 pp.`,
+        iteration: `No. 12`,
+        languages: `English`,
+        links: `<li><a href="https://portals.iucn.org/library/node/6042" target="_blank">From publisher</a><li><a href="https://www.google.com/books/edition/The_Asian_Elephant/8QcZYzXZJQMC?hl=en&gbpv=1" target="_blank">From Google Books</a>, copy provided by publisher`,
+        location: `Gland, Switzerland`,
+        medium: `Physically published book, digitized`,
+        publisher: `International Union for Conservation of Nature (IUCN)`,
+        summary: `TBA.`,
+        title: `The Asian Elephant: An Action Plan for Its Conservation`,
+    },
+    {
         container: `<i>Journal of Zoology London</i> (J. Zool. Lond.), physically published academic journal`,
         contributors: `Phyllis C. Lee (coauthor); Cynthia J. Moss (coauthor)`,
         date: `1995/05`,

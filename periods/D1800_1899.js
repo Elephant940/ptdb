@@ -219,7 +219,7 @@ module.exports = [
         notes: `<li>Published in 1885 sometime after January 14th. Since Jumbo was killed on September 15th, 1885 but was alive at the time of writing, it must have been published between January 14th and September 15th.`,
         publisher: `Trow's Printing and Bookbinding Co.`,
         summary: `TBA.`,
-        title: `Autobiography of Matthew Scott, Jumbo's Keeper Formerly of the Zoölogical Society's Gardens, London, and Receiver of Sir Edwin Landseer Medal in 1866 Also Jumbo's Biography by the Same Author.`,
+        title: `Autobiography of Matthew Scott, Jumbo's Keeper: Formerly of the Zoölogical Society's Gardens, London, and Receiver of Sir Edwin Landseer Medal in 1866; Also Jumbo's Biography by the Same Author.`,
     },
     {
         container: `<i>The American Naturalist</i> (Am. Nat.), physically published academic journal`,
