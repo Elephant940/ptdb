@@ -760,7 +760,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published illustrations`,
         publisher: `ArtStation`,
-        summary: `<i>Godzilla: King of the Monsters</i> (2019) concept art, in which the final design of Behemoth can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
+        summary: `Concept art of Behemoth from <i>Godzilla: King of the Monsters</i> (2019), in which its final design can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
         title: `Godzilla III`,
     },
     {
@@ -1026,7 +1026,7 @@ module.exports = [
         location: `N/A`,
         medium: `Published webpage`,
         publisher: `Facebook`,
-        summary: `<i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty states that Behemoth's design incorporated characteristics of woolly mammoths and that, like mammoths, Behemoth is herbivorous and used to live in herds.`,
+        summary: `Director of <i>Godzilla: King of the Monsters</i> (2019) Michael Dougherty states that Behemoth's design incorporated characteristics of woolly mammoths and that, like mammoths, Behemoth is herbivorous and used to live in herds.`,
         title: `Titanus Behemoth`,
     },
     {
