@@ -4,7 +4,7 @@ import "whatwg-fetch";
 
 getAllPeriods();
 var counter = document.getElementById("counter");
-var currentTab = "B1700_table";
+var currentTab = "B1700_entries";
 var searchArray = [];
 var B1700, D1700_1799, D1800_1899, D1900_1999, D2000_2021 = [];
 var currentTabCards_html, B1700_html, D1700_1799_html, D1800_1899_html, D1900_1999_html, D2000_2021_html = "";
@@ -13,35 +13,35 @@ var searched = false;
 document.getElementById("B1700").addEventListener("click", (e) => {
   clearSearchBar();
   searchArray = B1700;
-  currentTab = "B1700_table";
+  currentTab = "B1700_entries";
   currentTabCards_html = B1700_html;
 });
 
 document.getElementById("D1700-1799").addEventListener("click", (e) => {
     clearSearchBar();
     searchArray = D1700_1799;
-    currentTab = "D1700-1799_table";
+    currentTab = "D1700-1799_entries";
     currentTabCards_html = D1700_1799_html;
   });
   
 document.getElementById("D1800-1899").addEventListener("click", (e) => {
     clearSearchBar();
     searchArray = D1800_1899;
-    currentTab = "D1800-1899_table";
+    currentTab = "D1800-1899_entries";
     currentTabCards_html = D1800_1899_html;
   });
 
 document.getElementById("D1900-1999").addEventListener("click", (e) => {
     clearSearchBar();
     searchArray = D1900_1999;
-    currentTab = "D1900-1999_table";
+    currentTab = "D1900-1999_entries";
     currentTabCards_html = D1900_1999_html;
   });
 
 document.getElementById("D2000-2021").addEventListener("click", (e) => {
     clearSearchBar();
     searchArray = D2000_2021;
-    currentTab = "D2000-2021_table";
+    currentTab = "D2000-2021_entries";
     currentTabCards_html = D2000_2021_html;
   });
 
@@ -84,24 +84,24 @@ function clearSearchBar() {
 }
 
 async function getAllPeriods() {
-  var myPeriodAndHTML = await getPeriod("B1700_table", "B1700").then();
+  var myPeriodAndHTML = await getPeriod("B1700_entries", "B1700").then();
   B1700 = myPeriodAndHTML.myPeriod;
   searchArray = B1700;
   B1700_html, (currentTabCards_html = myPeriodAndHTML.html);
 
-  myPeriodAndHTML = await getPeriod("D1700-1799_table", "D1700-1799");
+  myPeriodAndHTML = await getPeriod("D1700-1799_entries", "D1700-1799");
   D1700_1799 = myPeriodAndHTML.myPeriod;
   D1700_1799_html = myPeriodAndHTML.html;
 
-  myPeriodAndHTML = await getPeriod("D1800-1899_table", "D1800-1899");
+  myPeriodAndHTML = await getPeriod("D1800-1899_entries", "D1800-1899");
   D1800_1899 = myPeriodAndHTML.myPeriod;
   D1800_1899_html = myPeriodAndHTML.html;
 
-  myPeriodAndHTML = await getPeriod("D1900-1999_table", "D1900-1999");
+  myPeriodAndHTML = await getPeriod("D1900-1999_entries", "D1900-1999");
   D1900_1999 = myPeriodAndHTML.myPeriod;
   D1900_1999_html = myPeriodAndHTML.html;
 
-  myPeriodAndHTML = await getPeriod("D2000-2021_table", "D2000-2021");
+  myPeriodAndHTML = await getPeriod("D2000-2021_entries", "D2000-2021");
   D2000_2021 = myPeriodAndHTML.myPeriod;
   D2000_2021_html = myPeriodAndHTML.html;
 
