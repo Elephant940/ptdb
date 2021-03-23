@@ -1040,7 +1040,7 @@ module.exports = [
         location: `N/A`,
         medium: `Physically published trading card, digitized`,
         publisher: `The Pokémon Company`,
-        references: `<ul class="refs">ムゲンゾーン (2020). <i>ポケモンカードゲーム</i>. <a href="https://www.pokemon-card.com/ex/s3/" target="_blank">https://www.pokemon-card.com/ex/s3/</a></ul><br><ul class="refs"">Sword & Shield—Darkness Ablaze (2020). <i>The Official Pokémon Website</i>. <a href="https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/" target="_blank">https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/</a></ul>`,
+        references: `<ul class="refs">ムゲンゾーン (2020). <i>ポケモンカードゲーム</i>. <a href="https://www.pokemon-card.com/ex/s3/" target="_blank">https://www.pokemon-card.com/ex/s3/</a></ul><br><ul class="refs">Sword & Shield—Darkness Ablaze (2020). <i>The Official Pokémon Website</i>. <a href="https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/" target="_blank">https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/</a></ul>`,
         summary: `TBA.`,
         title: `Copperajah`,
     },

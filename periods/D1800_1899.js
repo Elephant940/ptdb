@@ -9,7 +9,7 @@ module.exports = [
         location: `London, England`,
         medium: `Physically published book, digitized`,
         publisher: `Printed for Lackington, Allen, and Co.`,
-        summary: `An English translation of <a id="Linnaeus_Gmelin_1788_color_0" onclick="goToSource('D1700-1799','Linnaeus_Gmelin_1788', this.id)">Linnaeus and Gmelin, 1788</a>. The elephant section is on page 35.`,
+        summary: `An English translation of <a id="Linnaeus_Gmelin_1788_color_0" onclick="goToSource('D1700-1799','Linnaeus_Gmelin_1788', this.id)">Linnaeus and Gmelin, 1788</a>. The section on elephants, "12. Elephas", is on page 35.`,
         title: `A General System of Nature: Through the Three Grand Kingdoms of Animals, Vegetables, and Minerals; Systematically Divided Into Their Several Classes, Orders, Genera, Species, and Varieties With Their Habitations, Manners, Economy, Structure, and Peculiarities.`,
     },
     {
