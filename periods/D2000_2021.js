@@ -161,7 +161,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published magazine article`,
         publisher: `National Geographic Society`,
-        summary: `A layman-oriented summary of <a id="Morris_et_al_2006_color_1" onclick="goToSource('D2000-2021','Morris_et_al_2006', this.id)">Morris et al., 2006</a> with quotes from one of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Morris_et_al_2006_color_1" onclick="goToSource('D2000-2021','Morris_et_al_2006', this.id)">Morris et al., 2006</a>, with quotes from one of the paper's coauthors.`,
         title: `Elephants Drunk in the Wild? Scientists Put the Myth to Rest`,
     },
     {
@@ -400,7 +400,7 @@ module.exports = [
         location: `London, England`,
         medium: `Digitally published news article`,
         publisher: `Nature Publishing Group`,
-        summary: `A layman-oriented summary of <a id="Rohland_et_al_2010_color_0" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a> with quotes from one of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Rohland_et_al_2010_color_0" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a>, with quotes from one of the paper's coauthors.`,
         title: `African elephants are two distinct species`,
     },
     {
@@ -607,7 +607,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `University of Illinois at Urbana-Champaign`,
-        summary: `A layman-oriented summary of <a id="Meyer_et_al_2017_color_0" onclick="goToSource('D2000-2021','Meyer_et_al_2017', this.id)">Meyer et al., 2017</a> with quotes from four of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Meyer_et_al_2017_color_0" onclick="goToSource('D2000-2021','Meyer_et_al_2017', this.id)">Meyer et al., 2017</a>, with quotes from four of the paper's coauthors.`,
         title: `Genetic study shakes up the elephant family tree`,
     },
     {
@@ -704,7 +704,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `Phys.org`,
-        summary: `A layman-oriented summary of <a id="Sharma_et_al_2018_color_0" onclick="goToSource('D2000-2021','Sharma_et_al_2018', this.id)">Sharma et al., 2018</a> with quotes from three of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Sharma_et_al_2018_color_0" onclick="goToSource('D2000-2021','Sharma_et_al_2018', this.id)">Sharma et al., 2018</a>, with quotes from three of the paper's coauthors.`,
         title: `New light on the mysterious origin of Bornean elephants`,
     },
     {
@@ -942,7 +942,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `Public Library of Science (PLoS)`,
-        summary: `A layman-oriented summary of <a id="Fry_et_al_2020_color_0" onclick="goToSource('D2000-2021','Fry_et_al_2020', this.id)">Fry et al., 2020</a> with quotes from one of the paper's coauthors`,
+        summary: `A layman-oriented summary of <a id="Fry_et_al_2020_color_0" onclick="goToSource('D2000-2021','Fry_et_al_2020', this.id)">Fry et al., 2020</a>, with quotes from one of the paper's coauthors`,
         title: `Scientists ‘Resurrect’ Mutated Genes of Wrangel Island Mammoths`,
     },
     {
@@ -1013,7 +1013,7 @@ module.exports = [
         location: `Washington, D.C., United States of America`,
         medium: `Digitally published magazine article`,
         publisher: ` Society for Science`,
-        summary: `A layman-oriented summary of <a id="Janiak_et_al_2020_color_1" onclick="goToSource('D2000-2021','Janiak_et_al_2020', this.id)">Janiak et al., 2020</a> with quotes from two of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="Janiak_et_al_2020_color_1" onclick="goToSource('D2000-2021','Janiak_et_al_2020', this.id)">Janiak et al., 2020</a>, with quotes from two of the paper's coauthors.`,
         title: `Why mammals like elephants and armadillos might get drunk easily`,
     },
     {
@@ -1205,7 +1205,7 @@ module.exports = [
         location: `London, England`,
         medium: `Digitally published news article`,
         publisher: `Nature Research`,
-        summary: `A layman-oriented summary of <a id="van_der_Valk_et_al_2021_color_0" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a> with quotes from two of the paper's coauthors.`,
+        summary: `A layman-oriented summary of <a id="van_der_Valk_et_al_2021_color_0" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a>, with quotes from two of the paper's coauthors.`,
         title: `Million-year-old mammoth genomes shatter record for oldest ancient DNA`,
     },
     {
