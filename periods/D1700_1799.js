@@ -109,7 +109,7 @@ module.exports = [
         location: `Stockholm, Sweden`,
         medium: `Physically published book, digitized`,
         publisher: `Laurentius Salvius`,
-        summary: `Linnaeus establishes a system of biological classification in which each animal is given a two part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into the same genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus classifies all living elephants as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.`,
+        summary: `Linnaeus establishes a system of biological classification in which each animal is given a two-part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into the same genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus classifies all living elephants as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.`,
         title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
     },
     {
@@ -150,7 +150,7 @@ module.exports = [
         location: `Leizpig, Germany`,
         medium: `Physically published book, digitized`,
         publisher: `Georg. Emmanuel Beer`,
-        summary: `The 13th edition of <a id="Linnaeus_1758_color_0" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants, "5. Elephas", has been expanded but retains most of Linnaeus's original description and can be found on page 58.`,
+        summary: `The 13th edition of <a id="Linnaeus_1758_color_0" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants, "5. Elephas", has been expanded but retains most of Linnaeus's original description and can be found on pages 58-59.`,
         title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
     },
     {
