@@ -815,7 +815,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `Polygon`,
-        summary: `<i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty reveals that Behemoth's design was considerably influenced by his fascination with woolly mammoths.`,
+        summary: `<i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty reveals that Behemoth's creation and design was inspired by his fascination with woolly mammoths.`,
         title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
     },
     {
@@ -1026,7 +1026,7 @@ module.exports = [
         location: `N/A`,
         medium: `Published webpage`,
         publisher: `Facebook`,
-        summary: `Director of <i>Godzilla: King of the Monsters</i> (2019) Michael Dougherty states that Behemoth's design incorporated characteristics of woolly mammoths and that, like mammoths, Behemoth is herbivorous and used to live in herds.`,
+        summary: `Director of <i>Godzilla: King of the Monsters</i> (2019) Michael Dougherty states that Behemoth's design incorporated woolly mammoth traits and that, like mammoths, Behemoth is herbivorous and once lived in herds.`,
         title: `Titanus Behemoth`,
     },
     {
