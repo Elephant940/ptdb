@@ -1026,7 +1026,7 @@ module.exports = [
         location: `N/A`,
         medium: `Published webpage`,
         publisher: `Facebook`,
-        summary: `Director of <i>Godzilla: King of the Monsters</i> (2019) Michael Dougherty states that Behemoth's design incorporated woolly mammoth traits and that, like mammoths, Behemoth is herbivorous and once lived in herds.`,
+        summary: `Director of <i>Godzilla: King of the Monsters</i> (2019) Michael Dougherty states that woolly mammoth traits were incorporated into the design of Behemoth, which, like mammoths, is herbivorous and once lived in herds.`,
         title: `Titanus Behemoth`,
     },
     {
