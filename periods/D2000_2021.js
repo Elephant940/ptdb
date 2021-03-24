@@ -815,7 +815,7 @@ module.exports = [
         location: `N/A`,
         medium: `Digitally published news article`,
         publisher: `Polygon`,
-        summary: `<i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty reveals that Behemoth's creation and design was inspired by his fascination with woolly mammoths.`,
+        summary: `<i>Godzilla: King of the Monsters</i> (2019) director Michael Dougherty reveals that Behemoth's creation and design were inspired by his fascination with woolly mammoths.`,
         title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
     },
     {
