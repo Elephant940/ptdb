@@ -1,6 +1,6 @@
 module.exports = [
     {
-        container: `<i>Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin</i> (Sitzber. Ges. Nat. Freunde Berl.), physically published academic journal`,
+        container: `<i>Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin</i> (Sitzber. Ges. Naturforsch. Berl.), physically published academic journal`,
         contributors: `Paul Matschie (author)`,
         date: `1900/>10/>16`,
         duration: `pp. 189-197`,
@@ -28,7 +28,7 @@ module.exports = [
         title: `A Treatise On Elephants. Their Treatment in Health and Disease`,
     },
     {
-        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Lond. Soc.), physically published academic journal`,
+        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Soc. Lond.), physically published academic journal`,
         contributors: `Richard Lydekker (author)`,
         date: `1907/08/01 (Back Matter, 1907)`,
         duration: `pp. 380-403`,
@@ -69,7 +69,7 @@ module.exports = [
         title: `Elephants and Their Diseases: A Treatise on Elephants`,
     },
     {
-        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Lond. Soc.), physically published academic journal`,
+        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Soc. Lond.), physically published academic journal`,
         contributors: `Richard Lydekker (author)`,
         date: `1914/06/06 (Back Matter, 1914)`,
         duration: `pp. 285-288`,
