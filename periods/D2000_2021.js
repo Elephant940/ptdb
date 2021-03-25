@@ -1076,7 +1076,7 @@ module.exports = [
         container: `<i>IUCN</i>, published website`,
         contributors: `IUCN SSC African Elephant Specialist Group (author)`,
         date: `2020/07/20`,
-        duration: `1 p.`,
+        duration: `1 p., 385 words`,
         languages: `English`,
         links: `<li><a href="https://www.iucn.org/news/species-survival-commission/202007/statement-iucn-ssc-african-elephant-specialist-group-elephant-deaths-botswana" target="_blank">From publisher</a>`,
         location: `Nairobi, Kenya`,
