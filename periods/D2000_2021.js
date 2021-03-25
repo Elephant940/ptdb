@@ -736,7 +736,7 @@ module.exports = [
         title: `VIDEO: “Smoke-Breathing” Elephant Stumps Scientists`,
     },
     {
-        container: `<i>Remote Sensing Applications: Society and Environment</i> (Remote. Sens. Appl.), digitally published academic journal`,
+        container: `<i>Remote Sensing Applications: Society and Environment</i> (Remote Sens. Appl. Soc. Environ.), digitally published academic journal`,
         contributors: `Zorodzai Dzinotizei (coauthor); Amon Murwira (coauthor); Mhosisi Masocha (coauthor)`,
         date: `2018/10/26`,
         duration: `pp. 97-105`,
@@ -1112,7 +1112,7 @@ module.exports = [
         title: `Using landscape connectivity to predict human-wildlife conflict`,
     },
     {
-        container: `<i>Remote Sensing Applications: Society and Environment</i> (Remote. Sens. Appl.), digitally published academic journal`,
+        container: `<i>Remote Sensing Applications: Society and Environment</i> (Remote Sens. Appl. Soc. Environ.), digitally published academic journal`,
         contributors: `Anonymous`,
         date: `2020/10/29`,
         duration: `1 p.`,
