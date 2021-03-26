@@ -1,6 +1,6 @@
 module.exports = [
     {
-        container: `<i>Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin</i> (Sitzber. Ges. Naturforsch. Berl.), physically published academic journal`,
+        container: `<i>Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin</i> (<i>Sitzber</i>. <i>Ges</i>. <i>Naturforsch</i>. <i>Berl</i>.), physically published academic journal`,
         contributors: `Paul Matschie (author)`,
         date: `1900/>10/>16`,
         duration: `pp. 189-197`,
@@ -28,7 +28,7 @@ module.exports = [
         title: `A Treatise On Elephants. Their Treatment in Health and Disease`,
     },
     {
-        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Soc. Lond.), physically published academic journal`,
+        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), physically published academic journal`,
         contributors: `Richard Lydekker (author)`,
         date: `1907/08/01 (Back Matter, 1907)`,
         duration: `pp. 380-403`,
@@ -69,7 +69,7 @@ module.exports = [
         title: `Elephants and Their Diseases: A Treatise on Elephants`,
     },
     {
-        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (Proc. Zool. Soc. Lond.), physically published academic journal`,
+        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), physically published academic journal`,
         contributors: `Richard Lydekker (author)`,
         date: `1914/06/06 (Back Matter, 1914)`,
         duration: `pp. 285-288`,
@@ -84,7 +84,7 @@ module.exports = [
         title: `18. The Malay Race of the Indian Elephant, <i>Elephas maximus hirsutus</i>.`,
     },
     {
-        container: `<i>American Museum Novitates</i> (Am. Mus. Novit.), physically published academic journal`,
+        container: `<i>American Museum Novitates</i> (<i>Am</i>. <i>Mus</i>. <i>Novit</i>.), physically published academic journal`,
         contributors: `Henry Fairfield Osborn (author)`,
         date: `1921/01/31`,
         duration: `15 pp.`,
@@ -98,7 +98,7 @@ module.exports = [
         title: `The Evolution, Phylogeny, and Classification of Proboscidea`,
     },
     {
-        container: `<i>Proceedings of the Academy of Natural Sciences of Philadelphia</i> (Proc. Acad. Nat. Sci. Phila.), physically published academic journal`,
+        container: `<i>Proceedings of the Academy of Natural Sciences of Philadelphia</i> (<i>Proc</i>. <i>Acad</i>. <i>Nat</i>. <i>Sci</i>. <i>Phila</i>.), physically published academic journal`,
         contributors: `Glover M. Allen (author)`,
         date: `1936/03/10`,
         duration: `pp. 15-44`,
@@ -125,7 +125,7 @@ module.exports = [
         title: `Proboscidea: A Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
     },
     {
-        container: `<i>Bulletin of the Raffles Museum</i> (Bull. Raffle Mus.), physically published academic journal`,
+        container: `<i>Bulletin of the Raffles Museum</i> (<i>Bull</i>. <i>Raffle</i> <i>Mus</i>.), physically published academic journal`,
         contributors: `Frederick Nutter Chasen (author)`,
         date: `1940/04`,
         duration: `209 pp.`,
@@ -152,7 +152,7 @@ module.exports = [
         title: `Proboscidea: A Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
     },
     {
-        container: `<i>Földtani Közlöny</i> (Földt. Közlöny), physically published academic journal`,
+        container: `<i>Földtani Közlöny</i> (<i>Földt</i>. <i>Közlöny</i>), physically published academic journal`,
         contributors: `Kretzoi Miklós (author)`,
         date: `1950/>05/>17`,
         duration: `pp. 405-409`,
@@ -166,7 +166,7 @@ module.exports = [
         title: `<i>Stegeloxodon</i> nov. gen, a <i>Loxodonta</i> elefántok esetleges ázsiai őse`,
     },
     {
-        container: `<i>Journal of Geography</i> (J. Geogr.), physically published academic journal`,
+        container: `<i>Journal of Geography</i> (<i>J</i>. <i>Geogr</i>.), physically published academic journal`,
         contributors: `Charles F. Bennett, Jr. (author)`,
         date: `1957/04`,
         duration: `pp. 168-172`,
@@ -180,7 +180,7 @@ module.exports = [
         title: `A Brief History of Trained African Elephants in the Belgian Congo`,
     },
     {
-        container: `<i>East African Wildlife Journal</i> (East Afr. Wildl. J.), physically published academic journal`,
+        container: `<i>East African Wildlife Journal</i> (<i>East</i> <i>Afr</i>. <i>Wildl</i>. <i>J</i>.), physically published academic journal`,
         contributors: `Richard M. Laws (author)`,
         date: `1966/08`,
         duration: `pp. 1-37`,
@@ -194,7 +194,7 @@ module.exports = [
         title: `Age Criteria for the African Elephant <i>Loxodonta</i> <i>a</i>. <i>africana</i>`,
     },
     {
-        container: `<i>Nature</i> (Nat.), physically published academic journal`,
+        container: `<i>Nature</i> (<i>Nat</i>.), physically published academic journal`,
         contributors: `D.A. Hooijer (author)`,
         date: `1972/09/22`,
         duration: `pp. 228`,
@@ -208,7 +208,7 @@ module.exports = [
         title: `Prehistoric Evidence for <i>Elephas maximus</i> L. in Borneo`,
     },
     {
-        container: `<i>Mammalian Species</i> (Mamm. Species), physically published academic journal`,
+        container: `<i>Mammalian Species</i> (<i>Mamm</i>. <i>Species</i>), physically published academic journal`,
         contributors: `Larry Laursen (coauthor); Marc Bekoff (coauthor); Sydney Anderson (principal editor)`,
         date: `1978/01/06`,
         duration: `8 pp.`,
@@ -218,7 +218,7 @@ module.exports = [
         location: `Lawrence, Kansas, United States of America (Birney and Choate, 1994, p. 142)`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `Printed by Allen Press for the American Society of Mammalogists (ASM) (Birney and Choate, 1994, p. 142)`,
-        references: `<ul class="refs">Birney, Elmer F. and Choate, Jerry R. (eds.). (1994). <a href="https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater" target="_blank"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</ul>`,
+        references: `<ul class="refs">Birney, Elmer F. and Choate, Jerry <i>R</i>. (eds.). (1994). <a href="https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater" target="_blank"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</ul>`,
         summary: `TBA.`,
         title: `<i>Loxodonta africana</i>.`,
     },
@@ -238,7 +238,7 @@ module.exports = [
     },
     {
         container: `<i>Elephant</i>, physically published academic journal`,
-        contributors: `Jeheskel Shoshani (senior author, dissector); Daniel C. Laughlin (coauthor, dissector); Franz Tisch (coauthor, dissector); Jim Williams (coauthor, dissector); John D. Taylor (coauthor); John W. Cosgriff, Jr. (coauthor, dissector); William L. Thompson (coauthor); Calvin D. Bogart (coauthor); Joseph L. Gualtieri (coauthor); John Hayden (coauthor); Katy Morehead (chief photographer); Richard Bielaczyc (coauthor, dissector, photographer); Thomas W. Roberts (coauthor); Harry Maisel (coauthor); Nicholas J. Mizeres (coauthor, dissector); Victor T. Lakits (coauthor); Jim Niedbala (coauthor, dissector); W.D. Pool (coauthor); Richard C. Manikowski and other Science Library Staff (coauthor); Gordon W. Rose (coauthor); Sandra S. Lash (coauthor, dissector); Mildred Hurt (coauthor, dissector);  Michael J. Baccala (coauthor, dissector); Marlene A. Bulgarelli (coauthor, dissector); M.  Pamela Bedore (coauthor, dissector, typist, editor); Anthony Helinski (coauthor, dissector); George Overbeck (coauthor, dissector); Susan L. Raymer (coauthor, dissector); Eyal Shy (coauthor, dissector); Lee M. Peterson (coauthor); Albert Wilson (coauthor); Dick Frederick (coauthor, dissector); Karen L. Spodarek (coauthor, dissector); Irven O. Buss (reviewer); Richard M. Laws (reviewer); Lawrence D. McGill (reviewer); Sylvia K. Sikes (reviewer); Zirka S. Clark (typist, editor); Eileen D. Koglin (typist, editor); Rick Adler (coauthor, dissector); Lynne Aldrich (coauthor); Krysty Andrews (coauthor, dissector); Allan Barbish (coauthor, dissector); Susan Barry (coauthor, dissector); Ron Battiata (coauthor, dissector); Fran Beever (coauthor); Sue ann Berbenchuk (coauthor, dissector); Jeanne Blad (coauthor); Larry Blad (coauthor); George Booth (coauthor, dissector, photographer); Nate  Bozarth (coauthor, dissector); Donna Britt (coauthor); John Burnet (coauthor); Walter Chavin (coauthor); Irene Church (coauthor, dissector); Helen Crowe (coauthor, dissector); Richard D. Cummings, Terry Cummings, Sherri L. DeFauw (coauthor, dissector); Leslie Denes (coauthor, dissector); Efstratios Efthyvoulidis (coauthor, dissector); Merlin Ekstrom (coauthor, dissector); Joseph G. Engelhard (coauthor, dissector); Patrick English (coauthor, dissector); Don Fairchild, Jr. (coauthor, dissector); Carla Fisher (coauthor, dissector); Kevin Frahm (coauthor, dissector); Susan Francis (coauthor); Judi Fried (coauthor, dissector); Theodore Gaskins (coauthor, dissector); Joanne Gatt (coauthor, dissector); Wilma Gentles (coauthor, dissector); Harry G. Goshgarian (coauthor, dissector); Susan Grabowski (coauthor, dissector); Debbie Haase (coauthor, dissector); Kathryn Hajj (coauthor, dissector); Gary Hall (coauthor, dissector); Roger Hanson (coauthor); Albert Hatche (coauthor); Debbie Hawkins (coauthor, dissector); Chris Heberer (coauthor, dissector); Shawne R. Henry (coauthor, dissector); M. Patricia Hensler, Chuck Heyka (coauthor, dissector); Mike Kemppainen (coauthor, dissector); Cathy Kendra (coauthor, dissector); Bonnie Knutsen (coauthor); Carl C.M. Knutsen (coauthor); Joy Koenig (coauthor, dissector); Louis Kolodzinski (coauthor); Paul Konarske (coauthor, dissector); Sue Konwinski (coauthor, dissector); Stephan Kopacz (coauthor, dissector); Beth Kozak (coauthor); Donna M. Laciak, (coauthor); David J.  Lowrie (coauthor); Susan Lyman (coauthor); Frances F. McCormick (coauthor); Robert McDonald (coauthor); Richard C. Martin (coauthor); Willis W. Mathews (coauthor); Stuart Meyers (coauthor, dissector); Joseph Montana (coauthor); David Montezinos (coauthor); Kathleen M. Morehead (coauthor, dissector); Pamela Moron (coauthor); Audrey Muczynski (coauthor); Anthony Muraski (coauthor, dissector); Sean Murphy (coauthor, dissector); Charles P. Otto (coauthor); Cornelius Perkins, Jr. (coauthor); Valerie Pfluke (coauthor); Robert Powitz (coauthor, dissector); Louise Radanovich (coauthor); Jose A. Rafols (coauthor, dissector); Dennis Reefer (coauthor); Lisa Rezzonica (coauthor, dissector); Edward J. Riley, Jr. (coauthor); Harold W. Rossmoore (coauthor, dissector); Lanette Rowland (coauthor); Laura Rudy (coauthor); Dave Sabo (coauthor, dissector); Dallas Schneider (coauthor); Paul J. Schwikert (coauthor, dissector); N.O. Seraphinoff (coauthor); Peter Singler (coauthor); Paul Sklut (coauthor); Joseph Skoney (coauthor, dissector); Donald Smith (coauthor, dissector); Nan Smith, Charles Storey, Peter J. Sujdak (coauthor, dissector); Robert Sumner, Curtis J.  Swanson, Todd Tarrant (coauthor, dissector); Ron Thielman (coauthor, dissector); Ronnie Thielman (coauthor, dissector); Linda Walowicz (coauthor, dissector); Wayne State Fund Staff (coauthor); Ann Werling (coauthor); Dorit Yehiel (coauthor, dissector)`,
+        contributors: `Jeheskel Shoshani (senior author, dissector); Daniel C. Laughlin (coauthor, dissector); Franz Tisch (coauthor, dissector); Jim Williams (coauthor, dissector); John D. Taylor (coauthor); John W. Cosgriff, Jr. (coauthor, dissector); William L. Thompson (coauthor); Calvin D. Bogart (coauthor); Joseph L. Gualtieri (coauthor); John Hayden (coauthor); Katy Morehead (chief photographer); Richard Bielaczyc (coauthor, dissector, photographer); Thomas W. Roberts (coauthor); Harry Maisel (coauthor); Nicholas J. Mizeres (coauthor, dissector); Victor T. Lakits (coauthor); Jim Niedbala (coauthor, dissector); W.D. Pool (coauthor); Richard C. Manikowski and other Science Library Staff (coauthor); Gordon W. Rose (coauthor); Sandra S. Lash (coauthor, dissector); Mildred Hurt (coauthor, dissector);  Michael J. Baccala (coauthor, dissector); Marlene A. Bulgarelli (coauthor, dissector); M.  Pamela Bedore (coauthor, dissector, typist, editor); Anthony Helinski (coauthor, dissector); George Overbeck (coauthor, dissector); Susan L. Raymer (coauthor, dissector); Eyal Shy (coauthor, dissector); Lee M. Peterson (coauthor); Albert Wilson (coauthor); Dick Frederick (coauthor, dissector); Karen L. Spodarek (coauthor, dissector); Irven O. Buss (reviewer); Richard M. Laws (reviewer); Lawrence D. McGill (reviewer); Sylvia K. Sikes (reviewer); Zirka S. Clark (typist, editor); Eileen D. Koglin (typist, editor); Rick Adler (coauthor, dissector); Lynne Aldrich (coauthor); Krysty Andrews (coauthor, dissector); Allan Barbish (coauthor, dissector); Susan Barry (coauthor, dissector); Ron Battiata (coauthor, dissector); Fran Beever (coauthor); Sue ann Berbenchuk (coauthor, dissector); Jeanne Blad (coauthor); Larry Blad (coauthor); George Booth (coauthor, dissector, photographer); Nate  Bozarth (coauthor, dissector); Donna Britt (coauthor); John Burnet (coauthor); Walter Chavin (coauthor); Irene Church (coauthor, dissector); Helen Crowe (coauthor, dissector); Richard D. Cummings, Terry Cummings, Sherri L. DeFauw (coauthor, dissector); Leslie Denes (coauthor, dissector); Efstratios Efthyvoulidis (coauthor, dissector); Merlin Ekstrom (coauthor, dissector); Joseph G. Engelhard (coauthor, dissector); Patrick English (coauthor, dissector); Don Fairchild, Jr. (coauthor, dissector); Carla Fisher (coauthor, dissector); Kevin Frahm (coauthor, dissector); Susan Francis (coauthor); Judi Fried (coauthor, dissector); Theodore Gaskins (coauthor, dissector); Joanne Gatt (coauthor, dissector); Wilma Gentles (coauthor, dissector); Harry G. Goshgarian (coauthor, dissector); Susan Grabowski (coauthor, dissector); Debbie Haase (coauthor, dissector); Kathryn Hajj (coauthor, dissector); Gary Hall (coauthor, dissector); Roger Hanson (coauthor); Albert Hatche (coauthor); Debbie Hawkins (coauthor, dissector); Chris Heberer (coauthor, dissector); Shawne <i>R</i>. Henry (coauthor, dissector); M. Patricia Hensler, Chuck Heyka (coauthor, dissector); Mike Kemppainen (coauthor, dissector); Cathy Kendra (coauthor, dissector); Bonnie Knutsen (coauthor); Carl C.M. Knutsen (coauthor); Joy Koenig (coauthor, dissector); Louis Kolodzinski (coauthor); Paul Konarske (coauthor, dissector); Sue Konwinski (coauthor, dissector); Stephan Kopacz (coauthor, dissector); Beth Kozak (coauthor); Donna M. Laciak, (coauthor); David J.  Lowrie (coauthor); Susan Lyman (coauthor); Frances F. McCormick (coauthor); Robert McDonald (coauthor); Richard C. Martin (coauthor); Willis W. Mathews (coauthor); Stuart Meyers (coauthor, dissector); Joseph Montana (coauthor); David Montezinos (coauthor); Kathleen M. Morehead (coauthor, dissector); Pamela Moron (coauthor); Audrey Muczynski (coauthor); Anthony Muraski (coauthor, dissector); Sean Murphy (coauthor, dissector); Charles P. Otto (coauthor); Cornelius Perkins, Jr. (coauthor); Valerie Pfluke (coauthor); Robert Powitz (coauthor, dissector); Louise Radanovich (coauthor); Jose A. Rafols (coauthor, dissector); Dennis Reefer (coauthor); Lisa Rezzonica (coauthor, dissector); Edward J. Riley, Jr. (coauthor); Harold W. Rossmoore (coauthor, dissector); Lanette Rowland (coauthor); Laura Rudy (coauthor); Dave Sabo (coauthor, dissector); Dallas Schneider (coauthor); Paul J. Schwikert (coauthor, dissector); N.O. Seraphinoff (coauthor); Peter Singler (coauthor); Paul Sklut (coauthor); Joseph Skoney (coauthor, dissector); Donald Smith (coauthor, dissector); Nan Smith, Charles Storey, Peter J. Sujdak (coauthor, dissector); Robert Sumner, Curtis J.  Swanson, Todd Tarrant (coauthor, dissector); Ron Thielman (coauthor, dissector); Ronnie Thielman (coauthor, dissector); Linda Walowicz (coauthor, dissector); Wayne State Fund Staff (coauthor); Ann Werling (coauthor); Dorit Yehiel (coauthor, dissector)`,
         date: `1982/>05/>02`,
         duration: `pp. 3-93`,
         iteration: `Vol. 2, Issue 1`,
@@ -251,7 +251,7 @@ module.exports = [
         title: `On the Dissection of a Female Asian Elephant (<u>Elephas</u> <u>maximus</u> <u>maximus</u> Linnaeus, 1758) and Data from Other Elephants`,
     },
     {
-        container: `<i>Mammalian Species</i> (Mamm. Species), physically published academic journal`,
+        container: `<i>Mammalian Species</i> (<i>Mamm</i>. <i>Species</i>), physically published academic journal`,
         contributors: `Jeheskel Shoshani (coauthor); John F. Eisenberg (coauthor); Timothy E. Lawlor (managing editor; Daniel F. Williams (editor); Sydney Anderson (editor); M. Pamela Bedore (typist), Eileen D. Koglin (typist)`,
         date: `1982/06/18`,
         duration: `8 pp.`,
@@ -261,12 +261,12 @@ module.exports = [
         location: `Lawrence, Kansas, United States of America (Birney and Choate, 1994, p. 142)`,
         medium: `Physically published academic journal article, digitized`,
         publisher: `Printed by Allen Press for the American Society of Mammalogists (ASM) (Birney and Choate, 1994, p. 142)`,
-        references: `<ul class="refs">Birney, Elmer F. and Choate, Jerry R. (eds.). (1994). <a href="https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater" target="_blank"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</ul>`,
+        references: `<ul class="refs">Birney, Elmer F. and Choate, Jerry <i>R</i>. (eds.). (1994). <a href="https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater" target="_blank"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</ul>`,
         summary: `TBA.`,
         title: `<i>Elephas maximus</i>.`,
     },
     {
-        container: `<i>Bulletin of the Psychonomic Society</i> (Bull. Psychon. Soc.), physically published academic journal`,
+        container: `<i>Bulletin of the Psychonomic Society</i> (<i>Bull</i>. <i>Psychon</i>. <i>Soc</i>.), physically published academic journal`,
         contributors: `Ronald K. Siegel (coauthor); Mark Brodie (coauthor)`,
         date: `1984/07`,
         duration: `pp. 49-52`,
@@ -280,7 +280,7 @@ module.exports = [
         title: `Alcohol self-administration by elephants`,
     },
     {
-        container: `<i>African Journal of Ecology</i> (Afr. J. Ecol.), physically published academic journal`,
+        container: `<i>African Journal of Ecology</i> (<i>Afr</i>. <i>J</i>. <i>Ecol</i>.), physically published academic journal`,
         contributors: `G. Merz (author)`,
         date: `1986/06`,
         duration: `pp. 133-136`,
@@ -294,7 +294,7 @@ module.exports = [
         title: `Movement patterns and group size of the African forest elephant <i>Loxodonta africana cyclotis</i> in the Tai National Park, Ivory Coast`,
     },
     {
-        container: `<i>Animal Behavior</i> (Anim. Behav.), physically published academic journal`,
+        container: `<i>Animal Behavior</i> (<i>Anim</i>. <i>Behav</i>.), physically published academic journal`,
         contributors: `Phyllis C. Lee (author)`,
         date: `1987/02`,
         duration: `pp. 278-291`,
@@ -323,7 +323,7 @@ module.exports = [
         title: `The Asian Elephant: An Action Plan for Its Conservation`,
     },
     {
-        container: `<i>Journal of Zoology London</i> (J. Zool. Lond.), physically published academic journal`,
+        container: `<i>Journal of Zoology London</i> (<i>J</i>. <i>Zool</i>. <i>Lond</i>.), physically published academic journal`,
         contributors: `Phyllis C. Lee (coauthor); Cynthia J. Moss (coauthor)`,
         date: `1995/05`,
         duration: `pp. 29-41`,
@@ -338,7 +338,7 @@ module.exports = [
         title: `Statural growth in known‐age African elephants (<i>Loxodonta africana</i>)`,
     },
     {
-        container: `<i>Acta Theriologica</i> (Acta Theriol.), physically published academic journal`,
+        container: `<i>Acta Theriologica</i> (<i>Acta</i> <i>Theriol</i>.), physically published academic journal`,
         contributors: `Fred Kurt (coauthor); Günther B. Hartl (coauthor); Ralph Tiedemann (coauthor)`,
         date: `1995/10/12 (Tuskless bulls, n.d.)`,
         duration: `pp. 125-143`,
@@ -353,7 +353,7 @@ module.exports = [
         title: `Tuskless bulls in Asian elephant <i>Elephas maximus</i>. History and population genetics of a man-made phenomenon`,
     },
     {
-        container: `<i>Biological Conservation</i> (Biol. Conserv.), physically published academic journal`,
+        container: `<i>Biological Conservation</i> (<i>Biol</i>. <i>Conserv</i>.), physically published academic journal`,
         contributors: `R.F.W. Barnes (coauthor); A. Blom (coauthor); M.P.T. Alers (coauthor)`,
         date: `1995/<11/<27`,
         duration: `pp. 125-132`,
@@ -381,7 +381,7 @@ module.exports = [
         title: `Studying Elephants`,
     },
     {
-        container: `<i>Zeitschrift für Säugetierkunde</i> (Z. Saugetierkd.), physically published academic journal`,
+        container: `<i>Zeitschrift für Säugetierkunde</i> (<i>Z</i>. <i>Saugetierkd</i>.), physically published academic journal`,
         contributors: `Günther B. Hartl (coauthor); Fred Kurt (coauthor); Ralph Tiedemann (coauthor); Christine Gmeiner (coauthor); K. Nadlinger (coauthor); Khyne U. Mar (coauthor); A. Rübel (coauthor)`,
         date: `1996/10`,
         duration: `pp. 285-294`,
@@ -408,7 +408,7 @@ module.exports = [
         title: `Motty the elephant crossbreed`,
     },
     {
-        container: `<i>Emerging Infectious Diseases</i> (Emerg. Infect. Dis.), digitally published academic journal`,
+        container: `<i>Emerging Infectious Diseases</i> (<i>Emerg</i>. <i>Infect</i>. <i>Dis</i>.), digitally published academic journal`,
         contributors: `Kathleen Michalak (coauthor); Connie Austin (coauthor); Sandy Diesel (coauthor); J. Maichle Bacon (coauthor); Phil Zimmerman (coauthor); Joel N. Maslow (coauthor)`,
         date: `1998/06/<13`,
         duration: `pp. 283-287`,
@@ -422,7 +422,7 @@ module.exports = [
         title: `<i>Mycobacterium tuberculosis</i> infection as a Zoonotic Disease: Transmission between Humans and Elephants`,
     },
     {
-        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (Proc. Natl. Acad. Sci. U.S.A., PNAS), digitally published academic journal`,
+        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>., <i>PNAS</i>), digitally published academic journal`,
         contributors: `Michael J. Stanhope (coauthor); Victor G. Waddell (coauthor); Ole Madsen (coauthor); Wilfried de Jong (coauthor); S. Blair Hedges (coauthor); Gregory C. Cleven (coauthor); Diana Kao (coauthor); Mark S. Springer (coauthor)`,
         date: `1998/08/18`,
         duration: `pp. 9967–9972`,
@@ -436,7 +436,7 @@ module.exports = [
         title: `Molecular evidence for multiple origins of Insectivora and for a new order of endemic African insectivore mammals`,
     },
     {
-        container: `<i>Trends in Ecology and Evolution</i> (TREE), digitally published academic journal`,
+        container: `<i>Trends in Ecology and Evolution</i> (<i>Trends</i> <i>Ecol</i>. <i>Evol</i>., <i>TREE</i>), digitally published academic journal`,
         contributors: `Jeheskel Shoshani (author)`,
         date: `1998/12/01`,
         duration: `pp. 480-487`,

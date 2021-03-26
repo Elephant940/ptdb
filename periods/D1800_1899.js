@@ -40,7 +40,7 @@ module.exports = [
         title: `Prodromus Systematis Mammalium et Avium Additis Terminis Zoographicis Utriusque Classis, Eorumque Versione Germanica.`,
     },
     {
-        container: `<i>The London Medical Repository</i> (Lond. Med. Repos.), physically published academic journal`,
+        container: `<i>The London Medical Repository</i> (<i>Lond</i>. <i>Med</i>. <i>Repos</i>.), physically published academic journal`,
         contributors: `John Edward Gray (author)`,
         date: `1821/04/01`,
         duration: `pp. 296-310`,
@@ -83,7 +83,7 @@ module.exports = [
         title: `Éléphant d'Afrique.`,
     },
     {
-        container: `<i>The Zoological Journal</i> (Zool. J.), physically published academic journal`,
+        container: `<i>The Zoological Journal</i> (<i>Zool</i>. <i>J</i>.), physically published academic journal`,
         contributors: `Anonymous`,
         date: `1827/01`,
         duration: `pp. 140-143`,
@@ -111,7 +111,7 @@ module.exports = [
         title: `A Catalogue of the Anatomical & Zoological Museum of Joshua Brookes, Esq. F.R.S. Etc.`,
     },
     {
-        container: `<i>Transactions of the American Philosophical Society</i> (Trans. Am. Philos. Soc.), physically published academic journal`,
+        container: `<i>Transactions of the American Philosophical Society</i> (<i>Trans</i>. <i>Am</i>. <i>Philos</i>. <i>Soc</i>.), physically published academic journal`,
         contributors: `John Davidson Godman (author)`,
         date: `1830/>01/>01`,
         duration: `pp. 478-485`,
@@ -125,7 +125,7 @@ module.exports = [
         title: `No. XIX. Description of a New Genus and New Species of Extinct Mammiferous Quadruped.`,
     },
     {
-        container: `<i>Proceedings of the Royal Irish Academy</i> (Proc. R. Ir. Acad.), physically published academic journal`,
+        container: `<i>Proceedings of the Royal Irish Academy</i> (<i>Proc</i>. <i>R</i>. <i>Ir</i>. <i>Acad</i>.), physically published academic journal`,
         contributors: `Robert Harrison (author)`,
         date: `1847/>03/>31`,
         duration: `pp. 385-398`,
@@ -153,7 +153,7 @@ module.exports = [
         title: `Coup-d'Oeil Général sur les Possessions Néerlandaises dans l'Inde Archipélagique.`,
     },
     {
-        container: `<i>The Quarterly Journal of the Geological Society of London</i> (Q. J. Geol. Soc. Lond.), physically published academic journal`,
+        container: `<i>The Quarterly Journal of the Geological Society of London</i> (<i>Q</i>. <i>J</i>. <i>Geol</i>. <i>Soc</i>. <i>Lond</i>.), physically published academic journal`,
         contributors: `Hugh Falconer (author)`,
         date: `1857/>06/>30`,
         duration: `pp. 307-360`,
@@ -222,7 +222,7 @@ module.exports = [
         title: `Autobiography of Matthew Scott, Jumbo's Keeper: Formerly of the Zoölogical Society's Gardens, London, and Receiver of Sir Edwin Landseer Medal in 1866; Also Jumbo's Biography by the Same Author.`,
     },
     {
-        container: `<i>The American Naturalist</i> (Am. Nat.), physically published academic journal`,
+        container: `<i>The American Naturalist</i> (<i>Am</i>. <i>Nat</i>.), physically published academic journal`,
         contributors: `Edward Drinker Cope (author)`,
         date: `1889/04`,
         duration: `pp. 191-211`,
