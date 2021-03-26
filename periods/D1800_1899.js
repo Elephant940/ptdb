@@ -170,7 +170,7 @@ module.exports = [
         container: `<i>Harper's Weekly. A Journal of Civilization.</i>, physically published newspaper`,
         contributors: `Thomas Nast (illustrator)`,
         date: `1874/11/07`,
-        duration: `p. 912, 26.67 x 40.005 cm (10.5 x 15.75 in)`,
+        duration: `p. 912`,
         iteration: `Vol. 18, No. 932`,
         languages: `English`,
         links: `<li><a href="http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=h9m&AN=67549865&site=ehost-live" target="_blank">From George Mason University</a> <li><a href="https://www.loc.gov/resource/ppmsca.15785/" target="_blank">From the Library of Congress</a> <li><a href="https://americanhistory.si.edu/collections/search/object/nmah_528979" target="_blank">From the Smithsonian National Museum of American History</a> <li><a href="https://www.harpweek.com/09Cartoon/BrowseByDateCartoon.asp?Year=2003&Month=November&Date=7" target="_blank">From HarpWeek</a>`,
