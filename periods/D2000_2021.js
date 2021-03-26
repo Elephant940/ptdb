@@ -587,7 +587,7 @@ module.exports = [
         container: `<i>State Council</i>, digitally published legislation`,
         contributors: `Anonymous`,
         date: `2016/12/30`,
-        duration: `1 pp.`,
+        duration: `1 pp., 930 words`,
         iteration: `No. 103`,
         languages: `Chinese`,
         links: `<li><a href="http://www.gov.cn/zhengce/content/2016-12/30/content_5155017.htm" target="_blank">From publisher</a>`,
