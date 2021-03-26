@@ -175,7 +175,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="http://mutex.gmu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=h9m&AN=67549865&site=ehost-live" target="_blank">From George Mason University</a> <li><a href="https://www.loc.gov/resource/ppmsca.15785/" target="_blank">From the Library of Congress</a> <li><a href="https://americanhistory.si.edu/collections/search/object/nmah_528979" target="_blank">From the Smithsonian National Museum of American History</a> <li><a href="https://www.harpweek.com/09Cartoon/BrowseByDateCartoon.asp?Year=2003&Month=November&Date=7" target="_blank">From HarpWeek</a>`,
         location: `New York, United States of America`,
-        medium: `Physically published engraving, digitized`,
+        medium: `Physically published drawing, digitized`,
         publisher: `Harper & Brothers`,
         summary: `The earliest use of an elephant to represent the Republican Party.`,
         title: `The Third Term Panic.`,
