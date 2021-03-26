@@ -14,7 +14,7 @@ module.exports = [
     },
     {
         contributors: `Pierre Camper (author); A.G. Camper (address author)`,
-        date: `1802/>08/>18`,
+        date: `1802/≥08/≥18`,
         duration: `107 pp.`,
         iteration: `1st ed.`,
         languages: `French`,
@@ -27,7 +27,7 @@ module.exports = [
     },
     {
         contributors: `Carolus D. Illiger (author)`,
-        date: `1811/>04`,
+        date: `1811/≥04`,
         duration: `301 pp.`,
         eyedee: `Illiger_1811`,
         iteration: `1st ed.`,
@@ -99,9 +99,9 @@ module.exports = [
     {
         container: `<i>A Prodromus of a Synopsis Animalium, Comprising A Catalogue Raisonné, of the Zootomical Collection Of Joshua Brookes, Esq. F.R.S. Etc.</i>, physically published catalogue`,
         contributors: `Joshua Brookes (author)`,
-        date: `1828/<07/<28`,
+        date: `1828/≤07/≤28`,
         duration: `76 pp.`,
-        iteration: `Part 1`,
+        iteration: `Pt 1`,
         languages: `English`,
         links: `<li><a href="https://www.google.com/books/edition/_/4DwAAAAAQAAJ?hl=en&gbpv=1&pg=PA73" target="_blank">From Google Books</a>, copy provided by Oxford University (<a href="https://web.archive.org/web/20210214192925/https://books.googleusercontent.com/books/content?req=AKW5QadwVSVwUZftumH5axJcOdEm56MH-pPNzuN3WEUeWrIl2STrnlws_LwE2-pZ_brdV-uWMBcmRpgXM2LKJwVLWU-D3VT81_OnaML49OzE4tqAVjgk_DqwrVCyJAlm1WKnfLd2aYSWUyvz3kOkioTlN_gZ9fLJKfPGkUFDqPV4NtlBxLZlLOnxDubZctc_ZsV2rFXhLeYVaNzNyv3yCbm8rH-tDpG5ApLWrq8JqD6UkgoH0Qyp8qL_vB2YU3wnHADvmEQbq0_2" target="_blank">archived in the Wayback Machine</a>)<li><a href="https://archive.org/details/brookesianmuseu00broogoog/page/n99/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by Oxford University`,
         location: `London, England`,
@@ -113,7 +113,7 @@ module.exports = [
     {
         container: `<i>Transactions of the American Philosophical Society</i> (<i>Trans</i>. <i>Am</i>. <i>Philos</i>. <i>Soc</i>.), physically published academic journal`,
         contributors: `John Davidson Godman (author)`,
-        date: `1830/>01/>01`,
+        date: `1830/≥01/≥01`,
         duration: `pp. 478-485`,
         iteration: `New Ser., Vol. 3`,
         languages: `English`,
@@ -127,7 +127,7 @@ module.exports = [
     {
         container: `<i>Proceedings of the Royal Irish Academy</i> (<i>Proc</i>. <i>R</i>. <i>Ir</i>. <i>Acad</i>.), physically published academic journal`,
         contributors: `Robert Harrison (author)`,
-        date: `1847/>03/>31`,
+        date: `1847/≥03/≥31`,
         duration: `pp. 385-398`,
         iteration: `Vol. 3`,
         languages: `English`,
@@ -140,7 +140,7 @@ module.exports = [
     },
     {
         contributors: `Coenraad Jacob Temminck (author)`,
-        date: `1847/>05`,
+        date: `1847/≥05`,
         duration: `470 pp.`,
         eyedee: `Temminck_1847`,
         iteration: `1st ed., Tome 2`,
@@ -155,9 +155,9 @@ module.exports = [
     {
         container: `<i>The Quarterly Journal of the Geological Society of London</i> (<i>Q</i>. <i>J</i>. <i>Geol</i>. <i>Soc</i>. <i>Lond</i>.), physically published academic journal`,
         contributors: `Hugh Falconer (author)`,
-        date: `1857/>06/>30`,
+        date: `1857/≥06/≥30`,
         duration: `pp. 307-360`,
-        iteration: `Vol. 8, Part 1`,
+        iteration: `Vol. 8, Pt 1`,
         languages: `English`,
         links: `<li><a href="https://doi.org/10.1144/GSL.JGS.1857.013.01-02.43" target="_blank">From publisher (DOI: 10.1144/GSL.JGS.1857.013.01-02.43 )</a><li><a href="https://archive.org/details/quarterlyjourna131857geol/page/307/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
         location: `London, England`,
@@ -196,7 +196,7 @@ module.exports = [
     },
     {
         contributors: `J.P. Maclean (author)`,
-        date: `1878/>04/>25`,
+        date: `1878/≥04/≥25`,
         duration: `84 pp.`,
         iteration: `1st ed.`,
         languages: `English`,
@@ -237,7 +237,7 @@ module.exports = [
     },
     {
         contributors: `William Henry Flower (coauthor); Richard Lydekker (coauthor)`,
-        date: `1891/>03`,
+        date: `1891/≥03`,
         duration: `763 pp.`,
         iteration: `1st ed.`,
         languages: `English`,
@@ -255,7 +255,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://www.loc.gov/resource/ppmsca.55077/" target="_blank">From the Library of Congress</a>`,
         location: `Buffalo, New York, United States of America`,
-        medium: `Physically published chromolithograph poster, digitized`,
+        medium: `Physically published poster, digitized`,
         notes: `<li><a href="https://www.loc.gov/resource/cph.3b52708/" target="_blank">Color film copy transparency from the Library of Congress.</a>`,
         publisher: `Courier Litho. Co.`,
         summary: `TBA.`,

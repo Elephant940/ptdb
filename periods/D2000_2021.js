@@ -86,7 +86,7 @@ module.exports = [
     {
         container: `<i>Physiological and Biochemical Zoology: Ecological and Evolutionary Approaches</i> (<i>Physiol</i>. <i>Biochem</i>. <i>Zool</i>.), digitally published academic journal`,
         contributors: `Kathleen E. Hunt (coauthor); Samuel K. Wasser (coauthor)`,
-        date: `2003/>12`,
+        date: `2003/≥12`,
         duration: `pp. 918-928`,
         iteration: `Vol. 76, No. 6`,
         languages: `English`,
@@ -398,7 +398,7 @@ module.exports = [
         eyedee: `Rohland_et_al_2010`,
         iteration: `Vol. 8, Issue 12`,
         languages: `English`,
-        links: `<li><a href="https://doi.org/10.1371/journal.pbio.1000564" target="_blank">From publisher (DOI: 10.1371/journal.pbio.1000564)</a><li><a href="https://genetics.med.harvard.edu/reichlab/Reich_Lab/Publications_files/2010_Rohland_Mastodon.pdf" target="_blank">From the David Reich Lab</a><li><a href="http://nrs.harvard.edu/urn-3:HUL.InstRepos:4874828" target="_blank">From Digital Access to Scholarship at Harvard (DASH)</a><li><a href="https://europepmc.org/article/PMC/3006346" target="_blank">From Europe PMC</a><li><a href="https://www.academia.edu/35196283/Genomic_DNA_sequences_from_mastodon_and_woolly_mammoth_reveal_deep_speciation_of_forest_and_savanna_elephants" target="_blank">From Academia</a><li><a href="https://www.researchgate.net/publication/49726374_Genomic_DNA_Sequences_from_Mastodon_and_Woolly_Mammoth_Reveal_Deep_Speciation_of_Forest_and_Savanna_Elephants" target="_blank">From ResearchGate</a>`,
+        links: `<li><a href="https://doi.org/10.1371/journal.pbio.1000564" target="_blank">From publisher (DOI: 10.1371/journal.pbio.1000564)</a><li><a href="https://web.archive.org/web/20151018114203/http://genetics.med.harvard.edu/reichlab/Reich_Lab/Publications_files/2010_Rohland_Mastodon.pdf" target="_blank">From the David Reich Lab</a>, archived in the Wayback Machine<li><a href="http://nrs.harvard.edu/urn-3:HUL.InstRepos:4874828" target="_blank">From Digital Access to Scholarship at Harvard (DASH)</a><li><a href="https://europepmc.org/article/PMC/3006346" target="_blank">From Europe PMC</a><li><a href="https://www.academia.edu/35196283/Genomic_DNA_sequences_from_mastodon_and_woolly_mammoth_reveal_deep_speciation_of_forest_and_savanna_elephants" target="_blank">From Academia</a><li><a href="https://www.researchgate.net/publication/49726374_Genomic_DNA_Sequences_from_Mastodon_and_Woolly_Mammoth_Reveal_Deep_Speciation_of_Forest_and_Savanna_Elephants" target="_blank">From ResearchGate</a>`,
         location: `N/A`,
         medium: `Digitally published academic journal article`,
         publisher: `Public Library of Science (PLoS)`,
@@ -433,8 +433,8 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, published website`,
-        contributors: `A. Gopala (coauthor); O. Hadian (coauthor); Sunarto (coauthor); A. Sitompul (coauthor); A. Williams (coauthor); P. Leimgruber (coauthor); S.E. Chambliss (coauthor); D. Gunaryardi (coauthor); S. Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
-        date: `2011/08/01`,
+        contributors: `A. Gopala (coauthor, assessor); O. Hadian (coauthor, assessor); Sunarto (coauthor, assessor); A. Sitompul (coauthor, assessor); A. Williams (coauthor, assessor); P. Leimgruber (coauthor, assessor); S.E. Chambliss (coauthor, assessor); D. Gunaryardi (coauthor, assessor); S. Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
+        date: `2011/≥08/≥01`,
         duration: `11 pp.`,
         languages: `English`,
         links: `<li><a href="https://dx.doi.org/10.2305/IUCN.UK.2011-2.RLTS.T199856A9129626.en" target="_blank">From publisher (DOI: 10.2305/IUCN.UK.2011-2.RLTS.T199856A9129626.en)</a>`,
@@ -442,7 +442,7 @@ module.exports = [
         medium: `Digitally published article`,
         publisher: `International Union for Conservation of Nature (IUCN)`,
         summary: `TBA.`,
-        title: `<i>Elephas maximus</i> ssp. <i>maximus</i>`,
+        title: `<i>Elephas maximus</i> ssp. <i>sumatranus</i>`,
     },
     {
         container: `<i>Science</i> (<i>Sci</i>.), digitally published academic journal`,
@@ -530,7 +530,7 @@ module.exports = [
     {
         container: `<i>Acta Palaeontologica Polonica</i> (<i>Acta</i> <i>Palaeontol</i>. <i>Pol</i>.), digitally published academic journal`,
         contributors: `Asier Larramendi (author)`,
-        date: `2015/07/15`,
+        date: `2015/07/10`,
         duration: `pp. 537-574`,
         eyedee: `Larramendi_2015`,
         iteration: `Vol. 61, No. 3`,
@@ -835,8 +835,8 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, published website`,
-        contributors: `C. Williams (coauthor, reviewer, facilitator, compiler); S.K. Tiwari (coauthor, facilitator, compiler); V.R. Goswami (coauthor); Shermin de Silva (coauthor); A. Kumar (coauthor); N. Baskaran (coauthor); K. Yoganand (coauthor); V. Menon (coauthor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
-        date: `2019/09/18`,
+        contributors: `C. Williams (coauthor, assessor, reviewer, facilitator, compiler); S.K. Tiwari (coauthor, assessor, facilitator, compiler); V.R. Goswami (coauthor, assessor); Shermin de Silva (coauthor, assessor); A. Kumar (coauthor, assessor); N. Baskaran (coauthor, assessor); K. Yoganand (coauthor, assessor); V. Menon (coauthor, assessor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
+        date: `2020`,
         duration: `29 pp.`,
         languages: `English`,
         links: `<li><a href="https://dx.doi.org/10.2305/IUCN.UK.2020-3.RLTS.T7140A45818198.en" target="_blank">From publisher (DOI: 10.2305/IUCN.UK.2020-3.RLTS.T7140A45818198.en)</a>`,
@@ -1103,7 +1103,7 @@ module.exports = [
     {
         container: `<i>IUCN</i>, published website`,
         contributors: `IUCN SSC African Elephant Specialist Group (author)`,
-        date: `2020/07/20`,
+        date: `2020/07/10`,
         duration: `1 p., 385 words`,
         languages: `English`,
         links: `<li><a href="https://www.iucn.org/news/species-survival-commission/202007/statement-iucn-ssc-african-elephant-specialist-group-elephant-deaths-botswana" target="_blank">From publisher</a>`,
@@ -1239,7 +1239,7 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, published website`,
-        contributors: `K.S. Gobush (coauthor); C.T. Edwards (coauthor); D. Balfour (coauthor); George Wittemyer (coauthor); Fiona Maisels (coauthor); R.D. Taylor (coauthor)`,
+        contributors: `K.S. Gobush (coauthor, assessor); C.T. Edwards (coauthor, assessor); D. Balfour (coauthor, assessor); George Wittemyer (coauthor, assessor); Fiona Maisels (coauthor, assessor); R.D. Taylor (coauthor, assessor); J. Selier (reviewer); N. Sabanda (reviewer); J. Blanc (contributor); J.P. Ross (facilitator, compiler)`,
         date: `2021/03/25`,
         duration: `N/A`,
         languages: `English`,
@@ -1252,7 +1252,7 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, published website`,
-        contributors: `K.S. Gobush (coauthor); C.T. Edwards (coauthor); Fiona Maisels (coauthor); George Wittemyer (coauthor); D. Balfour (coauthor); R.D. Taylor (coauthor)`,
+        contributors: `K.S. Gobush (coauthor, assessor); C.T. Edwards (coauthor, assessor); Fiona Maisels (coauthor, assessor); George Wittemyer (coauthor, assessor); D. Balfour (coauthor, assessor); R.D. Taylor (coauthor, assessor); J. Selier (reviewer); N. Sabanda (reviewer); J. Blanc (contributor); J.P. Ross (facilitator, compiler)`,
         date: `2021/03/25`,
         duration: `N/A`,
         languages: `English`,

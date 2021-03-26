@@ -2,7 +2,7 @@ module.exports = [
     {
         container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), physically published academic journal`,
         contributors: `Patrick Blair (author)`,
-        date: `1710/>06`,
+        date: `1710/≥06`,
         duration: `pp. 53-116`,
         iteration: `Vol. 27, No. 326`,
         languages: `English`,
@@ -16,7 +16,7 @@ module.exports = [
     {
         container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), physically published academic journal`,
         contributors: `Patrick Blair (author)`,
-        date: `1710/>09`,
+        date: `1710/≥09`,
         duration: `pp. 117-168`,
         iteration: `Vol. 27, No. 327`,
         languages: `English`,
@@ -30,7 +30,7 @@ module.exports = [
     {
         container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), physically published academic journal`,
         contributors: `Anthony van Leeuwenhoek (author)`,
-        date: `1712/>12`,
+        date: `1712/≥12`,
         duration: `pp. 518-522`,
         iteration: `Vol. 27, No. 336`,
         languages: `English`,
@@ -44,7 +44,7 @@ module.exports = [
     {
         container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), physically published academic journal`,
         contributors: `Hans Sloane (author)`,
-        date: `1728/>09`,
+        date: `1728/≥09`,
         duration: `pp. 457-471`,
         iteration: `Vol. 35, No. 403`,
         languages: `English`,
@@ -115,7 +115,7 @@ module.exports = [
     {
         container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), physically published academic journal`,
         contributors: `William Hunter (author)`,
-        date: `1769/>06/>15`,
+        date: `1769/≥06/≥15`,
         duration: `pp. 34-45`,
         iteration: `Vol. 58`,
         languages: `English`,
@@ -128,7 +128,7 @@ module.exports = [
     },
     {
         contributors: `Thomas Pennant (author)`,
-        date: `1771/>03/>20`,
+        date: `1771/≥03/≥20`,
         duration: `382 pp.`,
         iteration: `1st ed.`,
         languages: `English`,
@@ -155,7 +155,7 @@ module.exports = [
     },
     {
         contributors: `Robert Kerr (author), Johann Fridrich Gmelin (preface author)`,
-        date: `1792/>02`,
+        date: `1792/≥02`,
         duration: `644 pp.`,
         iteration: `1st ed.`,
         languages: `English`,
@@ -168,7 +168,7 @@ module.exports = [
     },
     {
         contributors: `Johann Friedrich Blumenbach (author)`,
-        date: `1797/>03/>20`,
+        date: `1797/≥03/≥20`,
         duration: `714 pp.`,
         eyedee: `Blumenbach_1797`,
         iteration: `5th ed.`,
@@ -200,7 +200,7 @@ module.exports = [
     {
         container: `<i>Philosophical Transactions of the Royal Society of London</i> (<i>Phil</i>. <i>Trans</i>. <i>R</i>. <i>Soc</i>. <i>Lond</i>.), physically published academic journal`,
         contributors: `John Corse (author)`,
-        date: `1799/>06/>13`,
+        date: `1799/≥06/≥13`,
         duration: `pp. 205-236`,
         iteration: `[Vol. 89], Pt. 2`,
         languages: `English`,

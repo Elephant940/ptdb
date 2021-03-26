@@ -28,7 +28,7 @@ module.exports = [
     },
     {
         contributors: `A. Moulines (author)`,
-        date: `1682/>08/>28`,
+        date: `1682/≥08/≥28`,
         duration: `72 pp.`,
         iteration: `1st ed.`,
         languages: `English`,
