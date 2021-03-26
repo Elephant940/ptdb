@@ -585,7 +585,7 @@ module.exports = [
     },
     {
         container: `<i>State Council</i>, digitally published periodical`,
-        contributors: `Anonymous`,
+        contributors: `General Office of the State Council of the People's Republic of China (author)`,
         date: `2016/12/30`,
         duration: `1 p.`,
         iteration: `No. 103`,
