@@ -294,7 +294,7 @@ module.exports = [
     },
     {
         container: `<i>South African Journal of Wildlife Research</i> (<i>South</i> <i>Afr</i>. <i>J</i>. <i>Wildl</i>. <i>Res</i>.), digitally published academic journal`,
-        contributors: `Jozua J. Viljoen (coauthor); André Ganswindt (coauthor); Johan T. du Toit (coauthor); William <i>R</i>. Langbauer (coauthor)`,
+        contributors: `Jozua J. Viljoen (coauthor); André Ganswindt (coauthor); Johan T. du Toit (coauthor); William R. Langbauer (coauthor)`,
         date: `2008/10/01`,
         duration: `pp. 146-152`,
         iteration: `Vol. 38, No. 2`,
@@ -432,7 +432,7 @@ module.exports = [
         title: `The Elephant Family Tree, Extinct and Extant`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, digitally published database`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, published website`,
         contributors: `A. Gopala (coauthor); O. Hadian (coauthor); Sunarto (coauthor); A. Sitompul (coauthor); A. Williams (coauthor); P. Leimgruber (coauthor); S.E. Chambliss (coauthor); D. Gunaryardi (coauthor); S. Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
         date: `2011/08/01`,
         duration: `11 pp.`,
@@ -459,7 +459,7 @@ module.exports = [
     },
     {
         container: `<i>Science</i> (<i>Sci</i>.), digitally published academic journal`,
-        contributors: `Josh <i>R</i>. Hutchinson (coauthor); Cyrille Delmer (coauthor); Charlotte E. Miller (coauthor); Thomas Hildebrandt (coauthor); Andrew A. Pitsillides (coauthor); Alan Boyde (coauthor)`,
+        contributors: `Josh R. Hutchinson (coauthor); Cyrille Delmer (coauthor); Charlotte E. Miller (coauthor); Thomas Hildebrandt (coauthor); Andrew A. Pitsillides (coauthor); Alan Boyde (coauthor)`,
         date: `2011/12/23`,
         duration: `pp. 1699-1703`,
         eyedee: `Hutchinson_et_al_2011`,
@@ -474,7 +474,7 @@ module.exports = [
     },
     {
         container: `<i>Brain, Behavior and Evolution</i> (<i>Brain</i> <i>Behav</i>. <i>Evol</i>.), digitally published academic journal`,
-        contributors: `Busisiwe C. Maseko (coauthor); Bob Jacobs (coauthor); Muhammad A. Spocter (coauthor); Chet C. Sherwood (coauthor); P.R. Hoff (coauthor); Paul <i>R</i>. Manger (coauthor)`,
+        contributors: `Busisiwe C. Maseko (coauthor); Bob Jacobs (coauthor); Muhammad A. Spocter (coauthor); Chet C. Sherwood (coauthor); P.R. Hoff (coauthor); Paul R. Manger (coauthor)`,
         date: `2012/12/29`,
         duration: `pp. 40-55`,
         iteration: `Vol. 81`,
@@ -515,7 +515,7 @@ module.exports = [
     },
     {
         container: `<i>Annual Review of Animal Biosciences</i> (<i>Annu</i>. <i>Rev</i>. <i>Anim</i>. <i>Biosci</i>.), digitally published academic journal`,
-        contributors: `Alfred L. Roca (coauthor); Yasuko Ishida (coauthor); Adam L. Brandt (coauthor); Neal <i>R</i>. Benjamin (coauthor); Kai Zhao (coauthor); Nicholas J. Georgiadis (coauthor)`,
+        contributors: `Alfred L. Roca (coauthor); Yasuko Ishida (coauthor); Adam L. Brandt (coauthor); Neal R. Benjamin (coauthor); Kai Zhao (coauthor); Nicholas J. Georgiadis (coauthor)`,
         date: `2014/12/08`,
         duration: `pp. 139-167`,
         iteration: `Vol. 3`,
@@ -584,7 +584,7 @@ module.exports = [
         title: `Elephant history rewritten by ancient genomes`,
     },
     {
-        container: `<i>State Council Law</i>, digitally published legislation`,
+        container: `<i>State Council</i>, digitally published legislation`,
         contributors: `Anonymous`,
         date: `2016/12/30`,
         duration: `1 pp.`,
@@ -593,7 +593,7 @@ module.exports = [
         links: `<li><a href="http://www.gov.cn/zhengce/content/2016-12/30/content_5155017.htm" target="_blank">From publisher</a>`,
         location: `Beijing, China`,
         medium: `Digitally published legislation`,
-        publisher: `State Council of the People's Republic of China`,
+        publisher: `General Office of the State Council of the People's Republic of China`,
         summary: `TBA.`,
         title: `国务院办公厅关于有序停止商业性加工销售象牙及制品活动的通知`,
     },
@@ -724,7 +724,7 @@ module.exports = [
     },
     {
         container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>., <i>PNAS</i>), digitally published academic journal`,
-        contributors: `Eleftheria Palkopoulou (coauthor); Mark Lipson (coauthor); Swapan Mallick (coauthor); Svend Nielsen (coauthor); Nadin Rohland (coauthor); Sina Baleka (coauthor); Emil Karpinski (coauthor); Atma M. Ivancevic (coauthor); Thu-Hien To (coauthor); <i>R</i>. Daniel Kortschak (coauthor); Joy M. Raison (coauthor); Zhipeng Qu (coauthor); Tat-Jun Chin (coauthor); Kurt W. Alt (coauthor); Stefan Claesson (coauthor); Love Dalén (coauthor); Ross D.E. MacPhee (coauthor); Harald Meller (coauthor); Alfred L. Roca (coauthor); Oliver A. Ryder (coauthor); David Heiman (coauthor); Sarah Young (coauthor); Matthew Breen (coauthor); Christina Williams (coauthor); Bronwen L. Aken (coauthor); Magali Ruffier (coauthor); Elinor Karlsson (coauthor); Jeremy Johnson (coauthor); Federica Di Palma (coauthor); Jessica Alfoldi (coauthor);  David L. Adelson (coauthor); Thomas Mailund (coauthor); Kasper Munch (coauthor); Kerstin Lindblad-Toh (coauthor); Michael Hofreiter (coauthor); Hendrik Poinar (coauthor); David Reich (coauthor)`,
+        contributors: `Eleftheria Palkopoulou (coauthor); Mark Lipson (coauthor); Swapan Mallick (coauthor); Svend Nielsen (coauthor); Nadin Rohland (coauthor); Sina Baleka (coauthor); Emil Karpinski (coauthor); Atma M. Ivancevic (coauthor); Thu-Hien To (coauthor); R. Daniel Kortschak (coauthor); Joy M. Raison (coauthor); Zhipeng Qu (coauthor); Tat-Jun Chin (coauthor); Kurt W. Alt (coauthor); Stefan Claesson (coauthor); Love Dalén (coauthor); Ross D.E. MacPhee (coauthor); Harald Meller (coauthor); Alfred L. Roca (coauthor); Oliver A. Ryder (coauthor); David Heiman (coauthor); Sarah Young (coauthor); Matthew Breen (coauthor); Christina Williams (coauthor); Bronwen L. Aken (coauthor); Magali Ruffier (coauthor); Elinor Karlsson (coauthor); Jeremy Johnson (coauthor); Federica Di Palma (coauthor); Jessica Alfoldi (coauthor);  David L. Adelson (coauthor); Thomas Mailund (coauthor); Kasper Munch (coauthor); Kerstin Lindblad-Toh (coauthor); Michael Hofreiter (coauthor); Hendrik Poinar (coauthor); David Reich (coauthor)`,
         date: `2018/02/26`,
         duration: `pp. E2566–E2574`,
         eyedee: `Palkopoulou_et_al_2018`,
@@ -834,7 +834,7 @@ module.exports = [
         title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, digitally published database`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, published website`,
         contributors: `C. Williams (coauthor, reviewer, facilitator, compiler); S.K. Tiwari (coauthor, facilitator, compiler); V.R. Goswami (coauthor); Shermin de Silva (coauthor); A. Kumar (coauthor); N. Baskaran (coauthor); K. Yoganand (coauthor); V. Menon (coauthor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
         date: `2019/09/18`,
         duration: `29 pp.`,
@@ -1039,9 +1039,9 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://www.instagram.com/p/B_qGtNlAZZf/?utm_source=ig_embed" target="_blank">From publisher</a>`,
         location: `N/A`,
-        medium: `Published webpage`,
+        medium: `Published web page`,
         publisher: `Facebook, Inc.`,
-        summary: `Director of <i>Godzilla: King of the Monsters</i> (2019) Michael Dougherty reveals Behemoth's design incorporated woolly mammoth traits and that, like mammoths, Behemoth is herbivorous and once lived in herds.`,
+        summary: `Director of <i>Godzilla: King of the Monsters</i> (2019) Michael Dougherty reveals woolly mammoth traits were incorporated into Behemoth's design and that, like mammoths, Behemoth is herbivorous and once lived in herds.`,
         title: `Titanus Behemoth`,
     },
     {
@@ -1176,7 +1176,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://en.wikipedia.org/wiki/User:Elephant940/Books/Elephants" target="_blank">From publisher</a>`,
         location: `N/A`,
-        medium: `Published webpage`,
+        medium: `Published web page`,
         publisher: `Wikimedia Foundation`,
         summary: `A comprehensive list of English Wikipedia articles relating to probsocideans.`,
         title: `User:Elephant940/Books/Elephants`,
@@ -1238,7 +1238,7 @@ module.exports = [
         title: `We sequenced the oldest ever DNA, from million-year-old mammoths`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, digitally published database`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, published website`,
         contributors: `K.S. Gobush (coauthor); C.T. Edwards (coauthor); D. Balfour (coauthor); George Wittemyer (coauthor); Fiona Maisels (coauthor); R.D. Taylor (coauthor)`,
         date: `2021/03/25`,
         duration: `N/A`,
@@ -1251,7 +1251,7 @@ module.exports = [
         title: `<i>Loxodonta africana</i>`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, digitally published database`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, published website`,
         contributors: `K.S. Gobush (coauthor); C.T. Edwards (coauthor); Fiona Maisels (coauthor); George Wittemyer (coauthor); D. Balfour (coauthor); R.D. Taylor (coauthor)`,
         date: `2021/03/25`,
         duration: `N/A`,

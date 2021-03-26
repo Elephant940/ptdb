@@ -109,7 +109,7 @@ module.exports = [
         location: `Stockholm, Sweden`,
         medium: `Physically published book, digitized`,
         publisher: `Laurentius Salvius`,
-        summary: `Linnaeus establishes a system of biological classification in which each animal is given a two-part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into the same genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus classifies all living elephants as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.`,
+        summary: `Linnaeus establishes a system of biological classification in which each animal is given a two-part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into the same genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus lists distinguishing characteristics of elephants and classifies all living elephants as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.`,
         title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
     },
     {
@@ -136,7 +136,7 @@ module.exports = [
         location: `Chester, England`,
         medium: `Physically published book, digitized`,
         publisher: `Printed by J. Monk`,
-        summary: `The chapter on elephants, "XIV. Elephant.", is on pages 85-93.  Details TBA.`,
+        summary: `The section on elephants, "XIV. Elephant.", is on pages 85-93.  Details TBA.`,
         title: `Synopsis of Quadrupeds`,
     },
     {
@@ -150,7 +150,7 @@ module.exports = [
         location: `Leizpig, Germany`,
         medium: `Physically published book, digitized`,
         publisher: `Georg. Emmanuel Beer`,
-        summary: `The 13th edition of <a id="Linnaeus_1758_color_0" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants, "5. Elephas", has been expanded but retains most of Linnaeus's original description and can be found on pages 58-59.`,
+        summary: `The 13th edition of <a id="Linnaeus_1758_color_0" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants, "5. Elephas", has been expanded but retains most of Linnaeus's original description, and can be found on pages 58-59.`,
         title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
     },
     {
@@ -191,7 +191,7 @@ module.exports = [
         links: `<li><a href="https://archive.org/details/tableaulment00cuvi/page/146/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries <li><a href="https://archive.org/details/tableaulmen00cuvi/page/146/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the University of Toronto`,
         location: `Paris, France`,
         medium: `Physically published book, digitized`,
-        notes: `<li>Published in year 6 of the French Republican calendar, established in 1793. The first year of the calendar began on September 22nd, 1792, meaning year 6 corresponds to 1798 (Convention nationale, 1793).`,
+        notes: `<li>Published in year 6 of the French Republican calendar, which was established in 1793. The first year of the calendar began on September 22nd, 1792, meaning year 6 corresponds to 1798 (Convention nationale, 1793).`,
         publisher: `Printed by Baudouin for the Corps législatif and l'Institut national`,
         references: `<ul class="refs">Convention nationale (1793). <a href="https://tolosana.univ-toulouse.fr/fr/notice/042658012" target="_blank"><i>Calendrier de la République française</i></a>. Paris: Imprimerie nationale France.</ul>`,
         summary: `Cuvier recognizes two species of living elephants and describes them on pages 148-149. He gives each a distinct name, <i>Elephas indicus</i> for the Asian elephant and <i>E</i>. <i>capensis</i> for the African elephant, and states that elephants warrant placement in a new, unnamed order.`,
