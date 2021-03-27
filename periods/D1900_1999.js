@@ -402,7 +402,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://www.elephant.se/Motty_the_elephant_crossbreed.php?open=Living%20Elephant%20Species" target="_blank">From publisher</a>`,
         location: `N/A`,
-        medium: `Published web page`,
+        medium: `Digitally published article`,
         publisher: `Dan Koehl`,
         summary: `A detailed summary of the birth of Motty, the only known hybrid between an Asian and African elephant. Includes firsthand information about his anatomy and nutrition from zoo staff, and a discussion of current elephant taxonomy.`,
         title: `Motty the elephant crossbreed`,
