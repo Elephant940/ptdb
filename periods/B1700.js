@@ -1,6 +1,6 @@
 module.exports = [
     {
-        contributors: `Cornelis Cort (printmaker)`,
+        contributors: `Cornelis Cort (engraver)`,
         date: `1567`,
         duration: `approx. 41.8 x 53.8 cm (16.4 x 21.2 in)`,
         languages: `Latin`,
@@ -8,7 +8,7 @@ module.exports = [
         notes: `<li>Inscription reads "From the original print by Raphael Urbinati, which is in the possession of Tommaso dei Cavalieri, a Roman noble. Antonio Lafreri Seovani printed it in Rome." Bottom right corner reads "By grant and privilege 1567" (<a href="https://www.csus.edu/indiv/r/rileymt/" target="_blank">Riley</a>, pers. comm.).<li>Rijksmueum copy formerly owned by Nicolaas Cornelis de Gijselaar, as indicated by N.G. in the bottom right corner (Lugt, 1921, p. 359).<li><a href="https://www.loc.gov/resource/pga.00039/" target="_blank">Reprint from the Library of Congress</a>, published circa 1600.`,
         references: `<ul class="refs">Lugt, F. (1921). <a href="https://archive.org/details/lesmarquesdecoll00lugt/page/359/mode/2up?view=theater" target="_blank"><i>Les Marques de Collections de Dessins & d'Estampes</i></a>. Amsterdam: Vereenigde Drukkerijen.</ul>`,
         location: `Rome, Italy`,
-        medium: `Physically published print engraving, digitized`,
+        medium: `Published engraving, digitized`,
         publisher: `Antonio Lafreri`,
         summary: `TBA.`,
         title: `[The Battle Between Scipio and Hannibal at Zama]`,
