@@ -90,7 +90,7 @@ module.exports = [
         duration: `15 pp.`,
         iteration: `No. 1`,
         languages: `English`,
-        links: `<li><a href="http://digitallibrary.amnh.org/handle/2246/4663" target="_blank">From publisher</a><li><a href="https://archive.org/details/americanmuseumno01ameruoft/page/n40/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the University of Toronto`,
+        links: `<li><a href="http://digitallibrary.amnh.org/handle/2246/4663" target="_blank">From publisher</a><li><a href="https://www.google.com/books/edition/The_Evolution_Phylogney_and_Classificati/1sUrAAAAYAAJ?hl=en&gbpv=1" target="_blank">From Google Books</a>, copy provided by Harvard University (<a href="https://books.googleusercontent.com/books/content?req=AKW5QaekHU5wcSu3eYcFaNqml2WL1GXkB_30ntZJ0Uuytid-dsE2prNwdpSMZwUW9FSAPor4YEU0YJd-pA3sB8-p7Vze8l10fe7Fz1zEZAxV09uL4c1raNe1ebfj1DIFzmEyqL198vv1tvj8foSQYM7wyOqPSHqVSzwtyQTu3aPY_-n1TyRPExdg-US6p07Qe4D1BuoYsJf8VxxGJEr2jfrq9m41evm-QfNMIwkG8CdqrUOna5Fxim28ZkpefFcoA0vkBLDDmvtTat23kmAjo1deo9jV8C53JJB0a-P0BAkHb2bRxM69ssg" target="_blank">archived in the Wayback Machine</a>)<li><a href="https://archive.org/details/americanmuseumno01ameruoft/page/n40/mode/2up?view=theater" target="_blank">From Internet Archive</a>, copy provided by the University of Toronto`,
         location: `New York City, New York, United States of America`,
         medium: `Print research article`,
         publisher: `Trustees of the American Museum of Natural History (AMNH)`,
