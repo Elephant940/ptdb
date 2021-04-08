@@ -318,7 +318,7 @@ module.exports = [
         links: `<li><a href="https://portals.iucn.org/library/node/6042" target="_blank">From publisher</a><li><a href="https://www.google.com/books/edition/The_Asian_Elephant/8QcZYzXZJQMC?hl=en&gbpv=1" target="_blank">From Google Books</a>, copy provided by publisher`,
         location: `Gland, Switzerland`,
         medium: `Book`,
-        publisher: `International Union for Conservation of Nature (IUCN)`,
+        publisher: `International Union for Conservation of Nature and Natural Resources (IUCN)`,
         summary: `TBA.`,
         title: `The Asian Elephant: An Action Plan for Its Conservation`,
     },
