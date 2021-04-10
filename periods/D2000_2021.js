@@ -1,6 +1,6 @@
 module.exports = [
     {
-        container: `<i>Elephant</i>, journal`,
+        container: `<i>Elephant</i>, print journal`,
         contributors: `Peter Grubb (co-author); Colin P. Groves (co-author); Joseph P. Dudley (co-author); Jeheskel Shoshani (co-author)`,
         date: `January 2000`,
         duration: `pp. 1-4`,
@@ -14,7 +14,7 @@ module.exports = [
         title: `Living African Elephants Belong to Two Species: <i>Loxodonta africana</i> (Blumenbach, 1797) and <i>Loxodonta cyclotis</i> (Matschie, 1900)`,
     },
     {
-        container: `<i>Elephant</i>, journal`,
+        container: `<i>Elephant</i>, print journal`,
         contributors: `Colin P. Groves (co-author); Peter Grubb (co-author)`,
         date: `January 2000`,
         duration: `pp. 4-7`,
@@ -432,7 +432,7 @@ module.exports = [
         title: `The Elephant Family Tree, Extinct and Extant`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, website`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, digital serial`,
         contributors: `A. Gopala (assessor); O. Hadian (assessor); Sunarto (assessor); A. Sitompul (assessor); A. Williams (assessor); P. Leimgruber (assessor); S.E. Chambliss (assessor); D. Gunaryardi (assessor); S. Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
         date: `2011, on or after 1 August`,
         duration: `11 pp.`,
@@ -833,7 +833,7 @@ module.exports = [
         title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, website`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, digital serial`,
         contributors: `C. Williams (assessor, reviewer, facilitator, compiler); S.K. Tiwari (assessor, facilitator, compiler); V.R. Goswami (assessor); Shermin de Silva (assessor); A. Kumar (assessor); N. Baskaran (assessor); K. Yoganand (assessor); V. Menon (assessor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
         date: `2020`,
         duration: `29 pp.`,
@@ -1237,7 +1237,7 @@ module.exports = [
         title: `We sequenced the oldest ever DNA, from million-year-old mammoths`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, website`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, digital serial`,
         contributors: `Kathleen S. Gobush (lead assessor); C.T. Edwards (assessor); Dave Balfour (assessor); George Wittemyer (assessor); Fiona Maisels (assessor); R.D. Taylor (assessor); J. Selier (reviewer); N. Sabanda (reviewer); J. Blanc (contributor); J.P. Ross (facilitator, compiler)`,
         date: `25 March 2021`,
         duration: `N/A`,
@@ -1251,7 +1251,7 @@ module.exports = [
         title: `<i>Loxodonta africana</i>`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, website`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, digital serial`,
         contributors: `Kathleen S. Gobush (lead assessor); C.T. Edwards (assessor); Fiona Maisels (assessor); George Wittemyer (assessor); Dave Balfour (assessor); R.D. Taylor (assessor); J. Selier (reviewer); N. Sabanda (reviewer); J. Blanc (contributor); J.P. Ross (facilitator, compiler)`,
         date: `25 March 2021`,
         duration: `N/A`,

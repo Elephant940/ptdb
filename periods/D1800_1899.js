@@ -40,7 +40,7 @@ module.exports = [
         title: `Prodromus Systematis Mammalium et Avium Additis Terminis Zoographicis Utriusque Classis, Eorumque Versione Germanica.`,
     },
     {
-        container: `<i>The London Medical Repository</i> (<i>Lond</i>. <i>Med</i>. <i>Repos</i>.),  journal`,
+        container: `<i>The London Medical Repository</i> (<i>Lond</i>. <i>Med</i>. <i>Repos</i>.), print journal`,
         contributors: `John Edward Gray (author)`,
         date: `1 April 1821`,
         duration: `pp. 296-310`,
@@ -54,7 +54,7 @@ module.exports = [
         title: `On The Natural Arrangement of Vertebrose Animals`,
     },
     {
-        container: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>,  book`,
+        container: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>, print book`,
         contributors: `Frédéric Cuvier (author)`,
         date: `September 1825`,
         duration: `10 pp.`,
@@ -68,7 +68,7 @@ module.exports = [
         title: `Éléphant d'Asie.`,
     },
     {
-        container: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>,  book`,
+        container: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>, print book`,
         contributors: `Frédéric Cuvier (author)`,
         date: `November 1825`,
         duration: `2 pp.`,
@@ -83,7 +83,7 @@ module.exports = [
         title: `Éléphant d'Afrique.`,
     },
     {
-        container: `<i>The Zoological Journal</i> (<i>Zool</i>. <i>J</i>.),  journal`,
+        container: `<i>The Zoological Journal</i> (<i>Zool</i>. <i>J</i>.), print journal`,
         contributors: `Anonymous`,
         date: `January 1827`,
         duration: `pp. 140-143`,
@@ -97,7 +97,7 @@ module.exports = [
         title: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriees, Dessinées d'Après des Animaux Vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hillaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
     },
     {
-        container: `<i>A Prodromus of a Synopsis Animalium, Comprising A Catalogue Raisonné, of the Zootomical Collection Of Joshua Brookes, Esq. F.R.S. Etc.</i>, catalogue`,
+        container: `<i>A Prodromus of a Synopsis Animalium, Comprising A Catalogue Raisonné, of the Zootomical Collection Of Joshua Brookes, Esq. F.R.S. Etc.</i>, print catalogue`,
         contributors: `Joshua Brookes (author)`,
         date: `1828, before 28 July`,
         duration: `76 pp.`,
@@ -111,7 +111,7 @@ module.exports = [
         title: `A Catalogue of the Anatomical & Zoological Museum of Joshua Brookes, Esq. F.R.S. Etc.`,
     },
     {
-        container: `<i>Transactions of the American Philosophical Society</i> (<i>Trans</i>. <i>Am</i>. <i>Philos</i>. <i>Soc</i>.),  journal`,
+        container: `<i>Transactions of the American Philosophical Society</i> (<i>Trans</i>. <i>Am</i>. <i>Philos</i>. <i>Soc</i>.), print journal`,
         contributors: `John Davidson Godman (author)`,
         date: `1830, on or after 1 January`,
         duration: `pp. 478-485`,
@@ -125,7 +125,7 @@ module.exports = [
         title: `No. XIX. Description of a New Genus and New Species of Extinct Mammiferous Quadruped.`,
     },
     {
-        container: `<i>Proceedings of the Royal Irish Academy</i> (<i>Proc</i>. <i>R</i>. <i>Ir</i>. <i>Acad</i>.),  journal`,
+        container: `<i>Proceedings of the Royal Irish Academy</i> (<i>Proc</i>. <i>R</i>. <i>Ir</i>. <i>Acad</i>.), print journal`,
         contributors: `Robert Harrison (author)`,
         date: `1847, on or after 31 March`,
         duration: `pp. 385-398`,
@@ -153,7 +153,7 @@ module.exports = [
         title: `Coup-d'Oeil Général sur les Possessions Néerlandaises dans l'Inde Archipélagique.`,
     },
     {
-        container: `<i>The Quarterly Journal of the Geological Society of London</i> (<i>Q</i>. <i>J</i>. <i>Geol</i>. <i>Soc</i>. <i>Lond</i>.),  journal`,
+        container: `<i>The Quarterly Journal of the Geological Society of London</i> (<i>Q</i>. <i>J</i>. <i>Geol</i>. <i>Soc</i>. <i>Lond</i>.), print journal`,
         contributors: `Hugh Falconer (author)`,
         date: `1857, on or after 30 June`,
         duration: `pp. 307-360`,
@@ -167,7 +167,7 @@ module.exports = [
         title: `On the Species of Mastodon and Elephant occuring in the fossil state in Great Britain. Part I. Mastodon.`,
     },
     {
-        container: `<i>Harper's Weekly. A Journal of Civilization.</i>,  magazine`,
+        container: `<i>Harper's Weekly. A Journal of Civilization.</i>, print magazine`,
         contributors: `Thomas Nast (cartoonist)`,
         date: `7 November 1874`,
         duration: `p. 912, approx. 26.3 x 38.7 cm (10.4 x 15.2 in)`,
@@ -181,7 +181,7 @@ module.exports = [
         title: `The Third Term Panic.`,
     },
     {
-        container: `<i>Studies in Comparative Anatomy</i>,  book series`,
+        container: `<i>Studies in Comparative Anatomy</i>, print book series`,
         contributors: `L.C. Miall (co-author); F. Greenwood (co-author)`,
         date: `1878`,
         duration: `84 pp.`,
@@ -222,7 +222,7 @@ module.exports = [
         title: `Autobiography of Matthew Scott, Jumbo's Keeper: Formerly of the Zoölogical Society's Gardens, London, and Receiver of Sir Edwin Landseer Medal in 1866; Also Jumbo's Biography by the Same Author.`,
     },
     {
-        container: `<i>The American Naturalist</i> (<i>Am</i>. <i>Nat</i>.),  journal`,
+        container: `<i>The American Naturalist</i> (<i>Am</i>. <i>Nat</i>.), print journal`,
         contributors: `Edward Drinker Cope (author)`,
         date: `April 1889`,
         duration: `pp. 191-211`,

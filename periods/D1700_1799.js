@@ -1,6 +1,6 @@
 module.exports = [
     {
-        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.),  journal`,
+        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
         contributors: `Patrick Blair (author)`,
         date: `1710, during or after June`,
         duration: `pp. 53-116`,
@@ -14,7 +14,7 @@ module.exports = [
         title: `Osteographia Elephantina: Or, A full and exact Description of all the Bones of an Elephant, which died near Dundee, April the 27th, 1706. with their several Dimensions. Communicated in a letter to Dr. Hans Sloane, R, S, Secr.`,
     },
     {
-        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.),  journal`,
+        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
         contributors: `Patrick Blair (author)`,
         date: `1710, during or after September`,
         duration: `pp. 117-168`,
@@ -28,7 +28,7 @@ module.exports = [
         title: `A Continuation of the Osteographia Elephantina: Or, a Description of the Bones of an Elephant, which died near Dundee, April the 27th, 1706.`,
     },
     {
-        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.),  journal`,
+        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
         contributors: `Anthony van Leeuwenhoek (author)`,
         date: `December 1712`,
         duration: `pp. 518-522`,
@@ -42,7 +42,7 @@ module.exports = [
         title: `I. Some Remarks upon the Disposition of the Parts, and Microscopical Observations upon the Contexture of the Skin of Elephants.`,
     },
     {
-        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.),  journal`,
+        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
         contributors: `Hans Sloane (author)`,
         date: `1728, during or after September`,
         duration: `pp. 457-471`,
@@ -57,7 +57,7 @@ module.exports = [
 
     },
     {
-        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.),  journal`,
+        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
         contributors: `John Philip Breyne (author)`,
         date: `1739`,
         duration: `pp. 124-125`,
@@ -71,7 +71,7 @@ module.exports = [
         title: `VIII. A Letter From John Phil. Breyne, M. D. F. R. S. To Sir Hans Sloane, Bart. Pres. R. S. With Observations, and a Description of Some Mammoth's Bones Dug Up in Siberia.`,
     },
     {
-        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.),  journal`,
+        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
         contributors: `John Philip Breyne (author)`,
         date: `1739`,
         duration: `pp. 125-130`,
@@ -85,7 +85,7 @@ module.exports = [
         title: `Observations on the Mammoth's Bones and Teeth Found in Siberia: Read in a Meeting of some learned Gentlemen at Dantzick in the Year 1728`,
     },
     {
-        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.),  journal`,
+        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
         contributors: `Michael Wolochowicz (author); T.S. (Latin-to-English translator)`,
         date: `1739`,
         duration: `pp. 130-138`,
@@ -113,7 +113,7 @@ module.exports = [
         title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
     },
     {
-        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.),  journal`,
+        container: `<i>Philosophical Transactions, Giving Some Account of the Present Undertaking Studies, and Labours of the Ingenious, in Many Considerable Parts of the World.</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
         contributors: `William Hunter (author)`,
         date: `1769, on or after 15 June`,
         duration: `pp. 34-45`,
@@ -198,7 +198,7 @@ module.exports = [
         title: `Tableau Élémentaire de l'Histoire Naturelle des Animaux.`,
     },
     {
-        container: `<i>Philosophical Transactions of the Royal Society of London</i> (<i>Phil</i>. <i>Trans</i>. <i>R</i>. <i>Soc</i>. <i>Lond</i>.),  journal`,
+        container: `<i>Philosophical Transactions of the Royal Society of London</i> (<i>Phil</i>. <i>Trans</i>. <i>R</i>. <i>Soc</i>. <i>Lond</i>.), print journal`,
         contributors: `John Corse (author)`,
         date: `1799, on or after 13 June`,
         duration: `pp. 205-236`,

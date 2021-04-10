@@ -1,6 +1,6 @@
 module.exports = [
     {
-        container: `<i>Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin</i> (<i>Sitzber</i>. <i>Ges</i>. <i>Naturforsch</i>. <i>Berl</i>.), journal`,
+        container: `<i>Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin</i> (<i>Sitzber</i>. <i>Ges</i>. <i>Naturforsch</i>. <i>Berl</i>.), print journal`,
         contributors: `Paul Matschie (author)`,
         date: `1900, on or after 16 October`,
         duration: `pp. 189-197`,
@@ -28,7 +28,7 @@ module.exports = [
         title: `A Treatise On Elephants. Their Treatment in Health and Disease`,
     },
     {
-        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), journal`,
+        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), print journal`,
         contributors: `Richard Lydekker (author)`,
         date: `1 August 1907 (Back Matter, 1907)`,
         duration: `pp. 380-403`,
@@ -69,7 +69,7 @@ module.exports = [
         title: `Elephants and Their Diseases: A Treatise on Elephants`,
     },
     {
-        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), journal`,
+        container: `<i>Proceedings of the General Meetings for Scientific Business of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), print journal`,
         contributors: `Richard Lydekker (author)`,
         date: `6 June 1914 (Back Matter, 1914)`,
         duration: `pp. 285-288`,
@@ -84,7 +84,7 @@ module.exports = [
         title: `18. The Malay Race of the Indian Elephant, <i>Elephas maximus hirsutus</i>.`,
     },
     {
-        container: `<i>American Museum Novitates</i> (<i>Am</i>. <i>Mus</i>. <i>Novit</i>.), journal`,
+        container: `<i>American Museum Novitates</i> (<i>Am</i>. <i>Mus</i>. <i>Novit</i>.), print journal`,
         contributors: `Henry Fairfield Osborn (author)`,
         date: `31 January 1921`,
         duration: `15 pp.`,
@@ -98,7 +98,7 @@ module.exports = [
         title: `The Evolution, Phylogeny, and Classification of Proboscidea`,
     },
     {
-        container: `<i>Proceedings of the Academy of Natural Sciences of Philadelphia</i> (<i>Proc</i>. <i>Acad</i>. <i>Nat</i>. <i>Sci</i>. <i>Phila</i>.), journal`,
+        container: `<i>Proceedings of the Academy of Natural Sciences of Philadelphia</i> (<i>Proc</i>. <i>Acad</i>. <i>Nat</i>. <i>Sci</i>. <i>Phila</i>.), print journal`,
         contributors: `Glover M. Allen (author)`,
         date: `10 March 1936`,
         duration: `pp. 15-44`,
@@ -125,7 +125,7 @@ module.exports = [
         title: `Proboscidea: A Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
     },
     {
-        container: `<i>Bulletin of the Raffles Museum</i> (<i>Bull</i>. <i>Raffle</i> <i>Mus</i>.), journal`,
+        container: `<i>Bulletin of the Raffles Museum</i> (<i>Bull</i>. <i>Raffle</i> <i>Mus</i>.), print journal`,
         contributors: `Frederick Nutter Chasen (author)`,
         date: `April 1940`,
         duration: `209 pp.`,
@@ -152,7 +152,7 @@ module.exports = [
         title: `Proboscidea: A Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
     },
     {
-        container: `<i>Földtani Közlöny</i> (<i>Földt</i>. <i>Közlöny</i>), journal`,
+        container: `<i>Földtani Közlöny</i> (<i>Földt</i>. <i>Közlöny</i>), print journal`,
         contributors: `Kretzoi Miklós (author)`,
         date: `1950, on or after 17 May`,
         duration: `pp. 405-408`,
@@ -166,7 +166,7 @@ module.exports = [
         title: `<i>Stegeloxodon</i> nov. gen, a <i>Loxodonta</i> elefántok esetleges ázsiai őse`,
     },
     {
-        container: `<i>Journal of Geography</i> (<i>J</i>. <i>Geogr</i>.), journal`,
+        container: `<i>Journal of Geography</i> (<i>J</i>. <i>Geogr</i>.), print journal`,
         contributors: `Charles F. Bennett, Jr. (author)`,
         date: `April 1957`,
         duration: `pp. 168-172`,
@@ -180,7 +180,7 @@ module.exports = [
         title: `A Brief History of Trained African Elephants in the Belgian Congo`,
     },
     {
-        container: `<i>East African Wildlife Journal</i> (<i>East</i> <i>Afr</i>. <i>Wildl</i>. <i>J</i>.), journal`,
+        container: `<i>East African Wildlife Journal</i> (<i>East</i> <i>Afr</i>. <i>Wildl</i>. <i>J</i>.), print journal`,
         contributors: `Richard M. Laws (author)`,
         date: `August 1966`,
         duration: `pp. 1-37`,
@@ -194,7 +194,7 @@ module.exports = [
         title: `Age Criteria for the African Elephant <i>Loxodonta</i> <i>a</i>. <i>africana</i>`,
     },
     {
-        container: `<i>Nature</i> (<i>Nat</i>.), journal`,
+        container: `<i>Nature</i> (<i>Nat</i>.), print journal`,
         contributors: `D.A. Hooijer (author)`,
         date: `22 September 1972`,
         duration: `pp. 228`,
@@ -208,7 +208,7 @@ module.exports = [
         title: `Prehistoric Evidence for <i>Elephas maximus</i> L. in Borneo`,
     },
     {
-        container: `<i>Mammalian Species</i> (<i>Mamm</i>. <i>Species</i>), journal`,
+        container: `<i>Mammalian Species</i> (<i>Mamm</i>. <i>Species</i>), print journal`,
         contributors: `Larry Laursen (co-author); Marc Bekoff (co-author); Sydney Anderson (principal editor)`,
         date: `6 January 1978`,
         duration: `8 pp.`,
@@ -223,7 +223,7 @@ module.exports = [
         title: `<i>Loxodonta africana</i>.`,
     },
     {
-        container: `<i>Elephant</i>, journal`,
+        container: `<i>Elephant</i>, print journal`,
         contributors: `A.L. Howard (author)`,
         date: `1979, on or after 1 May`,
         duration: `pp. 36-41`,
@@ -237,7 +237,7 @@ module.exports = [
         title: `"Motty"—Birth of an African/Asian Elephant at Chester Zoo`,
     },
     {
-        container: `<i>Elephant</i>, journal`,
+        container: `<i>Elephant</i>, print journal`,
         contributors: `Jeheskel Shoshani (senior author); Daniel C. Laughlin (dissector); Franz Tisch (dissector); Jim "Chico" Williams (co-author); John D. Taylor (co-author); John W. Cosgriff, Jr. (co-author); William L. Thompson (co-author); Calvin D. Bogart (co-author); Joseph L. Gualtieri (co-author); John Hayden (co-author); Katy Morehead (chief photographer); Richard Bielaczyc (co-author, photographer); Thomas W. Roberts (co-author); Harry Maisel (co-author); Nicholas J. Mizeres (co-author); Victor T. Lakits (co-author); Jim Niedbala (co-author); W.D. Pool (co-author); Richard C. Manikowski and other Science Library Staff (co-author); Gordon W. Rose (co-author); Sandra S. Lash (co-author); Mildred Hurt (co-author);  Michael J. Baccala (co-author); Marlene A. Bulgarelli (co-author); M.  Pamela Bedore (co-author, typist, editor); Anthony Helinski (co-author); George Overbeck (co-author); Susan L. Raymer (co-author); Eyal Shy (co-author); Lee M. Peterson (co-author); Albert Wilson (co-author); Dick Frederick (co-author); Karen L. Spodarek (co-author); Irven O. Buss (reviewer); Richard M. Laws (reviewer); Lawrence D. McGill (reviewer); Sylvia K. Sikes (reviewer); Zirka S. Clark (typist, editor); Eileen D. Koglin (typist, editor); Rick Adler (co-author); Lynne Aldrich (co-author); Krysty Andrews (co-author); Allan Barbish (co-author); Susan Barry (co-author); Ron Battiata (co-author); Fran Beever (co-author); Sue ann Berbenchuk (co-author); Jeanne Blad (co-author); Larry Blad (co-author); George Booth (co-author, photographer); Nate  Bozarth (co-author); Donna Britt (co-author); John Burnet (co-author); Walter Chavin (co-author); Irene Church (co-author); Helen Crowe (co-author); Richard D. Cummings, Terry Cummings, Sherri L. DeFauw (co-author); Leslie Denes (co-author); Efstratios Efthyvoulidis (co-author); Merlin Ekstrom (co-author); Joseph G. Engelhard (co-author); Patrick English (co-author); Don Fairchild, Jr. (co-author); Carla Fisher (co-author); Kevin Frahm (co-author); Susan Francis (co-author); Judi Fried (co-author); Theodore Gaskins (co-author); Joanne Gatt (co-author); Wilma Gentles (co-author); Harry G. Goshgarian (co-author); Susan Grabowski (co-author); Debbie Haase (co-author); Kathryn Hajj (co-author); Gary Hall (co-author); Roger Hanson (co-author); Albert Hatche (co-author); Debbie Hawkins (co-author); Chris Heberer (co-author); Shawne R. Henry (co-author); M. Patricia Hensler, Chuck Heyka (co-author); Mike Kemppainen (co-author); Cathy Kendra (co-author); Bonnie Knutsen (co-author); Carl C.M. Knutsen (co-author); Joy Koenig (co-author); Louis Kolodzinski (co-author); Paul Konarske (co-author); Sue Konwinski (co-author); Stephan Kopacz (co-author); Beth Kozak (co-author); Donna M. Laciak, (co-author); David J.  Lowrie (co-author); Susan Lyman (co-author); Frances F. McCormick (co-author); Robert McDonald (co-author); Richard C. Martin (co-author); Willis W. Mathews (co-author); Stuart Meyers (co-author); Joseph Montana (co-author); David Montezinos (co-author); Kathleen M. Morehead (co-author); Pamela Moron (co-author); Audrey Muczynski (co-author); Anthony Muraski (co-author); Sean Murphy (co-author); Charles P. Otto (co-author); Cornelius Perkins, Jr. (co-author); Valerie Pfluke (co-author); Robert Powitz (co-author); Louise Radanovich (co-author); Jose A. Rafols (co-author); Dennis Reefer (co-author); Lisa Rezzonica (co-author); Edward J. Riley, Jr. (co-author); Harold W. Rossmoore (co-author); Lanette Rowland (co-author); Laura Rudy (co-author); Dave Sabo (co-author); Dallas Schneider (co-author); Paul J. Schwikert (co-author); N.O. Seraphinoff (co-author); Peter Singler (co-author); Paul Sklut (co-author); Joseph Skoney (co-author); Donald Smith (co-author); Nan Smith, Charles Storey, Peter J. Sujdak (co-author); Robert Sumner, Curtis J.  Swanson, Todd Tarrant (co-author); Ron Thielman (co-author); Ronnie Thielman (co-author); Linda Walowicz (co-author); Wayne State Fund Staff (co-author); Ann Werling (co-author); Dorit Yehiel (co-author)`,
         date: `1982, on or after 2 May`,
         duration: `pp. 3-93`,
@@ -251,7 +251,7 @@ module.exports = [
         title: `On the Dissection of a Female Asian Elephant (<u>Elephas</u> <u>maximus</u> <u>maximus</u> Linnaeus, 1758) and Data from Other Elephants`,
     },
     {
-        container: `<i>Mammalian Species</i> (<i>Mamm</i>. <i>Species</i>), journal`,
+        container: `<i>Mammalian Species</i> (<i>Mamm</i>. <i>Species</i>), print journal`,
         contributors: `Jeheskel Shoshani (co-author); John F. Eisenberg (co-author); Timothy E. Lawlor (managing editor; Daniel F. Williams (editor); Sydney Anderson (editor); M. Pamela Bedore (typist), Eileen D. Koglin (typist)`,
         date: `18 June 1982`,
         duration: `8 pp.`,
@@ -266,7 +266,7 @@ module.exports = [
         title: `<i>Elephas maximus</i>.`,
     },
     {
-        container: `<i>Bulletin of the Psychonomic Society</i> (<i>Bull</i>. <i>Psychon</i>. <i>Soc</i>.), journal`,
+        container: `<i>Bulletin of the Psychonomic Society</i> (<i>Bull</i>. <i>Psychon</i>. <i>Soc</i>.), print journal`,
         contributors: `Ronald K. Siegel (co-author); Mark Brodie (co-author)`,
         date: `July 1984`,
         duration: `pp. 49-52`,
@@ -280,7 +280,7 @@ module.exports = [
         title: `Alcohol self-administration by elephants`,
     },
     {
-        container: `<i>African Journal of Ecology</i> (<i>Afr</i>. <i>J</i>. <i>Ecol</i>.), journal`,
+        container: `<i>African Journal of Ecology</i> (<i>Afr</i>. <i>J</i>. <i>Ecol</i>.), print journal`,
         contributors: `G. Merz (author)`,
         date: `June 1986`,
         duration: `pp. 133-136`,
@@ -294,7 +294,7 @@ module.exports = [
         title: `Movement patterns and group size of the African forest elephant <i>Loxodonta africana cyclotis</i> in the Tai National Park, Ivory Coast`,
     },
     {
-        container: `<i>Animal Behavior</i> (<i>Anim</i>. <i>Behav</i>.), journal`,
+        container: `<i>Animal Behavior</i> (<i>Anim</i>. <i>Behav</i>.), print journal`,
         contributors: `Phyllis C. Lee (author)`,
         date: `February 1987`,
         duration: `pp. 278-291`,
@@ -308,7 +308,7 @@ module.exports = [
         title: `Allomothering among African elephants`,
     },
     {
-        container: '<i>IUCN/SSC Action Plans for the Conservation of Biological Diversity</i>, book series',
+        container: '<i>IUCN/SSC Action Plans for the Conservation of Biological Diversity</i>, print book series',
         contributors: `Charles Santiapillai (compiler); Peter Jackson (compiler); 
         IUCN/SSC Asian Elephant Specialist Group (compiler); Lyn de Alwis (foreword author)`,
         date: `1990`,
@@ -323,7 +323,7 @@ module.exports = [
         title: `The Asian Elephant: An Action Plan for Its Conservation`,
     },
     {
-        container: `<i>Journal of Zoology London</i> (<i>J</i>. <i>Zool</i>. <i>Lond</i>.), journal`,
+        container: `<i>Journal of Zoology London</i> (<i>J</i>. <i>Zool</i>. <i>Lond</i>.), print journal`,
         contributors: `Phyllis C. Lee (co-author); Cynthia J. Moss (co-author)`,
         date: `May 1995`,
         duration: `pp. 29-41`,
@@ -338,7 +338,7 @@ module.exports = [
         title: `Statural growth in known‐age African elephants (<i>Loxodonta africana</i>)`,
     },
     {
-        container: `<i>Acta Theriologica</i> (<i>Acta</i> <i>Theriol</i>.), journal`,
+        container: `<i>Acta Theriologica</i> (<i>Acta</i> <i>Theriol</i>.), print journal`,
         contributors: `Fred Kurt (co-author); Günther B. Hartl (co-author); Ralph Tiedemann (co-author)`,
         date: `12 October 1995 (Tuskless bulls, n.d.)`,
         duration: `pp. 125-143`,
@@ -353,7 +353,7 @@ module.exports = [
         title: `Tuskless bulls in Asian elephant <i>Elephas maximus</i>. History and population genetics of a man-made phenomenon`,
     },
     {
-        container: `<i>Biological Conservation</i> (<i>Biol</i>. <i>Conserv</i>.), journal`,
+        container: `<i>Biological Conservation</i> (<i>Biol</i>. <i>Conserv</i>.), print journal`,
         contributors: `R.F.W. Barnes (co-author); A. Blom (co-author); M.P.T. Alers (co-author)`,
         date: `1995, before 27 November`,
         duration: `pp. 125-132`,
@@ -367,7 +367,7 @@ module.exports = [
         title: `A review of the status of forest elephants <i>Loxodonta africana</i> in Central Africa`,
     },
     {
-        container: '<i>AWF Technical Handbook Series</i>,  handbook series',
+        container: '<i>AWF Technical Handbook Series</i>, print handbook series',
         contributors: `Kadzo Kangwana (editor, chapter author); Cynthia J. Moss (chapter author, copy editor); Joyce H. Poole (chapter author); Holly T. Dublin (chapter co-author); Russell Taylor (chapter co-author); Susan Mbugua (chapter author); Iain Douglas-Hamilton (chapter author); Richard Barnes (chapter author); Hugo Jachmann (chapter author); I. J. White (chapter author); Keith Lindsay (chapter author); Phyllis C. Lee (chapter author); Karen McComb (chapter author); Chris Thouless (chapter author); Hamisi Mutinda (chapter author); Nioroge Ngure (chapter author); Nigel Leader-Williams (chapter author); Ian Whyte (chapter author); Deborah Snelson (proof-reader); Chryssee Perry Martin (copy editor); Endangered Wildlife Trust (English-to-Portugese translator); Ursula Taube (English-to-French translator)`,
         date: `1996`,
         duration: `178 pp.`,
@@ -381,7 +381,7 @@ module.exports = [
         title: `Studying Elephants`,
     },
     {
-        container: `<i>Zeitschrift für Säugetierkunde</i> (<i>Z</i>. <i>Saugetierkd</i>.), journal`,
+        container: `<i>Zeitschrift für Säugetierkunde</i> (<i>Z</i>. <i>Saugetierkd</i>.), print journal`,
         contributors: `Günther B. Hartl (co-author); Fred Kurt (co-author); Ralph Tiedemann (co-author); Christine Gmeiner (co-author); K. Nadlinger (co-author); Khyne U. Mar (co-author); A. Rübel (co-author)`,
         date: `October 1996`,
         duration: `pp. 285-294`,
