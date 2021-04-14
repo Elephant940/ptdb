@@ -2,7 +2,7 @@ module.exports = [
     {
         contributors: `Cornelis Cort (printmaker)`,
         date: `1567`,
-        duration: `approx. 41.8 x 53.8 cm (16.4 x 21.2 in)`,
+        duration: `approx. 53.8 x 41.8 cm (21.2 x 16.4 in)`,
         languages: `Latin`,
         links: `<li><a href="https://www.britishmuseum.org/collection/object/P_1988-1105-8" target="_blank">From the British Museum</a><li><a href="https://www.metmuseum.org/art/collection/search/389779" target="_blank">From the Metropolitan Museum of Art</a><li><a href="https://www.rijksmuseum.nl/en/collection/RP-P-OB-7152" target="_blank">From the Rijksmuseum</a>`,
         notes: `<li>Inscription reads "From the original print by Raphael Urbinati, which is in the possession of Tommaso dei Cavalieri, a Roman noble. Antonio Lafreri Seovani printed it in Rome." Bottom right corner reads "By grant and privilege 1567" (<a href="https://www.csus.edu/indiv/r/rileymt/" target="_blank">Riley</a>, pers. comm.).<li>Rijksmueum copy formerly owned by Nicolaas Cornelis de Gijselaar, as indicated by N.G. in the bottom right corner (Lugt, 1921, p. 359).<li><a href="https://www.loc.gov/resource/pga.00039/" target="_blank">Reprint from the Library of Congress</a>, published circa 1600.`,
