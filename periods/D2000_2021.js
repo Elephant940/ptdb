@@ -293,7 +293,7 @@ module.exports = [
         title: `African elephants run from the sound of disturbed bees`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, digital serial`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, website`,
         contributors: `A. Choudhury (assessor); D.K. Lahiri Choudhury (assessor); A. Desai (assessor, reviewer); J.W. Duckworth (assessor); P.S. Easa (assessor); A.J.T. Johnsingh (assessor); Prithiviraj Fernando (assessor); S. Blair Hedges (assessor); M. Gunawardena (assessor); Fred Kurt (assessor); U. Karanth, (assessor); Adrian Lister (assessor); V. Menon (assessor); H. Riddle (assessor); A. Rübel (assessor); E. Wikramanayake (assessor); S. Hedges (reviewer)`,
         date: `2008, on or after 30 June`,
         duration: `15 pp.`,
@@ -445,7 +445,7 @@ module.exports = [
         title: `The Elephant Family Tree, Extinct and Extant`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, digital serial`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, website`,
         contributors: `A. Gopala (assessor); O. Hadian (assessor); Sunarto (assessor); A. Sitompul (assessor); A. Williams (assessor); P. Leimgruber (assessor); S.E. Chambliss (assessor); D. Gunaryardi (assessor); S. Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
         date: `2011, on or after 1 August`,
         duration: `11 pp.`,
@@ -551,8 +551,9 @@ module.exports = [
         links: `<li><a href="http://dx.doi.org/10.4202/app.00136.2014" target="_blank">From publisher (DOI: 10.4202/app.00136.2014)</a><li><a href="https://bioone.org/journals/acta-palaeontologica-polonica/volume-61/issue-3/app.00136.2014/Shoulder-Height-Body-Mass-and-Shape-of-Proboscideans/10.4202/app.00136.2014.full" target="_blank">From BioOne Complete</a><li><a href="https://www.researchgate.net/publication/280014062_Shoulder_Height_Body_Mass_and_Shape_of_Proboscideans" target="_blank">From ResearchGate</a>`,
         location: `N/A`,
         medium: `Digital journal article`,
+        notes: `<li>On Table 7, the published body mass equation for "young – Grade I" Asian elephants (<i>Elephas maximus</i>) is incorrect. The correct equation reads 3.32 × 10<sup>-4</sup> × SH<sup>2.903</sup> (Larramendi, pers. comm.).`,
         publisher: `Institute of Palaeobiology of the Polish Academy of Sciences`,
-        summary: `TBA.`,
+        summary: `Larramendi calculates the life sizes of 161 proboscidean specimens belonging to 51 species, providing detailed statistics for 11 particularly well-known species. The Graphic Double Integration (GDI) volumetric method is used to calculate body masses and new equations are employed to calculate shoulder heights.  Notable specimens include the skeleton of the famous circus elephant "Jumbo" and fossils of <i>Palaeoloxodon namadicus</i> that are calculated to be larger than <i>Paraceratherium</i>, an extinct rhino genus previously considered the largest land mammal.`,
         title: `Shoulder height, body mass and shape of proboscideans`,
     },
     {
@@ -859,7 +860,7 @@ module.exports = [
         title: `An incredibly spoilery conversation with Godzilla: King of Monsters director Mike Dougherty`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, digital serial`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, website`,
         contributors: `C. Williams (assessor, reviewer, facilitator/compiler); S.K. Tiwari (assessor, facilitator/compiler); V.R. Goswami (assessor); Shermin de Silva (assessor); A. Kumar (assessor); N. Baskaran (assessor); K. Yoganand (assessor); V. Menon (assessor); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
         date: `2020`,
         duration: `29 pp.`,
@@ -1263,7 +1264,7 @@ module.exports = [
         title: `We sequenced the oldest ever DNA, from million-year-old mammoths`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, digital serial`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, website`,
         contributors: `Kathleen S. Gobush (lead assessor); C.T. Edwards (assessor); Dave Balfour (assessor); George Wittemyer (assessor); Fiona Maisels (assessor); R.D. Taylor (assessor); J. Selier (reviewer); N. Sabanda (reviewer); J. Blanc (contributor); J.P. Ross (facilitator/compiler)`,
         date: `25 March 2021`,
         duration: `21 pp.`,
@@ -1277,7 +1278,7 @@ module.exports = [
         title: `<i>Loxodonta africana</i>`,
     },
     {
-        container: `<i>The IUCN Red List of Threatened Species</i>, digital serial`,
+        container: `<i>The IUCN Red List of Threatened Species</i>, website`,
         contributors: `Kathleen S. Gobush (lead assessor); C.T. Edwards (assessor); Fiona Maisels (assessor); George Wittemyer (assessor); Dave Balfour (assessor); R.D. Taylor (assessor); J. Selier (reviewer); N. Sabanda (reviewer); J. Blanc (contributor); J.P. Ross (facilitator/compiler)`,
         date: `25 March 2021`,
         duration: `18 pp.`,
