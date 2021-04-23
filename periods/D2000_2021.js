@@ -1210,7 +1210,7 @@ module.exports = [
     {
         container: `<i>Wikipedia</i>, website`,
         contributors: `Elephant940 (compiler)`,
-        date: `Created 29 December 2020, last updated 1 March 2021`,
+        date: `Created 29 December 2020<br>Last updated 1 March 2021`,
         duration: `953 words`,
         languages: `English`,
         links: `<li><a href="https://en.wikipedia.org/wiki/User:Elephant940/Books/Elephants" target="_blank">From publisher</a>`,
