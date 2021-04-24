@@ -397,7 +397,7 @@ module.exports = [
     {
         container: `<i>Elephant Encyclopedia</i>, website`,
         contributors: `Dan Koehl (author)`,
-        date: `Created on or after 17 January 1998, last updated on or after 23 July 2020`,
+        date: `Created on or after 17 January 1998<br>Last updated on or after 23 July 2020`,
         duration: `1120 words`,
         languages: `English`,
         links: `<li><a href="https://www.elephant.se/Motty_the_elephant_crossbreed.php?open=Living%20Elephant%20Species" target="_blank">From publisher</a>`,
