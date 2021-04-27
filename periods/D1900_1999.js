@@ -367,7 +367,7 @@ module.exports = [
         title: `A review of the status of forest elephants <i>Loxodonta africana</i> in Central Africa`,
     },
     {
-        container: '<i>AWF Technical Handbook Series</i>, print handbook series',
+        container: '<i>AWF Technical Handbook Series</i>, digital book series',
         contributors: `Kadzo Kangwana (editor, chapter author); Cynthia J. Moss (chapter author, copy editor); Joyce H. Poole (chapter author); Holly T. Dublin (chapter co-author); Russell Taylor (chapter co-author); Susan Mbugua (chapter author); Iain Douglas-Hamilton (chapter author); Richard Barnes (chapter author); Hugo Jachmann (chapter author); I. J. White (chapter author); Keith Lindsay (chapter author); Phyllis C. Lee (chapter author); Karen McComb (chapter author); Chris Thouless (chapter author); Hamisi Mutinda (chapter author); Nioroge Ngure (chapter author); Nigel Leader-Williams (chapter author); Ian Whyte (chapter author); Deborah Snelson (proof-reader); Chryssee Perry Martin (copy editor); Endangered Wildlife Trust (English-to-Portugese translator); Ursula Taube (English-to-French translator)`,
         date: `1996`,
         duration: `178 pp.`,
@@ -375,7 +375,7 @@ module.exports = [
         languages: `English, French`,
         links: `<li><a href="https://www.awf.org/about/resources/studying-elephants" target="_blank">English copy from publisher</a><li><a href="https://www.awf.org/about/resources/letude-des-elephants" target="_blank">French copy from publisher</a>`,
         location: `Nairobi, Kenya`,
-        medium: `Digital handbook`,
+        medium: `Digital book`,
         publisher: `African Wildlife Foundation (AWF)`,
         summary: `TBA.`,
         title: `Studying Elephants`,
