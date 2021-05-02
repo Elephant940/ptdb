@@ -646,7 +646,7 @@ module.exports = [
         languages: `Chinese`,
         links: `<li><a href="http://www.gov.cn/zhengce/content/2016-12/30/content_5155017.htm" target="_blank">From publisher</a>`,
         location: `Beijing, China`,
-        medium: `Web article`,
+        medium: `Digital document`,
         publisher: `State Council of the People's Republic of China`,
         summary: `TBA.`,
         title: `国务院办公厅关于有序停止商业性加工销售象牙及制品活动的通知`,
