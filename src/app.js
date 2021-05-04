@@ -61,7 +61,7 @@ searchBar.addEventListener("keyup", (e) => {
         row.languages.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.links.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.location.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
-        row.medium.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+        row.type.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.publisher.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.summary.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.title.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString)
@@ -123,7 +123,7 @@ function buildCards(data, id) {
     var row = `<div class="entry" >
             <div class="entry-heading" id=${data[i].eyedee}>
             <p class="title">${data[i].title}</p>
-            <p class="medium">${data[i].medium}</p>
+            <p class="type">${data[i].type}</p>
             </div>
             <u class="heading">Contributor(s)</u>
             <ul class="info">${data[i].contributors}</ul>
