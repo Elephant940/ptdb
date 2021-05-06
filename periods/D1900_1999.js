@@ -252,7 +252,7 @@ module.exports = [
     },
     {
         container: `<i>Mammalian Species</i> (<i>Mamm</i>. <i>Species</i>), print journal`,
-        contributors: `Jeheskel Shoshani (co-author); John F. Eisenberg (co-author); Timothy E. Lawlor (managing editor); Daniel F. Williams (editor); Sydney Anderson (editor); M. Pamela Bedore (typist), Eileen D. Koglin (typist)`,
+        contributors: `Jeheskel Shoshani (co-author); John F. Eisenberg (co-author); Timothy E. Lawlor (editor); Daniel F. Williams (editor); Sydney Anderson (editor); M. Pamela Bedore (typist), Eileen D. Koglin (typist)`,
         date: `18 June 1982`,
         duration: `8 pp.`,
         iteration: `No. 182`,
@@ -373,7 +373,7 @@ module.exports = [
         duration: `178 pp.`,
         iteration: `No. 7`,
         languages: `English, French`,
-        links: `<li><a href="https://www.awf.org/about/resources/studying-elephants" target="_blank">English copy from publisher</a><li><a href="https://www.awf.org/about/resources/letude-des-elephants" target="_blank">French copy from publisher</a>`,
+        links: `<li><a href="https://www.awf.org/about/resources/studying-elephants" target="_blank">English copy from publisher</a><li><a href="https://www.awf.org/about/resources/letude-des-elephants" target="_blank">French copy from publisher</a><li><a href="https://www.iucn.org/ssc-groups/mammals/african-elephant-specialist-group/tools-studies" target="_blank">English and French copies from the IUCN</a>`,
         location: `Nairobi, Kenya`,
         type: `Digital book`,
         publisher: `African Wildlife Foundation (AWF)`,
