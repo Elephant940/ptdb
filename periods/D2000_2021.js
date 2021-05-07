@@ -1292,6 +1292,20 @@ module.exports = [
     },
     {
         container: `<i>Nature</i> (<i>Nat</i>.), digital journal`,
+        contributors: `Alfred L. Roca (author)`,
+        date: `17 February 2021`,
+        duration: `pp. 208-209`,
+        iteration: `Vol. 591, Issue 7849`,
+        languages: `English`,
+        links: `<li><a href="https://doi.org/10.1038/d41586-021-00348-w" target="_blank">From publisher (DOI: 10.1038/d41586-021-00348-w)</a>`,
+        location: `London, England`,
+        type: `Digital journal article`,
+        publisher: `Nature Research`,
+        summary: `A layman-oriented summary of <a id="van_der_Valk_et_al_2021_color_1" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a>.`,
+        title: `A mammoth step back in genomic time`,
+    },
+    {
+        container: `<i>Nature</i> (<i>Nat</i>.), digital journal`,
         contributors: `Tom van der Valk (co-author); Patrícia Pečnerová (co-author); David Díez-del-Molino (co-author); Anders Bergström (co-author); Jonas Oppenheimer (co-author); Stefanie Hartmann (co-author); Georgios Xenikoudakis (co-author); Jessica A. Thomas (co-author); Marianne Dehasque (co-author); Ekin Sağlıcan (co-author); Fatma Rabia Fidan (co-author); Ian Barnes (co-author); Shanlin Liu (co-author); Mehmet Somel (co-author); Peter D. Heintzman (co-author); Pavel Nikolskiy (co-author); Beth Shapiro (co-author); Pontus Skoglund (co-author); Michael Hofreiter (co-author); Adrian M. Lister (co-author); Anders Götherström (co-author); Love Dalén (co-author)`,
         date: `17 February 2021`,
         duration: `pp. 265-269`,
@@ -1315,7 +1329,7 @@ module.exports = [
         location: `N/A`,
         type: `Web article`,
         publisher: `The Conversation Media Group Ltd.`,
-        summary: `A layman-oriented summary of <a id="van_der_Valk_et_al_2021_color_1" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a> by two of the paper's co-authors.`,
+        summary: `A layman-oriented summary of <a id="van_der_Valk_et_al_2021_color_2" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a> by two of the paper's co-authors.`,
         title: `We sequenced the oldest ever DNA, from million-year-old mammoths`,
     },
     {
@@ -1329,7 +1343,7 @@ module.exports = [
         location: `London, England`,
         type: `Digital journal article`,
         publisher: `Nature Research`,
-        summary: `A layman-oriented summary of <a id="van_der_Valk_et_al_2021_color_2" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a>.`,
+        summary: `A layman-oriented summary of <a id="van_der_Valk_et_al_2021_color_3" onclick="goToSource('D2000-2021','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a>.`,
         title: `A mammoth contribution to ancient genomics`,
     },
     {
