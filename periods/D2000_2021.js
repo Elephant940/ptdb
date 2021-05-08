@@ -854,7 +854,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://www.artstation.com/artwork/Jl8orn" target="_blank">From publisher</a>`,
         location: `N/A`,
-        type: `Digital concept art`,
+        type: `Digital art`,
         publisher: `ArtStation`,
         summary: `Concept art of Behemoth from <i>Godzilla: King of the Monsters</i> (2019), in which its final design can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
         title: `Godzilla III`,
