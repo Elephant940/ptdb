@@ -1278,7 +1278,7 @@ module.exports = [
     },
     {
         container: `<i>Nature</i> (<i>Nat</i>.), digital journal`,
-        contributors: `Ellen Callaway (author)`,
+        contributors: `Ewen Callaway (author)`,
         date: `17 February 2021`,
         duration: `pp. 537-538`,
         iteration: `Vol. 590, Issue 7847`,
