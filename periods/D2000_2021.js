@@ -1316,7 +1316,7 @@ module.exports = [
         location: `London, England`,
         type: `Digital journal article`,
         publisher: `Nature Research`,
-        summary: `TBA.`,
+        summary: `van der Valk and others analyze the morphology and DNA of three Siberian mammoth molars dubbed Krestovka, Adycha, and Chukochya. Biostratigraphy and molecular dating indicate Krestovka and Adycha are over a million years old, making their DNA the oldest ever sequenced. Adycha and Chukochya are likely ancestral woolly mammoth (<i>Mammuthus primigenius</i>) and have arctic adaptations previously thought to have arisen later. Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but genomic analyses suggests it belongs to an unknown mammoth lineage, possibly a new species. Comparisons to other mammoths indicate that Columbian mammoths (<i>M</i>. <i>columbi</i>) arose from interbreeding between woolly mammoths and the Krestovka lineage.`,
         title: `Million-year-old DNA sheds light on the genomic history of mammoths`,
     },
     {
