@@ -121,7 +121,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital video`,
         publisher: `YouTube`,
-        summary: `The first video uploaded to YouTube, filmed at the San Diego Zoo's elephant exhibit.`,
+        summary: `jawed is filmed speaking in front of the San Diego Zoo's elephant exhibit in the first video uploaded to YouTube.`,
         title: `Me at the zoo`,
     },
     {
@@ -190,7 +190,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital journal article`,
         publisher: `The University of Chicago Press`,
-        summary: `TBA.`,
+        summary: `Morris and colleagues test the plausibility of widespread reports that African elephants (<i>Loxodonta</i>) intoxicate themselves on ethanol found in the fermented fruit of the marula tree (<i>Sclerocarya birrea</i>).  Extrapolating from human physiology, they conclude elephants would have to consume nothing but marula fruits at an abnormally high rate to become inebriated. This, coupled with elephants' preference for fresh fruit, suggests intoxication from the fruit's ethanol content is unlikely. The authors suggest other substances in marula trees may be responsible for elephant inebriation, such as the high vitamin content of the nonfermented fruits or the poisonous beetle larvae found in the bark.`,
         title: `Myth, Marula, and Elephant: An Assessment of Voluntary Ethanol Intoxication of the African Elephant (<i>Loxodonta africana</i>) Following Feeding on the Fruit of the Marula Tree (<i>Sclerocarya birrea</i>)`,
     },
     {
@@ -745,7 +745,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital chart`,
         publisher: `Wikimedia Foundation`,
-        summary: `An illustrated comparison of a man's and a woman's heights with the average shoulder heights of male and female African bush elephants (<i>Loxodonta africana</i>) as adults and juveniles, as well as the tallest known adult male. Elephant shoulder heights are based on data from <a id="Lee_Moss_1995_color_0" onclick="goToSource('D1900-1999','Lee_Moss_1995', this.id)">Lee and Moss, 1995</a> and <a id="Larramendi_2015_color_0" onclick="goToSource('D2000-2021','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
+        summary: `Steveoc 86 provides an illustrated comparison of a man's and a woman's heights with the average shoulder heights of male and female African bush elephants (<i>Loxodonta africana</i>) as adults and juveniles, as well as the tallest known adult male. The elephant shoulder heights are based on data from <a id="Lee_Moss_1995_color_0" onclick="goToSource('D1900-1999','Lee_Moss_1995', this.id)">Lee and Moss, 1995</a> and <a id="Larramendi_2015_color_0" onclick="goToSource('D2000-2021','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
         title: `File:African-Elephant-Scale-Chart-SVG-Steveoc86.svg`,
     },
     {
@@ -828,7 +828,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital chart`,
         publisher: `Wikimedia Foundation`,
-        summary: `An illustrated comparison of a man's and a woman's heights with the estimated shoulder heights of three <i>Palaeoloxodon</i> specimens, each belonging to a different species. <i>Palaeoloxodon</i> shoulder heights are based on data from <a id="Larramendi_2015_color_1" onclick="goToSource('D2000-2021','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
+        summary: `Steveoc 86 provides an illustrated comparison of a man's and a woman's heights with the estimated shoulder heights of three <i>Palaeoloxodon</i> specimens, each belonging to a different species. The <i>Palaeoloxodon</i> shoulder heights are based on data from <a id="Larramendi_2015_color_1" onclick="goToSource('D2000-2021','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
         title: `File:Palaeoloxodon-Species-Scale-Diagram-SVG-Steveoc86.svg`,
     },
     {
@@ -1316,7 +1316,7 @@ module.exports = [
         location: `London, England`,
         type: `Digital journal article`,
         publisher: `Nature Research`,
-        summary: `van der Valk and others analyze the morphology and DNA of three Siberian mammoth molars dubbed Krestovka, Adycha, and Chukochya. Biostratigraphy and molecular dating indicate Krestovka and Adycha are over a million years old, making their DNA the oldest ever sequenced. Adycha and Chukochya are likely ancestral woolly mammoth (<i>Mammuthus primigenius</i>) and have arctic adaptations previously thought to have arisen later. Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but genomic analyses suggests it belongs to an unknown mammoth lineage, possibly a new species. Comparisons to other mammoths indicate that Columbian mammoths (<i>M</i>. <i>columbi</i>) arose from interbreeding between woolly mammoths and the Krestovka lineage.`,
+        summary: `van der Valk and others analyze and extract DNA from three Siberian mammoth molars, dubbed Krestovka, Adycha, and Chukochya. Using biostratigraphy and molecular dating, the authors conclude Krestovka and Adycha are over a million years old, making their DNA the oldest ever sequenced. Adycha and Chukochya are classified as ancestral woolly mammoths (<i>Mammuthus primigenius</i>) and are found to have adaptations to the cold previously thought to have arisen later. Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but genomic analyses suggest it belongs to an unknown mammoth lineage, possibly a new species. Phylogenetic comparisons indicate that Columbian mammoths (<i>M</i>. <i>columbi</i>) arose from interbreeding between woolly mammoths and the Krestovka lineage.`,
         title: `Million-year-old DNA sheds light on the genomic history of mammoths`,
     },
     {

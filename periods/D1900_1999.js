@@ -404,7 +404,7 @@ module.exports = [
         location: `N/A`,
         type: `Web page`,
         publisher: `Dan Koehl`,
-        summary: `A detailed summary of the birth of Motty, the only known hybrid between an Asian and African elephant. Includes firsthand information about his anatomy and nutrition from zoo staff, and a discussion of current elephant taxonomy.`,
+        summary: `Kohel provides a detailed summary of the birth of Motty, the only known hybrid between an Asian and African elephant. He includes communications with zoo staff containing firsthand information on Motty's anatomy and nutrition, and discusses the implications of Motty's birth for elephant taxonomy.`,
         title: `Motty the elephant crossbreed`,
     },
     {

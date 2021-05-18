@@ -177,7 +177,7 @@ module.exports = [
         location: `New York, United States of America`,
         type: `Print cartoon`,
         publisher: `Harper & Brothers`,
-        summary: `The earliest use of an elephant to represent the Republican Party.`,
+        summary: `Nast uses an elephant to represent the Republican vote for the first time in this political cartoon.`,
         title: `The Third Term Panic.`,
     },
     {
