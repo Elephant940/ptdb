@@ -428,7 +428,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital journal article`,
         publisher: `Public Library of Science (PLoS)`,
-        summary: `TBA.`,
+        summary: `Nadin and colleagues compare the nuclear DNA of the three living elephant species, woolly mammoths (<i>Mammuthus primigenius</i>), and for the first time, American mastodons (<i>Mammut americanum</i>). They find that bush and forest elephants are distinct species that are as genetically distant as Asian elephants are from mammoths, and that the latter two are sister taxa.`,
         title: `Genomic DNA Sequences from Mastodon and Woolly Mammoth Reveal Deep Speciation of Forest and Savanna Elephants`,
     },
     {
@@ -445,6 +445,19 @@ module.exports = [
         title: `African elephants are two distinct species`,
     },
     {
+        container: `<i>National Geographic</i>, website`,
+        contributors: `Brian Handwerk (author)`,
+        date: `22 December 2010`,
+        duration: `584 words`,
+        languages: `English`,
+        links: `<li><a href="https://www.nationalgeographic.com/animals/article/101222-african-elephants-two-species-new-science" target="_blank">From publisher</a>`,
+        location: `N/A`,
+        type: `Web article`,
+        publisher: `National Geographic Society`,
+        summary: `A layman-oriented summary of <a id="Rohland_et_al_2010_color_1" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a>, with quotes from one of the paper's co-authors.`,
+        title: `African Elephants Really Two Wildly Different Species?`,
+    },
+    {
         container: `<i>smithsonianmag.com</i>, website`,
         contributors: `Laura Helmuth (author)`,
         date: `27 December 2010`,
@@ -454,7 +467,7 @@ module.exports = [
         location: `N/A`,
         type: `Web article`,
         publisher: `Smithsonian`,
-        summary: `A layman-oriented summary of <a id="Rohland_et_al_2010_color_1" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a>.`,
+        summary: `A layman-oriented summary of <a id="Rohland_et_al_2010_color_2" onclick="goToSource('D2000-2021','Rohland_et_al_2010', this.id)">Rohland et al., 2010</a>.`,
         title: `The Elephant Family Tree, Extinct and Extant`,
     },
     {
@@ -536,7 +549,7 @@ module.exports = [
         location: `N/A`,
         type: `Web article`,
         publisher: `Bauer Media Group`,
-        summary: `Simon Otto, then Dreamworks's Head of Character animation, describes the Bewilderbeast from <i>How to Train Your Dragon 2</i> (2014) as part mammoth.`,
+        summary: `Otto, then Dreamworks's Head of Character animation, describes the Bewilderbeast from <i>How to Train Your Dragon 2</i> (2014) as part mammoth.`,
         title: `How To Create Your Dragon: The Inspirations Behind The Creatures`,
     },
     {
@@ -566,7 +579,7 @@ module.exports = [
         type: `Digital journal article`,
         notes: `<li>The published body mass equation for "young – Grade I" Asian elephants (<i>Elephas maximus</i>) on Table 7 is incorrect. It should read 3.32 × 10<sup>-4</sup> × SH<sup>2.903</sup> (Larramendi, pers. comm.).`,
         publisher: `Institute of Palaeobiology of the Polish Academy of Sciences`,
-        summary: `Larramendi calculates the life sizes of 161 individual proboscideans belonging to 51 species, providing detailed statistics for the sizes of 11 particularly well-known species. The Graphic Double Integration (GDI) volumetric method is used to calculate body masses and new equations are developed to calculate shoulder heights.  Notable specimens include the skeleton of the famous "Jumbo", and fossils of <i>Palaeoloxodon namadicus</i> that are calculated to have been larger than <i>Paraceratherium</i>, an extinct rhino genus previously considered the largest land mammal.`,
+        summary: `Larramendi estimates the life sizes of 161 specimens from 51 proboscidean species, providing detailed statistics for 11 well-known species. The Graphic Double Integration (GDI) volumetric method is used to calculate body mass, and new equations are developed for shoulder height.  Notable specimens include the skeleton of Jumbo and <i>Palaeoloxodon namadicus</i> fossils estimated to have been larger than <i>Paraceratherium</i>, an extinct rhino genus formerly considered the largest land mammal.`,
         title: `Shoulder height, body mass and shape of proboscideans`,
     },
     {
@@ -856,7 +869,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital art`,
         publisher: `ArtStation`,
-        summary: `Concept art of Behemoth from <i>Godzilla: King of the Monsters</i> (2019), in which its final design can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
+        summary: `Xu and colleagues' concept art of Behemoth from <i>Godzilla: King of the Monsters</i> (2019), in which its final design can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
         title: `Godzilla III`,
     },
     {
@@ -1329,7 +1342,7 @@ module.exports = [
         location: `London, England`,
         type: `Digital journal article`,
         publisher: `Nature Research`,
-        summary: `van der Valk and others analyze and extract DNA from three Siberian mammoth molars, dubbed Krestovka, Adycha, and Chukochya. Using biostratigraphy and molecular dating, the authors conclude Krestovka and Adycha are over a million years old, making their DNA the oldest ever sequenced. Adycha and Chukochya are classified as ancestral woolly mammoths (<i>Mammuthus primigenius</i>) and are found to have adaptations to the cold previously thought to have arisen later. Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but genomic analyses suggest it belongs to an unknown mammoth lineage, possibly a new species. Phylogenetic comparisons indicate that Columbian mammoths (<i>M</i>. <i>columbi</i>) arose from interbreeding between woolly mammoths and the Krestovka lineage.`,
+        summary: `van der Valk and others extract DNA from three Siberian mammoth molars, dubbed Krestovka, Adycha, and Chukochya. Using biostratigraphy and molecular dating, the authors conclude Krestovka and Adycha are over a million years old, making their DNA the oldest ever sequenced. Adycha and Chukochya are classified as ancestral woolly mammoths (<i>Mammuthus primigenius</i>) and are found to have adaptations to the cold previously thought to have arisen later. Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but genomic analyses suggest it belongs to an unknown mammoth lineage, possibly a new species. Phylogenetic comparisons indicate that Columbian mammoths (<i>M</i>. <i>columbi</i>) arose from interbreeding between woolly mammoths and the Krestovka lineage.`,
         title: `Million-year-old DNA sheds light on the genomic history of mammoths`,
     },
     {
