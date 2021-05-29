@@ -109,7 +109,7 @@ module.exports = [
         location: `Stockholm, Sweden`,
         type: `Print book`,
         publisher: `Laurentius Salvius`,
-        summary: `Linnaeus establishes a system of biological classification in which each animal is given a two-part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into the same genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus lists distinguishing characteristics of elephants and classifies them as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.`,
+        summary: `Linnaeus establishes a zoological classification system in which each animal is given a two-part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus lists distinguishing characteristics of elephants and classifies them as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.`,
         title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
     },
     {

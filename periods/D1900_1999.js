@@ -135,7 +135,7 @@ module.exports = [
         location: `Singapore`,
         type: `Print journal article`,
         publisher: `Raffles Museum`,
-        summary: `On page 190, Chasen recognizes Asian elephants as a single species, <i>Elephas maximus</i>, with three subspecies. He retains <a id="Linnaeus_1758_color_1" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus's</a> <i>E</i>. <i>m</i>. <i>maximus</i> for the elephants of Sri Lanka, <a id="Temminck_1847_color_0" onclick="goToSource('D1800-1899','Temminck_1847', this.id)">Temminck's</a> <i>E</i>. <i>m</i>. <i>sumatranus</i> for Sumatran elephants, and <a id="Cuvier_1798_color_1" onclick="goToSource('D1700-1799','Cuvier_1798', this.id)">Cuvier's</a> <i>E</i>. <i>m</i>. <i>indicus</i> for all other living Asian elephants.`,
+        summary: `On page 190, Chasen recognizes Asian elephants as a single species, <i>Elephas maximus</i>, with three subspecies. He retains <a id="Linnaeus_1758_color_1" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus's</a> <i>E</i>. <i>m</i>. <i>maximus</i> for the elephants of Sri Lanka, <a id="Temminck_1847_color_0" onclick="goToSource('D1800-1899','Temminck_1847', this.id)">Temminck's</a> <i>E</i>. <i>m</i>. <i>sumatranus</i> for Sumatran elephants, and <a id="Cuvier_1798_color_1" onclick="goToSource('D1700-1799','Cuvier_1798', this.id)">Cuvier's</a> <i>E</i>. <i>m</i>. <i>indicus</i> for elephants on the Asian mainland.`,
         title: `A Handlist of Malaysian Mammals`,
     },
     {
@@ -404,7 +404,7 @@ module.exports = [
         location: `N/A`,
         type: `Web page`,
         publisher: `Dan Koehl`,
-        summary: `Kohel provides a detailed summary of the birth of Motty, the only known hybrid between an Asian and African elephant. He includes communications with zoo staff containing firsthand information on Motty's anatomy and nutrition, and discusses the implications of Motty's birth for elephant taxonomy.`,
+        summary: `A detailed account of the birth of Motty, the only known hybrid between an Asian and African elephant. It includes communications with zoo staff about Motty's anatomy and nutrition, and a brief discussion on the implications of Motty's birth for elephant taxonomy.`,
         title: `Motty the elephant crossbreed`,
     },
     {

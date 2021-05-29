@@ -50,7 +50,7 @@ module.exports = [
         location: `London, England`,
         type: `Print journal article`,
         publisher: `Printed for Thomas Underwood and George Underwood`,
-        summary: `Gray elevates <a id="Illiger_1811_color_0" onclick="goToSource('D1800-1899','Illiger_1811', this.id)">Illiger's</a>  Proboscidea from a family to an order.  He recognizes and describes two proboscidean species named by Cuvier, <a id="Cuvier_1798_color_1" onclick="goToSource('D1700-1799','Cuvier_1798', this.id)"><i>Elephas indicus</i></a> and <i>Mastodon giganteum</i>, and coins the family name Elephantidae for the former and Mastodontidae for the latter.`,
+        summary: `Gray elevates <a id="Illiger_1811_color_0" onclick="goToSource('D1800-1899','Illiger_1811', this.id)">Illiger's</a> Proboscidea family to an order.  He recognizes and describes two proboscidean species named by Cuvier, <a id="Cuvier_1798_color_1" onclick="goToSource('D1700-1799','Cuvier_1798', this.id)"><i>Elephas indicus</i></a> and <i>Mastodon giganteum</i>, and coins the family name Elephantidae for the former and Mastodontidae for the latter.`,
         title: `On The Natural Arrangement of Vertebrose Animals`,
     },
     {
@@ -79,7 +79,7 @@ module.exports = [
         location: `Paris, France`,
         type: `Print book chapter`,
         publisher: `A. Belin`,
-        summary: `Cuvier argues that African elephants are anatomically distinct enough from Asian elephants to warrant placement in a separate genus, which he names <i>Loxodonte</i>.`,
+        summary: `Cuvier argues that African elephants are anatomically distinct from Asian elephants and warrant placement in a separate genus, which he names <i>Loxodonte</i>.`,
         title: `Éléphant d'Afrique.`,
     },
     {
@@ -177,7 +177,7 @@ module.exports = [
         location: `New York, United States of America`,
         type: `Print cartoon`,
         publisher: `Harper & Brothers`,
-        summary: `Nast uses an elephant to represent the Republican vote for the first time in this political cartoon.`,
+        summary: `The first use of an elephant to represent the Republican vote.`,
         title: `The Third Term Panic.`,
     },
     {

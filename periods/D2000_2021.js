@@ -121,7 +121,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital video`,
         publisher: `YouTube`,
-        summary: `jawed is filmed speaking in front of the San Diego Zoo's elephant exhibit in what becomes the first video uploaded to YouTube.`,
+        summary: `The first video uploaded to YouTube, filmed at the San Diego Zoo's elephant exhibit.`,
         title: `Me at the zoo`,
     },
     {
@@ -190,7 +190,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital journal article`,
         publisher: `The University of Chicago Press`,
-        summary: `Morris and others test the plausibility of widespread reports that African elephants (<i>Loxodonta africana</i>) intoxicate themselves on ethanol found in the fermented fruit of the marula tree (<i>Sclerocarya birrea</i>). Extrapolating from human physiology, they conclude elephants would have to consume only marula fruits at an abnormally high rate to become inebriated. Coupled with elephants' preference for fresh fruit, they conclude intoxication from the ethanol in the fruit is unlikely. The authors suggest other substances in marula trees may be responsible for elephant inebriation, such as the high vitamin content of fresh fruits or the poisonous beetle larvae found in the bark.`,
+        summary: `Morris and others test the plausibility of widespread reports that African elephants (<i>Loxodonta africana</i>) get intoxicated on the ethanol found in the fermented fruit of the marula tree (<i>Sclerocarya birrea</i>). Extrapolating from human physiology, they find that elephants would have to consume only marula fruits at an abnormally high rate to become inebriated. Coupled with elephants' preference for fresh fruit, they conclude this is unlikely. The authors suggest other substances in marula trees may be responsible for elephant intoxication, such as the high vitamin content of fresh fruits or the poisonous beetle larvae found in the bark.`,
         title: `Myth, Marula, and Elephant: An Assessment of Voluntary Ethanol Intoxication of the African Elephant (<i>Loxodonta africana</i>) Following Feeding on the Fruit of the Marula Tree (<i>Sclerocarya birrea</i>)`,
     },
     {
@@ -428,7 +428,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital journal article`,
         publisher: `Public Library of Science (PLoS)`,
-        summary: `Nadin and colleagues compare the nuclear DNA of the three living elephant species, woolly mammoths (<i>Mammuthus primigenius</i>), and for the first time, American mastodons (<i>Mammut americanum</i>). They find that bush and forest elephants are distinct species that are as genetically distant as Asian elephants are from mammoths, and that the latter two are sister taxa.`,
+        summary: `Rohland and colleagues analyze the nuclear DNA of the three living elephant species, woolly mammoths (<i>Mammuthus primigenius</i>), and for the first time, American mastodons (<i>Mammut americanum</i>). They find that bush and forest elephants are distinct species as genetically distant from each other as Asian elephants are from mammoths, and that the latter two are sister taxa.`,
         title: `Genomic DNA Sequences from Mastodon and Woolly Mammoth Reveal Deep Speciation of Forest and Savanna Elephants`,
     },
     {
@@ -549,7 +549,7 @@ module.exports = [
         location: `N/A`,
         type: `Web article`,
         publisher: `Bauer Media Group`,
-        summary: `Otto, then Dreamworks's Head of Character animation, describes the Bewilderbeast from <i>How to Train Your Dragon 2</i> (2014) as part mammoth.`,
+        summary: `Otto describes the Bewilderbeast from <i>How to Train Your Dragon 2</i> (2014), for which he was the Head of Character Animation, as part mammoth.`,
         title: `How To Create Your Dragon: The Inspirations Behind The Creatures`,
     },
     {
@@ -680,13 +680,13 @@ module.exports = [
     },
     {
         container: `<i>eLife</i>, digital journal`,
-        contributors: `Matthias Meyer (co-author); Eleftheria Palkopoulou (co-author); Sina Baleka (co-author); Mathias Stiller (co-author); Kirsty E.H. Penkman (co-author); Kurt W. Alt (co-author); Yasuko Ishida (co-author); Dietrich Mania (co-author); Swapan Mallick (co-author); Tom Meijer (co-author); Harald Meller (co-author); Sarah Nagel (co-author); Birgit Nickel (co-author); Sven Ostritz (co-author); Nadin Rohland (co-author); Karol Schauer (co-author); Tim Schüler (co-author); Alfred L/ Roca (co-author); David Reich (co-author); Beth Shapiro (co-author); Michael Hofreiter (co-author); Antonis Rokas (editor)`,
+        contributors: `Matthias Meyer (co-author); Eleftheria Palkopoulou (co-author); Sina Baleka (co-author); Mathias Stiller (co-author); Kirsty E.H. Penkman (co-author); Kurt W. Alt (co-author); Yasuko Ishida (co-author); Dietrich Mania (co-author); Swapan Mallick (co-author); Tom Meijer (co-author); Harald Meller (co-author); Sarah Nagel (co-author); Birgit Nickel (co-author); Sven Ostritz (co-author); Nadin Rohland (co-author); Karol Schauer (co-author); Tim Schüler (co-author); Alfred L. Roca (co-author); David Reich (co-author); Beth Shapiro (co-author); Michael Hofreiter (co-author); Antonis Rokas (editor)`,
         date: `6 June 2017`,
         duration: `15 pp.`,
         eyedee: `Meyer_et_al_2017`,
         iteration: `No. 6`,
         languages: `English`,
-        links: `<li><a href="https://doi.org/10.7554/eLife.25413.001" target="_blank">From publisher (DOI: 10.7554/eLife.25413.001)</a><li><a href="https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/elife-25413.pdf" target="_blank">From the David Reich Lab</a><li><a href="https://www.researchgate.net/publication/322204001_Palaeogenomes_of_Eurasian_straight-tusked_elephants_challenge_the_current_view_of_elephant_evolution" target="_blank">From ResearchGate</a>`,
+        links: `<li><a href="https://doi.org/10.7554/eLife.25413.001" target="_blank">From publisher (DOI: 10.7554/eLife.25413.001)</a><li><a href="https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/elife-25413.pdf" target="_blank">From the David Reich Lab</a><li><a href="https://dash.harvard.edu/handle/1/33490794" target="_blank">From Digital Access to Scholarship at Harvard (DASH)</a><li><a href="https://publishup.uni-potsdam.de/frontdoor/index/index/docId/44013" target="_blank">From Universität Potsdam</a><li><a href="http://europepmc.org/article/PMC/5461109" target="_blank">From White Rose Research Online</a><li><a href="http://europepmc.org/article/PMC/5461109" target="_blank">From Europe PMC</a><li><a href="https://www.researchgate.net/publication/322204001_Palaeogenomes_of_Eurasian_straight-tusked_elephants_challenge_the_current_view_of_elephant_evolution" target="_blank">From ResearchGate</a>`,
         location: `N/A`,
         type: `Digital journal article`,
         publisher: `eLife`,
@@ -758,7 +758,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital chart`,
         publisher: `Wikimedia Foundation`,
-        summary: `Steveoc 86 provides an illustrated comparison of a man's and a woman's heights with the average shoulder heights of male and female African bush elephants (<i>Loxodonta africana</i>) as adults and juveniles, as well as the tallest known adult male. The elephant shoulder heights are based on data from <a id="Lee_Moss_1995_color_0" onclick="goToSource('D1900-1999','Lee_Moss_1995', this.id)">Lee and Moss, 1995</a> and <a id="Larramendi_2015_color_0" onclick="goToSource('D2000-2021','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
+        summary: `An illustrated comparison of a man and a woman with the average shoulder heights of male and female African bush elephants (<i>Loxodonta africana</i>) as adults and juveniles, as well as the tallest known adult male. The elephant shoulder heights are taken from <a id="Lee_Moss_1995_color_0" onclick="goToSource('D1900-1999','Lee_Moss_1995', this.id)">Lee and Moss, 1995</a> and <a id="Larramendi_2015_color_0" onclick="goToSource('D2000-2021','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
         title: `File:African-Elephant-Scale-Chart-SVG-Steveoc86.svg`,
     },
     {
@@ -841,7 +841,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital chart`,
         publisher: `Wikimedia Foundation`,
-        summary: `Steveoc 86 provides an illustrated comparison of a man's and a woman's heights with the estimated shoulder heights of three <i>Palaeoloxodon</i> specimens, each belonging to a different species. The <i>Palaeoloxodon</i> shoulder heights are based on data from <a id="Larramendi_2015_color_1" onclick="goToSource('D2000-2021','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
+        summary: `An illustrated comparison of a man and a woman with the estimated shoulder heights of three <i>Palaeoloxodon</i> specimens, each belonging to a different species. The <i>Palaeoloxodon</i> shoulder heights are taken from <a id="Larramendi_2015_color_1" onclick="goToSource('D2000-2021','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
         title: `File:Palaeoloxodon-Species-Scale-Diagram-SVG-Steveoc86.svg`,
     },
     {
@@ -869,7 +869,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital art`,
         publisher: `ArtStation`,
-        summary: `Xu and colleagues' concept art of Behemoth from <i>Godzilla: King of the Monsters</i> (2019), in which its final design can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
+        summary: `Concept art of Behemoth from <i>Godzilla: King of the Monsters</i> (2019), in which its final design can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
         title: `Godzilla III`,
     },
     {
@@ -1244,7 +1244,7 @@ module.exports = [
         location: `N/A`,
         type: `Digital journal article`,
         publisher: `Elsevier`,
-        summary: `Indicates that <a id="Dzinotizei_et_al_2018_color_0" onclick="goToSource('D2000-2021','Dzinotizei_et_al_2018', this.id)">Dzinotizei et al., 2018</a> was missing a declaration of Competing Interests statement.`,
+        summary: `An article indicating <a id="Dzinotizei_et_al_2018_color_0" onclick="goToSource('D2000-2021','Dzinotizei_et_al_2018', this.id)">Dzinotizei et al., 2018</a> is missing a declaration of Competing Interests statement.`,
         title: `Erratum regarding missing declaration of Competing Interest statements in previously published articles`,
     },
     {
