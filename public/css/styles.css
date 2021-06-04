@@ -147,7 +147,7 @@ body {
     box-sizing: border-box;
     flex: 1 1 26.9589rem;
     margin: 0.625rem;
-    max-height: 45.2rem;
+    max-height: 50.1rem;
     overflow-x: auto;
     text-align: left;
     width: 100%;
@@ -209,7 +209,7 @@ ul:nth-last-child(1) {
 @media screen and (max-width: 58.25rem) {
 
     .entry {
-        max-height: 96.94rem;
+        max-height: 100.2rem;
         max-width: 100vw;
     }
 
