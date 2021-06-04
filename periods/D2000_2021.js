@@ -140,7 +140,7 @@ module.exports = [
     },
     {
         container: `<i>Genetics</i> (<i>Genet</i>.), digital journal`,
-        contributors: `Shozo Yokoyama (co-author); Naomi Takenaka (co-author); Dalen W. Agnew (co-author); Jeheskel Shoshani (co-author)`,
+        contributors: `Shozo Yokoyama (co-author); Naomi Takenaka (co-author); Dalen W. Agnew (co-author); Jeheskel Shoshani (co-author); N. Takahata (editor)`,
         date: `1 May 2005`,
         duration: `pp. 335-344`,
         iteration: `Vol. 170, No. 1`,
@@ -1450,5 +1450,18 @@ module.exports = [
         publisher: `The Conversation Media Group Ltd.`,
         summary: `A layman-oriented summary of <a id="Gobush_et_al_2021a_color_1" onclick="goToSource('D2000-2021','Gobush_et_al_2021a', this.id)">Gobush et al., 2021a</a> and <a id="Gobush_et_al_2021b_color_1" onclick="goToSource('D2000-2021','Gobush_et_al_2021b', this.id)">Gobush et al., 2021b</a>.`,
         title: `Africa’s 2 elephant species are both endangered, due to poaching and habitat loss`,
+    },
+    {
+        container: `<i>ElephantVoices</i>, website`,
+        contributors: `Joyce Poole (designer); Petter Granli (designer, programmer); Derrick Joel (programmer); Emre Izat (cinematographer); Kate Bradbury (cinematographer); Bob Poole (cinematographer); Gina Poole (cinematographer); Carla Rebai (cinematographer); Thomas Stafford (editor)`,
+        date: `25 May 2021`,
+        duration: `513 items`,
+        languages: `English`,
+        links: `<li><a href="https://elephantvoices.org/elephant-ethogram.html" target="_blank">From publisher</a>`,
+        location: `N/A`,
+        type: `Web page`,
+        publisher: `ElephantVoices`,
+        summary: `A multimedia database of African bush elephant (<i>Loxodonta africana</i>) behaviors.`,
+        title: `The Elephant Ethogram`,
     },
 ]
