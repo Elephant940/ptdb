@@ -1464,4 +1464,18 @@ module.exports = [
         title: `The Elephant Ethogram`,
         type: `Web page`,
     },
+    {
+        container: `<i>Journal of the Royal Society Interface</i> (<i>J</i>. <i>R</i>. <i>Soc</i>. <i>Interface</i>), digital journal`,
+        contributors: `Andrew K. Schulz (co-author); Jia Ning Wu (co-author); Sung Yeon Sara Ha (co-author); Greena Kim (co-author); Stephanie Braccini Slade (co-author); Sam Rivera (co-author); Joy S. Reidenberg (co-author); David L. Hu (co-author)`,
+        date: `2 June 2021`,
+        duration: `9 pp.`,
+        iteration: `Vol. 18, Issue 179`,
+        languages: `English`,
+        links: `<li><a href="https://doi.org/10.1098/rsif.2021.0215" target="_blank">From publisher (DOI: 10.1098/rspb.2008.1494)</a>`,
+        location: `N/A`,
+        publisher: `Royal Society`,
+        summary: `TBA.`,
+        title: `Suction feeding by elephants`,
+        type: `Digital journal article`,
+    },
 ]
