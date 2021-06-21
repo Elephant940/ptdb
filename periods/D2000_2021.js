@@ -723,7 +723,7 @@ module.exports = [
         date: `16 September 2016`,
         duration: `569 words`,
         languages: `English`,
-        links: `<li><a href="https://www.nature.com/news/elephant-history-rewritten-by-ancient-genomes-1.20622"target="_blank">From publisher</a>`,
+        links: `<li><a href="https://doi.org/10.1038/nature.2016.20622"target="_blank">From publisher (DOI: 10.1038/nature.2016.20622)</a>`,
         location: `London, England`,
         publisher: `Nature Publishing Group`,
         summary: `A layman-oriented summary of the announcement of <a id="Palkopoulou_et_al_2018_color_0" onclick="goToSource('D2000-2021','Palkopoulou_et_al_2018', this.id)">Palkopoulou et al., 2018</a>, with quotes from one of the paper's co-authors.`,
