@@ -159,7 +159,7 @@ module.exports = [
         duration: `pp. 307-360`,
         iteration: `Vol. 8, Pt. 1`,
         languages: `English`,
-        links: `<li><a href="https://doi.org/10.1144/GSL.JGS.1857.013.01-02.43"target="_blank">From publisher (DOI: 10.1144/GSL.JGS.1857.013.01-02.43 )</a><li><a href="https://archive.org/details/quarterlyjourna131857geol/page/307/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
+        links: `<li><a href="https://doi.org/10.1144/GSL.JGS.1857.013.01-02.43"target="_blank">From publisher (DOI: 10.1144/GSL.JGS.1857.013.01-02.43)</a><li><a href="https://archive.org/details/quarterlyjourna131857geol/page/307/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries`,
         location: `London, England`,
         publisher: `Longman, Brown, Green, Longmans, and Roberts.`,
         summary: `TBA.`,

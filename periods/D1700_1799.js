@@ -146,7 +146,7 @@ module.exports = [
         eyedee: `Linnaeus_Gmelin_1788`,
         iteration: `13th ed., Tome 1`,
         languages: `Latin`,
-        links: `<li><a href="https://archive.org/details/mobot31753000801537/page/58/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Missouri Botanical Garden<li><a href="https://archive.org/details/carolilinnsys01linn/page/58/mode/2up?view=theater"target="_blank">From Internet archive</a>, copy provided by NCSU Libraries`,
+        links: `<li><a href="https://archive.org/details/mobot31753000801537/page/58/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Missouri Botanical Garden<li><a href="https://archive.org/details/carolilinnsys01linn/page/58/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by NCSU Libraries`,
         location: `Leizpig, Germany`,
         publisher: `Georg. Emmanuel Beer`,
         summary: `The 13th edition of <a id="Linnaeus_1758_color_0" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus, 1758</a> with additions from Johann Fridrich Gmelin.  The section on elephants, "5. Elephas", has been expanded but retains most of the 10th edition's original description, and can be found on pages 58-59.`,
