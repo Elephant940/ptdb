@@ -10,7 +10,7 @@ module.exports = [
         location: `London, England`,
         publisher: `Printed for H. Clements at the Half-Moon, William Innys at the Prince-Armes in St. Paul's Churchyard, and D. Brown without Temple-Bar`,
         summary: `TBA.`,
-        title: `Osteographia Elephantina: Or, A full and exact Description of all the Bones of an Elephant, which died near Dundee, April the 27th, 1706. with their several Dimensions. Communicated in a letter to Dr. Hans Sloane, R, S, Secr.`,
+        title: `Osteographia Elephantina: Or, A full and exact Description of all the Bones of an Elephant, which died near Dundee, April the 27th, 1706. with their several Dimensions. Communicated in a letter to Dr. Hans Sloane, R. S. Secr.`,
         type: `Print journal article`,
     },
     {
