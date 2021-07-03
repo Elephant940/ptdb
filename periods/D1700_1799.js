@@ -1,6 +1,6 @@
 module.exports = [
     {
-        container: `<i>Philosophical Transactions</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
+        container: `<i>Philosophical Transactions</i> (<i>Philos</i>. <i>Trans</i>.), print journal`,
         contributors: `Patrick Blair (author)`,
         date: `1710, during or after June`,
         duration: `pp. 53-116`,
@@ -14,7 +14,7 @@ module.exports = [
         type: `Print journal article`,
     },
     {
-        container: `<i>Philosophical Transactions</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
+        container: `<i>Philosophical Transactions</i> (<i>Philos</i>. <i>Trans</i>.), print journal`,
         contributors: `Patrick Blair (author)`,
         date: `1710, during or after September`,
         duration: `pp. 117-168`,
@@ -28,7 +28,7 @@ module.exports = [
         type: `Print journal article`,
     },
     {
-        container: `<i>Philosophical Transactions</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
+        container: `<i>Philosophical Transactions</i> (<i>Philos</i>. <i>Trans</i>.), print journal`,
         contributors: `Anthony van Leeuwenhoek (author)`,
         date: `December 1712`,
         duration: `pp. 518-522`,
@@ -42,7 +42,7 @@ module.exports = [
         type: `Print journal article`,
     },
     {
-        container: `<i>Philosophical Transactions</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
+        container: `<i>Philosophical Transactions</i> (<i>Philos</i>. <i>Trans</i>.), print journal`,
         contributors: `Hans Sloane (author)`,
         date: `1728, during or after September`,
         duration: `pp. 457-471`,
@@ -57,7 +57,7 @@ module.exports = [
 
     },
     {
-        container: `<i>Philosophical Transactions</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
+        container: `<i>Philosophical Transactions</i> (<i>Philos</i>. <i>Trans</i>.), print journal`,
         contributors: `John Philip Breyne (author)`,
         date: `1739`,
         duration: `pp. 124-125`,
@@ -71,7 +71,7 @@ module.exports = [
         type: `Print journal article`,
     },
     {
-        container: `<i>Philosophical Transactions</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
+        container: `<i>Philosophical Transactions</i> (<i>Philos</i>. <i>Trans</i>.), print journal`,
         contributors: `John Philip Breyne (author)`,
         date: `1739`,
         duration: `pp. 125-130`,
@@ -85,7 +85,7 @@ module.exports = [
         type: `Print journal article`,
     },
     {
-        container: `<i>Philosophical Transactions</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
+        container: `<i>Philosophical Transactions</i> (<i>Philos</i>. <i>Trans</i>.), print journal`,
         contributors: `Michael Wolochowicz (author); T.S. (Latin-to-English translator)`,
         date: `1739`,
         duration: `pp. 130-138`,
@@ -113,7 +113,7 @@ module.exports = [
         type: `Print book`,
     },
     {
-        container: `<i>Philosophical Transactions</i> (<i>Phil</i>. <i>Trans</i>.), print journal`,
+        container: `<i>Philosophical Transactions</i> (<i>Philos</i>. <i>Trans</i>.), print journal`,
         contributors: `William Hunter (author)`,
         date: `1769, on or after 15 June`,
         duration: `pp. 34-45`,
@@ -195,7 +195,7 @@ module.exports = [
         type: `Print book`,
     },
     {
-        container: `<i>Philosophical Transactions of the Royal Society of London</i> (<i>Phil</i>. <i>Trans</i>. <i>R</i>. <i>Soc</i>. <i>Lond</i>.), print journal`,
+        container: `<i>Philosophical Transactions of the Royal Society of London</i> (<i>Philos</i>. <i>Trans</i>. <i>R</i>. <i>Soc</i>. <i>Lond</i>.), print journal`,
         contributors: `John Corse (author)`,
         date: `1799, on or after 13 June`,
         duration: `pp. 205-236`,
@@ -209,7 +209,7 @@ module.exports = [
         type: `Print journal article`,
     },
     {
-        container: `<i>Philosophical Transactions of the Royal Society of London</i> (<i>Phil</i>. <i>Trans</i>. <i>R</i>. <i>Soc</i>. <i>Lond</i>.), print journal`,
+        container: `<i>Philosophical Transactions of the Royal Society of London</i> (<i>Philos</i>. <i>Trans</i>. <i>R</i>. <i>Soc</i>. <i>Lond</i>.), print journal`,
         contributors: `Everard Home (author)`,
         date: `1799, on or after 13 June`,
         duration: `pp. 237-258`,
