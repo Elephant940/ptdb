@@ -1,6 +1,6 @@
 module.exports = [
     {
-        contributors: `Cornelis Cort (engraver)`,
+        contributors: `Cornelis Cort (printmaker)`,
         date: `1567`,
         duration: `approx. 41.8 x 53.9 cm (16.4 x 21.2 in)`,
         languages: `Latin`,

@@ -178,7 +178,7 @@ module.exports = [
     },
     {
         container: `<i>Harper's Weekly. A Journal of Civilization.</i>, magazine`,
-        contributors: `Thomas Nast (cartoonist)`,
+        contributors: `Thomas Nast (printmaker)`,
         date: `7 November 1874`,
         duration: `p. 912`,
         iteration: `Vol. 18, No. 932`,
