@@ -990,7 +990,7 @@ module.exports = [
         publisher: `ArtStation`,
         summary: `Concept art of Behemoth from <i>Godzilla: King of the Monsters</i> (2019), in which its final design can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
         title: `Godzilla III`,
-        type: `Image`,
+        type: `Illustration`,
     },
     {
         container: `<i>Frontiers in Ecology and Evolution</i> (<i>Front</i>. <i>Ecol</i>. <i>Evol</i>.), journal`,
@@ -1437,10 +1437,10 @@ module.exports = [
         type: `Web page`,
     },
     {
-        container: `<i>A Moment of Science</i>, radio program`,
+        container: `<i>A Moment of Science</i>, broadcast`,
         contributors: `Don Glass (co-host, producer); Yaël Ksander (co-host); Paul Patton (author); Nicola Clayton (reviewer)`,
         date: `8 February 2021`,
-        duration: `<li>Article: 261 words<li>Radio program episode: 2 min`,
+        duration: `<li>Article: 261 words<li>Broadcast episode: 2 min`,
         eyedee: `Patton_2021`,
         languages: `English`,
         links: `<li><a href="https://indianapublicmedia.org/amomentofscience/do-elephants-grieve-their-dead.php"target="_blank">From publisher</a>`,
@@ -1448,7 +1448,7 @@ module.exports = [
         publisher: `Indiana Public Media`,
         summary: `A layman-oriented summary of <a id="Goldenberg_Wittemyer_2019_color_0" onclick="goToSource('D2000-2021','Goldenberg_Wittemyer_2019', this.id)">Goldenberg and Wittemyer, 2019</a>.`,
         title: `Do Elephants Grieve Their Dead?`,
-        type: `Web article and radio program episode`,
+        type: `Web article and broadcast episode`,
     },
     {
         container: `<i>Nature</i> (<i>Nat</i>.), journal`,
