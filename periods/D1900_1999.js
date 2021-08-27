@@ -370,7 +370,7 @@ module.exports = [
         contributors: `Fred Kurt (co-author); Günther B. Hartl (co-author); Ralph Tiedemann (co-author)`,
         date: `12 October 1995 (Tuskless bulls, n.d.)`,
         duration: `pp. 125-143`,
-        iteration: `Suppl. 3`,
+        iteration: `Tome 40, Suppl. 3`,
         languages: `English`,
         links: `<li><a href="https://doi.org/10.4098/at.arch.95-51"target="_blank">From publisher (DOI: 10.4098/at.arch.95-51)</a> through Repozytorium Cyfrowe Instytutów Naukowych`,
         location: `Białowieża, Poland`,
@@ -383,7 +383,7 @@ module.exports = [
     {
         container: `<i>Biological Conservation</i> (<i>Biol</i>. <i>Conserv</i>.), journal`,
         contributors: `R.F.W. Barnes (co-author); A. Blom (co-author); M.P.T. Alers (co-author)`,
-        date: `1995, before 27 November`,
+        date: `1995, before May`,
         duration: `pp. 125-132`,
         iteration: `Vol. 71, Issue 2`,
         languages: `English`,
@@ -391,7 +391,7 @@ module.exports = [
         location: `Oxford, England`,
         publisher: `Elsevier Science Limited`,
         summary: `TBA.`,
-        title: `A review of the status of forest elephants <i>Loxodonta africana</i> in Central Africa`,
+        title: `A Review of the Status of Forest Elephants <i>Loxodonta africana</i> in Central Africa`,
         type: `Journal article`,
     },
     {
