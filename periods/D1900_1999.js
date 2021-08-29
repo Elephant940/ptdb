@@ -410,7 +410,7 @@ module.exports = [
     },
     {
         container: `<i>Zeitschrift für Säugetierkunde</i> (<i>Z</i>. <i>Saugetierkd</i>.), journal`,
-        contributors: `Günther B. Hartl (co-author); Fred Kurt (co-author); Ralph Tiedemann (co-author); Christine Gmeiner (co-author); K. Nadlinger (co-author); Khyne U. Mar (co-author); A. Rübel (co-author)`,
+        contributors: `Günther B. Hartl (co-author); Fred Kurt (co-author); Ralph Tiedemann (co-author); Christine Gmeiner (co-author); K. Nadlinger (co-author); Khyne U Mar (co-author); A. Rübel (co-author)`,
         date: `October 1996`,
         duration: `pp. 285-294`,
         iteration: `Vol. 61, No. 5`,

@@ -374,7 +374,7 @@ module.exports = [
     },
     {
         container: `<i>Science</i> (<i>Sci</i>.), journal`,
-        contributors: `Ros Clubb (co-author); Marcus Rowcliffe (co-author); Phyllis C. Lee (co-author); Khyne U. Mar (co-author); Cynthia J. Moss (co-author); Georgia J. Mason (co-author)`,
+        contributors: `Ros Clubb (co-author); Marcus Rowcliffe (co-author); Phyllis C. Lee (co-author); Khyne U Mar (co-author); Cynthia J. Moss (co-author); Georgia J. Mason (co-author)`,
         date: `12 December 2008`,
         duration: `p. 1649`,
         iteration: `Vol. 322, Issue 5908`,
@@ -990,7 +990,7 @@ module.exports = [
         publisher: `ArtStation`,
         summary: `Concept art of Behemoth from <i>Godzilla: King of the Monsters</i> (2019), in which its final design can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
         title: `Godzilla III`,
-        type: `Illustration`,
+        type: `Image`,
     },
     {
         container: `<i>Frontiers in Ecology and Evolution</i> (<i>Front</i>. <i>Ecol</i>. <i>Evol</i>.), journal`,
