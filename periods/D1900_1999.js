@@ -113,7 +113,7 @@ module.exports = [
     {
         contributors: `Henry Fairfield Osborn (author); Mabel Rice Percy (editor)`,
         date: `15 August 1936`,
-        duration: `802 pp.`,
+        duration: `pp. 1-802`,
         iteration: `Vol. 1 <i>Moeritherioidea, Deinotherioidea, Mastodontoidea</i>`,
         languages: `English`,
         links: `<li><a href="https://archive.org/details/proboscideamonog01osbo/page/n12/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library`,
@@ -140,7 +140,7 @@ module.exports = [
     {
         contributors: `Henry Fairfield Osborn (author); Mabel Rice Percy (editor)`,
         date: `1942`,
-        duration: `1675 pp.`,
+        duration: `pp. 805-1675`,
         iteration: `Vol. 2 <i>Stegodontoidea, Elephantoidea</i>`,
         languages: `English`,
         links: `<li><a href="https://archive.org/details/proboscideamonog02osbo/page/n10/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library`,
