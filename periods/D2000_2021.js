@@ -306,7 +306,7 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, website`,
-        contributors: `A. Choudhury (co-author); D.K. Lahiri Choudhury (co-author); A. Desai (co-author, reviewer); J.W. Duckworth (co-author); P.S. Easa (co-author); A.J.T. Johnsingh (co-author); Prithiviraj Fernando (co-author); S. Blair Hedges (co-author); M. Gunawardena (co-author); Fred Kurt (co-author); U. Karanth, (co-author); Adrian Lister (co-author); V. Menon (co-author); H. Riddle (co-author); A. Rübel (co-author); E. Wikramanayake (co-author); S. Hedges (reviewer)`,
+        contributors: `A. Choudhury (co-author); D.K. Lahiri Choudhury (co-author); A. Desai (co-author, reviewer); J.W. Duckworth (co-author); P.S. Easa (co-author); A.J.T. Johnsingh (co-author); Prithiviraj Fernando (co-author); S. Blair Hedges (co-author); M. Gunawardena (co-author); Fred Kurt (co-author); U. Karanth, (co-author); Adrian Lister (co-author); V. Menon (co-author); H. Riddle (co-author); A. Rübel (co-author); E. Wikramanayake (co-author); S. Blair Hedges (reviewer)`,
         date: `2008, on or after 30 June`,
         duration: `15 pp.`,
         languages: `English`,
@@ -498,7 +498,7 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, website`,
-        contributors: `A. Gopala (co-author); O. Hadian (co-author); Sunarto (co-author); A. Sitompul (co-author); A. Williams (co-author); P. Leimgruber (co-author); S.E. Chambliss (co-author); D. Gunaryardi (co-author); S. Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
+        contributors: `A. Gopala (co-author); O. Hadian (co-author); Sunarto (co-author); A. Sitompul (co-author); A. Williams (co-author); P. Leimgruber (co-author); S.E. Chambliss (co-author); D. Gunaryardi (co-author); S. Blair Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
         date: `2011, on or after 1 August`,
         duration: `11 pp.`,
         languages: `English`,
