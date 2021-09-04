@@ -1219,7 +1219,7 @@ module.exports = [
     {
         container: `<i>PLoS ONE</i>, journal`,
         contributors: `Collin M. Brand (co-author); Mireille B. Johnson (co-author); Lillian D. Parker (co-author); Jesús E. Maldonado (co-author); Lisa Korte (co-author); Hadrian Vanthomme (co-author); Alfonso Alonso (co-author); Maria Jose Ruiz-Lopez (co-author); Caitlin Wells (co-author); Nelson Ting (co-author)`,
-        date: `29 Aprill 2020`,
+        date: `29 April 2020`,
         duration: `15 pp.`,
         iteration: `Vol. 15, Issue 4`,
         languages: `English`,
