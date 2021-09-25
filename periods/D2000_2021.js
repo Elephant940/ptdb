@@ -990,7 +990,7 @@ module.exports = [
         publisher: `ArtStation`,
         summary: `Concept art of Behemoth from <i>Godzilla: King of the Monsters</i> (2019), in which its final design can be seen alongside an earlier draft that more closely resembled a proboscidean.`,
         title: `Godzilla III`,
-        type: `Image`,
+        type: `Drawing`,
     },
     {
         container: `<i>Frontiers in Ecology and Evolution</i> (<i>Front</i>. <i>Ecol</i>. <i>Evol</i>.), journal`,
