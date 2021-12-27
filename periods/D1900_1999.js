@@ -389,7 +389,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://doi.org/10.1016/0006-3207(94)00014-H"target="_blank">From publisher (DOI: 10.1016/0006-3207(94)00014-H)</a><li><a href="https://www.academia.edu/23491712/A_review_of_the_status_of_forest_elephants_Loxodonta_africana_in_Central_Africa"target="_blank">From Academia</a>`,
         location: `Oxford, England`,
-        publisher: `Elsevier Science Limited`,
+        publisher: `Elsevier Science Ltd.`,
         summary: `TBA.`,
         title: `A Review of the Status of Forest Elephants <i>Loxodonta africana</i> in Central Africa`,
         type: `Journal article`,
