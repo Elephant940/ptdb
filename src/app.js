@@ -6,8 +6,8 @@ getAllPeriods();
 var counter = document.getElementById("counter");
 var currentTab = "B1700_entries";
 var searchArray = [];
-var B1700, D1700_1799, D1800_1899, D1900_1999, D2000_2021 = [];
-var currentTabCards_html, B1700_html, D1700_1799_html, D1800_1899_html, D1900_1999_html, D2000_2021_html = "";
+var B1700, D1700_1799, D1800_1899, D1900_1999, D2000_2022 = [];
+var currentTabCards_html, B1700_html, D1700_1799_html, D1800_1899_html, D1900_1999_html, D2000_2022_html = "";
 var searched = false;
 
 document.getElementById("B1700").addEventListener("click", (e) => {
@@ -38,11 +38,11 @@ document.getElementById("D1900-1999").addEventListener("click", (e) => {
     currentTabCards_html = D1900_1999_html;
   });
 
-document.getElementById("D2000-2021").addEventListener("click", (e) => {
+document.getElementById("D2000-2022").addEventListener("click", (e) => {
     clearSearchBar();
-    searchArray = D2000_2021;
-    currentTab = "D2000-2021_entries";
-    currentTabCards_html = D2000_2021_html;
+    searchArray = D2000_2022;
+    currentTab = "D2000-2022_entries";
+    currentTabCards_html = D2000_2022_html;
   });
 
 window.goToSource = function (tab, source, eyedee) {
@@ -102,11 +102,11 @@ async function getAllPeriods() {
   D1900_1999 = myPeriodAndHTML.myPeriod;
   D1900_1999_html = myPeriodAndHTML.html;
 
-  myPeriodAndHTML = await getPeriod("D2000-2021_entries", "D2000-2021");
-  D2000_2021 = myPeriodAndHTML.myPeriod;
-  D2000_2021_html = myPeriodAndHTML.html;
+  myPeriodAndHTML = await getPeriod("D2000-2022_entries", "D2000-2022");
+  D2000_2022 = myPeriodAndHTML.myPeriod;
+  D2000_2022_html = myPeriodAndHTML.html;
 
-  counter.innerHTML = B1700.length + D1700_1799.length + D1800_1899.length + D1900_1999.length + D2000_2021.length;
+  counter.innerHTML = B1700.length + D1700_1799.length + D1800_1899.length + D1900_1999.length + D2000_2022.length;
 }
 
 async function getPeriod(id, endpoint) {
