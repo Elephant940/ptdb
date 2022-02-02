@@ -310,7 +310,7 @@ module.exports = [
         date: `2008, on or after 30 June`,
         duration: `15 pp.`,
         languages: `English`,
-        links: `<li><a href="https://dx.doi.org/10.2305/IUCN.UK.2008.RLTS.T7140A12828813.en"target="_blank">From publisher (DOI: 10.2305/IUCN.UK.2008.RLTS.T7140A12828813.en)</a>`,
+        links: `<li><a href="https://www.iucnredlist.org/species/7140/12828813"target="_blank">From publisher</a>`,
         location: `Gland, Switzerland`,
         publisher: `International Union for Conservation of Nature and Natural Resources (IUCN)`,
         summary: `TBA.`,
