@@ -880,7 +880,7 @@ module.exports = [
         publisher: `Wikimedia Foundation`,
         summary: `An illustrated comparison of a man and a woman with the average shoulder heights of male and female African bush elephants (<i>Loxodonta africana</i>) as adults and juveniles, as well as the tallest known adult male. The elephant shoulder heights are taken from <a id="Lee_Moss_1995_color_0" onclick="goToSource('D1900-1999','Lee_Moss_1995', this.id)">Lee and Moss, 1995</a> and <a id="Larramendi_2015_color_0" onclick="goToSource('D2000-2022','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
         title: `File:African-Elephant-Scale-Chart-SVG-Steveoc86.svg`,
-        type: `Chart`,
+        type: `Diagram`,
     },
     {
         container: `<i>Zoological Journal of the Linnean Society</i> (<i>Zool</i>. <i>J</i>. <i>Linn</i>. <i>Soc</i>.), journal`,
@@ -962,7 +962,7 @@ module.exports = [
         publisher: `Wikimedia Foundation`,
         summary: `An illustrated comparison of a man and a woman with the estimated shoulder heights of three <i>Palaeoloxodon</i> specimens, each belonging to a different species. The <i>Palaeoloxodon</i> shoulder heights are taken from <a id="Larramendi_2015_color_1" onclick="goToSource('D2000-2022','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
         title: `File:Palaeoloxodon-Species-Scale-Diagram-SVG-Steveoc86.svg`,
-        type: `Chart`,
+        type: `Diagram`,
     },
     {
         container: `<i>Remote Sensing Applications: Society and Environment</i> (<i>Remote</i> <i>Sens</i>. <i>Appl</i>. <i>Soc</i>. <i>Environ</i>.), journal`,
