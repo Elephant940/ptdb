@@ -251,7 +251,7 @@ module.exports = [
     },
     {
         container: `<i>Mammalian Species</i> (<i>Mamm</i>. <i>Species</i>), journal`,
-        contributors: `Jeheskel Shoshani (co-author); M. Pamela Bedore (typist); Eileen D. Koglin (typist);John F. Eisenberg (co-author); Daniel F. Williams (editor); Sydney Anderson (editor); Timothy E. Lawlor (editor)`,
+        contributors: `Jeheskel Shoshani (co-author); John F. Eisenberg (co-author); M. Pamela Bedore (typist); Eileen D. Koglin (typist); Daniel F. Williams (editor); Sydney Anderson (editor); Timothy E. Lawlor (editor)`,
         date: `18 June 1982`,
         duration: `8 pp.`,
         iteration: `No. 182`,
