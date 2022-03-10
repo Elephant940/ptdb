@@ -738,7 +738,7 @@ module.exports = [
         eyedee: `Thouless_et_al_2016`,
         iteration: `No. 60`,
         languages: `English`,
-        links: `<li><a href="https://portals.iucn.org/library/node/46878"target="_blank">From publisher</a><li><a href="https://www.dropbox.com/s/7a8w3kk6r9hzm0r/AfESG%20African%20Elephant%20Status%20Report%202016.pdf?dl=1"target="_blank">From publisher</a><li><a href="https://www.researchgate.net/publication/308648066_African_Elephant_Status_Report_2016_an_update_from_the_African_Elephant_Database"target="_blank">From ResearchGate</a><li><a href="https://conservationaction.co.za/wp-content/uploads/2016/10/AfESG-African-Elephant-Status-Report-2016-Executive-Summary-only.pdf"target="_blank">From Conservation Action Trust</a>`,
+        links: `<li><a href="https://portals.iucn.org/library/node/46878"target="_blank">From publisher</a><li><a href="https://www.researchgate.net/publication/308648066_African_Elephant_Status_Report_2016_an_update_from_the_African_Elephant_Database"target="_blank">From ResearchGate</a><li><a href="https://conservationaction.co.za/wp-content/uploads/2016/10/AfESG-African-Elephant-Status-Report-2016-Executive-Summary-only.pdf"target="_blank">From Conservation Action Trust</a>`,
         location: `Gland, Switzerland`,
         publisher: `International Union for Conservation of Nature and Natural Resources (IUCN)`,
         summary: `TBA.`,
