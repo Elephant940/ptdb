@@ -374,7 +374,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://doi.org/10.4098/at.arch.95-51"target="_blank">From publisher (DOI: 10.4098/at.arch.95-51)</a> through Repozytorium Cyfrowe Instytutów Naukowych`,
         location: `Białowieża, Poland`,
-        publisher: `Mammal Research Institute of the Polish Academy of Sciences`,
+        publisher: `Mammal Research Institute`,
         references: `<ul class="refs">Tuskless bulls in Asian elephant Elephas maximus. History and population genetics of a man-made phenomenon. (n.d.). <i>Scilit</i>. <a href="https://www.scilit.net/article/2eeb3de43a2074f5147565699a2c31c5"target="_blank">https://www.scilit.net/article/2eeb3de43a2074f5147565699a2c31c5</a></ul>`,
         summary: `TBA.`,
         title: `Tuskless bulls in Asian elephant <i>Elephas maximus</i>. History and population genetics of a man-made phenomenon`,
