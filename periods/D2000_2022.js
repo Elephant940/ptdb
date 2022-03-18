@@ -880,7 +880,7 @@ module.exports = [
         publisher: `Steveoc 86`,
         summary: `An illustrated comparison of a man and a woman with the average shoulder heights of male and female African bush elephants (<i>Loxodonta africana</i>) as adults and juveniles, as well as the tallest known adult male. The elephant shoulder heights are taken from <a id="Lee_Moss_1995_color_0" onclick="goToSource('D1900-1999','Lee_Moss_1995', this.id)">Lee and Moss, 1995</a> and <a id="Larramendi_2015_color_0" onclick="goToSource('D2000-2022','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
         title: `File:African-Elephant-Scale-Chart-SVG-Steveoc86.svg`,
-        type: `Diagram`,
+        type: `Drawing`,
     },
     {
         container: `<i>Zoological Journal of the Linnean Society</i> (<i>Zool</i>. <i>J</i>. <i>Linn</i>. <i>Soc</i>.), journal`,
@@ -962,7 +962,7 @@ module.exports = [
         publisher: `Steveoc 86`,
         summary: `An illustrated comparison of a man and a woman with the estimated shoulder heights of three <i>Palaeoloxodon</i> specimens, each belonging to a different species. The <i>Palaeoloxodon</i> shoulder heights are taken from <a id="Larramendi_2015_color_1" onclick="goToSource('D2000-2022','Larramendi_2015', this.id)">Larramendi, 2015</a>.`,
         title: `File:Palaeoloxodon-Species-Scale-Diagram-SVG-Steveoc86.svg`,
-        type: `Diagram`,
+        type: `Drawing`,
     },
     {
         container: `<i>Remote Sensing Applications: Society and Environment</i> (<i>Remote</i> <i>Sens</i>. <i>Appl</i>. <i>Soc</i>. <i>Environ</i>.), journal`,
@@ -1300,7 +1300,7 @@ module.exports = [
         type: `Newspaper article`,
     },
     {
-        container: `<i>Pokémon Trading Card Game: Sword and Shield — Darkness Ablaze</i>, card set`,
+        container: `<i>Pokémon Trading Card Game: Sword and Shield — Darkness Ablaze</i>, collecting card set`,
         contributors: `Kouki Saito (illustrator)`,
         date: `<li>Japanese copy: 5 June 2020 (ムゲンゾーン, 2020)<li>English copy: 14 August 2020 (Sword & Shield, 2020)`,
         duration: `6.3 x 8.8 cm (2.5 x 3.5 in)`,
@@ -1312,7 +1312,7 @@ module.exports = [
         references: `<ul class="refs">ムゲンゾーン (2020). <i>ポケモンカードゲーム</i>. <a href="https://www.pokemon-card.com/ex/s3/"target="_blank">https://www.pokemon-card.com/ex/s3/</a></ul><br><ul class="refs">Sword & Shield—Darkness Ablaze (2020). <i>The Official Pokémon Website</i>. <a href="https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/"target="_blank">https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/</a></ul>`,
         summary: `TBA.`,
         title: `Copperajah`,
-        type: `Trading card`,
+        type: `Collecting card`,
     },
     {
         container: `<i>Reuters</i>, website`,
