@@ -787,7 +787,7 @@ module.exports = [
         type: `Web article`,
     },
     {
-        container: `<i>WCSNewsroom</i>, website`,
+        container: `<i>WCS Newsroom</i>, website`,
         contributors: `Wildlife Conservation Society (translator)`,
         date: `3 January 2017`,
         duration: `857 words`,
@@ -822,7 +822,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://news.illinois.edu/view/6367/510687"target="_blank">From publisher</a><li><a href="https://phys.org/news/2017-06-genetic-elephant-family-tree.html"target="_blank">From Phys.org</a></a><li><a href="https://www.sciencedaily.com/releases/2017/06/170606112809.htm"target="_blank">From ScienceDaily</a>`,
         location: `N/A`,
-        publisher: `University of Illinois at Urbana-Champaign`,
+        publisher: `University of Illinois Urbana-Champaign`,
         summary: `A layman-oriented summary of <a id="Meyer_et_al_2017_color_0" onclick="goToSource('D2000-2022','Meyer_et_al_2017', this.id)">Meyer et al., 2017</a>, with quotes from four of the article's co-authors.`,
         title: `Genetic study shakes up the elephant family tree`,
         type: `Web article`,
@@ -939,7 +939,7 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        container: `<i>WCSNewsroom</i>, website`,
+        container: `<i>WCS Newsroom</i>, website`,
         contributors: `Anonymous`,
         date: `22 March 2018`,
         duration: `<li>Article: 216 words<li>Video: 57 s`,
