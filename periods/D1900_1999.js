@@ -451,7 +451,7 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>., <i>PNAS</i>), journal`,
+        container: `<i>Proceedings of the National Academy of Sciences</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>., <i>PNAS</i>), journal`,
         contributors: `Michael J. Stanhope (co-author); Victor G. Waddell (co-author); Ole Madsen (co-author); Wilfried de Jong (co-author); S. Blair Hedges (co-author); Gregory C. Cleven (co-author); Diana Kao (co-author); Mark S. Springer (co-author); Roy J. Britten (editor)`,
         date: `18 August 1998`,
         duration: `pp. 9967–9972`,
@@ -459,7 +459,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://doi.org/10.1073/pnas.95.17.9967"target="_blank">From publisher (DOI: 10.1073/pnas.95.17.9967)</a><li><a href="https://www.jstor.org/stable/45590"target="_blank">From JSTOR</a><li><a href="https://www.researchgate.net/publication/235608390_Molecular_evidence_for_multiple_origins_of_the_Insectivora_and_for_a_new_order_of_endemic_African_mammals"target="_blank">From ResearchGate</a>`,
         location: `Washington, D.C., United States of America`,
-        publisher: `National Academy of Sciences of the United States of America (NAS)`,
+        publisher: `National Academy of Sciences (NAS)`,
         summary: `TBA.`,
         title: `Molecular evidence for multiple origins of Insectivora and for a new order of endemic African insectivore mammals`,
         type: `Journal article`,
