@@ -264,7 +264,7 @@ module.exports = [
     },
     {
         container: `<i>Journal of Anatomy</i> (<i>J</i>. <i>Anat</i>.), journal`,
-        contributors: `D.M. Bouley (co-author); C.N. Alarcón (co-author); Thomas Hildebrandt (co-author); Caitlin E. O’Connell‐Rodwell (co-author)`,
+        contributors: `D.M. Bouley (co-author); C.N. Alarcón (co-author); Thomas Hildebrandt (co-author); Caitlin E. O'Connell-Rodwell (co-author)`,
         date: `15 August 2007`,
         duration: `pp. 428-435`,
         iteration: `Vol. 211, Issue 4`,
@@ -994,12 +994,12 @@ module.exports = [
     },
     {
         container: `<i>Frontiers in Ecology and Evolution</i> (<i>Front</i>. <i>Ecol</i>. <i>Evol</i>.), journal`,
-        contributors: `L. Jen Shaffer (co-author); Kapil K. Khadka (co-author); Jamon Van Den Hoek (co-author); Kusum J. Naithani (co-author)`,
+        contributors: `L. Jen Shaffer (co-author); Kapil K. Khadka (co-author); Jamon Van Den Hoek (co-author); Kusum J. Naithani (co-author), Matt W. Hayward (editor), Sarah-Anne Jeanetta Selier (reviewer), Mirko Di Febbraro (reviewer)`,
         date: `11 January 2019`,
         duration: `12 pp.`,
         iteration: `Vol. 6, No. 235`,
         languages: `English`,
-        links: `<li><a href="https://doi.org/10.3389/fevo.2018.00235"target="_blank">From publisher (DOI: 10.3389/fevo.2018.00235)</a><li><a href="https://www.semanticscholar.org/paper/Human-Elephant-Conflict%3A-A-Review-of-Current-and-Shaffer-Khadka/91eecebb9970521150e68757cb00fc5a4aa7ee8f"target="_blank">From Semantic Scholar</a><li><a href="https://www.researchgate.net/publication/330330444_Human-Elephant_Conflict_A_Review_of_Current_Management_Strategies_and_Future_Directions"target="_blank">From ResearchGate</a>`,
+        links: `<li><a href="https://doi.org/10.3389/fevo.2018.00235"target="_blank">From publisher (DOI: 10.3389/fevo.2018.00235)</a><li><a href="https://web.archive.org/web/20210322002434/https://pdfs.semanticscholar.org/91ee/cebb9970521150e68757cb00fc5a4aa7ee8f.pdf"target="_blank">From Semantic Scholar</a>, archived in the Wayback Machine<li><a href="https://www.researchgate.net/publication/330330444_Human-Elephant_Conflict_A_Review_of_Current_Management_Strategies_and_Future_Directions"target="_blank">From ResearchGate</a>`,
         location: `N/A`,
         publisher: `Frontiers`,
         summary: `TBA.`,
@@ -1522,7 +1522,7 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, website`,
-        contributors: `Kathleen S. Gobush (co-author); C.T. Edwards (co-author); Dave Balfour (co-author); George Wittemyer (co-author); Fiona Maisels (co-author); R.D. Taylor (co-author); J. Selier (reviewer); N. Sabanda (reviewer); J.J. Blanc (contributor); J.P. Ross (compiler)`,
+        contributors: `Kathleen S. Gobush (co-author); C.T. Edwards (co-author); Dave Balfour (co-author); George Wittemyer (co-author); Fiona Maisels (co-author); R.D. Taylor (co-author); Sarah-Anne Jeanetta Selier (reviewer); N. Sabanda (reviewer); J.J. Blanc (contributor); J.P. Ross (compiler)`,
         date: `25 March 2021`,
         duration: `21 pp.`,
         eyedee: `Gobush_et_al_2021a`,
@@ -1536,7 +1536,7 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, website`,
-        contributors: `Kathleen S. Gobush (co-author); C.T. Edwards (co-author); Fiona Maisels (co-author); George Wittemyer (co-author); Dave Balfour (co-author); R.D. Taylor (co-author); J. Selier (reviewer); N. Sabanda (reviewer); J.J. Blanc (contributor); J.P. Ross (compiler)`,
+        contributors: `Kathleen S. Gobush (co-author); C.T. Edwards (co-author); Fiona Maisels (co-author); George Wittemyer (co-author); Dave Balfour (co-author); R.D. Taylor (co-author); Sarah-Anne Jeanetta Selier (reviewer); N. Sabanda (reviewer); J.J. Blanc (contributor); J.P. Ross (compiler)`,
         date: `25 March 2021`,
         duration: `18 pp.`,
         eyedee: `Gobush_et_al_2021b`,
@@ -1576,7 +1576,7 @@ module.exports = [
     },
     {
         container: `<i>ElephantVoices</i>, website`,
-        contributors: `Joyce Poole (designer); Petter Granli (designer, programmer); Derrick Joel (programmer); Emre Izat (cinematographer); Kate Bradbury (cinematographer); Bob Poole (cinematographer); Gina Poole (cinematographer); Carla Rebai (cinematographer); Thomas Stafford (editor)`,
+        contributors: `Joyce H. Poole (designer); Petter Granli (designer, programmer); Derrick Joel (programmer); Emre Izat (cinematographer); Kate Bradbury (cinematographer); Bob Poole (cinematographer); Gina Poole (cinematographer); Carla Rebai (cinematographer); Thomas Stafford (editor)`,
         date: `25 May 2021`,
         duration: `513 items`,
         languages: `English`,
