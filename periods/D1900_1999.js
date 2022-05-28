@@ -372,7 +372,7 @@ module.exports = [
         duration: `pp. 125-143`,
         iteration: `Tome 40, Suppl. 3`,
         languages: `English`,
-        links: `<li><a href="https://doi.org/10.4098/at.arch.95-51"target="_blank">From publisher (DOI: 10.4098/at.arch.95-51)</a> through Repozytorium Cyfrowe Instytutów Naukowych`,
+        links: `<li><a href="https://doi.org/10.4098/at.arch.95-51"target="_blank">From publisher (DOI: 10.4098/at.arch.95-51)</a> through Digital Repository of Scientific Institutes`,
         location: `Białowieża, Poland`,
         publisher: `Mammal Research Institute`,
         references: `<ul class="refs">Tuskless bulls in Asian elephant Elephas maximus. History and population genetics of a man-made phenomenon. (n.d.). <i>Scilit</i>. <a href="https://www.scilit.net/article/2eeb3de43a2074f5147565699a2c31c5"target="_blank">https://www.scilit.net/article/2eeb3de43a2074f5147565699a2c31c5</a></ul>`,
