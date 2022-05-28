@@ -437,7 +437,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://doi.org/10.1007/BF03193233"target="_blank">From publisher (DOI: 10.1007/BF03193233)</a> through SpringerLink<li><a href="https://www.academia.edu/44514920/Increasing_elephant_Loxodonta_africana_density_is_a_more_important_driver_of_change_in_vegetation_condition_than_rainfall"target="_blank">From Academia</a><li><a href="https://www.academia.edu/4973388/Increasing_elephant_Loxodonta_africana_density_is_a_more_important_driver_of_change_in_vegetation_condition_than_rainfall"target="_blank">From Academia</a><li><a href="https://www.researchgate.net/publication/226617512_Increasing_elephantLoxodonta_africana_density_is_a_more_important_driver_of_change_in_vegetation_condition_than_rainfall"target="_blank">From ResearchGate</a>`,
         location: `N/A`,
-        publisher: `Mammal Research Institute`,
+        publisher: `Mammal Research Institute Polish Academy of Sciences (MRI PAS)`,
         summary: `TBA.`,
         title: `Increasing elephant <i>Loxodonta africana</i> density is a more important driver of change in vegetation condition than rainfall`,
         type: `Journal article`,
