@@ -236,7 +236,7 @@ module.exports = [
         duration: `pp. 191-211`,
         iteration: `Vol. 23, No. 268`,
         languages: `English`,
-        links: `<li><a href="https://doi.org/10.1086/274905"target="_blank">From publisher (DOI: 10.1086/274905)</a> through University of Chicago Press Journals<li><a href="https://archive.org/details/mobot31753002156633/page/191/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Missouri Botanical Garden</a><li><a href="https://www.jstor.org/stable/2450949"target="_blank">From JSTOR</a>`,
+        links: `<li><a href="https://doi.org/10.1086/274905"target="_blank">From publisher (DOI: 10.1086/274905)</a> through The University of Chicago Press Journals<li><a href="https://archive.org/details/mobot31753002156633/page/191/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Missouri Botanical Garden</a><li><a href="https://www.jstor.org/stable/2450949"target="_blank">From JSTOR</a>`,
         location: `Philadelphia, Pennsylvania, United States of America`,
         publisher: `Ferris Bros.`,
         summary: `TBA.`,
