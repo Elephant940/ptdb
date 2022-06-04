@@ -1204,7 +1204,7 @@ module.exports = [
     },
     {
         container: `<i>Vertebrata PalAsiatica</i> (<i>Vertebr</i>. <i>PalAsiat</i>.), journal`,
-        contributors: `Wang Shi-Qi (co-author); Zhang Xiao-Xiao (co-author); Li Chun-Xiao (co-author)`,
+        contributors: `Shi-Qi Wang (co-author); Xiao-Xiao Zhang (co-author); Chun-Xiao Li (co-author)`,
         date: `13 March 2020`,
         duration: `pp. 134-158`,
         iteration: `Vol. 58, No. 2`,
