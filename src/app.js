@@ -60,7 +60,6 @@ searchBar.addEventListener("keyup", (e) => {
         row.date.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.languages.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.links.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
-        row.location.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.type.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.publisher.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.summary.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
