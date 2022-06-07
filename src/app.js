@@ -133,11 +133,14 @@ function buildCards(data, id) {
             <ul class="info">${data[i].duration}</ul>
             <u class="heading">Publisher</u>
             <ul class="info">${data[i].publisher}</ul>
-            <u class="heading">Publication location</u>
-            <ul class="info">${data[i].location}</ul>
             <u class="heading">Language(s)</u>
             <ul class="info">${data[i].languages}</ul>`;
-
+    
+    if (data[i].location != undefined) {
+      row += `<u class="heading">Publication location</u>
+            <ul class="info">${data[i].location}</ul>`;
+    }
+    
     if (data[i].container != undefined) {
       row += `<u class="heading">Container</u>
             <ul class="info">${data[i].container}</ul>`;
