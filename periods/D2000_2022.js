@@ -1355,7 +1355,7 @@ module.exports = [
         duration: `pp. 537-538`,
         iteration: `Vol. 590, Issue 7847`,
         languages: `English`,
-        links: `<li><a href="https://www.nature.com/articles/d41586-021-00436-x"target="_blank">From publisher</a>`,
+        links: `<li><a href="https://doi.org/10.1038/d41586-021-00436-x"target="_blank">From publisher (DOI: 10.1038/d41586-021-00436-x)</a>`,
         publisher: `Nature Research`,
         summary: `A layman-oriented summary of <a id="van_der_Valk_et_al_2021_color_0" onclick="goToSource('D2000-2022','van_der_Valk_et_al_2021', this.id)">van der Valk et al., 2021</a>, with quotes from two of the article's co-authors.`,
         title: `Million-year-old mammoth genomes shatter record for oldest ancient DNA`,
