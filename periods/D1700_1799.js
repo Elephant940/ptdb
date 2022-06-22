@@ -131,7 +131,7 @@ module.exports = [
         date: `1771, on or after 20 March`,
         duration: `382 pp.`,
         languages: `English`,
-        links: `<li><a href="https://archive.org/details/synopsisofquadru00penn/page/85/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries</li>`,
+        links: `<li><a href="http://access.bl.uk/item/viewer/ark:/81055/vdc_100027396455.0x000001#?c=0&m=0&s=0&cv=142&xywh=-1090%2C-1%2C5304%2C2659"target="_blank">From the British Library</a></li><li><a href="https://www.google.com/books/edition/Synopsis_of_Quadrupeds/cK5gAAAAcAAJ?hl=en&gbpv=1&pg=PA85"target="_blank">From Google Books</a>, copy provided by the British Library (<a href="https://web.archive.org/web/20220622141614/https://books.googleusercontent.com/books/content?req=AKW5Qadsltkxv_5-tvr_n5lCaPWFp-3mLdgR8bqlJtyD7A30GfWwWz8COIHwdq_6-MQkrBuuUl9flS0KoDQXm4v6e6Q2ba6qskR7T6FnYHWxNlmPSJmkSY_tfobJItRNdr11p8ovsabO02_WGf1MMs8eirjdZ7GNzrOTYtuN3JgNZNlkEjXEyeN1lwhRb4jtq4A1mJf0n8cuXrusZ-qYWy8G6LneMu5LFTyDWF1HHv5lA8L5V0ihfamUzEKeL7OtPT6bVTdk7gUKyEvSCI21lvgTMcoX6blwrA"target="_blank">archived in the Wayback Machine</a>)</li><li><a href="https://archive.org/details/synopsisofquadru00penn/page/85/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries</li>`,
         location: `Chester, England`,
         publisher: `J. Monk`,
         summary: `The section on elephants, "XIV. Elephant.", is on pages 85-93.  Details TBA.`,
