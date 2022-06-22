@@ -5,7 +5,7 @@ module.exports = [
         duration: `943 pp.`,
         iteration: `Vol. 1`,
         languages: `English`,
-        links: `<li><a href="https://archive.org/details/generalsystemofn01linn/page/35/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by North Carolina State University Libraries</li>`,
+        links: `<li><a href="https://www.google.com/books/edition/A_General_System_of_Nature_Through_Three/zCmWZA-fSnUC?hl=en&gbpv=1"target="_blank">From Google Books</a>, copy provided by Rutgers University (<a href="https://web.archive.org/web/20220622190001/https://books.googleusercontent.com/books/content?req=AKW5QaeH-85FhbT4XwC5dxhmchBT2FJtGZi8AIw-9-Je4-SRgrwToSDeqK-QkSy7n-xY8QP2KcRiIONQJNpSJsgleehWmQh6XyO6AZnwaiJezFJeiMWX7d9fWZcXOLSPF6Pm4HyoWiDNDbELKlcYA8QfBCSAdNq34btmN0wGOf-mKnwwAQF6AQgDJGvKNKrJfwXzkTzqnq5YOpZiQr3w9fCyLl4d5D6m9EpJUhFlivEJt9WRg5NXWyDGzxG-wYeJqxBEb_n47LoGJTvweu6rRFg-OyfubzDo-A"target="_blank">archived in the Wayback Machine</a>)</li><li><a href="https://archive.org/details/generalsystemofn01linn/page/35/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by North Carolina State University Libraries</li>`,
         location: `London, England`,
         publisher: `Lackington, Allen, and Co.`,
         summary: `An English translation of <a id="Linnaeus_Gmelin_1788_color_0" onclick="goToSource('D1700-1799','Linnaeus_Gmelin_1788', this.id)">Linnaeus and Gmelin, 1788</a>. The section on elephants is on page 35.`,
