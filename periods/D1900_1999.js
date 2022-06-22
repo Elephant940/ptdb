@@ -336,6 +336,20 @@ module.exports = [
         type: `Journal article`,
     },
     {
+        container: `<i>Proceedings of the Indian Academy of Sciences – Animal Sciences</i> (<i>Proc</i>. <i>Indian</i> <i>Acad</i>. <i>Sci</i>. <i>Anim</i>. <i>Sci</i>.), journal`,
+        contributors: `Raman Sukumar (co-author); N.V. Joshi (co-author); V. Krishnamurthy (co-author)`,
+        date: `November 1988`,
+        duration: `pp. 561-571`,
+        iteration: `Vol. 97, Issue 6`,
+        languages: `English`,
+        links: `<li><a href="https://www.ias.ac.in/describe/article/anml/097/06/0561-0571"target="_blank">From publisher</a></li><li><a href="https://doi.org/10.1007/BF03179558"target="_blank">From SpringerLink (DOI: 10.1007/BF03179558)</a></li>`,
+        location: `Bengaluru, India`,
+        publisher: `Indian Academy of Sciences`,
+        summary: `TBA.`,
+        title: `Growth in the Asian elephant`,
+        type: `Journal article`,
+    },
+    {
         container: '<i>IUCN/SSC Action Plans for the Conservation of Biological Diversity</i>, book series',
         contributors: `Charles Santiapillai (compiler); Peter Jackson (compiler); 
         IUCN/SSC Asian Elephant Specialist Group (compiler); Lyn de Alwis (foreword author)`,
