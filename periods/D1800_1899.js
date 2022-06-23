@@ -118,7 +118,7 @@ module.exports = [
         links: `<li><a href="https://www.google.com/books/edition/Isis_von_Oken/gTMKfQId4DMC?hl=en&gbpv=1&pg=PA401"target="_blank">From Google Books</a>, copy provided by Lyon Public Library (<a href="https://web.archive.org/web/20220623124207/https://books.googleusercontent.com/books/content?req=AKW5QadFJQbO9_uPjjWlNxknKfWf0uYNgYl5J9MK0Z358HpHY7QG7SDBY3UN5VSNkuTyXODuK6EJyO7sb2kpMk1GKNqET-nOUNXY-_08RVUl1iWwf2VC0rru1BN5p4AOE7g6tWezgJ1UeXY3IZyUiMJTzFd6U_fHG2PqHaxQix30tYReLIdgsAnQJj1YHhZe0XZT5iYqrJQPxpwpt-MfquOiZE-TTBCqQ-wRubfARgjPVUnOJpZ3ohDV6KPtw_sUeYJInDiDfWcP"target="_blank">archived in the Wayback Machine</a>)</li><li><a href="https://www.google.com/books/edition/Isis_von_Oken/x6tBAQAAMAAJ?hl=en&gbpv=1&pg=PA401"target="_blank">From Google Books</a>, copy provided by the University of California (<a href="https://web.archive.org/web/20220623124651/https://books.googleusercontent.com/books/content?req=AKW5Qafn9H2e6ezVASP3NLAueYu0doW4ry2MEuyJEH9s19fG2ysTU6YCJABWtiYyBbSlLl410r0WJKN1m2mHJdYrJkDiuD2Nx8dXI50M88SBXLvB-mW83C2oiay8u_YyYL7BnM3q58OXgQ3phgswsGyU7xq_SpMyn0ETBFnshr1pk00ao1oDzASA-xvFozpMMQgrRERh-56mnU6b1rg6W_GiK-LLI0AaGVhUJZMW-n8F2M8pwu1ue7rtwXOzCB5jR-FCRMTxtRnV"target="_blank">archived in the Wayback Machine</a>)</li><li><a href="https://archive.org/details/isisvonoken1829oken/page/n208/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library</li>`,
         location: `Leipzig, Germany`,
         publisher: `Brockhaus`,
-        summary: `TBA`,
+        summary: `TBA.`,
         title: `<i>Deinotherium giganteum</i>. Eine Gattung der Vorwelt aus der Ordnung der Pachydermen, aufgestellt und beschrieben`,
         type: `Journal article`,
     },
