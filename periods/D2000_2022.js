@@ -528,7 +528,7 @@ module.exports = [
     },
     {
         container: `<i>Current Biology</i> (<i>Curr</i>. <i>Biol</i>.), journal`,
-        contributors: `Angela S. Stoeger (co-author); Daniel Mietchen (co-author); Sukhun Oh (co-author); Shermin de Silva (co-author); Christian T. Herbst (co-author); Soowhan Kwon (co-author);  W. Tecumseh Fitch (co-author)`,
+        contributors: `Angela S. Stoeger (co-author); Daniel Mietchen (co-author); Sukhun Oh (co-author); Shermin de Silva (co-author); Christian T. Herbst (co-author); Soowhan Kwon (co-author); W. Tecumseh Fitch (co-author)`,
         date: `1 November 2012`,
         duration: `pp. 2144-2148`,
         eyedee: `Stoeger_et_al_2012`,
@@ -861,7 +861,7 @@ module.exports = [
     },
     {
         container: `<i>Proceedings of the National Academy of Sciences</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>., <i>PNAS</i>), journal`,
-        contributors: `Eleftheria Palkopoulou (co-author); Mark Lipson (co-author); Swapan Mallick (co-author); Svend Nielsen (co-author); Nadin Rohland (co-author); Sina Baleka (co-author); Emil Karpinski (co-author); Atma M. Ivancevic (co-author); Thu-Hien To (co-author); R. Daniel Kortschak (co-author); Joy M. Raison (co-author); Zhipeng Qu (co-author); Tat-Jun Chin (co-author); Kurt W. Alt (co-author); Stefan Claesson (co-author); Love Dalén (co-author); Ross D.E. MacPhee (co-author); Harald Meller (co-author); Alfred L. Roca (co-author); Oliver A. Ryder (co-author); David Heiman (co-author); Sarah Young (co-author); Matthew Breen (co-author); Christina Williams (co-author); Bronwen L. Aken (co-author); Magali Ruffier (co-author); Elinor Karlsson (co-author); Jeremy Johnson (co-author); Federica Di Palma (co-author); Jessica Alfoldi (co-author);  David L. Adelson (co-author); Thomas Mailund (co-author); Kasper Munch (co-author); Kerstin Lindblad-Toh (co-author); Michael Hofreiter (co-author); Hendrik Poinar (co-author); David Reich (co-author); David M. Hillis (editor)`,
+        contributors: `Eleftheria Palkopoulou (co-author); Mark Lipson (co-author); Swapan Mallick (co-author); Svend Nielsen (co-author); Nadin Rohland (co-author); Sina Baleka (co-author); Emil Karpinski (co-author); Atma M. Ivancevic (co-author); Thu-Hien To (co-author); R. Daniel Kortschak (co-author); Joy M. Raison (co-author); Zhipeng Qu (co-author); Tat-Jun Chin (co-author); Kurt W. Alt (co-author); Stefan Claesson (co-author); Love Dalén (co-author); Ross D.E. MacPhee (co-author); Harald Meller (co-author); Alfred L. Roca (co-author); Oliver A. Ryder (co-author); David Heiman (co-author); Sarah Young (co-author); Matthew Breen (co-author); Christina Williams (co-author); Bronwen L. Aken (co-author); Magali Ruffier (co-author); Elinor Karlsson (co-author); Jeremy Johnson (co-author); Federica Di Palma (co-author); Jessica Alfoldi (co-author); David L. Adelson (co-author); Thomas Mailund (co-author); Kasper Munch (co-author); Kerstin Lindblad-Toh (co-author); Michael Hofreiter (co-author); Hendrik Poinar (co-author); David Reich (co-author); David M. Hillis (editor)`,
         date: `26 February 2018`,
         duration: `pp. E2566–E2574`,
         eyedee: `Palkopoulou_et_al_2018`,
@@ -1347,6 +1347,19 @@ module.exports = [
         summary: `A list of English Wikipedia articles related to probsocideans.`,
         title: `User:Elephant940/Books/Elephants`,
         type: `Web page`,
+    },
+    {
+        container: `<i>PeerJ</i>, journal`,
+        contributors: `Sanjeeta Sharma Pokharel (co-author); Hiroki Yoneda (co-author); Moe Yanagi (co-author); Raman Sukumar (co-author); Kodzue Kinoshita (co-author); Matt Sponheimer (editor)`,
+        date: `4 January 2021`,
+        duration: `23 pp.`,
+        iteration: `Vol. 9, No. e10445`,
+        languages: `English`,
+        links: `<li><a href="https://doi.org/10.7717/peerj.10445"target="_blank">From publisher (DOI: 10.7717/peerj.10445)</a></li><li><a href="https://europepmc.org/article/PMC/PMC7789861"target="_blank">From Europe PMC</a></li><li><a href="https://www.proquest.com/docview/2474980457?pq-origsite=gscholar&fromopenview=true"target="_blank">From ProQuest</a></li><li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7789861/"target="_blank">From PubMed Central</a></li><li><a href="https://www.academia.edu/es/54749870/The_tail_tale_of_stress_an_exploratory_analysis_of_cortisol_levels_in_the_tail_hair_of_captive_Asian_elephants"target="_blank">From Academia</a></li>`,
+        publisher: `PeerJ`,
+        summary: `TBA.`,
+        title: `The tail-tale of stress: an exploratory analysis of cortisol levels in the tail-hair of captive Asian elephants`,
+        type: `Journal article`,
     },
     {
         container: `<i>A Moment of Science</i>, broadcast`,
