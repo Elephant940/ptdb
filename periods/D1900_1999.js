@@ -49,7 +49,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://www.google.com/books/edition/A_Guide_to_the_Elephants_recent_and_Foss/ets4AAAAMAAJ?hl=en&gbpv=1"target="_blank">From Google Books</a>, copy provided by the University of Michigan (<a href="https://web.archive.org/web/20210223141857/https://books.googleusercontent.com/books/content?req=AKW5Qad7gTvfOOCHik8qdqoiErGshGOkxGbiOFsJsd2o2Hq_RrKj0C-D-fIpZnHim4UPZC1fEY1Raz91yDKuf6rvoMSnzgp2o-hr74Cmhrvq8X-sjiRwvS6CV96eZE88ByLrxYQDb_rmrHDVIn3TsN_L4prcL1rA6a2hqav6bpeIXNPLPPuZ91nVSRJ1nDjjAPSlRW7jsucvL-5fO-Q72DaOXv5iStyy2Uju8Llb6R_o2ZIa5nZnFXHi9x56UqJ_Ue7i57DACcE1Z2lMm8cHOxqyLuM0qthXniBX-1s_7FCSgrHGGUTxndY"target="_blank">archived in the Wayback Machine</a>)</li><li><a href="https://archive.org/details/guidetoelephants00britrich/page/n4/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the University of California Libraries</li><li><a href="https://archive.org/details/aguidetoelephan00andrgoog/page/n4/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the University of Michigan</li>`,
         location: `London, England`,
-        publisher: `Taylor & Francis`,
+        publisher: `Trustees of the British Museum`,
         summary: `TBA.`,
         title: `A Guide to the Elephants (Recent and Fossil) Exhibited in the Department of Geology and Palæontology in the British Museum (Natural History)`,
         type: `Book`,
