@@ -1164,7 +1164,7 @@ module.exports = [
         date: `29 April 2020`,
         duration: `7 pp.`,
         eyedee: `Janiak_et_al_2020`,
-        iteration: `Vol. 16, Issue 4`,
+        iteration: `Vol. 16, Issue 4, No. 20200070`,
         languages: `English`,
         links: `<li><a href="https://doi.org/10.1098/rsbl.2020.0070"target="_blank">From publisher (DOI: 10.1098/rsbl.2020.0070)</a></li><li><a href="https://europepmc.org/article/pmc/pmc7211468"target="_blank">From Europe PMC</a></li><li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7211468/"target="_blank">From PubMed Central</a></li>`,
         publisher: `Royal Society`,
@@ -1539,4 +1539,19 @@ module.exports = [
         title: `Suction feeding by elephants`,
         type: `Journal article`,
     },
+    {
+        container: `<i>Proceedings of the Royal Society B</i> (<i>Proc</i>. <i>R</i>. <i>Soc</i>. <i>B</i>), journal`,
+        contributors: `Lionel Hautier (co-author); Rodolphe Tabuce (co-author); Mickaël J. Mourlam (co-author); Koffi Evenyon Kassegne (co-author); Yawovi Zikpi Amoudji (co-author); Maëva Orliac (co-author); Frédéric Quillévéré (co-author); Anne-Lise Charruault (co-author); Ampah Kodjo Christophe Johnson (co-author); Guillaume Guinot (co-author)`,
+        date: `13 October 2021`,
+        duration: `9 pp.`,
+        iteration: `Vol. 288, Issue 1960, No. 20211439`,
+        languages: `English`,
+        links: `<li><a href="https://doi.org/10.1098/rspb.2021.1439"target="_blank">From publisher (DOI: 10.1098/rspb.2021.1439)</a></li><li><a href="https://hal.archives-ouvertes.fr/hal-03406055/"target="_blank">From HAL</a></li>`,
+        publisher: `Royal Society`,
+        summary: `TBA.`,
+        title: `New Middle Eocene proboscidean from Togo illuminates the early evolution of the elephantiform-like dental pattern`,
+        type: `Journal article`,
+    },
 ]
+
+
