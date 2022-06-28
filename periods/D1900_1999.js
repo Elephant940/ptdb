@@ -336,7 +336,7 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        container: `<i>Proceedings of the Indian Academy of Sciences – Animal Sciences</i> (<i>Proc</i>. <i>Indian</i> <i>Acad</i>. <i>Sci</i>. <i>Anim</i>. <i>Sci</i>.), journal`,
+        container: `<i>Proceedings of the Indian Academy of Sciences (Animal Sciences)</i> (<i>Proc</i>. <i>Indian</i> <i>Acad</i>. <i>Sci</i>. (<i>Anim</i>. <i>Sci</i>.)), journal`,
         contributors: `Raman Sukumar (co-author); N.V. Joshi (co-author); V. Krishnamurthy (co-author)`,
         date: `November 1988`,
         duration: `pp. 561-571`,
@@ -365,7 +365,7 @@ module.exports = [
         type: `Book`,
     },
     {
-        container: `<i>Journal of Zoology London</i> (<i>J</i>. <i>Zool</i>. <i>Lond</i>.), journal`,
+        container: `<i>Journal of Zoology, London</i> (<i>J</i>. <i>Zool</i>., <i>Lond</i>.), journal`,
         contributors: `Phyllis C. Lee (co-author); Cynthia J. Moss (co-author)`,
         date: `May 1995`,
         duration: `pp. 29-41`,
