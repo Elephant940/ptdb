@@ -325,7 +325,7 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, website`,
-        contributors: `J.J. Blanc (author); Dave Balfour (reviewer); C. Craig (reviewer); Holly T. Dublin (reviewer); Chris R. Thouless (reviewer)`,
+        contributors: `J.J. Blanc (author); Dave Balfour (reviewer); Colin Craig (reviewer); Holly T. Dublin (reviewer); Chris R. Thouless (reviewer)`,
         date: `2008, on or after 30 June`,
         duration: `16 pp.`,
         languages: `English`,
@@ -696,7 +696,7 @@ module.exports = [
     },
     {
         container: `<i>PeerJ</i>, journal`,
-        contributors: `Michael J. Chase​ (co-author); Scott Schlossberg (co-author); Curtice R. Griffin (co-author); Philippe J.C. Bouché (co-author); Sintayehu W. Djene (co-author); Paul W. Elkan (co-author); Sam Ferreira (co-author); Falk Grossmann (co-author); Edward Mtarima Kohi (co-author); Kelly Landen (co-author); Patrick Omondi (co-author); Alexis Peltier (co-author); S.A. Jeanetta Selier (co-author); Robert Sutcliffe (co-author); David Roberts (editor); Colin Craig (reviewer); Howard Frederick (reviewer); Debbie Gibson (reviewer)`,
+        contributors: `Michael J. Chase​ (co-author); Scott Schlossberg (co-author); Curtice R. Griffin (co-author); Philippe J.C. Bouché (co-author); Sintayehu W. Djene (co-author); Paul W. Elkan (co-author); Sam Ferreira (co-author); Falk Grossmann (co-author); Edward Mtarima Kohi (co-author); Kelly Landen (co-author); Patrick Omondi (co-author); Alexis Peltier (co-author); Sarah-Anne Jeanetta Selier (co-author); Robert Sutcliffe (co-author); David Roberts (editor); Colin Craig (reviewer); Howard L. Frederick (reviewer); Debbie Gibson (reviewer)`,
         date: `31 August 2016`,
         duration: `24 pp.`,
         iteration: `Vol. 4, No. e2354`,
@@ -721,7 +721,7 @@ module.exports = [
     },
     {
         container: '<i>Occasional Paper of the IUCN Species Survival Commission</i>, book series',
-        contributors: `Chris R. Thouless (co-author); Holly T. Dublin (co-author); J.J. Blanc (co-author); D.P. Skinner (co-author); T.E. Daniel (co-author); R.D. Taylor (co-author); Fiona Maisels (co-author); H.L. Frederick (co-author); Philippe J.C. Bouché (co-author)`,
+        contributors: `Chris R. Thouless (co-author); Holly T. Dublin (co-author); J.J. Blanc (co-author); D.P. Skinner (co-author); T.E. Daniel (co-author); R.D. Taylor (co-author); Fiona Maisels (co-author); Howard L. Frederick (co-author); Philippe J.C. Bouché (co-author)`,
         date: `23 September 2016`,
         duration: `309 pp.`,
         eyedee: `Thouless_et_al_2016`,
