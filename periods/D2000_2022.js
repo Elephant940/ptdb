@@ -964,7 +964,7 @@ module.exports = [
     },
     {
         container: `<i>Frontiers in Ecology and Evolution</i> (<i>Front</i>. <i>Ecol</i>. <i>Evol</i>.), journal`,
-        contributors: `L. Jen Shaffer (co-author); Kapil K. Khadka (co-author); Jamon Van Den Hoek (co-author); Kusum J. Naithani (co-author), Matt W. Hayward (editor), Sarah-Anne Jeanetta Selier (reviewer), Mirko Di Febbraro (reviewer)`,
+        contributors: `L. Jen Shaffer (co-author); Kapil K. Khadka (co-author); Jamon Van Den Hoek (co-author); Kusum J. Naithani (co-author); Matt W. Hayward (editor); Sarah-Anne Jeanetta Selier (reviewer); Mirko Di Febbraro (reviewer)`,
         date: `11 January 2019`,
         duration: `12 pp.`,
         iteration: `Vol. 6, No. 235`,

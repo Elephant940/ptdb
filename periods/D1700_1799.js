@@ -154,7 +154,7 @@ module.exports = [
         type: `Book`,
     },
     {
-        contributors: `Robert Kerr (author), Johann Fridrich Gmelin (preface author); J. Archer (engraver)`,
+        contributors: `Robert Kerr (author, Latin-to-English translator); Johann Fridrich Gmelin (preface author); J. Archer (engraver)`,
         date: `1792, during or after February`,
         duration: `644 pp.`,
         languages: `English`,

@@ -1,6 +1,6 @@
 module.exports = [
     {
-        contributors: `Carolus Linnaeus (co-author); Johann Fridrich Gmelin (co-author); William Turton (Latin-to-English translator)`,
+        contributors: `William Turton (author, Latin-to-English translator)`,
         date: `1802`,
         duration: `943 pp.`,
         iteration: `Vol. 1`,
