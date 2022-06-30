@@ -1015,7 +1015,7 @@ module.exports = [
     },
     {
         container: `<i>Nature Geoscience</i> (<i>Nat</i>. <i>Geosci</i>.), journal`,
-        contributors: `Fabio Berzaghi (co-author); Marcos Longo (co-author); Philippe Ciais (co-author); Stephen Blake (co-author); François Bretagnolle (co-author); Simone Vieira (co-author); Marcos Scaranello (co-author); Giuseppe Scarascia-Mugnozza (co-author); Christopher E. Doughty (co-author); `,
+        contributors: `Fabio Berzaghi (co-author); Marcos Longo (co-author); Philippe Ciais (co-author); Stephen Blake (co-author); François Bretagnolle (co-author); Simone Vieira (co-author); Marcos Scaranello (co-author); Giuseppe Scarascia-Mugnozza (co-author); Christopher E. Doughty (co-author)`,
         date: `15 July 2019`,
         duration: `pp. 725-729`,
         iteration: `Vol. 12, Issue 9`,

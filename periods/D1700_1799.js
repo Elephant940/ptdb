@@ -162,7 +162,7 @@ module.exports = [
         location: `Edinburgh, Scotland`,
         publisher: `A. Strahan, and T. Cadell, London; and W. Creech, Edinburgh`,
         summary: `The section on elephants, "XI. Elephant‒10. Elephas. 5.", is on pages 115-117. Details TBA.`,
-        title: `The Animal Kingdom, or Zoological System, of the Celebrated Sir Charles Linnaeus. Class I. Mammalia `,
+        title: `The Animal Kingdom, or Zoological System, of the Celebrated Sir Charles Linnaeus. Class I. Mammalia: Containing a Complete Systematic Description, Arrangement, and Nomenclature, of All the Known Species and Varieties of the Mammalia, or Animals Which Give Suck to Their Young`,
         type: `Book`,
     },
     {
