@@ -1,6 +1,6 @@
 module.exports = [
     {
-        contributors: `Cornelis Cort (printmaker)`,
+        contributors: `Cornelis Cort (engraver)`,
         date: `1567`,
         duration: `approx. 41.8 x 53.8 cm (16.5 x 21.2 in)`,
         languages: `Latin`,
@@ -21,7 +21,7 @@ module.exports = [
         links: `<li><a href="https://www.loc.gov/resource/rbctos.2017english04054/?sp=238&r=-1.729,-0.021,4.458,1.555,0"target="_blank">From the Library of Congress</a></li><li><a href="https://archive.org/details/b3033469x/page/190/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Wellcome Library</li>`,
         location: `London, England`,
         publisher: `William Jaggard`,
-        summary: `The chapter on elephants, "Of the Elephant", is on pages 190-211. Details TBA.`,
+        summary: `The section on elephants is on pages 190-211. Details TBA.`,
         title: `The Historie of Fovre-Footed Beastes. Describing the true and liuely figure of euery Beast, with a discourse of their seuerall Names, Conditions, Kindes, Vertues (both naturall and medicinall), Countries of their breed, their loue and hate to Mandkinde, and the wonderfull worke of God in their Creation, Preseruation, and Destruction. Necessary for all Diuines and Students, because the story of euery Beast is amplified with Narrations out of Scriptures, Fathers, Phylosophers, Physitians, and Poets: wherein are declared diuers Hyerogliphicks, Emblems, Epigrams, and other good Histories, Collected out of all the Volumes of Conradvs Gesner, and all other writers to this present day.`,
         type: `Book`,
     },
