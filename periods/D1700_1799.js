@@ -128,7 +128,7 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        contributors: `Thomas Pennant (author); M. Griffith (engraver); R. Murray (engraver); P. Mazell (engraver)`,
+        contributors: `Thomas Pennant (author); M. Griffith (printmaker); R. Murray (printmaker); P. Mazell (printmaker)`,
         date: `1771, on or after 20 March`,
         duration: `382 pp.`,
         languages: `English`,
@@ -154,7 +154,7 @@ module.exports = [
         type: `Book`,
     },
     {
-        contributors: `Robert Kerr (author, Latin-to-English translator); Johann Fridrich Gmelin (preface author); J. Archer (engraver)`,
+        contributors: `Robert Kerr (author, Latin-to-English translator); Johann Fridrich Gmelin (preface author); J. Archer (printmaker)`,
         date: `1792, during or after February`,
         duration: `644 pp.`,
         languages: `English`,
