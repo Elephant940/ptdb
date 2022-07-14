@@ -196,7 +196,7 @@ module.exports = [
         type: `Book`,
     },
     {
-        container: `<i>Philosophical Transactions of the Royal Society of London</i> (<i>Philos</i>. <i>Trans</i>. <i>R</i>. <i>Soc</i>. <i>Lond</i>.), journal`,
+        container: `<i>Philosophical Transactions, of the Royal Society of London</i> (<i>Philos</i>. <i>Trans</i>., <i>R</i>. <i>Soc</i>. <i>Lond</i>.), journal`,
         contributors: `John Corse (author)`,
         date: `1799, on or after 13 June`,
         duration: `pp. 205-236`,
@@ -210,7 +210,7 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        container: `<i>Philosophical Transactions of the Royal Society of London</i> (<i>Philos</i>. <i>Trans</i>. <i>R</i>. <i>Soc</i>. <i>Lond</i>.), journal`,
+        container: `<i>Philosophical Transactions, of the Royal Society of London</i> (<i>Philos</i>. <i>Trans</i>., <i>R</i>. <i>Soc</i>. <i>Lond</i>.), journal`,
         contributors: `Everard Home (author)`,
         date: `1799, on or after 13 June`,
         duration: `pp. 237-258`,

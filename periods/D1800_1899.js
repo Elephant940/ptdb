@@ -175,7 +175,7 @@ module.exports = [
         location: `London, England`,
         publisher: `Longman, Brown, Green, Longmans, and Roberts`,
         summary: `TBA.`,
-        title: `On the Species of Mastodon and Elephant occuring in the fossil state in Great Britain. Part I. Mastodon.`,
+        title: `On the Species of Mastodon and Elephant occurring in the fossil state in Great Britain. Part I. Mastodon.`,
         type: `Journal article`,
     },
     {
