@@ -68,7 +68,7 @@ module.exports = [
         location: `London, England`,
         publisher: `T. Woodward, at the Half-Moon, between the Two Temple-Gates in Fleetstreet; and C. Davis, the Corner of Pater-noster-row, next Warwick-lane`,
         summary: `TBA.`,
-        title: `A Letter From John Phil. Breyne, M. D. F. R. S. To Sir Hans Sloane, Bart. Pres. R. S. with Observations, and a Description of some Mammoth's Bones dug up in Siberia, proving them to have belonged to Elephants.`,
+        title: `A Letter from John Phil. Breyne, M. D. F. R. S. to Sir Hans Sloane, Bart. Pres. R. S. with Observations, and a Description of some Mammoth's Bones dug up in Siberia, proving them to have belonged to Elephants.`,
         type: `Journal article`,
     },
     {
@@ -124,7 +124,7 @@ module.exports = [
         location: `London, England`,
         publisher: `L. Davis and C. Reymers`,
         summary: `TBA.`,
-        title: `Observations on the Bones, commonly supposed to Be Elephants Bones, which have been found near the River Ohio in America`,
+        title: `Observations on the Bones, commonly supposed to be Elephants Bones, which have been found near the River Ohio in America`,
         type: `Journal article`,
     },
     {

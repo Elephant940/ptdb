@@ -48,7 +48,7 @@ module.exports = [
         location: `London, England`,
         publisher: `Thomas and George Underwood`,
         summary: `Gray elevates <a id="Illiger_1811_color_0" onclick="goToSource('D1800-1899','Illiger_1811', this.id)">Illiger's</a> Proboscidea family to an order.  He recognizes and describes two proboscidean species named by Cuvier, <a id="Cuvier_1798_color_1" onclick="goToSource('D1700-1799','Cuvier_1798', this.id)"><i>Elephas indicus</i></a> and <i>Mastodon giganteum</i>, and coins the family name Elephantidae for the former and Mastodontidae for the latter.`,
-        title: `On The Natural Arrangement of Vertebrose Animals.`,
+        title: `On the Natural Arrangement of Vertebrose Animals.`,
         type: `Journal article`,
     },
     {
