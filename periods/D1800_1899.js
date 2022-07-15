@@ -52,7 +52,7 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        container: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>, book`,
+        container: `<i>Histoire Naturelle des Mammifères, Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>, book`,
         contributors: `Frédéric Cuvier (author)`,
         date: `September 1825`,
         duration: `10 pp.`,
@@ -66,7 +66,7 @@ module.exports = [
         type: `Book chapter`,
     },
     {
-        container: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>, book`,
+        container: `<i>Histoire Naturelle des Mammifères, Avec des Figures Originales, Coloriées, Dessinées d'Après des Animaux Vivans</i>, book`,
         contributors: `Frédéric Cuvier (author)`,
         date: `November 1825`,
         duration: `2 pp.`,
@@ -85,13 +85,13 @@ module.exports = [
         contributors: `Anonymous`,
         date: `January 1827`,
         duration: `pp. 140-143`,
-        iteration: `Vol. 3, Issue 9`,
+        iteration: `Vol. 3, Issue 9, No. 12`,
         languages: `English`,
         links: `<li><a href="https://archive.org/details/zoologicaljourna03lond/page/140/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Natural History Museum Library, London</li><li><a href="https://archive.org/details/zoologicaljourna318271828sowe/page/140/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries</li>`,
         location: `London, England`,
         publisher: `W. Phillips`,
         summary: `The anonymous author Latinizes <a id="Cuvier_1825b_color" onclick="goToSource('D1800-1899','Cuvier_1825b', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
-        title: `<i>Histoire Naturelle des Mammifères Avec des Figures Originales, Coloriees, Dessinées d'Après des Animaux Vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hillaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
+        title: `<i>Histoire Naturelle des Mammifères, avec des Figures originales, dessinées d'après des Animaux vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hillaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
         type: `Journal article`,
     },
     {
