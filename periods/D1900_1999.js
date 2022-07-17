@@ -461,7 +461,7 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>., <i>PNAS</i>), journal`,
+        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>.; <i>PNAS</i>), journal`,
         contributors: `Michael J. Stanhope (co-author); Victor G. Waddell (co-author); Ole Madsen (co-author); Wilfried de Jong (co-author); S. Blair Hedges (co-author); Gregory C. Cleven (co-author); Diana Kao (co-author); Mark S. Springer (co-author); Roy J. Britten (editor)`,
         date: `18 August 1998`,
         duration: `pp. 9967–9972`,
@@ -474,7 +474,7 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        container: `<i>Trends in Ecology and Evolution</i> (<i>Trends</i> <i>Ecol</i>. <i>Evol</i>., <i>TREE</i>), journal`,
+        container: `<i>Trends in Ecology and Evolution</i> (<i>Trends</i> <i>Ecol</i>. <i>Evol</i>.; <i>TREE</i>), journal`,
         contributors: `Jeheskel Shoshani (author); Jann S. Grimes (artist); Gary H. Marchan (artist)`,
         date: `December 1998`,
         duration: `pp. 480-487`,
@@ -487,7 +487,7 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>., <i>PNAS</i>), journal`,
+        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>.; <i>PNAS</i>), journal`,
         contributors: `A.P. Gaeth (co-author); R.V. Short (co-author); M.B. Renfree (co-author)`,
         date: `11 May 1999`,
         duration: `pp. 5555–5558`,
