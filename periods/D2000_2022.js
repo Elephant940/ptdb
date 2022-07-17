@@ -157,7 +157,7 @@ module.exports = [
         type: `Video`,
     },
     {
-        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>. <i>S</i>. <i>A</i>., <i>PNAS</i>), journal`,
+        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>., <i>PNAS</i>), journal`,
         contributors: `Todd Surovell (co-author); Nicole Waguespack (co-author); P. Jeffrey Brantingham (co-author)`,
         date: `26 April 2005`,
         duration: `pp. 6231–6236`,
@@ -911,7 +911,7 @@ module.exports = [
         type: `Web article`,
     },
     {
-        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>. <i>S</i>. <i>A</i>., <i>PNAS</i>), journal`,
+        container: `<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>., <i>PNAS</i>), journal`,
         contributors: `Eleftheria Palkopoulou (co-author); Mark Lipson (co-author); Swapan Mallick (co-author); Svend Nielsen (co-author); Nadin Rohland (co-author); Sina Baleka (co-author); Emil Karpinski (co-author); Atma M. Ivancevic (co-author); Thu-Hien To (co-author); R. Daniel Kortschak (co-author); Joy M. Raison (co-author); Zhipeng Qu (co-author); Tat-Jun Chin (co-author); Kurt W. Alt (co-author); Stefan Claesson (co-author); Love Dalén (co-author); Ross D.E. MacPhee (co-author); Harald Meller (co-author); Alfred L. Roca (co-author); Oliver A. Ryder (co-author); David Heiman (co-author); Sarah Young (co-author); Matthew Breen (co-author); Christina Williams (co-author); Bronwen L. Aken (co-author); Magali Ruffier (co-author); Elinor Karlsson (co-author); Jeremy Johnson (co-author); Federica Di Palma (co-author); Jessica Alfoldi (co-author); David L. Adelson (co-author); Thomas Mailund (co-author); Kasper Munch (co-author); Kerstin Lindblad-Toh (co-author); Michael Hofreiter (co-author); Hendrik Poinar (co-author); David Reich (co-author); David M. Hillis (editor)`,
         date: `26 February 2018`,
         duration: `pp. E2566–E2574`,
