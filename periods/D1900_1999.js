@@ -1,6 +1,6 @@
 module.exports = [
     {
-        container: `<i>Sitzungs-Berichte der Gesellschaft naturforschender Freunde zu Berlin</i> (<i>Sitzber</i>. <i>Ges</i>. <i>Naturforsch</i>. <i>Berl</i>.), journal`,
+        container: `<i>Sitzungs-Berichte der Gesellschaft naturforschender Freunde zu Berlin</i> (<i>Sitz</i>.-<i>Ber</i>. <i>Ges</i>. <i>naturforsch</i>. <i>Freunde</i> <i>Berl</i>.), journal`,
         contributors: `Paul Matschie (author)`,
         date: `1900, on or after 16 October`,
         duration: `pp. 189-197`,
@@ -10,7 +10,7 @@ module.exports = [
         location: `Berlin, Germany`,
         publisher: `R. Friedländer und Sohn`,
         summary: `TBA.`,
-        title: `Ueber geographische Albarten des afrikanischen Elefanten`,
+        title: `Über geographische Abarten des afrikanischen Elefanten.`,
         type: `Journal article`,
     },
     {
@@ -127,13 +127,13 @@ module.exports = [
         contributors: `Henry Fairfield Osborn (author); Mabel Rice Percy (editor)`,
         date: `15 August 1936`,
         duration: `pp. 1-802`,
-        iteration: `Vol. 1 <i>Moeritherioidea, Deinotherioidea, Mastodontoidea</i>`,
+        iteration: `Vol. 1 <i>Mœritherioidea Deinotherioidea Mastodontoidea</i>`,
         languages: `English`,
         links: `<li><a href="https://archive.org/details/proboscideamonog01osbo/page/n12/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library</li>`,
         location: `New York City, New York, United States of America`,
         publisher: `Trustees of the American Museum of Natural History`,
         summary: `TBA.`,
-        title: `Proboscidea A Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
+        title: `Proboscidea a Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
         type: `Book`,
     },
     {
@@ -154,13 +154,13 @@ module.exports = [
         contributors: `Henry Fairfield Osborn (author); Mabel Rice Percy (editor)`,
         date: `1942`,
         duration: `pp. 805-1675`,
-        iteration: `Vol. 2 <i>Stegodontoidea, Elephantoidea</i>`,
+        iteration: `Vol. 2 <i>Stegodontoidea Elephantoidea</i>`,
         languages: `English`,
         links: `<li><a href="https://archive.org/details/proboscideamonog02osbo/page/n10/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the American Museum of Natural History Library</li>`,
         location: `New York City, New York, United States of America`,
         publisher: `Trustees of the American Museum of Natural History`,
         summary: `TBA.`,
-        title: `Proboscidea A Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
+        title: `Proboscidea a Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World`,
         type: `Book`,
     },
     {
