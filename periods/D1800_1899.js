@@ -275,7 +275,7 @@ module.exports = [
         languages: `English`,
         links: `<li><a href="https://www.loc.gov/resource/ppmsca.55077/"target="_blank">From the Library of Congress</a></li>`,
         location: `Buffalo, New York, United States of America`,
-        notes: `<li><a href="https://www.loc.gov/resource/cph.3b52708/"target="_blank">Color film copy transparency from the Library of Congress.</a></li>`,
+        notes: `<li><a href="https://www.loc.gov/resource/cph.3b52708/"target="_blank">Color film copy transparency from the Library of Congress</a>, published circa 1899.</li>`,
         publisher: `Courier Litho. Co.`,
         summary: `TBA.`,
         title: `Ringling Bros. World's Greatest Shows Elephant Brass Band.`,
