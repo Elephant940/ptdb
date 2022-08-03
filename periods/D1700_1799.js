@@ -87,7 +87,7 @@ module.exports = [
     },
     {
         container: `<i>Philosophical Transactions</i> (<i>Philos</i>. <i>Trans</i>.), journal`,
-        contributors: `Michael Wolochowicz (author); T.S. (Latin-to-English translator)`,
+        contributors: `T.S. (Latin-to-English translator); Michael Wolochowicz (author)`,
         date: `1739`,
         duration: `pp. 130-138`,
         iteration: `Vol. 40, Issue 446, No. 8`,
