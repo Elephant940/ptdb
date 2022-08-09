@@ -108,9 +108,9 @@ module.exports = [
         languages: `Latin`,
         links: `<li><a href="https://www.digitale-sammlungen.de/en/view/bsb10076014?page=40,41"target="_blank">From Munich DigitiZation Center</a> (<a href="https://web.archive.org/web/20210207005415/https://download.digitale-sammlungen.de/pdf/16126589828888bsb10076014.pdf"target="_blank">archived in the Wayback Machine</a>)</li><li><a href="https://gdz.sub.uni-goettingen.de/id/PPN362053006?tify={%22pages%22:[37],%22view%22:%22info%22}"target="_blank">From Göttinger Digitalisierungszentrum</a></li><li><a href="https://archive.org/details/mobot31753000798865/page/33/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Missouri Botanical Garden</li>`,
         location: `Stockholm, Sweden`,
-        publisher: `Laurentius Salvius`,
+        publisher: `Laurentii Salvii`,
         summary: `Linnaeus establishes a zoological classification system in which each animal is given a two-part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus lists distinguishing characteristics of elephants and classifies them as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.`,
-        title: `Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
+        title: `Systema Naturæ per Regna Tria Naturæ, Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
         type: `Book`,
     },
     {
@@ -150,7 +150,7 @@ module.exports = [
         location: `Leizpig, Germany`,
         publisher: `Georg. Emmanuel Beer`,
         summary: `The 13th edition of <a id="Linnaeus_1758_color_0" onclick="goToSource('D1700-1799','Linnaeus_1758', this.id)">Linnaeus, 1758</a>. The section on elephants is on pages 58-59.`,
-        title: `Caroli a Linné, Systema Naturae per Regna Tria Naturae Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
+        title: `Caroli a Linné, Systema Naturae per Regna Tria Naturae, Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.`,
         type: `Book`,
     },
     {
