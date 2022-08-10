@@ -6,7 +6,7 @@ module.exports = [
         duration: `pp. 189-197`,
         iteration: `Issue 8`,
         languages: `German`,
-        links: `<li><a href="https://www.google.com/books/edition/_/W5dOAQAAMAAJ?hl=en&gbpv=1&pg=PA189"target="_blank">From Google Books</a>, copy provided by the University of Illinois Urbana-Champaign (<a href="https://web.archive.org/web/20210207193625/https://books.googleusercontent.com/books/content?req=AKW5QacuGQQil4EEMX4McXafU8riykOWuKYjcpjliKIDE0bXkrG88aQArnlbHPF2vNnmeGz3T_RwUtQOYsQodCAq3-Tkw1LUV45SF6F7Dg6pqvsntz5lW1-Gl_BPVNvGGrOfPoUoEG0d3rYqpM3_GUvsbgf5BorNzPK48W1gHxg5WAN3kjyULc4CZwgK9ugkE0ht4h8XNFwjO7G-9CKEQGo16CDtMIK98ysqerYQcV9QbBYHi2OGaackuhhql6LK8waAhC_GAjKJ_Kh3KCZNool_7yUA3zb9UMwoI4UOYb4iUFIgCBS41wc"target="_blank">archived in the Wayback Machine</a>)</li><li><a href="https://archive.org/details/sitzungsberichte1900gese/page/189/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Harvard University Ernst Mayr Library of the Museum of Comparative Zoology</li>`,
+        links: `<li><a href="https://www.google.com/books/edition/_/W5dOAQAAMAAJ?hl=en&gbpv=1&pg=PA189"target="_blank">From Google Books</a>, copy provided by the University of Illinois Urbana-Champaign (<a href="https://web.archive.org/web/20210207193625/https://books.googleusercontent.com/books/content?req=AKW5QacuGQQil4EEMX4McXafU8riykOWuKYjcpjliKIDE0bXkrG88aQArnlbHPF2vNnmeGz3T_RwUtQOYsQodCAq3-Tkw1LUV45SF6F7Dg6pqvsntz5lW1-Gl_BPVNvGGrOfPoUoEG0d3rYqpM3_GUvsbgf5BorNzPK48W1gHxg5WAN3kjyULc4CZwgK9ugkE0ht4h8XNFwjO7G-9CKEQGo16CDtMIK98ysqerYQcV9QbBYHi2OGaackuhhql6LK8waAhC_GAjKJ_Kh3KCZNool_7yUA3zb9UMwoI4UOYb4iUFIgCBS41wc"target="_blank">archived in the Wayback Machine</a>)</li><li><a href="https://archive.org/details/sitzungsberichte1900gese/page/189/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Harvard University Museum of Comparative Zoology Ernst Mayr Library</li>`,
         location: `Berlin, Germany`,
         publisher: `R. Friedländer und Sohn`,
         summary: `TBA.`,
@@ -43,7 +43,7 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        contributors: `J.E.V. Boas (co-author); Simon Paulli (co-author)`,
+        contributors: `Johan Erik Vesti Boas (co-author); Simon Paulli (co-author)`,
         date: `1908`,
         duration: `80 pp.`,
         iteration: `Part 1 <i>The Facial Muscles and the Proboscis</i>`,
