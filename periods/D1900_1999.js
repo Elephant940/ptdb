@@ -173,7 +173,7 @@ module.exports = [
         links: `<li><a href="https://archive.org/details/foldtanikozlony8019magy/page/n452/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Cornell University Library</li><li><a href="http://epa.oszk.hu/01600/01635/00436/pdf/EPA01635_foldtani_kozlony_1950_80_10-12_405-408.pdf"target="_blank">From Elektronikus Periodika Archívum és Adatbázis</a></li>`,
         publisher: `Nehézipari Könyv- és Folyóiratkiadó Vállalat`,
         summary: `TBA.`,
-        title: `<i>Stegeloxodon</i> nov. gen,, a <i>Loxodonta</i> elefántok esetleges ázsiai őse`,
+        title: `<i>Stegeloxodon</i> nov. gen„ a loxodonta elefántok esetleges ázsiai őse`,
         type: `Journal article`,
     },
     {

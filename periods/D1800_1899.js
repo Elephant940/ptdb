@@ -91,11 +91,11 @@ module.exports = [
         location: `London, England`,
         publisher: `W. Phillips`,
         summary: `The anonymous author Latinizes <a id="Cuvier_1825b_color" onclick="goToSource('D1800-1899','Cuvier_1825b', this.id)">Cuvier's</a> <i>Loxodonte</i> to <i>Loxodonta</i>.`,
-        title: `<i>Histoire Naturelle des Mammifères, avec des Figures originales, dessinées d'après des Animaux vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hillaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
+        title: `<i>Histoire Naturelle des Mammifères, avec des Figures originales, dessinées d'après des Animaux vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hilaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>`,
         type: `Journal article`,
     },
     {
-        container: `<i>A Prodromus of a Synopsis Animalium, Comprising a Catalogue Raisonné, of the Zootomical Collection of Joshua Brookes, Esq. F.R.S. etc. Part the First; and of the Anatomical Preparations, Part the Second; Which Will Be Sold by Auction, in Various Lots, About the Middle of May, Unless the Whole Be Previously Purchased by Private Contract, Including the Large and Interesting Department of Natural History, etc. &c.</i>, book`,
+        container: `<i>A Prodromus of a Synopsis Animalium, Comprising a Catalogue Raisonné, of the Zootomical Collection of Joshua Brookes, Esq. F.R.S. etc. Part the First; and of the Anatomical Preparations, Part the Second: Which Will Be Sold by Auction, in Various Lots, About the Middle of May, Unless the Whole Be Previously Purchased by Private Contract, Including the Large and Interesting Department of Natural History, etc. &c.</i>, book`,
         contributors: `Joshua Brookes (author)`,
         date: `1828, before 22 July`,
         duration: `76 pp.`,
@@ -105,7 +105,7 @@ module.exports = [
         location: `London, England`,
         publisher: `Richard Taylor`,
         summary: `The section on elephants is on pages 73-74. Details TBA.`,
-        title: `A Catalogue of the Anatomical & Zoological Museum of Joshua Brookes, Esq. F.R.S. F.L.S. &c.`,
+        title: `A Catalogue of the Anatomical & Zoological Museum of Joshua Brookes, Esq., F.R.S. F.L.S. &c.`,
         type: `Book`,
     },
     {
@@ -201,7 +201,7 @@ module.exports = [
         location: `New York, United States of America`,
         publisher: `Harper & Brothers`,
         summary: `The first use of an elephant to represent the Republican vote.`,
-        title: `The Third Term Panic.`,
+        title: `The Third-term Panic.`,
         type: `Print`,
     },
     {
@@ -253,7 +253,7 @@ module.exports = [
         location: `Philadelphia, Pennsylvania, United States of America`,
         publisher: `Ferris Bros.`,
         summary: `TBA.`,
-        title: `The Proboscidia`,
+        title: `The Proboscidia.`,
         type: `Journal article`,
     },
     {
@@ -278,7 +278,7 @@ module.exports = [
         notes: `<li><a href="https://www.loc.gov/resource/cph.3b52708/"target="_blank">Color film copy transparency from the Library of Congress</a>, published circa 1899.</li>`,
         publisher: `Courier Litho. Co.`,
         summary: `TBA.`,
-        title: `Ringling Bros. World's Greatest Shows Elephant Brass Band.`,
+        title: `Ringling Bros World's Greatest Shows Elephant Brass Band.`,
         type: `Poster`,
     },
 ]
