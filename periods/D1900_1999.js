@@ -474,8 +474,8 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        container: `<i>Trends in Ecology and Evolution</i> (<i>Trends</i> <i>Ecol</i>. <i>Evol</i>.; <i>TREE</i>), journal`,
-        contributors: `Jeheskel Shoshani (author); Jann S. Grimes (artist); Gary H. Marchan (artist)`,
+        container: `<i>Trends in Ecology & Evolution</i> (<i>Trends</i> <i>Ecol</i>. <i>Evol</i>.; <i>TREE</i>), journal`,
+        contributors: `Jeheskel Shoshani (author); Jann S. Grimes (artist); Gary H. Marchant (artist)`,
         date: `December 1998`,
         duration: `pp. 480-487`,
         iteration: `Vol. 13, Issue 12`,
