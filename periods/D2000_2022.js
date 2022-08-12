@@ -503,7 +503,7 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, website`,
-        contributors: `A. Gopala (co-author); O. Hadian (co-author); Sunarto (co-author); A. Sitompul (co-author); A. Williams (co-author); P. Leimgruber (co-author); S.E. Chambliss (co-author); D. Gunaryardi (co-author); S. Blair Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
+        contributors: `A. Gopala (co-author); O. Hadian (co-author); Sunarto (co-author); A. Sitompul (co-author); A. Williams (co-author); Peter Leimgruber (co-author); S.E. Chambliss (co-author); D. Gunaryardi (co-author); S. Blair Hedges (reviewer); A. Desai (reviewer); M. Tyson (reviewer)`,
         date: `2011, on or after 1 August`,
         duration: `9 pp.`,
         languages: `English`,
@@ -1106,7 +1106,7 @@ module.exports = [
     },
     {
         container: `<i>The IUCN Red List of Threatened Species</i>, website`,
-        contributors: `Christina Williams (co-author, compiler); S.K. Tiwari (co-author, compiler); V.R. Goswami (co-author); Shermin de Silva (co-author); A. Kumar (co-author); N. Baskaran (co-author); K. Yoganand (co-author); V. Menon (co-author); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
+        contributors: `C. Williams (co-author, compiler); S.K. Tiwari (co-author, compiler); V.R. Goswami (co-author); Shermin de Silva (co-author); A. Kumar (co-author); N. Baskaran (co-author); K. Yoganand (co-author); V. Menon (co-author); T.N.C. Vidya (reviewer); B. Goossens (reviewer)`,
         date: `2020, during or after June`,
         duration: `29 pp.`,
         languages: `English`,
