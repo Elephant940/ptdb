@@ -951,7 +951,7 @@ module.exports = [
     },
     {
         contributors: ` Justin Gosling (author); Vicky Flynn (editor); Belinda Stewart-Cox (editor); Caitlin Melidonis (editor)`,
-        date: `April 2018, on or after 6 April`,
+        date: `23 April 2018`,
         duration: `21 pp.`,
         languages: `English`,
         links: `<li><a href="http://elephant-family.org/wp-content/uploads/2019/01/Elephant-Family-Skin-Report-2018.pdf"target="_blank">From publisher</a></li><li><a href="https://www.researchgate.net/publication/327606536_SKINNED-THE_GROWING_APPETITE_FOR_ASIAN_ELEPHANTS_ESPECIALLY_IN_MYANMAR"target="_blank">From ResearchGate</a></li>`,
