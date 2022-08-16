@@ -111,7 +111,7 @@ module.exports = [
     {
         container: `<i>Isis von Oken</i>, journal`,
         contributors: `Johann Jacob Kaup (author)`,
-        date: `1829`,
+        date: `1829, on or after 14 January`,
         duration: `pp. 401-404`,
         iteration: `Vol. 22, Issue 4, No. 9`,
         languages: `German`,
@@ -152,7 +152,7 @@ module.exports = [
     },
     {
         contributors: `Coenraad Jacob Temminck (author)`,
-        date: `1847, between February and May`,
+        date: `1847, during or after February but before May`,
         duration: `471 pp.`,
         eyedee: `Temminck_1847`,
         iteration: `Vol. 2`,
