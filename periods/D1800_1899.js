@@ -201,7 +201,7 @@ module.exports = [
         location: `New York, United States of America`,
         publisher: `Harper & Brothers`,
         summary: `The first use of an elephant to represent the Republican vote.`,
-        title: `The Third-term Panic.`,
+        title: `The Third-Term Panic.`,
         type: `Print`,
     },
     {
@@ -232,7 +232,7 @@ module.exports = [
     },
     {
         contributors: `Matthew Scott (author)`,
-        date: `1885, on or after January 14`,
+        date: `1885, on or after 14 January`,
         duration: `96 pp.`,
         languages: `English`,
         links: `<li><a href="https://archive.org/details/autobiographyofm00scot/page/n8/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by the Boston Public Library</li><li><a href="https://www.google.com/books/edition/Autobiography_of_Matthew_Scott_Jumbo_s_K/pzoXAAAAYAAJ?hl=en&gbpv=1"target="_blank">From Google Books</a>, copy provided by Harvard University (<a href="https://web.archive.org/web/20220717161011/https://books.googleusercontent.com/books/content?req=AKW5QaeRPbnEoElOB8pdQjhwG9TOrxwJK3OAy3PMhopOJw4FauLtvQyWWsgrGGd0XOuMCs7cshVFoIOvxTufnqoS46VImztYTfGX3DbEwIJg4r0CgJWZZ2TU27dxiy2KaKybVYFugq-i39vD7lRvaqcImOfWgJm6P0KHdVQDGdkvYnFK7vcxe7WIo9O3wtuCoRXSTgmpR3uy-gcd0yxl8lTPxppk_QUqFSmDArPJOLiP0hLn8WMcTMVcoikoFIJnueHoeCIa_yedhYHgisnhMIyzjxxKixbD-GZi1ewV3UTfxqxYlhWjAt8"target="_blank">archived in the Wayback Machine</a>)</li><li><a href="https://www.fadedpage.com/showbook.php?pid=20150417"target="_blank">Digital copy from Faded Page</a></li>`,

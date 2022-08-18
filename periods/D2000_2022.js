@@ -230,6 +230,19 @@ module.exports = [
         title: `Stable isotopes in elephant hair document migration patterns and diet changes`,
         type: `Journal article`,
     },
+        {
+        container: `<i>Concentric: Literary and Cultural Studies </i> (<i>Concentric</i>: <i>Lit</i>. <i>Cult</i>. <i>Stud</i>.), journal`,
+        contributors: `Jo-Ann Shelton (author)`,
+        date: `January 2006, on or after 6 January`,
+        duration: `pp. 3-25`,
+        iteration: `Vol. 32, Issue 1 <i>Animals</i>`,
+        languages: `English`,
+        links: `<li><a href="http://www.concentric-literature.url.tw/issues/Animals/1.pdf"target="_blank">From publisher</a></li><li><a href="https://doi.org/10.6240/concentric.lit.200601_32(1).0001"target="_blank">From Airiti Library (DOI: 10.6240/concentric.lit.200601_32(1).0001)</a></li>`,
+        publisher: `National Taiwan Normal University Department of English`,
+        summary: `TBA.`,
+        title: `Elephants as Enemies in Ancient Rome`,
+        type: `Journal article`,
+    },
     {
         container: `<i>Physiological and Biochemical Zoology</i> (<i>Physiol</i>. <i>Biochem</i>. <i>Zool</i>.), journal`,
         contributors: `Steve Morris (co-author); David Humphreys (co-author); Dan Reynolds (co-author)`,
@@ -716,7 +729,7 @@ module.exports = [
         links: `<li><a href="https://doi.org/10.1080/02724634.2016.1091352"target="_blank">From publisher (DOI: 10.1080/02724634.2016.1091352)</a></li><li><a href="https://bioone.org/journals/journal-of-vertebrate-paleontology/volume-36/issue-3/02724634.2016.1091352/Eurybelodon-shoshanii-an-Unusual-New-Shovel-Tusked-Gomphothere-Mammalia-Proboscidea/10.1080/02724634.2016.1091352.short"target="_blank">From BioOne Complete</a></li><li><a href="https://www.academia.edu/22396449/Eurybelodon_shoshanii_an_unusual_new_shovel_tusked_gomphothere_Mammalia_Proboscidea_from_the_late_Miocene_of_Oregon"target="_blank">From Academia</a></li><li><a href="https://www.researchgate.net/publication/295398216_Eurybelodon_shoshanii_an_unusual_new_shovel-tusked_gomphothere_Mammalia_Proboscidea_from_the_late_Miocene_of_Oregon"target="_blank">From ResearchGate</a></li><li><a href="https://www.jstor.org/stable/24740329"target="_blank">Print copy from JSTOR</a></li>`,
         publisher: `Taylor & Francis Group`,
         summary: `TBA.`,
-        title: `<i>Eurybelodon shoshanii</i>, an Unusual New Shovel-tusked Gomphothere (Mammalia, Proboscidea) From the Late Miocene of Oregon`,
+        title: `<i>Eurybelodon shoshanii</i>, an Unusual New Shovel-Tusked Gomphothere (Mammalia, Proboscidea) From the Late Miocene of Oregon`,
         type: `Journal article`,
     },
     {

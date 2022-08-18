@@ -400,7 +400,7 @@ module.exports = [
         contributors: `Fred Kurt (co-author); Günther B. Hartl (co-author); Ralph Tiedemann (co-author)`,
         date: `12 October 1995 (Tuskless bulls, n.d.)`,
         duration: `pp. 125-143`,
-        iteration: `Vol. 40, Suppl. 3`,
+        iteration: `Suppl. 3`,
         languages: `English`,
         links: `<li><a href="https://doi.org/10.4098/at.arch.95-51"target="_blank">From publisher (DOI: 10.4098/at.arch.95-51)</a> through the Digital Repository of the Scientific Institutes</li>`,
         publisher: `Mammal Research Institute Polish Academy of Sciences (MRI PAS)`,
