@@ -284,6 +284,17 @@ module.exports = [
         type: `Journal article`,
     },
     {
+        contributors: `Charles Begley (author)`,
+        date: `October 2006`,
+        duration: `26 pp.`,
+        languages: `English`,
+        links: `<li><a href="http://www.eleaid.com/wp/wp-content/uploads/2013/10/A-Report-on-the-Elephant-Situation-in-Burma.pdf"target="_blank">From publisher</a></li><li><a href="https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.576.9264&rank=1&q=A%20Report%20on%20the%20Elephant%20Situation%20in%20Burma&osm=&ossid="target="_blank">From CiteSeerX</a></li><li><a href="https://www.graphicwitness.org/coe/burma.pdf"target="_blank">From Graphic Witness</a></li>`,
+        publisher: `EleAid`,
+        summary: `TBA.`,
+        title: `A Report on the Elephant Situation in Burma`,
+        type: `Book`,
+    },
+    {
         container: `<i>PLoS Biology</i> (<i>PLoS</i> <i>Biol</i>.), journal`,
         contributors: `Liza Gross (author)`,
         date: `3 April 2007`,
