@@ -23,7 +23,7 @@ module.exports = [
         location: `Rangoon, Burma [Myanmar]`,
         publisher: `Superintendent, Government Printing, Burma`,
         summary: `TBA.`,
-        title: `A Treatise On Elephants. Their Treatment in Health and Disease`,
+        title: `A Treatise on Elephants. Their Treatment in Health and Disease`,
         type: `Book`,
     },
     {
