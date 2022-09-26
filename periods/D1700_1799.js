@@ -191,7 +191,7 @@ module.exports = [
         notes: `<li>Published in year 6 of the French Republican calendar, which was established in 1793. The first year of the calendar began on 22 September 1792, meaning year 6 corresponds to 1798 (Convention nationale, 1793).</li>`,
         publisher: `Baudouin`,
         references: `<ul class="refs">Convention nationale (1793). <a href="https://tolosana.univ-toulouse.fr/fr/notice/042658012"target="_blank"><i>Calendrier de la République française</i></a>. Paris: Imprimerie nationale France.</ul>`,
-        summary: `Cuvier recognizes two species of living elephants and describes them on pages 146-149. He gives the name <i>Elephas indicus</i> to the Asian elephant and <i>E</i>. <i>capensis</i> to the African elephant, and states that elephants warrant placement in a new, unnamed order.`,
+        summary: `Cuvier recognizes two species of living elephants and describes them on pages 146-149. He uses the name <i>Elephas indicus</i> for the Asian elephant and gives the name <i>E</i>. <i>capensis</i> to the African elephant, and states that elephants warrant placement in a new, unnamed order.`,
         title: `Tableau Élémentaire de L'Histoire Naturelle des Animaux.`,
         type: `Book`,
     },

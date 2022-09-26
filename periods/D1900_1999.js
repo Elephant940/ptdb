@@ -182,7 +182,7 @@ module.exports = [
         iteration: `Vol. 56, Issue 4`,
         languages: `English`,
         links: `<li><a href="https://doi.org/10.1080/00221345708983130"target="_blank">From publisher (DOI: 10.1080/00221345708983130)</a> through Taylor & Francis Online</li>`,
-        publisher: `National Council for Geographic Education (NCGE)`,
+        publisher: `A.J. Nystrom and Company`,
         summary: `TBA.`,
         title: `A Brief History of Trained African Elephants in the Belgian Congo`,
         type: `Journal article`,
