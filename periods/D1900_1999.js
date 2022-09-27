@@ -352,8 +352,7 @@ module.exports = [
     },
     {
         container: '<i>IUCN/SSC Action Plans for the Conservation of Biological Diversity</i>, book series',
-        contributors: `Charles Santiapillai (compiler); Peter Jackson (compiler); 
-        IUCN/SSC Asian Elephant Specialist Group (compiler); Lyn de Alwis (foreword author)`,
+        contributors: `Charles Santiapillai (compiler); Peter Jackson (compiler); Lyn de Alwis (foreword author)`,
         date: `1990`,
         duration: `79 pp.`,
         iteration: `[No. 12]`,
@@ -419,14 +418,14 @@ module.exports = [
         type: `Book`,
     },
     {
-        container: `<i>Zeitschrift für Säugetierkunde</i> (<i>Z</i>. <i>Säugetierkd</i>.), journal`,
+        container: `<i>Zeitschrift für Säugetierkunde (International Journal of Mammalian Biology)</i> (<i>Z</i>. <i>Säugetierkd</i>. (<i>Int</i>. <i>J</i>. <i>Mamm</i>. <i>Biol</i>.)), journal`,
         contributors: `Günther B. Hartl (co-author); Fred Kurt (co-author); Ralph Tiedemann (co-author); Christine Gmeiner (co-author); K. Nadlinger (co-author); Khyne U Mar (co-author); A. Rübel (co-author)`,
         date: `October 1996`,
         duration: `pp. 285-294`,
         iteration: `Vol. 61, Issue 5`,
-        languages: `English`,
-        links: `<li><a href="https://archive.org/details/zeitschriftfrsu611996deut/page/285/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries</li>`,
-        publisher: `Gustav Fischer Verlag`,
+        languages: `English, German`,
+        links: `<li><a href="https://archive.org/details/zeitschriftfrsu611996deut/page/285/mode/2up?view=theater"target="_blank">From Internet Archive</a>, copy provided by Smithsonian Libraries</li><li><a href="https://www.zobodat.at/pdf/Zeitschrift-Saeugetierkunde_61_0285-0294.pdf"target="_blank">From Zobodat</a></li>`,
+        publisher: `Gustav Fischer`,
         summary: `TBA.`,
         title: `Population genetics and systematics of Asian elephant (<i>Elephas maximus</i>): A study based on sequence variation at the Cyt b gene of PCR-amplified mitochondrial DNA from hair bulbs`,
         type: `Journal article`,
