@@ -879,7 +879,7 @@ module.exports = [
         duration: `51 min 47 s`,
         languages: `English`,
         links: `<li><a href="https://www.youtube.com/watch?v=9SmSPPyV7is"target="_blank">From publisher</a></li>`,
-        notes: `<li>Originally recorded on 1 May 2014.</li>`,
+        notes: `<li>Originally filmed on 1 May 2014.</li>`,
         publisher: `Linnean Society`,
         summary: `A talk summarizing <a id="Cappellini_et_al_2013_color_0" onclick="goToSource('D2000-2022','Cappellini_et_al_2013', this.id)">Cappellini et al., 2013</a> by two of the article's co-authors.`,
         title: `Type Specimen of Asian Elephant, Lost and Found | Adrian Lister & Tom Gilbert`,
