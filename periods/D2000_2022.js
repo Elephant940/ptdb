@@ -1182,7 +1182,7 @@ module.exports = [
         contributors: `Michael Buckley (co-author); Omar P. Recabarren (co-author);  Craig Lawless (co-author); Nuria García (co-author); Mario Pino (co-author)`,
         date: `5 October 2019`,
         duration: `8 pp.`,
-        iteration: `Vol. 224`,
+        iteration: `Vol. 224 2`,
         languages: `English`,
         links: `<li><a href="https://doi.org/10.1016/j.quascirev.2019.105882"target="_blank">From publisher (DOI: 10.1016/j.quascirev.2019.105882)</a></li><li><a href="https://www.researchgate.net/publication/336279127_A_molecular_phylogeny_of_the_extinct_South_American_gomphothere_through_collagen_sequence_analysis"target="_blank">From ResearchGate</a></li>`,
         publisher: `Elsevier`,
