@@ -95,9 +95,9 @@ module.exports = [
         type: `Journal article`,
     },
     {
-        container: `<i>A Prodromus of a Synopsis Animalium, Comprising a Catalogue Raisonné, of the Zootomical Collection of Joshua Brookes, Esq. F.R.S. etc. Part the First; and of the Anatomical Preparations, Part the Second: Which Will Be Sold by Auction, in Various Lots, About the Middle of May, Unless the Whole Be Previously Purchased by Private Contract, Including the Large and Interesting Department of Natural History, etc. &c.</i>, book`,
+        container: `<i>A Prodromus of a Synopsis Animalium, Comprising a Catalogue Raisonné, of the Zootomical Collection of Joshua Brookes, Esq. F.R.S. etc. Part the First; and of the Anatomical Preparations, Part the Second: Which will be Sold by Auction, in Various Lots, About the Middle of May, Unless the Whole Be Previously Purchased by Private Contract, Including the Large and Interesting Department of Natural History, etc. &c.</i>, book`,
         contributors: `Joshua Brookes (author)`,
-        date: `1828, before 22 July`,
+        date: `1828, before 14 July`,
         duration: `76 pp.`,
         iteration: `Part 1`,
         languages: `English`,
