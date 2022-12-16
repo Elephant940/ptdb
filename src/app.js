@@ -84,24 +84,24 @@ function clearSearchBar() {
 }
 
 async function getAllPeriods() {
-  var myPeriodAndHTML = await getPeriod("B1700_entries", "B1700").then();
+  var myPeriodAndHTML = await getPeriod("B1700_entries", "B1700.json");
   B1700 = myPeriodAndHTML.myPeriod;
   searchArray = B1700;
   B1700_html, (currentTabCards_html = myPeriodAndHTML.html);
 
-  myPeriodAndHTML = await getPeriod("D1700-1799_entries", "D1700-1799");
+  myPeriodAndHTML = await getPeriod("D1700-1799_entries", "D1700_1799.json");
   D1700_1799 = myPeriodAndHTML.myPeriod;
   D1700_1799_html = myPeriodAndHTML.html;
 
-  myPeriodAndHTML = await getPeriod("D1800-1899_entries", "D1800-1899");
+  myPeriodAndHTML = await getPeriod("D1800-1899_entries", "D1800_1899.json");
   D1800_1899 = myPeriodAndHTML.myPeriod;
   D1800_1899_html = myPeriodAndHTML.html;
 
-  myPeriodAndHTML = await getPeriod("D1900-1999_entries", "D1900-1999");
+  myPeriodAndHTML = await getPeriod("D1900-1999_entries", "D1900_1999.json");
   D1900_1999 = myPeriodAndHTML.myPeriod;
   D1900_1999_html = myPeriodAndHTML.html;
 
-  myPeriodAndHTML = await getPeriod("D2000-2022_entries", "D2000-2022");
+  myPeriodAndHTML = await getPeriod("D2000-2022_entries", "D2000_2022.json");
   D2000_2022 = myPeriodAndHTML.myPeriod;
   D2000_2022_html = myPeriodAndHTML.html;
 
@@ -109,8 +109,10 @@ async function getAllPeriods() {
 }
 
 async function getPeriod(id, endpoint) {
-  var myPeriod = await fetch(`/api/v1/${endpoint}`);
+  var myPeriod = await fetch(`periods/${endpoint}`);
   myPeriod = await myPeriod.json();
+  //console.log(myPeriod.body)
+  //myPeriod = JSON.parse(myPeriod.body)
   var html = buildCards(myPeriod, id);
   return { myPeriod, html };
 }
