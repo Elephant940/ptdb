@@ -231,7 +231,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Concentric: Literary and Cultural Studies </i> (<i>Concentric</i>: <i>Lit</i>. <i>Cult</i>. <i>Stud</i>.), journal",
+    "container": "<i>Concentric: Literary and Cultural Studies</i> (<i>Concentric</i>: <i>Lit</i>. <i>Cult</i>. <i>Stud</i>.), journal",
     "contributors": "Jo-Ann Shelton (author)",
     "date": "January 2006, on or after 6 January",
     "duration": "pp. 3-25",
@@ -753,7 +753,7 @@
     "links": "<li><a href=\"http://dx.doi.org/10.4202/app.00136.2014\"target=\"_blank\">From publisher (DOI: 10.4202/app.00136.2014)</a></li><li><a href=\"https://bioone.org/journals/acta-palaeontologica-polonica/volume-61/issue-3/app.00136.2014/Shoulder-Height-Body-Mass-and-Shape-of-Proboscideans/10.4202/app.00136.2014.full\"target=\"_blank\">From BioOne Complete</a></li><li><a href=\"https://www.researchgate.net/publication/280014062_Shoulder_Height_Body_Mass_and_Shape_of_Proboscideans\"target=\"_blank\">From ResearchGate</a></li>",
     "notes": "<li>The published body mass equation for \"Grade II – Grade IV\" female African bush elephants (<i>Loxodonta africana</i>) on Table 7 is incorrect. It should read 1.88 × 10<sup>-3</sup> × SH<sup>2.569</sup>.</li><li>The published body mass equation for \"young – Grade I\" Asian elephants (<i>Elephas maximus</i>) on Table 7 is incorrect. It should read 3.32 × 10<sup>-4</sup> × SH<sup>2.903</sup> (Larramendi, pers. comm.).</li>",
     "publisher": "Institute of Palaeobiology",
-    "summary": "Larramendi estimates the life sizes of 161 specimens from 51 proboscidean species, providing detailed statistics for 11 well-known species. He uses the Graphic Double Integration (GDI) volumetric method to calculate body mass, and develops new equations to calculate shoulder height.  Notable specimens include fossils of <i>Palaeoloxodon namadicus</i> that Larramendi estimates to have been larger than <i>Paraceratherium</i>, an extinct rhino genus formerly considered the largest land mammal, and the skeleton of Jumbo.",
+    "summary": "Larramendi estimates the life sizes of 161 specimens from 51 proboscidean species, providing detailed statistics for 11 well-known species. He uses the Graphic Double Integration (GDI) volumetric method to calculate body mass, and develops new equations to calculate shoulder height. Notable specimens include fossils of <i>Palaeoloxodon namadicus</i> that Larramendi estimates to have been larger than <i>Paraceratherium</i>, an extinct rhino genus formerly considered the largest land mammal, and the skeleton of Jumbo.",
     "title": "Shoulder height, body mass and shape of proboscideans",
     "type": "Journal article"
   },
@@ -1179,7 +1179,7 @@
   },
   {
     "container": "<i>Quaternary Science Reviews</i> (<i>Quat</i>. <i>Sci</i>. <i>Rev</i>.), journal",
-    "contributors": "Michael Buckley (co-author); Omar P. Recabarren (co-author);  Craig Lawless (co-author); Nuria García (co-author); Mario Pino (co-author)",
+    "contributors": "Michael Buckley (co-author); Omar P. Recabarren (co-author); Craig Lawless (co-author); Nuria García (co-author); Mario Pino (co-author)",
     "date": "5 October 2019",
     "duration": "8 pp.",
     "iteration": "Vol. 224",
@@ -1371,7 +1371,7 @@
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1098/rsbl.2020.0070\"target=\"_blank\">From publisher (DOI: 10.1098/rsbl.2020.0070)</a></li><li><a href=\"https://europepmc.org/article/pmc/pmc7211468\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7211468/\"target=\"_blank\">From PubMed Central</a></li>",
     "publisher": "Royal Society",
-    "summary": " Janiak and colleagues identify and analyze the gene ADH7 in 79 mammal species.  They find that African elephants (<i>Loxodonta africana</i>), Asian elephants (<i>Elephas maximus</i>), and woolly mammoths (<i>Mammuthus primigenius</i>) possess a mutated version that can no longer produce functional alcohol dehydrogenase class IV (ADH IV), an enzyme that metabolizes ethanol. This implies these species have a low alcohol tolerance and lends credence to rumors that elephants inebriate themselves on fermented fruits, which <a id=\"Morris_et_al_2006_color_2\" onclick=\"goToSource('D2000-2022','Morris_et_al_2006', this.id)\">Morris et al., 2006</a> deemed unlikely when extrapolating from human physiology.",
+    "summary": " Janiak and colleagues identify and analyze the gene ADH7 in 79 mammal species. They find that African elephants (<i>Loxodonta africana</i>), Asian elephants (<i>Elephas maximus</i>), and woolly mammoths (<i>Mammuthus primigenius</i>) possess a mutated version that can no longer produce functional alcohol dehydrogenase class IV (ADH IV), an enzyme that metabolizes ethanol. This implies these species have a low alcohol tolerance and lends credence to rumors that elephants inebriate themselves on fermented fruits, which <a id=\"Morris_et_al_2006_color_2\" onclick=\"goToSource('D2000-2022','Morris_et_al_2006', this.id)\">Morris et al., 2006</a> deemed unlikely when extrapolating from human physiology.",
     "title": "Genetic evidence of widespread variation in ethanol metabolism among mammals: revisiting the ‘myth' of natural intoxication",
     "type": "Journal article"
   },
@@ -1738,7 +1738,7 @@
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1098/rsif.2021.0215\"target=\"_blank\">From publisher (DOI: 10.1098/rsif.2021.0215)</a></li><li><a href=\"https://europepmc.org/article/med/34062103\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://par.nsf.gov/biblio/10282876\"target=\"_blank\">From NSF Public Access Repository</a></li><li><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8169210/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://www.researchgate.net/publication/352049382_Suction_feeding_by_elephants\"target=\"_blank\">From ResearchGate</a></li>",
     "publisher": "Royal Society",
-    "summary": "Schulz and peers investigate inhalation in the trunk of a captive female African elephant (<i>Loxodonta africana</i>). They present her with differently sized food items and observe she can grab them by applying suction, a behavior previously thought to be exclusive to fish.  They also measure the elephant’s nasal cavity with an ultrasonic probe while she is suctioning water, and find she can drastically increase her trunk’s volume by contracting its inner muscles.  From this, the authors calculate that elephants are able to inhale faster than humans sneeze.",
+    "summary": "Schulz and peers investigate inhalation in the trunk of a captive female African elephant (<i>Loxodonta africana</i>). They present her with differently sized food items and observe she can grab them by applying suction, a behavior previously thought to be exclusive to fish. They also measure the elephant’s nasal cavity with an ultrasonic probe while she is suctioning water, and find she can drastically increase her trunk’s volume by contracting its inner muscles. From this, the authors calculate that elephants are able to inhale faster than humans sneeze.",
     "title": "Suction feeding by elephants",
     "type": "Journal article"
   },
