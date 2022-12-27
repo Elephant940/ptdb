@@ -38,7 +38,7 @@
     "type": "Book"
   },
   {
-    "container": "<i>The London Medical Repository</i> (<i>Lond</i>. <i>Med</i>. <i>Repos</i>.), journal",
+    "container": "<i>London Medical Repository</i> (<i>Lond</i>. <i>Med</i>. <i>Repos</i>.), journal",
     "contributors": "John Edward Gray (author)",
     "date": "1 April 1821",
     "duration": "pp. 296-310",
@@ -47,7 +47,7 @@
     "links": "<li><a href=\"https://www.google.com/books/edition/The_London_Medical_Repository/igICAAAAYAAJ?hl=en&gbpv=1&pg=PA296\"target=\"_blank\">From Google Books</a>, copy provided by Harvard University (<a href=\"https://web.archive.org/web/20210310040408/https://books.googleusercontent.com/books/content?req=AKW5QaeJwQcNll8IhatcydCwSlIbxPshx17_ovGPEIlnQAmPjdyASisq1zsD47IOal98Hnk1OX9VJ3emnUq5vNHdm5IH7Ac-Sh1HcUKoEAX1Mgt_7N3sXmLzlqBf0tT5K17USf5t8QjvaNb3nvndPajQyxGlwjJwuCQpLZJYk4jdvVu0O3u4RnqwqQnGwS1Hyq3y_aBAV7c8IuBd0qFLz_1_c9drt78tMMfwsetBE2AhOZp72NtuJIKQMBZFjNaAxZYfCzMzLbM3Sp4KkeVG7qqNkVgstjO9Pg\"target=\"_blank\">archived in the Wayback Machine</a>)</li><li><a href=\"https://archive.org/details/s0id11783780/page/296/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by the Wellcome Library</li>",
     "location": "London, England",
     "publisher": "Thomas and George Underwood",
-    "summary": "Gray elevates <a id=\"Illiger_1811_color_0\" onclick=\"goToSource('D1800-1899','Illiger_1811', this.id)\">Illiger's</a> Proboscidea family to an order. He recognizes and describes two proboscidean species named by Cuvier, <a id=\"Cuvier_1798_color_1\" onclick=\"goToSource('D1700-1799','Cuvier_1798', this.id)\"><i>Elephas indicus</i></a> and <i>Mastodon giganteum</i>, and coins the family name Elephantidae for the former and Mastodontidae for the latter.",
+    "summary": "Gray elevates <a id=\"Illiger_1811_color_0\" onclick=\"goToSource('D1800-1899','Illiger_1811', this.id)\">Illiger's</a> Proboscidea family to an order. He recognizes and describes two proboscidean species named by Cuvier, <a id=\"Cuvier_1798_color_1\" onclick=\"goToSource('D1700-1799','Cuvier_1798', this.id)\"><i>Elephas indicus</i></a> and <i>Mastodon giganteum</i>, and coins the family name Elephantidae for the former and Mastodontadae for the latter.",
     "title": "On the Natural Arrangement of Vertebrose Animals.",
     "type": "Journal article"
   },
