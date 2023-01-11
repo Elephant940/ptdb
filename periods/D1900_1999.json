@@ -2,7 +2,7 @@
   {
     "container": "<i>Sitzungs-Berichte der Gesellschaft naturforschender Freunde zu Berlin</i> (<i>Sitz</i>.-<i>Ber</i>. <i>Ges</i>. <i>naturforsch</i>. <i>Freunde</i> <i>Berl</i>.), journal",
     "contributors": "Paul Matschie (author)",
-    "date": "1900, on or after 16 October",
+    "date": "1900, on or after October 16",
     "duration": "pp. 189-197",
     "iteration": "Issue 8",
     "languages": "German",
@@ -29,7 +29,7 @@
   {
     "container": "<i>Proceedings of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), journal",
     "contributors": "Richard Lydekker (author)",
-    "date": "1 August 1907 (Back Matter, 1907)",
+    "date": "1907 August 1 (Back Matter, 1907)",
     "duration": "pp. 380-403",
     "iteration": "[Vol. 77, Issue 2], No. 1",
     "languages": "English",
@@ -81,7 +81,7 @@
   {
     "container": "<i>Proceedings of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), journal",
     "contributors": "Richard Lydekker (author)",
-    "date": "16 June 1914 (Back Matter, 1914)",
+    "date": "1914 June 16 (Back Matter, 1914)",
     "duration": "pp. 285-288",
     "iteration": "[Vol. 84], Issue 2, No. 18",
     "languages": "English",
@@ -96,7 +96,7 @@
   {
     "container": "<i>American Museum Novitates</i> (<i>Am</i>. <i>Mus</i>. <i>Novit</i>.), journal",
     "contributors": "Henry Fairfield Osborn (author)",
-    "date": "31 January 1921",
+    "date": "1921 January 31",
     "duration": "15 pp.",
     "iteration": "No. 1",
     "languages": "English",
@@ -110,7 +110,7 @@
   {
     "container": "<i>Proceedings of the Academy of Natural Sciences of Philadelphia</i> (<i>Proc</i>. <i>Acad</i>. <i>Nat</i>. <i>Sci</i>. <i>Phila</i>.), journal",
     "contributors": "Glover Morrill Allen (author)",
-    "date": "10 March 1936",
+    "date": "1936 March 10",
     "duration": "pp. 15-44",
     "iteration": "Vol. 88",
     "languages": "English",
@@ -123,7 +123,7 @@
   },
   {
     "contributors": "Henry Fairfield Osborn (author); Mabel Rice Percy (editor)",
-    "date": "15 August 1936",
+    "date": "1936 August 15",
     "duration": "pp. 1-802",
     "iteration": "Vol. 1 <i>Mœritherioidea Deinotherioidea Mastodontoidea</i>",
     "languages": "English",
@@ -137,7 +137,7 @@
   {
     "container": "<i>Bulletin of the Raffles Museum</i> (<i>Bull</i>. <i>Raffles</i> <i>Mus</i>.), journal",
     "contributors": "Frederick Nutter Chasen (author)",
-    "date": "April 1940",
+    "date": "1940 April",
     "duration": "209 pp.",
     "iteration": "Vol. 15",
     "languages": "English",
@@ -164,7 +164,7 @@
   {
     "container": "<i>Földtani Közlöny</i> (<i>Földt</i>. <i>Közlöny</i>), journal",
     "contributors": "Miklós Kretzoi (author)",
-    "date": "1950, on or after 4 October",
+    "date": "1950, on or after October 4",
     "duration": "pp. 405-408",
     "iteration": "Vol. 80, Issues 10-12",
     "languages": "Hungarian, English",
@@ -177,7 +177,7 @@
   {
     "container": "<i>Journal of Geography</i> (<i>J</i>. <i>Geogr</i>.), journal",
     "contributors": "Charles F. Bennett, Jr. (author)",
-    "date": "April 1957",
+    "date": "1957 April",
     "duration": "pp. 168-172",
     "iteration": "Vol. 56, Issue 4",
     "languages": "English",
@@ -190,7 +190,7 @@
   {
     "container": "<i>East African Wildlife Journal</i> (<i>East</i> <i>Afr</i>. <i>Wildl</i>. <i>J</i>.), journal",
     "contributors": "Richard M. Laws (author)",
-    "date": "August 1966",
+    "date": "1966 August",
     "duration": "pp. 1-37",
     "iteration": "Vol. 4, Issue 1",
     "languages": "English",
@@ -203,7 +203,7 @@
   {
     "container": "<i>Nature</i> (<i>Nat</i>.), journal",
     "contributors": "D.A. Hooijer (author)",
-    "date": "22 September 1972",
+    "date": "1972 September 22",
     "duration": "pp. 228",
     "iteration": "Vol. 239, [Issue 5369]",
     "languages": "English",
@@ -216,7 +216,7 @@
   {
     "container": "<i>Mammalian Species</i> (<i>Mamm</i>. <i>Species</i>), journal",
     "contributors": "Larry Laursen (co-author); Marc Bekoff (co-author); Sydney Anderson (editor)",
-    "date": "6 January 1978",
+    "date": "1978 January 6",
     "duration": "8 pp.",
     "iteration": "No. 92",
     "languages": "English",
@@ -229,7 +229,7 @@
   {
     "container": "<i>Elephant</i>, journal",
     "contributors": "A.L. Howard (author)",
-    "date": "1979, on or after 1 May",
+    "date": "1979, on or after May 1",
     "duration": "pp. 36-41",
     "iteration": "Vol. 1, Issue 3",
     "languages": "English",
@@ -243,7 +243,7 @@
   {
     "container": "<i>Elephant</i>, journal",
     "contributors": "Jeheskel Shoshani (co-author); Daniel C. Laughlin (co-author); Lawrence D. McGill (co-author, reviewer); Franz Tisch (co-author); Michael J. Baccala (co-author); Sandra S. Lash (co-author); Mildred Hurt (co-author); Eyal Shy (co-author); Susan L. Raymer (co-author); Dick Frederick (co-author); Dave Sabo (co-author); Sue ann Berbenchuk (co-author); Kathleen M. Morehead (co-author, photographer); Joseph Skoney (co-author); George Overbeck (co-author); Marlene A. Bulgarelli (co-author); Anthony Helinski (co-author); Harold W. Rossmoore (co-author); Joseph G. Engelhard (co-author); Joy Koenig (co-author); Efstratios Efthyvoulidis (co-author); Nicholas J. Mizeres (co-author); Victor T. Lakits, Jr. (co-author); Theodore Gaskins (co-author); Donald Smith (co-author); Chris Heberer (co-author); Sean Murphy (co-author); Anthony A. Muraski (co-author); Susan Grabowski (co-author); Jim Williams (co-author); John W. Cosgriff, Jr. (co-author); Richard Bielaczyc (co-author, photographer); Jim Niedbala (co-author); M. Pamela Bedore (co-author, typist, editor); Karen L. Spodarek (co-author); Irven O. Buss (reviewer); Richard M. Laws (reviewer); Sylvia K. Sikes (reviewer); Zirka S. Clark (typist, editor); Eileen D. Koglin (typist, editor); George Booth (co-author, photographer); Leslie Denes (co-author); Rick Adler (co-author); Krysty Andrews (co-author); Allan Barbish (co-author); Susan Barry (co-author); Ron Battiata (co-author); Nate Bozarth (co-author); Irene Church (co-author); Helen Crowe (co-author); Sherri L. DeFauw (co-author); Merlin Ekstrom (co-author); Patrick English (co-author); Don Fairchild, Jr. (co-author); Carla Fisher (co-author); Kevin Frahm (co-author); Judi Fried (co-author); Joanne Gatt (co-author); Wilma Gentles (co-author); Harry G. Goshgarian (co-author); Debbie Haase (co-author); Kathryn Hajj (co-author); Gary Hall (co-author); Debbie Hawkins (co-author); Shawne R. Henry (co-author); Chuck Heyka (co-author); Mike Kemppainen (co-author); Cathy Kendra (co-author); Paul Konarske (co-author); Sue Konwinski (co-author); Stephan Kopacz (co-author); Stuart Meyers (co-author); Robert Powitz (co-author); Jose A. Rafols (co-author); Lisa Rezzonica (co-author); Paul J. Schwikert (co-author); Peter J. Sujdak (co-author); Todd Tarrant (co-author); Ron Thielman (co-author); Ronnie Thielman (co-author); Linda Walowicz (co-author); Dorit Yehiel (co-author)",
-    "date": "1982, on or after 2 May",
+    "date": "1982, on or after May 2",
     "duration": "pp. 3-93",
     "iteration": "Vol. 2, Issue 1",
     "languages": "English",
@@ -257,7 +257,7 @@
   {
     "container": "<i>Mammalian Species</i> (<i>Mamm</i>. <i>Species</i>), journal",
     "contributors": "Jeheskel Shoshani (co-author); John F. Eisenberg (co-author); M. Pamela Bedore (typist); Eileen D. Koglin (typist); Daniel F. Williams (editor); Sydney Anderson (editor); Timothy E. Lawlor (editor)",
-    "date": "18 June 1982",
+    "date": "1982 June 18",
     "duration": "8 pp.",
     "iteration": "No. 182",
     "languages": "English",
@@ -270,7 +270,7 @@
   {
     "container": "<i>Bulletin of the Psychonomic Society</i> (<i>Bull</i>. <i>Psychon</i>. <i>Soc</i>.), journal",
     "contributors": "Ronald K. Siegel (co-author); Mark Brodie (co-author)",
-    "date": "July 1984",
+    "date": "1984 July",
     "duration": "pp. 49-52",
     "iteration": "Vol. 22, Issue 1",
     "languages": "English",
@@ -285,7 +285,7 @@
   {
     "container": "<i>South African Journal of Zoology</i> (<i>S</i>. <i>Afr</i>. <i>J</i>. <i>Zool</i>.), journal",
     "contributors": "P.G. Wright (author)",
-    "date": "October 1984",
+    "date": "1984 October",
     "duration": "pp. 266-269",
     "iteration": "Vol. 19, Issue 4",
     "languages": "English, Afrikaans",
@@ -299,7 +299,7 @@
   {
     "container": "<i>South African Journal of Zoology</i> (<i>S</i>. <i>Afr</i>. <i>J</i>. <i>Zool</i>.), journal",
     "contributors": "P.G. Wright (co-author); C.P. Luck (co-author)",
-    "date": "October 1984",
+    "date": "1984 October",
     "duration": "pp. 270-274",
     "iteration": "Vol. 19, Issue 4",
     "languages": "English, Afrikaans",
@@ -313,7 +313,7 @@
   {
     "container": "<i>African Journal of Ecology</i> (<i>Afr</i>. <i>J</i>. <i>Ecol</i>.), journal",
     "contributors": "G. Merz (author)",
-    "date": "June 1986",
+    "date": "1986 June",
     "duration": "pp. 133-136",
     "iteration": "Vol. 24, Issue 2",
     "languages": "English",
@@ -326,7 +326,7 @@
   {
     "container": "<i>Animal Behaviour</i> (<i>Anim</i>. <i>Behav</i>.), journal",
     "contributors": "Phyllis C. Lee (author)",
-    "date": "February 1987",
+    "date": "1987 February",
     "duration": "pp. 278-291",
     "iteration": "Vol. 35, Issue 1",
     "languages": "English",
@@ -339,7 +339,7 @@
   {
     "container": "<i>Proceedings of the Indian Academy of Sciences (Animal Sciences)</i> (<i>Proc</i>. <i>Indian</i> <i>Acad</i>. <i>Sci</i>. (<i>Anim</i>. <i>Sci</i>.)), journal",
     "contributors": "Raman Sukumar (co-author); N.V. Joshi (co-author); V. Krishnamurthy (co-author)",
-    "date": "November 1988",
+    "date": "1988 November",
     "duration": "pp. 561-571",
     "iteration": "Vol. 97, Issue 6",
     "languages": "English",
@@ -379,7 +379,7 @@
   {
     "container": "<i>Journal of Zoology, London</i> (<i>J</i>. <i>Zool</i>., <i>Lond</i>.), journal",
     "contributors": "Phyllis C. Lee (co-author); Cynthia J. Moss (co-author)",
-    "date": "May 1995",
+    "date": "1995 May",
     "duration": "pp. 29-41",
     "eyedee": "Lee_Moss_1995",
     "iteration": "Vol. 236, Issue 1",
@@ -393,7 +393,7 @@
   {
     "container": "<i>Acta Theriologica</i> (<i>Acta</i> <i>Theriol</i>.), journal",
     "contributors": "Fred Kurt (co-author); Günther B. Hartl (co-author); Ralph Tiedemann (co-author)",
-    "date": "12 October 1995 (Tuskless bulls, n.d.)",
+    "date": "1995 October 12 (Tuskless bulls, n.d.)",
     "duration": "pp. 125-143",
     "iteration": "Suppl. 3",
     "languages": "English",
@@ -420,7 +420,7 @@
   {
     "container": "<i>Zeitschrift für Säugetierkunde (International Journal of Mammalian Biology)</i> (<i>Z</i>. <i>Säugetierkd</i>. (<i>Int</i>. <i>J</i>. <i>Mamm</i>. <i>Biol</i>.)), journal",
     "contributors": "Günther B. Hartl (co-author); Fred Kurt (co-author); Ralph Tiedemann (co-author); Christine Gmeiner (co-author); K. Nadlinger (co-author); Khyne U Mar (co-author); A. Rübel (co-author)",
-    "date": "October 1996",
+    "date": "1996 October",
     "duration": "pp. 285-294",
     "iteration": "Vol. 61, Issue 5",
     "languages": "English, German",
@@ -433,7 +433,7 @@
   {
     "container": "<i>Elephant Encyclopedia</i>, website",
     "contributors": "Dan Koehl (author)",
-    "date": "On or after 17 January 1998, last updated on or after 23 July 2020",
+    "date": "On or after 1998 January 17, last updated on or after 2020 July 23",
     "duration": "1120 words",
     "languages": "English",
     "links": "<li><a href=\"https://www.elephant.se/Motty_the_elephant_crossbreed.php?open=Living%20Elephant%20Species\"target=\"_blank\">From publisher</a></li>",
@@ -445,7 +445,7 @@
   {
     "container": "<i>Emerging Infectious Diseases</i> (<i>Emerg</i>. <i>Infect</i>. <i>Dis</i>.), journal",
     "contributors": "Kathleen Michalak (co-author); Connie Austin (co-author); Sandy Diesel (co-author); J. Maichle Bacon (co-author); Phil Zimmerman (co-author); Joel N. Maslow (co-author)",
-    "date": "June 1998, before 13 June",
+    "date": "1998 June, before the 13",
     "duration": "pp. 283-287",
     "iteration": "Vol. 4, Issue 2",
     "languages": "English",
@@ -458,7 +458,7 @@
   {
     "container": "<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>.; <i>PNAS</i>), journal",
     "contributors": "Michael J. Stanhope (co-author); Victor G. Waddell (co-author); Ole Madsen (co-author); Wilfried de Jong (co-author); S. Blair Hedges (co-author); Gregory C. Cleven (co-author); Diana Kao (co-author); Mark S. Springer (co-author); Roy J. Britten (editor)",
-    "date": "18 August 1998",
+    "date": "1998 August 18",
     "duration": "pp. 9967–9972",
     "iteration": "Vol. 95, Issue 17",
     "languages": "English",
@@ -471,7 +471,7 @@
   {
     "container": "<i>Trends in Ecology & Evolution</i> (<i>Trends</i> <i>Ecol</i>. <i>Evol</i>.; <i>TREE</i>), journal",
     "contributors": "Jeheskel Shoshani (author); Jann S. Grimes (artist); Gary H. Marchant (artist)",
-    "date": "December 1998",
+    "date": "1998 December",
     "duration": "pp. 480-487",
     "iteration": "Vol. 13, Issue 12",
     "languages": "English",
@@ -484,7 +484,7 @@
   {
     "container": "<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>.<i>S</i>.<i>A</i>.; <i>PNAS</i>), journal",
     "contributors": "Ann P. Gaeth (co-author); Roger Valentine Short (co-author); Marilyn B. Renfree (co-author)",
-    "date": "11 May 1999",
+    "date": "1999 May 11",
     "duration": "pp. 5555–5558",
     "iteration": "Vol. 96, Issue 10",
     "languages": "English",
