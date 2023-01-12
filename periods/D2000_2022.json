@@ -113,7 +113,7 @@
     "iteration": "Vol. 76, Issue 6",
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1086/380209\"target=\"_blank\">From publisher (DOI: 10.1086/380209)</a></li><li><a href=\"https://www.jstor.org/stable/10.1086/380209\"target=\"_blank\">From JSTOR</a></li><li><a href=\"https://www.researchgate.net/publication/5384225_Effect_of_Long-Term_Preservation_Methods_on_Fecal_Glucocorticoid_Concentrations_of_Grizzly_Bear_and_African_Elephant\"target=\"_blank\">From ResearchGate</a></li>",
-    "publisher": "The University of Chicago Press",
+    "publisher": "University of Chicago Press",
     "summary": "TBA.",
     "title": "Effect of Long‐Term Preservation Methods on Fecal Glucocorticoid Concentrations of Grizzly Bear and African Elephant",
     "type": "Journal article"
@@ -183,12 +183,12 @@
     "type": "Journal article"
   },
   {
-    "contributors": "The University of Chicago Press Journals (author)",
+    "contributors": "University of Chicago Press Journals (author)",
     "date": "2005 December 5",
     "duration": "303 words",
     "languages": "English",
     "links": "<li><a href=\"http://www.bio-medicine.org/biology-news/Drunken-elephants-3A-The-marula-fruit-myth-2142-1/\"target=\"_blank\">From Bio-Medicine</a></li><li><a href=\"https://www.eurekalert.org/pub_releases/2005-12/uocp-det120505.php\"target=\"_blank\">From EurekAlert!</a></li><li><a href=\"https://www.innovations-report.com/life-sciences/report-52669/\"target=\"_blank\">From Innovations Report</a></li><li><a href=\"https://www.sciencedaily.com/releases/2005/12/051205235555.htm\"target=\"_blank\">From ScienceDaily</a></li>",
-    "publisher": "The University of Chicago Press Journals",
+    "publisher": "University of Chicago Press Journals",
     "summary": "A layman-oriented summary of <a id=\"Morris_et_al_2006_color_0\" onclick=\"goToSource('D2000-2022','Morris_et_al_2006', this.id)\">Morris et al., 2006</a>.",
     "title": "Drunken elephants: The marula fruit myth",
     "type": "Web article"
@@ -252,7 +252,7 @@
     "iteration": "Vol. 79, Issue 2",
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1086/499983\"target=\"_blank\">From publisher (DOI: 10.1086/499983)</a></li><li><a href=\"http://www.bio.bris.ac.uk/research/morlab/Morris%20et%20al%20%5BPBZ%5D%202006.pdf\"target=\"_blank\">From the University of Bristol School of Biological Sciences</a></li><li><a href=\"https://www.jstor.org/stable/10.1086/499983\"target=\"_blank\">From JSTOR</a></li>",
-    "publisher": "The University of Chicago Press",
+    "publisher": "University of Chicago Press",
     "summary": "Morris and others test the plausibility of widespread reports that African elephants (<i>Loxodonta africana</i>) get intoxicated from the ethanol found in the fermented fruit of the marula tree (<i>Sclerocarya birrea</i>). Extrapolating from human physiology, they find that elephants would have to consume only marula fruits at an abnormally high rate to become inebriated. Coupled with elephants' preference for fresh fruit, they conclude this is unlikely. The authors suggest other substances in marula trees may be responsible for elephant intoxication, such as the high vitamin content of fresh fruits or the poisonous beetle larvae found in the bark.",
     "title": "Myth, Marula, and Elephant: An Assessment of Voluntary Ethanol Intoxication of the African Elephant (<i>Loxodonta africana</i>) Following Feeding on the Fruit of the Marula Tree (<i>Sclerocarya birrea</i>)",
     "type": "Journal article"
@@ -371,6 +371,19 @@
     "publisher": "Sarawak Museum Department",
     "summary": "TBA.",
     "title": "Origin of the Elephants <i>Elephas maximus</i> L. of Borneo ",
+    "type": "Journal article"
+  },
+  {
+    "container": "<i>Journal of Tropical Biology and Conservation</i> (<i>J</i>. <i>Trop</i>. <i>Biol</i>. <i>Conserv</i>.; <i>JTBC</i>), journal",
+    "contributors": "Nurzhafarina Othman (co-author); Maryati Mohamed (co-author); Abdul Hamid Ahmad (co-author); Senthivel Nathan (co-author); Heather Thomas Pierson (co-author); Benoit Goossens (co-author); David Bignell (reviewer)",
+    "date": "2008",
+    "duration": "pp. 109-113",
+    "iteration": "Vol. 4, Issue 1",
+    "languages": "English",
+    "links": "<li><a href=\"https://jurcon.ums.edu.my/ojums/index.php/jtbc/article/view/102\"target=\"_blank\">From publisher (DOI: 10.51200/jtbc.v0i4.102)</a></li><li><a href=\"https://www.academia.edu/54069265/A_preliminary_study_on_the_morphometrics_of_the_Bornean_Elephant\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/284032187_A_preliminary_study_on_the_morphometrics_of_the_Bornean_Elephant\"target=\"_blank\">From ResearchGate</a></li>",
+    "publisher": "Institute for Tropical Biology and Conservation (ITBC)",
+    "summary": "TBA.",
+    "title": "A preliminary study on the morphometrics of the Bornean Elephant",
     "type": "Journal article"
   },
   {
@@ -1440,7 +1453,7 @@
   },
   {
     "container": "<i>The IUCN Red List of Threatened Species</i>, website",
-    "contributors": "C. Williams (co-author, compiler); S.K. Tiwari (co-author, compiler); V.R. Goswami (co-author); Shermin de Silva (co-author); A. Kumar (co-author); N. Baskaran (co-author); K. Yoganand (co-author); V. Menon (co-author); T.N.C. Vidya (reviewer); B. Goossens (reviewer)",
+    "contributors": "C. Williams (co-author, compiler); S.K. Tiwari (co-author, compiler); V.R. Goswami (co-author); Shermin de Silva (co-author); A. Kumar (co-author); N. Baskaran (co-author); K. Yoganand (co-author); V. Menon (co-author); T.N.C. Vidya (reviewer); Benoit Goossens (reviewer)",
     "date": "2020, during or after June",
     "duration": "29 pp.",
     "languages": "English",
