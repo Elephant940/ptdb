@@ -55,7 +55,7 @@
     "type": "Book"
   },
   {
-    "contributors": "Charles A. Williams (author); Arthur Smith Woodward (preface author)",
+    "contributors": "Charles William Andrews (author); Arthur Smith Woodward (preface author)",
     "date": "1908, during or after February",
     "duration": "46 pp.",
     "languages": "English",
@@ -233,9 +233,9 @@
     "duration": "pp. 36-41",
     "iteration": "Vol. 1, Issue 3",
     "languages": "English",
-    "links": "<li><a href=\"https://doi.org/10.22237/elephant/1491420381\"target=\"_blank\">From publisher (DOI: 110.22237/elephant/1491420381)</a></li>",
+    "links": "<li><a href=\"https://doi.org/10.22237/elephant/1491420381\"target=\"_blank\">From publisher (DOI: 10.22237/elephant/1491420381)</a></li>",
     "location": "Detroit, Michigan, United States of America",
-    "publisher": "Wayne State University Department of Biological Sciences",
+    "publisher": "Department of Biology, Wayne State University",
     "summary": "TBA.",
     "title": "\"Motty\"--Birth of an African/Asian Elephant at Chester Zoo",
     "type": "Journal article"
@@ -249,7 +249,7 @@
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.22237/elephant/1521731887\"target=\"_blank\">From publisher (DOI: 10.22237/elephant/1521731887)</a></li><li><a href=\"https://core.ac.uk/display/212887158\"target=\"_blank\">From CORE</a></li>",
     "location": "Detroit, Michigan, United States of America",
-    "publisher": "Wayne State University Department of Biological Sciences",
+    "publisher": "Department of Biological Sciences, Wayne State University",
     "summary": "TBA.",
     "title": "On the Dissection of a Female Asian Elephant (<u>Elephas</u> <u>maximus</u> <u>maximus</u> Linnaeus, 1758) and Data from Other Elephants",
     "type": "Journal article"
