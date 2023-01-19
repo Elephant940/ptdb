@@ -1490,21 +1490,6 @@
     "type": "Document"
   },
   {
-    "container": "<i>Pokémon Trading Card Game: Sword & Shield—Darkness Ablaze</i>, collecting card set",
-    "contributors": "Kouki Saitou (illustrator)",
-    "date": "2020 August 14 (Sword & Shield, 2020)",
-    "duration": "8.8 x 6.3 cm (3.5 x 2.5 in)",
-    "iteration": "No. 132/189",
-    "languages": "English",
-    "links": "<li><a href=\"https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/ss-series/swsh3/132/\"target=\"_blank\">From publisher</a></li><li><a href=\"https://pkmncards.com/card/copperajah-darkness-ablaze-daa-132/\"target=\"_blank\">From PkmnCards</a></li><li><a href=\"https://www.serebii.net/card/darknessablaze/132.shtml\"target=\"_blank\">From Serebii.net</a></li>",
-    "publisher": "The Pokémon Company",
-    "notes": "<li><a href=\"https://www.pokemon-card.com/card-search/details.php/card/38779/regu/XY\"target=\"_blank\">Japanese copy from publisher</a> and <a href=\"https://bulbapedia.bulbagarden.net/wiki/File:CopperajahDarknessAblaze132.jpg\"target=\"_blank\">Bulbapedia</a>, copy provided by Ruixiang95, published 2020 June 5 (ムゲンゾーン, 2020). The iteration for the Japanese copy is No. 134/190.</li>",
-    "references": "<ul class=\"refs\">ムゲンゾーン (2020). <i>ポケモンカードゲーム</i>. <a href=\"https://www.pokemon-card.com/ex/s3/\"target=\"_blank\">https://www.pokemon-card.com/ex/s3/</a></ul><br><ul class=\"refs\">Sword & Shield—Darkness Ablaze (2020). <i>The Official Pokémon Website</i>. <a href=\"https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/\"target=\"_blank\">https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/</a></ul>",
-    "summary": "TBA.",
-    "title": "Copperajah",
-    "type": "Collecting card"
-  },
-  {
     "container": "<i>Reuters</i>, website",
     "contributors": "Brian Benza (author); Tim Cocks (editor); Giles Elgood (editor)",
     "date": "2020 June 15",
@@ -1553,6 +1538,21 @@
     "summary": "TBA.",
     "title": "Statement of the IUCN SSC African Elephant Specialist Group on elephant deaths in Botswana",
     "type": "Web article"
+  },
+  {
+    "container": "<i>Pokémon Trading Card Game: Sword & Shield—Darkness Ablaze</i>, collecting card set",
+    "contributors": "Kouki Saitou (illustrator)",
+    "date": "2020 August 14 (Sword & Shield, 2020)",
+    "duration": "8.8 x 6.3 cm (3.5 x 2.5 in)",
+    "iteration": "No. 132/189",
+    "languages": "English",
+    "links": "<li><a href=\"https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/ss-series/swsh3/132/\"target=\"_blank\">From publisher</a></li><li><a href=\"https://pkmncards.com/card/copperajah-darkness-ablaze-daa-132/\"target=\"_blank\">From PkmnCards</a></li><li><a href=\"https://www.serebii.net/card/darknessablaze/132.shtml\"target=\"_blank\">From Serebii.net</a></li>",
+    "publisher": "The Pokémon Company",
+    "notes": "<li><a href=\"https://www.pokemon-card.com/card-search/details.php/card/38779/regu/XY\"target=\"_blank\">Japanese copy from publisher</a> and <a href=\"https://bulbapedia.bulbagarden.net/wiki/File:CopperajahDarknessAblaze132.jpg\"target=\"_blank\">Bulbapedia</a>, copy provided by Ruixiang95, published 2020 June 5 (ムゲンゾーン, 2020). The iteration for the Japanese copy is No. 134/190.</li>",
+    "references": "<ul class=\"refs\">ムゲンゾーン (2020). <i>ポケモンカードゲーム</i>. <a href=\"https://www.pokemon-card.com/ex/s3/\"target=\"_blank\">https://www.pokemon-card.com/ex/s3/</a></ul><br><ul class=\"refs\">Sword & Shield—Darkness Ablaze (2020). <i>The Official Pokémon Website</i>. <a href=\"https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/\"target=\"_blank\">https://www.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/</a></ul>",
+    "summary": "TBA.",
+    "title": "Copperajah",
+    "type": "Collecting card"
   },
   {
     "container": "<i>Conservation Corridor</i>, website",
