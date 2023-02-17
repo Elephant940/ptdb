@@ -191,6 +191,20 @@
     "type": "Book"
   },
   {
+    "container": "<i>The Natural History Review</i> (<i>Nat</i>. <i>Hist</i>. <i>Rev</i>.), journal",
+    "contributors": "Hugh Falconer (author)",
+    "date": "1863 January",
+    "duration": "pp. 43-114",
+    "iteration": "[New Ser.], Vol. 3, Issue 9, No. 6",
+    "languages": "English",
+    "links": "<li><a href=\"https://www.google.com/books/edition/The_Natural_History_Review/VfcWAAAAYAAJ?q=&gbpv=1&pg=PA43\"target=\"_blank\">From Google Books</a>, copy provided by Harvard University (<a href=\"https://web.archive.org/web/20230217144725/https://books.googleusercontent.com/books/content?req=AKW5Qac164Wkrb41zvNTqJkRtMj35JLSuin-WTTQlJuszs4_cAE0lpqp-SPo9FoCj-jcMyIUxEWxaOz404w-Xfa8lGr3pdkWSe204ZcmavN0erCXPaVX_cuP88jhC7a8yRfYtt9Kl1BJWvxfhnYSIxv2URCze0VEjDeoQuWp0mY8ev1Kz0pcfv3LPvqD23uwYwp9pVODoaIaV5c1rJcsRDmbTZRXSZnw9QlBZB9lD4FVBkbE6g08vbiipMcDLkmx0baBWoFrE6Ta-eEbAdTAVhWxY7HlGf9kaw\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://archive.org/details/naturalhistoryre31863dubl/page/43/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by Smithsonian Libraries</li>",
+    "location": "London, England",
+    "publisher": "Williams and Norgate",
+    "summary": "TBA.",
+    "title": "On the American Fossil Elephant of the Regions Bordering the Gulf of Mexico, (<i>E</i>. <i>columbi</i>, Falc.); With General Observations on the Living and Extinct Species.",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>Harper's Weekly. A Journal of Civilization.</i>, magazine",
     "contributors": "Thomas Nast (printmaker)",
     "date": "1874 November 7",
