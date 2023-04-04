@@ -388,6 +388,19 @@
     "type": "Book"
   },
   {
+    "container": "<i>Zeitschrift für zoologische Systematik und Evolutions-forschung</i> (<i>Z</i>. <i>zool</i>. <i>Syst</i>. <i>Evol</i>.-<i>forsch</i>.), journal",
+    "contributors": "K. Nozawa (co-author); T. Shotake (co-author)",
+    "date": "1990 March",
+    "duration": "pp. 40-47",
+    "iteration": "Vol. 28, Issue 1",
+    "languages": "English, German",
+    "links": "<li><a href=\"https://doi.org/10.1111/j.1439-0469.1990.tb00363.x\"target=\"_blank\">From publisher (DOI: 10.1111/j.1439-0469.1990.tb00363.x)</a> through Wiley Online Library</li>",
+    "publisher": "Paul Parey",
+    "summary": "TBA.",
+    "title": "Genetic differentiation among local populations of Asian elephant",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>Biological Conservation</i> (<i>Biol</i>. <i>Conserv</i>.), journal",
     "contributors": "Richard F.W. Barnes (co-author); A. Blom (co-author); M.P.T. Alers (co-author)",
     "date": "1995, before May",
