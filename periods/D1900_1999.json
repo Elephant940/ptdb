@@ -227,8 +227,21 @@
     "type": "Journal article"
   },
   {
+    "container": "<i>Smithsonian Contributions to Zoology</i> (<i>Smithson</i>. <i>Contrib</i>. <i>Zool</i>.), journal",
+    "contributors": "George M. McKay (author)",
+    "date": "1973",
+    "duration": "113 pp.",
+    "iteration": "No. 125",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.5479/si.00810282.125\"target=\"_blank\">From publisher (DOI: 10.5479/si.00810282.125)</a></li><li><a href=\"https://archive.org/details/behaviorecologyo0000mcka/page/n3/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by Internet Archive</li>",
+    "publisher": "Smithsonian Institution Press",
+    "summary": "TBA.",
+    "title": "Behavior and Ecology of the Asiatic Elephant in Southeastern Ceylon",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>Transactions of the American Philosophical Society</i> (<i>Trans</i>. <i>Am</i>. <i>Philos</i>. <i>Soc</i>.), journal",
-    "contributors": "Vincent J. Maglio (author); Catherine McGeary (typist); F. Biondi (frontispiece artist) ",
+    "contributors": "Vincent J. Maglio (author); Catherine McGeary (typist); F. Biondi (frontispiece artist)",
     "date": "1973 June",
     "duration": "149 pp.",
     "iteration": "New Ser., Vol. 63, Issue 3",
