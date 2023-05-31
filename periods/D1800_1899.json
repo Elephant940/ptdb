@@ -137,18 +137,17 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Proceedings of the Royal Irish Academy</i> (<i>Proc</i>. <i>R</i>. <i>Ir</i>. <i>Acad</i>.), journal",
-    "contributors": "Robert Harrison (author)",
-    "date": "1847, on or after February 8",
-    "duration": "pp. 385-398",
-    "iteration": "Vol. 3, Issue 61",
+    "contributors": "Albert Koch (author)",
+    "date": "1841",
+    "duration": "20 pp.",
+    "iteration": "2nd ed.",
     "languages": "English",
-    "links": "<li><a href=\"https://archive.org/details/proceedingsofroy03dubl/page/385/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by the Natural History Museum Library, London</li>",
-    "location": "Dublin, Ireland",
-    "publisher": "M.H. Gill",
+    "links": "<li><a href=\"https://www.google.com/books/edition/Description_of_the_Missourium_Or_Missour/OccoAQAAMAAJ?hl=en&gbpv=1&pg=PA1\"target=\"_blank\">From Google Books</a>, copy provided by the University of Chicago (<a href=\"https://web.archive.org/web/20230531160448/https://books.googleusercontent.com/books/content?req=AKW5QadOTpGrnj_1oBeBa65y1t3zZnu3KDwfSbeMESA1JIUVmXAjbey2LJ27QtIDZNxaABVI6L6ZPamWeYKQph08-WQ0oA3aTn9Rik77LBrEca9A7ZCn8530dBlB045vF3DJ6wn3b7dnnUK1VK3daxvRy20sl2ssj3e_YbhxT2ncMwsvxlCONQ4LIeIMIVLIiaq1e0RnC-hwvX25zuTLFH6lzXlRvMxvwXgbYYKYuPBy2xO0rI96V4i8vuPEwuRzu09ua6lMWHe0EBulTCfv2Nk0I0dafH9PCA\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://archive.org/details/descriptionofmis00koch/page/n2/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by the University of Pittsburgh Library System</li><li><a href=\"https://archive.org/details/101192105.nlm.nih.gov/page/n1/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by the U.S. National Library of Medicine</li>",
+    "location": "Louisville, Kentucky, United States of America",
+    "publisher": "Prentice and Weissinger",
     "summary": "TBA.",
-    "title": "On the Anatomy of the Elephant.",
-    "type": "Journal article"
+    "title": "Description of the Missourium, or Missouri Leviathan; Together With Its Supposed Habits. And Indian Traditions Concerning the Location From Whence It Was Exhumed: Also, Comparisons of the Whale, Crocodile and Missourium With the Leviathan, as Described in 41st Chapter of the Book of Job.",
+    "type": "Book"
   },
   {
     "contributors": "Coenraad Jacob Temminck (author)",
@@ -163,6 +162,20 @@
     "summary": "Temminck proposes on pages 91-92 that the elephants found on the island of Sumatra are a distinct species from those found elsewhere in Asia based on skeletal differences. He dubs these elephants <i>Elephas sumatranus</i>.",
     "title": "Coup-d'Oeil Général sur les Possessions Néerlandaises dans L'Inde Archipélagique.",
     "type": "Book"
+  },
+  {
+    "container": "<i>Proceedings of the Royal Irish Academy</i> (<i>Proc</i>. <i>R</i>. <i>Ir</i>. <i>Acad</i>.), journal",
+    "contributors": "Robert Harrison (author)",
+    "date": "1847, on or after February 8",
+    "duration": "pp. 385-398",
+    "iteration": "Vol. 3, Issue 61",
+    "languages": "English",
+    "links": "<li><a href=\"https://archive.org/details/proceedingsofroy03dubl/page/385/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by the Natural History Museum Library, London</li>",
+    "location": "Dublin, Ireland",
+    "publisher": "M.H. Gill",
+    "summary": "TBA.",
+    "title": "On the Anatomy of the Elephant.",
+    "type": "Journal article"
   },
   {
     "container": "<i>The Quarterly Journal of the Geological Society of London</i> (<i>Q</i>. <i>J</i>. <i>Geol</i>. <i>Soc</i>. <i>Lond</i>.), journal",
