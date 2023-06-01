@@ -137,6 +137,19 @@
     "type": "Journal article"
   },
   {
+    "contributors": "Hermann Burmeister (author)",
+    "date": "1837",
+    "duration": "pp. 369-858",
+    "iteration": "Part 3 <i>Zoologie</i>",
+    "languages": "German",
+    "links": "<li><a href=\"https://www.digitale-sammlungen.de/en/view/bsb10075281?page=442,443\"target=\"_blank\">From Münchener DigitalisierungsZentrum </a> (<a href=\"https://web.archive.org/web/20230601142317/https://download.digitale-sammlungen.de/pdf/16856292508583bsb10075281.pdf\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://www.google.com/books/edition/Handbuch_der_Naturgeschichte/8Yc5AAAAcAAJ?hl=en&gbpv=1&pg=PA795\"target=\"_blank\">From Google Books</a>, copy provided by the Bavarian State Library (<a href=\"https://web.archive.org/web/20230601144631/https://books.googleusercontent.com/books/content?req=AKW5QafhYVgV-yLG0YjF9zpEskbd9mnx7A5KQt8UavO5wFDpaBC6EeSIUP7V0crK4f5Y6e7O8ca8OTIpOYq0wY2m_b0sFdB0tIYw7Heis8SPJO9cbkNi-FJ096f3dToPLg3GOUEzUvpvCGcHEn8FY1oRc3W_1wcPEoVY4BBO0U7BmUY5KhusWt8HmlTRSOo_B2ub4oOj_kieImP6cN2s2j79nYECWLO_6Wq2L5pa5dVmQlUapRUOmF-vjapeCpYrUBrz0CfyvJA4DyxX5_Jg8fPVJMFS9rCP3w\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://archive.org/details/handbuchdernatur00burm/page/795/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by Smithsonian Libraries</li>",
+    "location": "Berlin, Germany",
+    "publisher": "Theod. Chr. Friedr. Enslin",
+    "summary": "The section on elephants is on page 795. Details TBA.",
+    "title": "Handbuch der Naturgeschichte. Zum Gebrauch bei Vorlesungen",
+    "type": "Book"
+  },
+  {
     "contributors": "Albert Koch (author)",
     "date": "1841",
     "duration": "20 pp.",
@@ -146,7 +159,7 @@
     "location": "Louisville, Kentucky, United States of America",
     "publisher": "Prentice and Weissinger",
     "summary": "TBA.",
-    "title": "Description of the Missourium, or Missouri Leviathan; Together With Its Supposed Habits. And Indian Traditions Concerning the Location From Whence It Was Exhumed: Also, Comparisons of the Whale, Crocodile and Missourium With the Leviathan, as Described in 41st Chapter of the Book of Job.",
+    "title": "Description of the Missourium, or Missouri Leviathan; Together With Its Supposed Habits. And Indian Traditions Concerning the Location From Whence It Was Exhumed: Also, Comparisons of the Whale, Crocodile and Missourium, With the Leviathan, as Described in 41st Chapter of the Book of Job.",
     "type": "Book"
   },
   {
