@@ -1,7 +1,7 @@
 [
   {
     "container": "<i>Elephant</i>, journal",
-    "contributors": "Peter Grubb (co-author); Colin P. Groves (co-author); Joseph P. Dudley (co-author); Jeheskel Shoshani (co-author); John F. Eisenberg (reviewer); Ian M. Redmond (reviewer)",
+    "contributors": "Peter Grubb (co-author); Colin P. Groves (co-author); Joseph P. Dudley (co-author); Jeheskel Shoshani (co-author); Gary H. Marchant (illustrator); John F. Eisenberg (reviewer); Ian M. Redmond (reviewer)",
     "date": "2000 January",
     "duration": "pp. 1-4",
     "iteration": "Vol. 2, Issue 4",
@@ -298,12 +298,12 @@
   },
   {
     "container": "<i>Brain Research Bulletin</i> (<i>Brain</i> <i>Res</i>. <i>Bull</i>.), journal",
-    "contributors": "Jeheskel Shoshani (co-author); William J. Kupsky (co-author); Gary H. Marchant (co-author)",
+    "contributors": "Jeheskel Shoshani (co-author); William J. Kupsky (co-author); Gary H. Marchant (co-author, illustrator, photographer); Ben True (photographer);  Brian Cressman (illustrator)",
     "date": "2006 April 18",
     "duration": "pp. 124-157",
     "iteration": "Vol. 70, Issue 2",
     "languages": "English",
-    "links": "<li><a href=\"https://doi.org/10.1016/j.brainresbull.2006.03.016\"target=\"_blank\">From publisher (DOI: 10.1016/j.brainresbull.2006.03.016)</a></li><li><a href=\"https://web.archive.org/web/20220101005720/http://drnissani.net/MNISSANI/ElephantCorner/ElephantBrain_shoshani.pdf\"target=\"_blank\">From Moti Nissani's Webpage</a> through the Wayback Machine</li>",
+    "links": "<li><a href=\"https://doi.org/10.1016/j.brainresbull.2006.03.016\"target=\"_blank\">From publisher (DOI: 10.1016/j.brainresbull.2006.03.016)</a></li><li><a href=\"https://drnissani.net/mnissani/ElephantCorner/ElephantBrain_shoshani.pdf\"target=\"_blank\">From Moti Nissani's Webpage</a></li>",
     "publisher": "Elsevier",
     "summary": "TBA.",
     "title": "Elephant brain Part I: Gross morphology, functions, comparative anatomy, and evolution",
