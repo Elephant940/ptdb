@@ -997,7 +997,7 @@
     "duration": "701 words",
     "languages": "English",
     "links": "<li><a href=\"https://news.illinois.edu/view/6367/510687\"target=\"_blank\">From publisher</a></li><li><a href=\"https://phys.org/news/2017-06-genetic-elephant-family-tree.html\"target=\"_blank\">From Phys.org</a></li><li><a href=\"https://www.sciencedaily.com/releases/2017/06/170606112809.htm\"target=\"_blank\">From ScienceDaily</a></li>",
-    "publisher": "University of Illinois Urbana-Champaign",
+    "publisher": "University of Illinois Urbana-Champaign (U of I; UIUC)",
     "summary": "A layman-oriented summary of <a id=\"Meyer_et_al_2017_color_0\" onclick=\"goToSource('D2000-2099','Meyer_et_al_2017', this.id)\">Meyer et al., 2017</a>, with quotes from four of the article's co-authors.",
     "title": "Genetic study shakes up the elephant family tree",
     "type": "Web article"
@@ -1402,13 +1402,13 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>University at Buffalo</i>, website",
+    "container": "<i>University at Buffalo</i> (<i>UB</i>), website",
     "contributors": "Charlotte Hsu (author)",
     "date": "2020 February 7",
     "duration": "588 words",
     "languages": "English",
     "links": "<li><a href=\"https://www.buffalo.edu/home/story-repository.host.html/content/shared/university/news/ub-reporter-articles/stories/2020/02/lynch-diseased-mammoths.detail.html\"target=\"_blank\">From publisher</a></li><li><a href=\"https://www.eurekalert.org/news-releases/508697\"target=\"_blank\">From EurekAlert!</a></li><li><a href=\"https://paleontologyworld.com/exploring-prehistoric-life-paleontologists-curiosities/scientists-%E2%80%98resurrect%E2%80%99-mutated-genes-wrangel\"target=\"_blank\">From Paleontology World</a></li><li><a href=\"https://phys.org/news/2020-02-scientists-resurrected-wrangel-island-mammoth.html\"target=\"_blank\">From Phys.org</a></li><li><a href=\"http://www.sci-news.com/paleontology/mutated-genes-wrangel-island-mammoths-08100.html\"target=\"_blank\">From Sci-News.com</a></li>",
-    "publisher": "University at Buffalo",
+    "publisher": "University at Buffalo (UB)",
     "summary": "A layman-oriented summary of <a id=\"Fry_et_al_2020_color_0\" onclick=\"goToSource('D2000-2099','Fry_et_al_2020', this.id)\">Fry et al., 2020</a>, with quotes from one of the article's co-authors.",
     "title": "Scientists resurrect mammoth’s broken genes",
     "type": "Web article"
@@ -1479,29 +1479,29 @@
     "type": "Web page"
   },
   {
-    "container": "<i>Science News</i>, magazine",
+    "container": "<i>Science News</i>, website",
     "contributors": "Susan Milius (author)",
     "date": "2020 May 1",
-    "duration": "p. 12",
-    "iteration": "Vol. 197, Issue 10",
+    "duration": "679 words",
     "languages": "English",
-    "links": "<li><a href=\"https://www.sciencenews.org/article/why-mammals-elephants-armadillos-might-get-drunk-easily\"target=\"_blank\">From publisher</a></li><li><a href=\"https://www.sciencenewsdigital.org/sciencenews/june_6__2020/MobilePagedReplica.action?pm=1&folio=12#pg14\"target=\"_blank\">From publisher</a></li>",
+    "links": "<li><a href=\"https://www.sciencenews.org/article/why-mammals-elephants-armadillos-might-get-drunk-easily\"target=\"_blank\">From publisher</a></li>",
+    "notes": "<li><a href=\"https://www.sciencenewsdigital.org/sciencenews/june_6__2020/MobilePagedReplica.action?pm=1&folio=12#pg14\"target=\"_blank\">Reprint from publisher</a>, published 2020 June 6; the title is 'Drunk elephants may not be a myth', the type is magazine article, the duration is p. 12, the container is the magazine <i>Science News</i>, and the iteration is Vol. 197, Issue 10.</li> ",
     "publisher": "Society for Science",
     "summary": "A layman-oriented summary of <a id=\"Janiak_et_al_2020_color_1\" onclick=\"goToSource('D2000-2099','Janiak_et_al_2020', this.id)\">Janiak et al., 2020</a>.",
     "title": "Why mammals like elephants and armadillos might get drunk easily",
-    "type": "Magazine article"
+    "type": "Web article"
   },
   {
-    "container": "<i>The New York Times</i> (<i>NYT</i>), newspaper",
+    "container": "<i>The New York Times</i> (<i>NYT</i>), website",
     "contributors": "Rachel Nuwer (author)",
     "date": "2020 May 20",
-    "duration": "p. D4",
+    "duration": "835 words",
     "languages": "English",
     "links": "<li><a href=\"https://www.nytimes.com/2020/05/20/science/drunk-elephants-genes.html\"target=\"_blank\">From publisher</a></li>",
     "publisher": "The New York Times Company",
     "summary": "A layman-oriented summary of <a id=\"Janiak_et_al_2020_color_2\" onclick=\"goToSource('D2000-2099','Janiak_et_al_2020', this.id)\">Janiak et al., 2020</a>, with quotes from two of the article's co-authors.",
     "title": "Elephants Really Can’t Hold Their Liquor",
-    "type": "Newspaper article"
+    "type": "Web article"
   },
   {
     "container": "<i>The IUCN Red List of Threatened Species</i>, website",
@@ -1846,5 +1846,18 @@
     "summary": "TBA.",
     "title": "New Middle Eocene proboscidean from Togo illuminates the early evolution of the elephantiform-like dental pattern",
     "type": "Journal article"
+  },
+  {
+    "container": "<i>George Mason University</i> <i>(GMU)</i>, website",
+    "contributors": "Mariam Aburdeineh (author); Shelby Burgess (photographer)",
+    "date": "2021 December 15",
+    "duration": "552 words",
+    "languages": "English",
+    "links": "<li><a href=\"https://www.gmu.edu/news/2021-12/smithsonian-mason-team-keeps-watch-so-elephants-can-doze-0\"target=\"_blank\">From publisher</a></li>",
+    "notes": "<li><a href=\"https://issuu.com/masonspiritmagazine/docs/summer_fall_spirit_2022\"target=\"_blank\">Reprint from publisher</a>, published 2022 October 27; the type is magazine article, the duration is p. 4, and the container is the magazine <i>Mason Spirit</i>.</li> ",
+    "publisher": "George Mason University (GMU)",
+    "summary": "A description of the research carried out by elephant keeper Ashley Fortner and then-student of GMU Eva Noroski on the sleeping habits of the Asian elephants (<i>Elephas maximus</i>) at the National Zoological Park in Washington, D.C.",
+    "title": "Smithsonian-Mason team keeps watch, so elephants can doze off",
+    "type": "Web article"
   }
 ]
