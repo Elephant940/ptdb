@@ -5,14 +5,18 @@ import "whatwg-fetch";
 getAllPeriods();
 var counter = document.getElementById("counter");
 var currentTab = "B1700_entries";
+//the B1700
 var searchArray = [];
 var B1700, D1700_1799, D1800_1899, D1900_1999, D2000_2099 = [];
 var currentTabCards_html, B1700_html, D1700_1799_html, D1800_1899_html, D1900_1999_html, D2000_2099_html = "";
 var searched = false;
 
 document.getElementById("B1700").addEventListener("click", (e) => {
+//when you click on the B1700 tab
   clearSearchBar();
+  //whatever text is in the search bar gets cleared
   searchArray = B1700;
+  //defines the contents that can be searched as anything in the B1700 file
   currentTab = "B1700_entries";
   currentTabCards_html = B1700_html;
 });
@@ -153,9 +157,12 @@ function buildCards(data, id) {
     }
 
     row += `<u class="heading">Summary and significance</u>
-            <ul class="info">${data[i].summary}</ul>
-            <u class="heading">Link(s) to source</u>
+            <ul class="info">${data[i].summary}</ul>`;
+
+    if (data[i].links != undefined) {
+      row += `<u class="heading">Link(s) to source</u>
             <ul class="info">${data[i].links}</ul>`;
+    }
 
     if (data[i].notes != undefined) {
       row += `<u class="heading">Notes</u>
