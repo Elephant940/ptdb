@@ -135,19 +135,12 @@ function buildCards(data, id) {
   var html = "";
   var card = document.getElementById(id);
   for (var i = 0; i < data.length; i++) {
+
     var row = `<div class="entry" >
             <div class="entry-heading" id=${data[i].eyedee}>
             <p class="title">${data[i].title}</p>
             <p class="type">${data[i].type}</p>
             </div>`; 
-    
-    if (data[i].container == "N/A") {
-      row += "";
-    }
-    else{
-      row += `<u class="heading">Container</u>
-              <ul class="info">${data[i].container}</ul>`;
-    }
 
     if (data[i].contributors == "N/A") {
       row += "";
@@ -155,6 +148,14 @@ function buildCards(data, id) {
     else{
       row += `<u class="heading">Contributor(s)</u>
               <ul class="info">${data[i].contributors}</ul>`;
+    }
+
+    if (data[i].date== "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">Publication date</u>
+              <ul class="info">${data[i].date}</ul>`;
     }
 
     if (data[i].duration== "N/A") {
@@ -165,28 +166,20 @@ function buildCards(data, id) {
               <ul class="info">${data[i].duration}</ul>`;
     }
 
-    if (data[i].iteration == "N/A") {
+    if (data[i].publisher == "N/A") {
       row += "";
     }
     else{
-      row += `<u class="heading">Iteration</u>
-              <ul class="info">${data[i].iteration}</ul>`;
+      row += `<u class="heading">Publisher</u>
+              <ul class="info">${data[i].publisher}</ul>`;
     }
 
-    if (data[i].languages= "N/A") {
+    if (data[i].languages == "N/A") {
       row += "";
     }
     else{
       row += `<u class="heading">Language(s)</u>
               <ul class="info">${data[i].languages}</ul>`;
-    }
-
-    if (data[i].links == "N/A") {
-      row += "";
-    }
-    else{
-      row += `<u class="heading">Link(s) to source</u>
-              <ul class="info">${data[i].links}</ul>`;
     }
 
     if (data[i].location == "N/A") {
@@ -197,28 +190,20 @@ function buildCards(data, id) {
               <ul class="info">${data[i].location}</ul>`;
     }
 
-    if (data[i].notes == "N/A") {
+    if (data[i].container == "N/A") {
       row += "";
     }
     else{
-      row += `<u class="heading">Notes</u>
-              <ul class="info">${data[i].notes}</ul>`;
+      row += `<u class="heading">Container</u>
+              <ul class="info">${data[i].container}</ul>`;
     }
 
-    if (data[i].publisher == "N/A") {
+    if (data[i].iteration == "N/A") {
       row += "";
     }
     else{
-      row += `<u class="heading">Publisher</u>
-              <ul class="info">${data[i].publisher}</ul>`;
-    }
-
-    if (data[i].references == "N/A") {
-      row += "";
-    }
-    else{
-      row += `<u class="heading">References</u>
-              <ul class="info">${data[i].references}</ul>`;
+      row += `<u class="heading">Iteration</u>
+              <ul class="info">${data[i].iteration}</ul>`;
     }
 
     if (data[i].summary == "N/A") {
@@ -227,6 +212,30 @@ function buildCards(data, id) {
     else{
       row += `<u class="heading">Summary and significance</u>
               <ul class="info">${data[i].summary}</ul>`;
+    }
+
+    if (data[i].links == "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">Link(s) to source</u>
+              <ul class="info">${data[i].links}</ul>`;
+    }
+
+    if (data[i].notes == "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">Notes</u>
+              <ul class="info">${data[i].notes}</ul>`;
+    }
+
+    if (data[i].references == "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">References</u>
+              <ul class="info">${data[i].references}</ul>`;
     }
 
     row += `</div>`;
