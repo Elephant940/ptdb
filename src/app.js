@@ -5,18 +5,17 @@ import "whatwg-fetch";
 getAllPeriods();
 var counter = document.getElementById("counter");
 var currentTab = "B1700_entries";
-//the B1700
 var searchArray = [];
 var B1700, D1700_1799, D1800_1899, D1900_1999, D2000_2099 = [];
 var currentTabCards_html, B1700_html, D1700_1799_html, D1800_1899_html, D1900_1999_html, D2000_2099_html = "";
 var searched = false;
 
 document.getElementById("B1700").addEventListener("click", (e) => {
-//when you click on the B1700 tab
+//when the Before 1700 tab is selected
   clearSearchBar();
-  //whatever text is in the search bar gets cleared
+  //clear any text in the search bar
   searchArray = B1700;
-  //defines the contents that can be searched as anything in the B1700 file
+  //apply the contents in the search bar to the Before 1700 tab
   currentTab = "B1700_entries";
   currentTabCards_html = B1700_html;
 });
@@ -57,21 +56,32 @@ window.goToSource = function (tab, source, eyedee) {
 
 searchBar.addEventListener("keyup", (e) => {
   if (e.target.value.length > 2) {
+  //if the search consists of more than 2 characters
     const searchString = e.target.value.toLowerCase();
+    //convert any letters in the search to lowercase
     const filteredPeriod = searchArray.filter((row) => {
+    //filter the entries in the tab based on if they have text matching the search in the following categories
       return (
+        row.container.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+         //convert the contributors to lowercase, replace the specified characters with nothing, and see if the result matches the search
         row.contributors.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.date.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+        row.duration.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+        row.iteration.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.languages.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.links.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
-        row.type.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+        row.location.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+        row.notes.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.publisher.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+        row.references.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.summary.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
-        row.title.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString)
+        row.title.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
+        row.type.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString)
       );
     });
     buildCards(filteredPeriod, currentTab);
     searched = true;
+    //show only the entries that have text matching the search
   }
   if (e.target.value.length == 0) {
     searched = false;
@@ -129,50 +139,96 @@ function buildCards(data, id) {
             <div class="entry-heading" id=${data[i].eyedee}>
             <p class="title">${data[i].title}</p>
             <p class="type">${data[i].type}</p>
-            </div>
-            <u class="heading">Contributor(s)</u>
-            <ul class="info">${data[i].contributors}</ul>
-            <u class="heading">Publication date</u>
-            <ul class="info">${data[i].date}</ul>
-            <u class="heading">Duration</u>
-            <ul class="info">${data[i].duration}</ul>
-            <u class="heading">Publisher</u>
-            <ul class="info">${data[i].publisher}</ul>
-            <u class="heading">Language(s)</u>
-            <ul class="info">${data[i].languages}</ul>`;
+            </div>`; 
     
-    if (data[i].location != undefined) {
-      row += `<u class="heading">Publication location</u>
-            <ul class="info">${data[i].location}</ul>`;
+    if (data[i].container == "N/A") {
+      row += "";
     }
-    
-    if (data[i].container != undefined) {
+    else{
       row += `<u class="heading">Container</u>
-            <ul class="info">${data[i].container}</ul>`;
+              <ul class="info">${data[i].container}</ul>`;
     }
 
-    if (data[i].iteration != undefined) {
+    if (data[i].contributors == "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">Contributor(s)</u>
+              <ul class="info">${data[i].contributors}</ul>`;
+    }
+
+    if (data[i].duration== "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">Duration</u>
+              <ul class="info">${data[i].duration}</ul>`;
+    }
+
+    if (data[i].iteration == "N/A") {
+      row += "";
+    }
+    else{
       row += `<u class="heading">Iteration</u>
-            <ul class="info">${data[i].iteration}</ul>`;
+              <ul class="info">${data[i].iteration}</ul>`;
     }
 
-    row += `<u class="heading">Summary and significance</u>
-            <ul class="info">${data[i].summary}</ul>`;
+    if (data[i].languages= "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">Language(s)</u>
+              <ul class="info">${data[i].languages}</ul>`;
+    }
 
-    if (data[i].links != undefined) {
+    if (data[i].links == "N/A") {
+      row += "";
+    }
+    else{
       row += `<u class="heading">Link(s) to source</u>
-            <ul class="info">${data[i].links}</ul>`;
+              <ul class="info">${data[i].links}</ul>`;
     }
 
-    if (data[i].notes != undefined) {
+    if (data[i].location == "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">Publication location</u>
+              <ul class="info">${data[i].location}</ul>`;
+    }
+
+    if (data[i].notes == "N/A") {
+      row += "";
+    }
+    else{
       row += `<u class="heading">Notes</u>
-            <ul class="info">${data[i].notes}</ul>`;
+              <ul class="info">${data[i].notes}</ul>`;
     }
 
-    if (data[i].references != undefined) {
-      row += `<u class="heading">References</u>
-            <ul class="info">${data[i].references}</ul>`;
+    if (data[i].publisher == "N/A") {
+      row += "";
     }
+    else{
+      row += `<u class="heading">Publisher</u>
+              <ul class="info">${data[i].publisher}</ul>`;
+    }
+
+    if (data[i].references == "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">References</u>
+              <ul class="info">${data[i].references}</ul>`;
+    }
+
+    if (data[i].summary == "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">Summary and significance</u>
+              <ul class="info">${data[i].summary}</ul>`;
+    }
+
     row += `</div>`;
 
     html += row;
