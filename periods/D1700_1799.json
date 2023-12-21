@@ -48,6 +48,22 @@
     "type": "Journal article"
   },
   {
+    "container": "N/A",
+    "contributors": "Georgius Christophorus Petri von Hartenfels (author); T. F. Hiltebrandt (artist); Jacob Petrus (printmaker)",
+    "date": "1715",
+    "duration": "284 pp.",
+    "iteration": "N/A",
+    "languages": "Latin",
+    "links": "<li><a href=\"https://www.digitale-sammlungen.de/en/view/bsb11220507?page=,1\"target=\"_blank\">From Münchener DigitalisierungsZentrum</a> (<a href=\"https://web.archive.org/web/20231221193535/https://download.digitale-sammlungen.de/pdf/17031871758888bsb11220507.pdf\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://wellcomecollection.org/works/uj5xuyxc/items?canvas=9\"target=\"_blank\">From the Wellcome Library</a></li><li><a href=\"https://www.google.com/books/edition/Elephantographia_Curiosa_Seu_Elephanti_D/FbldAAAAcAAJ?hl=en&gbpv=1\"target=\"_blank\">From Google Books</a>, copy provided by the Austrian National Library (<a href=\"https://web.archive.org/web/20231221194412/https://books.googleusercontent.com/books/content?req=AKW5QacASsoKiV_VSyLEUXHxgNKt8RbEXfRCf9kQL5FACc_o5oDueTQBH4IKV-x03AmwP5nX7wVovhkGd88KPCGfmKWkJdVKR8qyhy4-EmUGBe0phThrIhnMVMAYfCOnlNfrkZ2QDMQLojUKgR0B4U5gcOjyhAcHz-0IqTEzqSYkY3X41cRn2QlN1ul5vAQTBhU91aY3MHzNRAZDF6K2o5MAYeHTZWX-My695GQ5v-bgLdAcZYghDvS_8lnXJ-QEbRRCyOol1ME6zMWOuGuy3CEM6vRv7RrMV0DCTVl36eKYVJ_fO2JMTzg\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://www.google.com/books/edition/Elephantographia_Curiosa_Seu_Elephanti_D/xPllAAAAcAAJ?hl=en&gbpv=1\"target=\"_blank\">From Google Books</a>, copy provided by the Bavarian State Library (<a href=\"https://web.archive.org/web/20231221194539/https://books.googleusercontent.com/books/content?req=AKW5QafIAz8O9XZSw6f89UN3nKwWAJvKTaVkf6-Sm3S27nC-n2AyewkBFLGCClaYrmFShFpusBeW5FuZDRT8q7LkysQJotxTPXVO5GoSDVw7XziQdWSH_MEv6hqjCtEHQItLqjCbKhSfShO086rBs5rkND2fqic3Fj57an0NjrRA59OBiLgYMlJKUTEpxnSYlyapLeF3LVx1ZPM0EKsX45JlSgMV6A99eVbzsmkNJhU973HMLZXNiqB0_zcKv8-sYMGwau_6xF0xAZDlFyv6feBA1yjOFusW_wQ8nkf8QdOeC_NKWkLsHu0\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://www.google.com/books/edition/Elephantographia_Curiosa_Seu_Elephanti_D/8mNMLteSYpsC?hl=en&gbpv=1\"target=\"_blank\">From Google Books</a>, copy provided by the Lyon Public Library (<a href=\"https://web.archive.org/web/20231221195121/https://books.googleusercontent.com/books/content?req=AKW5QaeY3uCDc3NWfoEaPTqzlz-Iu6n5ZjoHfUAEom0gK6zT1zQukNmNb3PjkHh41hJy7wEC-Zmqioy9zpFRdwMONpJ7HgOrp--wyH2_2eFsrVJiY6JgCL24fLsY33RPgnMHC3uVYm2C5wHcNhwmtKPS9ypAzgMtiG57RRsqHaQf0HpYBZ-iRnuFI8kXcb3fC8lYHZvoh7G4DscDSz_IIeJEbIE9rYUCdytiR-6YXuHqIezfUgM76OJeBWHUgXHXRePmrTdKWIp0MFKNAP0lpgwWG2dhz_edOA\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://gdz.sub.uni-goettingen.de/id/PPN624711897?tify=%7B%22pages%22%3A%5B7%5D%2C%22view%22%3A%22info%22%7D\"target=\"_blank\">From Göttinger Digitalisierungszentrum</a></li><li><a href=\"https://archive.org/details/b30522171/page/n7/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by the Wellcome Library</li>",
+    "location": "Erfurt, Germany",
+    "notes": "N/A",
+    "publisher": "Joh. Henrici Groschii",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Elephantographia Curiosa, Seu Elephanti Descriptio, Juxta Methodum et Leges Imperialis Academiæ Leopoldino-Carolinæ Naturæ Curiosorum Adornata, Multisqve Selectis Observationibus Physicis, Medicis et Jucundis Historiis Referta, Cum Figuris Æneis",
+    "type": "Book"
+  },
+  {
     "container": "<i>Philosophical Transactions</i> (<i>Philos</i>. <i>Trans</i>.), journal",
     "contributors": "Hans Sloane (author)",
     "date": "1728, during or after September",
@@ -109,7 +125,7 @@
     "publisher": "Laurentii Salvii",
     "references": "N/A",
     "summary": "Linnaeus establishes a zoological classification system in which each animal is given a two-part (binomial) name consisting of a genus followed by a species within that genus. Similar species are grouped into genera, similar genera into orders, similar orders into classes, and similar classes into kingdoms. On page 33, Linnaeus lists distinguishing characteristics of elephants and classifies them as a single genus and species, <i>Elephas maximus</i>, in the order Bruta, the class Mammalia, and the kingdom Animalia.",
-    "title": "Systema Naturæ per Regna Tria Naturæ, Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.",
+    "title": "Systema Naturæ Per Regna Tria Naturæ, Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.",
     "type": "Book"
   },
   {
@@ -158,7 +174,7 @@
     "publisher": "Georg. Emanuel. Beer",
     "references": "N/A",
     "summary": "The 13th edition of <a id=\"Linnaeus_1758_color_0\" onclick=\"goToSource('D1700-1799','Linnaeus_1758', this.id)\">Linnaeus, 1758</a>. The section on elephants is on pages 58-59.",
-    "title": "Caroli a Linné, Systema Naturae per Regna Tria Naturae, Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.",
+    "title": "Caroli a Linné, Systema Naturae Per Regna Tria Naturae, Secundum Classes, Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis.",
     "type": "Book"
   },
   {
