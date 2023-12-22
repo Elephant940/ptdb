@@ -1043,7 +1043,7 @@
     "notes": "<li>The published body mass equation for \"Grade II – Grade IV\" female African bush elephants (<i>Loxodonta africana</i>) on Table 7 is incorrect, it should read 1.88 × 10<sup>-3</sup> × SH<sup>2.569</sup>.</li><li>The published body mass equation for \"young – Grade I\" Asian elephants (<i>Elephas maximus</i>) on Table 7 is incorrect, it should read 3.32 × 10<sup>-4</sup> × SH<sup>2.903</sup> (Larramendi, pers. comm.).</li>",
     "publisher": "Institute of Palaeobiology",
     "references": "N/A",
-    "summary": "Larramendi estimates the life sizes of 161 specimens from 51 proboscidean species, providing detailed statistics for 11 well-known species. He uses the Graphic Double Integration (GDI) volumetric method to calculate body mass, and develops new equations to calculate shoulder height. Notable specimens include fossils of <i>Palaeoloxodon namadicus</i> that Larramendi estimates to have been larger than <i>Paraceratherium</i>, an extinct rhino genus formerly considered the largest land mammal, and the skeleton of Jumbo.",
+    "summary": "Larramendi estimates the life sizes of 161 proboscidean specimens from 51 species, providing detailed statistics for 11 well-known species. He uses the Graphic Double Integration (GDI) volumetric method to calculate body mass, and develops new equations to calculate shoulder height. Notable specimens include fossils of <i>Palaeoloxodon namadicus</i> that Larramendi estimates to have been larger than <i>Paraceratherium</i>, an extinct rhino genus formerly considered the largest land mammal, and the skeleton of Jumbo.",
     "title": "Shoulder height, body mass and shape of proboscideans",
     "type": "Journal article"
   },
