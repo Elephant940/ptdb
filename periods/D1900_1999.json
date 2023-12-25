@@ -338,11 +338,27 @@
     "type": "Journal article"
   },
   {
+    "container": "<i>International Zoo Yearbook</i> (<i>Int</i>. <i>Zoo</i> <i>Yearb</i>.), journal",
+    "contributors": "Wolfdietrich Kühme (author)",
+    "date": "1963, on or after September 7",
+    "duration": "pp. 113-121",
+    "iteration": "Vol. 4",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1111/j.1748-1090.1963.tb03638.x\"target=\"_blank\">From publisher (DOI: 10.1111/j.1748-1090.1963.tb03638.x)</a> through Wiley Online Library</li><li><a href=\"https://archive.org/details/internationalzoo0004caro/page/112/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by Internet Archive</li>",
+    "location": "London, England",
+    "notes": "N/A",
+    "publisher": "Hutchinson & Co.",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Ethology of the African Elephant (<i>Loxodonta africana</i> Blumenbach 1797) in Captivity",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>East African Wildlife Journal</i> (<i>East</i> <i>Afr</i>. <i>Wildl</i>. <i>J</i>.), journal",
     "contributors": "Richard M. Laws (author)",
     "date": "1966 August",
     "duration": "pp. 1-37",
-    "iteration": "Vol. 4, Issue 1",
+    "iteration": "Vol. 4",
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1111/j.1365-2028.1966.tb00878.x\"target=\"_blank\">From publisher (DOI: 10.1111/j.1365-2028.1966.tb00878.x)</a> through Wiley Online Library</li>",
     "location": "Nairobi, Kenya",
