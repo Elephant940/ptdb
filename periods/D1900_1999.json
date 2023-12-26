@@ -52,7 +52,7 @@
   {
     "container": "<i>Proceedings of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), journal",
     "contributors": "Richard Lydekker (author)",
-    "date": "1907 August 1 (Notice, 1907)",
+    "date": "1907 August 1 (\"Notice\", 1907)",
     "duration": "pp. 380-403",
     "iteration": "[Vol. 77, Issue 2], No. 1",
     "languages": "English",
@@ -116,7 +116,7 @@
   {
     "container": "<i>Proceedings of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), journal",
     "contributors": "Richard Lydekker (author)",
-    "date": "1914 June 16 (Notice, 1914)",
+    "date": "1914 June 16 (\"Notice\", 1914)",
     "duration": "pp. 285-288",
     "iteration": "[Vol. 84], Issue 2, No. 18",
     "languages": "English",
@@ -444,7 +444,7 @@
     "location": "Lawrence, Kansas, United States of America (Birney and Choate, 1994, p. 142)",
     "notes": "N/A",
     "publisher": "American Society of Mammalogists (ASM)",
-    "references": "<ul class=\"refs\">Birney, Elmer F. and Choate, Jerry R. (eds.). (1994). <a href=\"https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater\"target=\"_blank\"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</ul>",
+    "references": "<ul class=\"refs\">Birney, E. F., & Choate, J. R. (Eds.). (1994). <a href=\"https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater\"target=\"_blank\"><i>Seventy-five years of mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</ul>",
     "summary": "TBA.",
     "title": "<i>Loxodonta africana</i>.",
     "type": "Journal article"
@@ -492,7 +492,7 @@
     "location": "Lawrence, Kansas, United States of America (Birney and Choate, 1994, p. 142)",
     "notes": "N/A",
     "publisher": "American Society of Mammalogists (ASM)",
-    "references": "<ul class=\"refs\">Birney, Elmer F. and Choate, Jerry R. (eds.). (1994). <a href=\"https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater\"target=\"_blank\"><i>Seventy Five Years of Mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</ul>",
+    "references": "<ul class=\"refs\">Birney, E. F., & Choate, J. R. (Eds.). (1994). <a href=\"https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater\"target=\"_blank\"><i>Seventy-five years of mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</ul>",
     "summary": "TBA.",
     "title": "<i>Elephas maximus</i>.",
     "type": "Journal article"
@@ -681,10 +681,10 @@
     "iteration": "Vol. 71, Issue 2",
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1016/0006-3207(94)00014-H\"target=\"_blank\">From publisher (DOI: 10.1016/0006-3207(94)00014-H)</a></li><li><a href=\"https://www.academia.edu/23491712/A_review_of_the_status_of_forest_elephants_Loxodonta_africana_in_Central_Africa\"target=\"_blank\">From Academia</a></li>",
-    "location": "Oxford, England (Editorial Board, 1995)",
+    "location": "Oxford, England (\"Editorial Board\", 1995)",
     "notes": "N/A",
     "publisher": "Elsevier",
-    "references": "<ul class=\"refs\"><a href=\"https://doi.org/10.1016/0006-3207(95)90105-1\"target=\"_blank\">Editorial Board</a>. (1995). <i>Biological Conservation</i>, <i>71</i>(1).</ul>",
+    "references": "<ul class=\"refs\"><a href=\"https://doi.org/10.1016/0006-3207(95)90105-1\"target=\"_blank\">Editorial board</a>. (1995). <i>Biological Conservation</i>, <i>71</i>(1).</ul>",
     "summary": "TBA.",
     "title": "A review of the status of forest elephants <i>Loxodonta africana</i> in Central Africa",
     "type": "Journal article"
@@ -709,7 +709,7 @@
   {
     "container": "<i>Acta Theriologica</i> (<i>Acta</i> <i>Theriol</i>.), journal",
     "contributors": "Fred Kurt (co-author); Günther B. Hartl (co-author); Ralph Tiedemann (co-author)",
-    "date": "1995 October 12 (Tuskless bulls, n.d.)",
+    "date": "1995 October 12 (\"Tuskless Bulls\", n.d.)",
     "duration": "pp. 125-143",
     "iteration": "Suppl. 3",
     "languages": "English",
