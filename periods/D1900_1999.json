@@ -441,10 +441,10 @@
     "iteration": "No. 92",
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.2307/3503889\"target=\"_blank\">From publisher (DOI: 10.2307/3503889)</a> through Oxford Academic</li><li><a href=\"https://www.science.smith.edu/departments/biology/VHAYSSEN/msi/pdf/i0076-3519-092-01-0001.pdf\"target=\"_blank\">From the Clark Science Center</a> (<a href=\"https://web.archive.org/web/20130430140501/http://www.science.smith.edu/msi/pdf/i0076-3519-092-01-0001.pdf\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://www.jstor.org/stable/3503889\"target=\"_blank\">From JSTOR</a></li>",
-    "location": "Lawrence, Kansas, United States of America (Birney and Choate, 1994, p. 142)",
+    "location": "Lawrence, Kansas, United States of America (Verts & Birney, 1994, p. 142)",
     "notes": "N/A",
     "publisher": "American Society of Mammalogists (ASM)",
-    "references": "<ul class=\"refs\">Birney, E. F., & Choate, J. R. (Eds.). (1994). <a href=\"https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater\"target=\"_blank\"><i>Seventy-five years of mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</ul>",
+    "references": "<ul class=\"refs\">Verts, B. J., & Birney, E. C. (1994). <a href=\"https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater\"target=\"_blank\">Publications</a>. In Birney, E. C., & Choate, J. R. (Eds.), <i>Seventy-five years of mammalogy (1919-1994)</i> (pp. 139-154). Provo, UT: American Society of Mammalogists.</ul>",
     "summary": "TBA.",
     "title": "<i>Loxodonta africana</i>.",
     "type": "Journal article"
@@ -489,10 +489,10 @@
     "iteration": "No. 182",
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.2307/3504045\"target=\"_blank\">From publisher (DOI: 10.2307/3504045)</a> through Oxford Academic</li><li><a href=\"https://www.science.smith.edu/departments/biology/VHAYSSEN/msi/pdf/i0076-3519-182-01-0001.pdf\"target=\"_blank\">From the Clark Science Center</a> (<a href=\"http://web.archive.org/web/20150318181534/http://www.science.smith.edu/msi/pdf/i0076-3519-182-01-0001.pdf\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://repository.si.edu/handle/10088/4414\"target=\"_blank\">From Smithsonian Research Online</a></li><li><a href=\"https://www.jstor.org/stable/3504045\"target=\"_blank\">From JSTOR</a></li>",
-    "location": "Lawrence, Kansas, United States of America (Birney and Choate, 1994, p. 142)",
+    "location": "Lawrence, Kansas, United States of America (Verts & Birney, 1994, p. 142)",
     "notes": "N/A",
     "publisher": "American Society of Mammalogists (ASM)",
-    "references": "<ul class=\"refs\">Birney, E. F., & Choate, J. R. (Eds.). (1994). <a href=\"https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater\"target=\"_blank\"><i>Seventy-five years of mammalogy (1919-1994)</i></a>. Provo, Utah: American Society of Mammalogists.</ul>",
+    "references": "<ul class=\"refs\">Verts, B. J., & Birney, E. C. (1994). <a href=\"https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater\"target=\"_blank\">Publications</a>. In Birney, E. C., & Choate, J. R. (Eds.), <i>Seventy-five years of mammalogy (1919-1994)</i> (pp. 139-154). Provo, UT: American Society of Mammalogists.</ul>",
     "summary": "TBA.",
     "title": "<i>Elephas maximus</i>.",
     "type": "Journal article"
@@ -508,7 +508,7 @@
     "location": "Austin, Texas, United States of America (Dewsbury, 1996)",
     "notes": "N/A",
     "publisher": "Psychonomic Society",
-    "references": "<ul class=\"refs\">Dewsbury, D.A. (1996). History of the Psychonomic Society II: The journal publishing program. <i>Psychonomic Bulletin & Review</i>, <i>3</i>(3), 322-338. <a href=\"https://doi.org/10.3758/BF03210756\"target=\"_blank\">DOI: 10.3758/BF03210756</a>.</ul>",
+    "references": "<ul class=\"refs\">Dewsbury, D. A. (1996). History of the Psychonomic Society II: The journal publishing program. <i>Psychonomic Bulletin & Review</i>, <i>3</i>(3), 322-338. <a href=\"https://doi.org/10.3758/BF03210756\"target=\"_blank\">https://doi.org/10.3758/BF03210756</a>.</ul>",
     "summary": "TBA.",
     "title": "Alcohol self-administration by elephants",
     "type": "Journal article"
@@ -684,7 +684,7 @@
     "location": "Oxford, England (\"Editorial Board\", 1995)",
     "notes": "N/A",
     "publisher": "Elsevier",
-    "references": "<ul class=\"refs\"><a href=\"https://doi.org/10.1016/0006-3207(95)90105-1\"target=\"_blank\">Editorial board</a>. (1995). <i>Biological Conservation</i>, <i>71</i>(1).</ul>",
+    "references": "<ul class=\"refs\">Editorial board. (1995). <i>Biological Conservation</i>, <i>71</i>(1). <a href=\"https://doi.org/10.1016/0006-3207(95)90105-1\"target=\"_blank\">https://doi.org/10.1016/0006-3207(95)90105-1</a></ul>",
     "summary": "TBA.",
     "title": "A review of the status of forest elephants <i>Loxodonta africana</i> in Central Africa",
     "type": "Journal article"
@@ -709,7 +709,7 @@
   {
     "container": "<i>Acta Theriologica</i> (<i>Acta</i> <i>Theriol</i>.), journal",
     "contributors": "Fred Kurt (co-author); Günther B. Hartl (co-author); Ralph Tiedemann (co-author)",
-    "date": "1995 October 12 (\"Tuskless Bulls\", n.d.)",
+    "date": "1995 October 12 (<i>Tuskless Bulls</i>, n.d.)",
     "duration": "pp. 125-143",
     "iteration": "Suppl. 3",
     "languages": "English",
@@ -717,7 +717,7 @@
     "location": "Białowieża, Poland",
     "notes": "N/A",
     "publisher": "Mammal Research Institute Polish Academy of Sciences (MRI PAS)",
-    "references": "<ul class=\"refs\">Tuskless bulls in Asian elephant Elephas maximus. History and population genetics of a man-made phenomenon. (n.d.). <i>Scilit</i>. <a href=\"https://www.scilit.net/article/2eeb3de43a2074f5147565699a2c31c5\"target=\"_blank\">https://www.scilit.net/article/2eeb3de43a2074f5147565699a2c31c5</a></ul>",
+    "references": "<ul class=\"refs\"><i>Tuskless bulls in Asian elephant Elephas maximus . History and population genetics of a man-made phenomenon</i>. (n.d.). Scilit. <a href=\"https://www.scilit.net/publications/2eeb3de43a2074f5147565699a2c31c5\"target=\"_blank\">https://www.scilit.net/publications/2eeb3de43a2074f5147565699a2c31c5</a></ul>",
     "summary": "TBA.",
     "title": "Tuskless bulls in Asian elephant <i>Elephas maximus</i>. History and population genetics of a man-made phenomenon",
     "type": "Journal article"
