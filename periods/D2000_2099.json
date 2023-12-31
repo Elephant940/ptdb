@@ -1977,7 +1977,7 @@
     "duration": "8.8 x 6.3 cm (3.5 x 2.5 in)",
     "iteration": "No. 132/189",
     "languages": "English",
-    "links": "<li><a href=\"https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/ss-series/swsh3/132/\"target=\"_blank\">From publisher</a></li><li><a href=\"https://tcg.pokemon.com/assets/img/expansions/darkness-ablaze/cards/en-us/SWSH3_EN_132-2x.jpg\"target=\"_blank\">From publisher</a></li><li><a href=\"https://pkmncards.com/card/copperajah-darkness-ablaze-daa-132/\"target=\"_blank\">From PkmnCards</a></li><li><a href=\"https://www.serebii.net/card/darknessablaze/132.shtml\"target=\"_blank\">From Serebii.net</a></li>",
+    "links": "<li><a href=\"https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/ss-series/swsh3/132/\"target=\"_blank\">From publisher</a></li><li><a href=\"https://web.archive.org/web/20231105135039/https://tcg.pokemon.com/assets/img/expansions/darkness-ablaze/cards/en-us/SWSH3_EN_132-2x.jpg\"target=\"_blank\">From publisher</a> through the Wayback Machine</li><li><a href=\"https://pkmncards.com/card/copperajah-darkness-ablaze-daa-132/\"target=\"_blank\">From PkmnCards</a></li><li><a href=\"https://www.serebii.net/card/darknessablaze/132.shtml\"target=\"_blank\">From Serebii.net</a></li>",
     "location": "N/A",
     "notes": "<li><a href=\"https://www.pokemon-card.com/card-search/details.php/card/38779/regu/XY\"target=\"_blank\">Japanese version from publisher</a> and <a href=\"https://bulbapedia.bulbagarden.net/wiki/File:CopperajahDarknessAblaze132.jpg\"target=\"_blank\">from Bulbapedia</a> (copy provided by Ruixiang95), published 2020 June 5 (The Pokémon Company, 2020a); the iteration is no. 134/190.</li>",
     "publisher": "The Pokémon Company",
@@ -2343,5 +2343,21 @@
     "summary": "A description of the research carried out by elephant keeper Ashley Fortner and GMU student Eva Noroski on the sleeping habits of the Asian elephants (<i>Elephas maximus</i>) at the National Zoological Park in Washington, D.C.",
     "title": "Smithsonian-Mason team keeps watch, so elephants can doze off",
     "type": "Web article"
+  },
+  {
+    "container": "<i>Current Biology</i> (<i>Curr</i>. <i>Biol</i>.), journal",
+    "contributors": "Lena V. Kaufmann (co-author); Rolf Becker (co-author); Andreas Ochs (co-author); Michael Brecht (co-author)",
+    "date": "2023 April 10",
+    "duration": "pp. R257–R258",
+    "iteration": "Vol. 33, Issue 7",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1016/j.cub.2023.02.076\"target=\"_blank\">From publisher (DOI: 10.1016/j.cub.2023.02.076)</a></li><li><a href=\"https://www.sciencedirect.com/science/article/pii/S096098222300266X\"target=\"_blank\">From ScienceDirect</a></li><li><a href=\"https://www.researchgate.net/publication/369922028_Elephant_banana_peeling\"target=\"_blank\">From ResearchGate</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "Cell Press",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Elephant banana peeling",
+    "type": "Journal article"
   }
 ]
