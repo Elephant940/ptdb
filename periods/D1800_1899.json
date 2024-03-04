@@ -371,6 +371,22 @@
     "type": "Book"
   },
   {
+    "container": "<i>Proceedings of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), journal",
+    "contributors": "W. A. Forbes (author)",
+    "date": "1879 October 1",
+    "duration": "pp. 420–435",
+    "iteration": "[Vol. 47], Issue 3, No. 4",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1111/j.1096-3642.1879.tb02673.x\"target=\"_blank\">From publisher (DOI: 10.1111/j.1096-3642.1879.tb02673.x)</a> through Wiley Online Library</li><li><a href=\"https://archive.org/details/proceedingsofgen792zool/page/420/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by Natural History Museum Library, London</li>",
+    "location": "London, England",
+    "notes": "N/A",
+    "publisher": "Messrs. Longmans, Green, Reader, and Dyer",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "On the Anatomy of the African Elephant (<i>Elephas africanus</i>, Blum.).",
+    "type": "Journal article"
+  },
+  {
     "container": "N/A",
     "contributors": "Matthew Scott (author)",
     "date": "1885, on or after January 14",
