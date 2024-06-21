@@ -596,7 +596,7 @@
   {
     "container": "<i>Animal Welfare</i> (<i>Anim</i>. <i>Welf</i>.), journal",
     "contributors": "D. L. Wells (co-author); R. M. Irwin (co-author)",
-    "date": "2008 November 1",
+    "date": "2008 November 1 (Ingenta, n.d.)",
     "duration": "pp. 335–340",
     "iteration": "Vol. 17, Issue 4",
     "languages": "English",
@@ -604,7 +604,7 @@
     "location": "N/A",
     "notes": "N/A",
     "publisher": "Universities Federation for Animal Welfare (UFAW)",
-    "references": "N/A",
+    "references": "<ul class=\"refs\">Ingenta. (n.d.). <i>Auditory stimulation as enrichment for zoo-housed Asian elephants (</i>Elephas maximus<i>)</i>. Ingenta Connect. <a href=\"https://web.archive.org/web/20160801023617/https://www.ingentaconnect.com/content/ufaw/aw/2008/00000017/00000004/art00001\"target=\"_blank\">https://web.archive.org/web/20160801023617/https://www.ingentaconnect.com/content/ufaw/aw/2008/00000017/00000004/art00001</a></ul>",
     "summary": "TBA.",
     "title": "Auditory stimulation as enrichment for zoo-housed Asian elephants (<i>Elephas maximus</i>)",
     "type": "Journal article"
@@ -2337,10 +2337,10 @@
     "languages": "English",
     "links": "<li><a href=\"https://www.gmu.edu/news/2021-12/smithsonian-mason-team-keeps-watch-so-elephants-can-doze-0\"target=\"_blank\">From publisher</a></li><li><a href=\"https://content.sitemasonry.gmu.edu/news/2021-12/smithsonian-mason-team-keeps-watch-so-elephants-can-doze\"target=\"_blank\">From publisher</a></li>",
     "location": "N/A",
-    "notes": "<li><a href=\"https://issuu.com/masonspiritmagazine/docs/summer_fall_spirit_2022\"target=\"_blank\">Reprint from publisher</a> through Issuu, published 2022 October 27; the type is magazine article, the duration is p. 4, and the container is the magazine <i>Mason Spirit</i>.</li> ",
+    "notes": "<li><a href=\"https://issuu.com/masonspiritmagazine/docs/summer_fall_spirit_2022\"target=\"_blank\">Reprint from publisher</a> through Issuu, published 2022 October 27; the type is magazine article, the duration is p. 4, and the container is the magazine <i>Mason Spirit</i>.</li>",
     "publisher": "George Mason University (GMU)",
     "references": "N/A",
-    "summary": "A description of the research carried out by elephant keeper Ashley Fortner and GMU student Eva Noroski on the sleeping habits of the Asian elephants (<i>Elephas maximus</i>) at the National Zoological Park in Washington, D.C.",
+    "summary": "A description of the research carried out by elephant keeper Ashley Fortner and GMU student Eva Noroski on the sleeping habits of the Asian elephants (<i>Elephas maximus</i>) at the Smithsonian's National Zoo and Conservation Biology Institute (SNZCBI) in Washington, D.C.",
     "title": "Smithsonian-Mason team keeps watch, so elephants can doze off",
     "type": "Web article"
   },
@@ -2359,5 +2359,21 @@
     "summary": "TBA.",
     "title": "Elephant banana peeling",
     "type": "Journal article"
+  },
+  {
+    "container": "<i>George Mason University College of Science</i>, website",
+    "contributors": "Laura Powers (author)",
+    "date": "2024 June 20",
+    "duration": "500 words",
+    "iteration": "N/A",
+    "languages": "English",
+    "links": "<li><a href=\"https://science.gmu.edu/news/college-science-student-receives-oscar-student-excellence-award-impactful-undergraduate\"target=\"_blank\">From publisher</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "George Mason University (GMU)",
+    "references": "N/A",
+    "summary": "A description of the research carried out by Dr. Kathleen E. Hunt and GMU student Trent Grasso on the growth rate of and hormones found within the tail hairs of African elephants (<i>Loxodonta africana</i>) at the Maryland Zoo in Baltimore, Maryland, and Asian elephants (<i>Elephas maximus</i>) at the Smithsonian's National Zoo and Conservation Biology Institute (SNZCBI) in Washington, D.C.",
+    "title": "College of Science student receives OSCAR Student Excellence Award for impactful undergraduate research",
+    "type": "Web article"
   }
 ]
