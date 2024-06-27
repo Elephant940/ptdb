@@ -241,6 +241,22 @@
     "type": "Journal article"
   },
   {
+    "container": "<i>Carnegie Institution of Washington Publication</i> (<i>Carnegie</i> <i>Inst</i>. <i>Wash</i>. <i>Publ</i>.), journal",
+    "contributors": "Francis G. Benedict (author)",
+    "date": "1936, during or after April",
+    "duration": "302 pp.",
+    "iteration": "No. 474",
+    "languages": "English",
+    "links": "<li><a href=\"https://archive.org/details/physiologyofel4741936bene/page/n5/mode/2up?view=theater\"target=\"_blank\">From Internet Archive</a>, copy provided by Smithsonian Libraries</li>",
+    "location": "Washington, D.C., United States of America",
+    "notes": "N/A",
+    "publisher": "Carnegie Institution of Washington",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "The Physiology of the Elephant",
+    "type": "Journal article"
+  },
+  {
     "container": "N/A",
     "contributors": "Henry Fairfield Osborn (author); Mabel Rice Percy (editor)",
     "date": "1936 August 15",
@@ -772,7 +788,7 @@
   {
     "container": "<i>Acta Theriologica</i> (<i>Acta</i> <i>Theriol</i>.), journal",
     "contributors": "Fred Kurt (co-author); Günther B. Hartl (co-author); Ralph Tiedemann (co-author)",
-    "date": "1995 October 12 (MDPI, n.d.)",
+    "date": "1995 October 11 (MDPI, n.d.)",
     "duration": "pp. 125–143",
     "iteration": "Suppl. 3",
     "languages": "English",
@@ -780,7 +796,7 @@
     "location": "Białowieża, Poland",
     "notes": "N/A",
     "publisher": "Mammal Research Institute Polish Academy of Sciences (MRI PAS)",
-    "references": "<ul class=\"refs\">MDPI. (n.d.). <i>Tuskless bulls in Asian elephant Elephas maximus . History and population genetics of a man-made phenomenon</i>. Scilit. Retrieved January 15, 2021, from <a href=\"https://www.scilit.net/publications/2eeb3de43a2074f5147565699a2c31c5\"target=\"_blank\">https://www.scilit.net/publications/2eeb3de43a2074f5147565699a2c31c5</a></ul>",
+    "references": "<ul class=\"refs\">MDPI. (n.d.). <i>Tuskless bulls in Asian elephant Elephas maximus . History and population genetics of a man-made phenomenon</i>. Scilit. Retrieved June 27, 2024, from <a href=\"https://www.scilit.net/publications/2eeb3de43a2074f5147565699a2c31c5\"target=\"_blank\">https://www.scilit.net/publications/2eeb3de43a2074f5147565699a2c31c5</a></ul>",
     "summary": "TBA.",
     "title": "Tuskless bulls in Asian elephant <i>Elephas maximus</i>. History and population genetics of a man-made phenomenon",
     "type": "Journal article"
