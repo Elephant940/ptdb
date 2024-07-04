@@ -241,7 +241,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Carnegie Institution of Washington Publication</i> (<i>Carnegie</i> <i>Inst</i>. <i>Wash</i>. <i>Publ</i>.), journal",
+    "container": "<i>Carnegie Institution of Washington Publication</i>, book series",
     "contributors": "Francis G. Benedict (author)",
     "date": "1936, during or after April",
     "duration": "302 pp.",
@@ -254,7 +254,7 @@
     "references": "N/A",
     "summary": "TBA.",
     "title": "The Physiology of the Elephant",
-    "type": "Journal article"
+    "type": "Book"
   },
   {
     "container": "N/A",
@@ -449,7 +449,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Smithsonian Contributions to Zoology</i> (<i>Smithson</i>. <i>Contrib</i>. <i>Zool</i>.), journal",
+    "container": "<i>Smithsonian Contributions to Zoology</i>, book series",
     "contributors": "George M. McKay (author)",
     "date": "1973",
     "duration": "113 pp.",
@@ -462,7 +462,7 @@
     "references": "N/A",
     "summary": "TBA.",
     "title": "Behavior and Ecology of the Asiatic Elephant in Southeastern Ceylon",
-    "type": "Journal article"
+    "type": "Book"
   },
   {
     "container": "<i>Transactions of the American Philosophical Society</i> (<i>Trans</i>. <i>Am</i>. <i>Philos</i>. <i>Soc</i>.), journal",
