@@ -364,7 +364,7 @@
     "notes": "N/A",
     "publisher": "University of Chicago Press",
     "references": "N/A",
-    "summary": "Morris and others test the plausibility of widespread reports that African elephants (<i>Loxodonta africana</i>) get intoxicated from the ethanol found in the fermented fruit of the marula tree (<i>Sclerocarya birrea</i>). Extrapolating from human physiology, they find that elephants would have to consume nothing but fermented marula fruits at an abnormally high rate to become inebriated. Coupled with elephants' preference for fresh fruit, they conclude this is unlikely. The authors suggest other substances in marula trees may be responsible for elephant intoxication, such as the high vitamin content of fresh fruits or the poisonous beetle larvae found in the bark.",
+    "summary": "Morris and others test widespread reports that African elephants (<i>Loxodonta africana</i>) inebriate themselves on the ethanol in fermented fruits from marula trees (<i>Sclerocarya birrea</i>), extrapolating from human physiology that elephants could not become intoxicated by eating the fruits at a normal rate. Coupled with elephants' preference for fresh fruit, they conclude that the fruit’s high vitamin content or the poisonous beetle larvae in the tree bark are more likely responsible for \"drunk\" elephants.",
     "title": "Myth, Marula, and Elephant: An Assessment of Voluntary Ethanol Intoxication of the African Elephant (<i>Loxodonta africana</i>) Following Feeding on the Fruit of the Marula Tree (<i>Sclerocarya birrea</i>)",
     "type": "Journal article"
   },
@@ -605,7 +605,7 @@
     "notes": "N/A",
     "publisher": "Universities Federation for Animal Welfare (UFAW)",
     "references": "<ul class=\"refs\">Ingenta. (n.d.). <i>Auditory stimulation as enrichment for zoo-housed Asian elephants (</i>Elephas maximus<i>)</i>. Ingenta Connect. Archived August 1, 2016, at <a href=\"https://web.archive.org/web/20160801023617/https://www.ingentaconnect.com/content/ufaw/aw/2008/00000017/00000004/art00001\"target=\"_blank\">https://web.archive.org/web/20160801023617/https://www.ingentaconnect.com/content/ufaw/aw/2008/00000017/00000004/art00001</a></ul>",
-    "summary": "TBA.",
+    "summary": "Wells and Irwin study the behavioral effects of classical music on zoo-housed female Asian elephants (<i>Elephas maximus</i>). Using instant-scan sampling to record the elephants’ behavior, they find that \"abnormal\" behaviors like head-bobbing, swaying, and pacing decrease nearly tenfold when music is played indoors, and observe no other changes. They suggest classical music may be enriching for elephants, but possible habituation after longer exposure should be investigated.",
     "title": "Auditory stimulation as enrichment for zoo-housed Asian elephants (<i>Elephas maximus</i>)",
     "type": "Journal article"
   },
@@ -1043,7 +1043,7 @@
     "notes": "<li>The published body mass equation for \"Grade II – Grade IV\" female African bush elephants (<i>Loxodonta africana</i>) on Table 7 is incorrect, it should read 1.88 × 10<sup>−3</sup> × SH<sup>2.569</sup>.</li><li>The published body mass equation for \"young – Grade I\" Asian elephants (<i>Elephas maximus</i>) on Table 7 is incorrect, it should read 3.32 × 10<sup>−4</sup> × SH<sup>2.903</sup> (A. Larramendi, personal communication, January 8, 2020).</li>",
     "publisher": "Institute of Palaeobiology",
     "references": "N/A",
-    "summary": "Larramendi estimates the life sizes of 161 proboscidean specimens from 51 species, providing detailed statistics for 11 well-known species. He uses the Graphic Double Integration (GDI) volumetric method to calculate body mass, and develops new equations to calculate shoulder height. Notable specimens include fossils of <i>Palaeoloxodon namadicus</i> that Larramendi estimates to have been larger than the extinct rhino <i>Paraceratherium</i>, historically considered the largest land mammal, and the skeleton of Jumbo.",
+    "summary": "Larramendi estimates the life sizes of 161 proboscidean specimens from 51 species, providing detailed statistics for 11 species. He calculates body mass with the Graphic Double Integration (GDI) volumetric method, and develops new equations to calculate shoulder height. Notable specimens include fossils of <i>Palaeoloxodon namadicus</i> that he estimates may have been the largest ever land mammals and the skeleton of Jumbo.",
     "title": "Shoulder height, body mass and shape of proboscideans",
     "type": "Journal article"
   },
@@ -1464,7 +1464,7 @@
     "notes": "N/A",
     "publisher": "De Gruyter Oldenbourg",
     "references": "N/A",
-    "summary": "Searle argues that war elephants in antiquity paralleled tanks in World War I in their relationship to their operating crews, their flexibility and durability, the countermeasures developed against them, their increase in weaponry and armor over time, their psychological effect on the enemy, and their sociocultural status. He suggests the lack of previous similar analyses was mostly due to influential 20th century historian J.F.C. Fuller, who avoided such comparisons likely because he did not want to undermine the importance of tanks in the ongoing debate about the mechanization of warfare. Searle uses the similarities between elephants and tanks to suggest that certain military phenomena recur across time and civilizations.",
+    "summary": "Searle argues that war elephants in antiquity paralleled early tanks in their relationship to their operating crews, their flexibility and durability, the countermeasures developed against them, their increase in weaponry and armor over time, their psychological effect on the enemy, and their sociocultural status. He suggests the lack of similar analyses prior was because 20th century historian J.F.C. Fuller avoided such comparisons, likely to not undermine the importance of tanks in the debate about the mechanization of warfare. ",
     "title": "War Elephants and Early Tanks: A Transepochal Comparison of Ancient and Modern Warfare",
     "type": "Journal article"
   },
@@ -1837,7 +1837,7 @@
     "notes": "N/A",
     "publisher": "Royal Society",
     "references": "N/A",
-    "summary": " Janiak and colleagues identify and analyze the gene ADH7 in 79 mammal species. They find that African elephants (<i>Loxodonta africana</i>), Asian elephants (<i>Elephas maximus</i>), and woolly mammoths (<i>Mammuthus primigenius</i>) possess a mutated version that can no longer produce functional alcohol dehydrogenase class IV (ADH IV), an enzyme that metabolizes ethanol. This implies these species have a low alcohol tolerance and lends credence to rumors that elephants inebriate themselves on fermented fruits, which <a id=\"Morris_et_al_2006_color_2\" onclick=\"goToSource('D2000-2099','Morris_et_al_2006', this.id)\">Morris et al., 2006</a> deemed unlikely when extrapolating from human physiology.",
+    "summary": "Janiak and peers analyze the gene ADH7 in 79 mammal species. They find African elephants (<i>Loxodonta africana</i>), Asian elephants (<i>Elephas maximus</i>), and woolly mammoths (<i>Mammuthus primigenius</i>) carry a mutated version that cannot produce functional alcohol dehydrogenase class IV (ADH IV), an enzyme that breaks down ethanol. This implies low alcohol tolerance and supports rumors that elephants inebriate themselves on fermented fruit, which <a id=\"Morris_et_al_2006_color_2\" onclick=\"goToSource('D2000-2099','Morris_et_al_2006', this.id)\">Morris et al., 2006</a> had deemed unlikely.",
     "title": "Genetic evidence of widespread variation in ethanol metabolism among mammals: revisiting the ‘myth' of natural intoxication",
     "type": "Journal article"
   },
@@ -2161,7 +2161,7 @@
     "notes": "N/A",
     "publisher": "Nature Research",
     "references": "N/A",
-    "summary": "van der Valk and peers extract DNA from three Siberian mammoth molars, dubbed Krestovka, Adycha, and Chukochya. Using biostratigraphy and molecular dating, they find Krestovka and Adycha are over a million years old, making their DNA the oldest ever sequenced. The authors classify Adycha and Chukochya as early woolly mammoths (<i>Mammuthus primigenius</i>), who had cold weather adaptations thought to have arisen later. Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but genomic analyses suggest it belongs to a distinct lineage, possibly a new species. Phylogenetic comparisons indicate interbreeding between this lineage and woolly mammoths produced the Columbian mammoth (<i>M</i>. <i>columbi</i>).",
+    "summary": "van der Valk and peers analyze three Siberian mammoth molars, two of which they date to over a million years old, making the DNA extracted from them the oldest ever found. They classify Adycha and Chukochya as woolly mammoths (<i>Mammuthus primigenius</i>) with cold adaptations thought to have arisen later. Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but is closer to an unknown lineage that bred with woolly mammoths, giving rise to Columbian mammoths (<i>M</i>. <i>columbi</i>).",
     "title": "Million-year-old DNA sheds light on the genomic history of mammoths",
     "type": "Journal article"
   },
@@ -2308,7 +2308,7 @@
     "notes": "N/A",
     "publisher": "Royal Society",
     "references": "N/A",
-    "summary": "Schulz and peers investigate inhalation in the trunk of a captive female African elephant (<i>Loxodonta africana</i>). They present her with differently sized food items and observe she can grab them by applying suction, a behavior previously thought to be exclusive to fish. They also measure the elephant’s nasal cavity with an ultrasonic probe while she is suctioning water, and find she can drastically increase her trunk’s volume by contracting its inner muscles. From this, the authors calculate that elephants are able to inhale faster than humans sneeze.",
+    "summary": "Schulz and colleagues investigate inhalation in the trunk of a zoo-housed female African elephant (<i>Loxodonta africana</i>). They present her with differently sized foods and observe she can grab them by applying suction, a behavior previously only seen in fish. The authors also ultrasonically measure her nasal cavity while she suctions water and find she can contract her trunk’s inner muscles to almost double its volume. They calculate elephants can inhale thirty times faster than humans sneeze.",
     "title": "Suction feeding by elephants",
     "type": "Journal article"
   },
