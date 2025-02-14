@@ -1494,7 +1494,7 @@
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1016/j.rsase.2018.10.009\"target=\"_blank\">From publisher (DOI: 10.1016/j.rsase.2018.10.009)</a></li>",
     "location": "N/A",
-    "notes": "N/A",
+    "notes": "<li><a href=\"https://doi.org/10.1016/j.rsase.2020.100433\"target=\"_blank\">Erratum from publisher (DOI: 10.1016/j.rsase.2020.100433)</a>, published 2020 October 29; the duration is 1 p., and the iteration is Vol. 20, No. 100434</li>",
     "publisher": "Elsevier",
     "references": "N/A",
     "summary": "TBA.",
@@ -2001,22 +2001,6 @@
     "summary": "A layman-oriented summary of <a id=\"Buchholtz_et_al_2020_color_0\" onclick=\"goToSource('D2000-2099','Buchholtz_et_al_2020', this.id)\">Buchholtz et al., 2020</a> by one of the article's co-authors.",
     "title": "Using landscape connectivity to predict human-wildlife conflict",
     "type": "Web article"
-  },
-  {
-    "container": "<i>Remote Sensing Applications: Society and Environment</i> (<i>Remote</i> <i>Sens</i>. <i>Appl</i>. <i>Soc</i>. <i>Environ</i>.), journal",
-    "contributors": "Anonymous",
-    "date": "2020 October 29",
-    "duration": "1 p.",
-    "iteration": "Vol. 20, No. 100434",
-    "languages": "English",
-    "links": "<li><a href=\"https://doi.org/10.1016/j.rsase.2020.100433\"target=\"_blank\">From publisher (DOI: 10.1016/j.rsase.2020.100433)</a></li>",
-    "location": "N/A",
-    "notes": "N/A",
-    "publisher": "Elsevier",
-    "references": "N/A",
-    "summary": "An article indicating <a id=\"Dzinotizei_et_al_2018_color_0\" onclick=\"goToSource('D2000-2099','Dzinotizei_et_al_2018', this.id)\">Dzinotizei et al., 2018</a> is missing a declaration of Competing Interests statement.",
-    "title": "Erratum regarding missing declaration of Competing Interest statements in previously published articles",
-    "type": "Journal article"
   },
   {
     "container": "<i>Quaternary International</i> (<i>Quat</i>. <i>Int</i>.), journal",
