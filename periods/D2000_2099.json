@@ -27,7 +27,7 @@
     "notes": "N/A",
     "publisher": "Elephant Research Foundation (ERF)",
     "references": "N/A",
-    "summary": "Groves and Grubb measure the skulls of 295 African elephants (<i>Loxodonta</i>) to determine the extent of interbreeding between bush elephants (<i>L</i>. <i>africana</i>) and forest elephants (<i>L</i>. <i>cyclotis</i>). Accounting for age and sex, the authors find that select skull measurements do not overlap between the two, supporting their status as distinct species. They also find limited evidence of interbreeding, but not in an area of Garamba National Park where it had been previously reported.",
+    "summary": "Groves and Grubb measure the skulls of 295 African elephants (<i>Loxodonta</i>) to determine the extent of interbreeding between bush elephants (<i>L</i>. <i>africana</i>) and forest elephants (<i>L</i>. <i>cyclotis</i>). Accounting for age and sex, the authors find that select skull measurements do not overlap between the two, supporting their status as distinct species. They also find some evidence of interbreeding, but not in an area of Garamba National Park where it had been previously reported.",
     "title": "Do <i>Loxodonta cyclotis</i> and <i>L</i>. <i>africana</i> interbreed?",
     "type": "Journal article"
   },
@@ -1038,13 +1038,13 @@
     "eyedee": "Larramendi_2015",
     "iteration": "Vol. 61, Issue 3",
     "languages": "English",
-    "links": "<li><a href=\"http://dx.doi.org/10.4202/app.00136.2014\"target=\"_blank\">From publisher (DOI: 10.4202/app.00136.2014)</a></li><li><a href=\"https://bioone.org/journals/acta-palaeontologica-polonica/volume-61/issue-3/app.00136.2014/Shoulder-Height-Body-Mass-and-Shape-of-Proboscideans/10.4202/app.00136.2014.full\"target=\"_blank\">From BioOne Complete</a></li><li><a href=\"https://www.researchgate.net/publication/280014062_Shoulder_Height_Body_Mass_and_Shape_of_Proboscideans\"target=\"_blank\">From ResearchGate</a></li>",
+    "links": "<li><a href=\"http://dx.doi.org/10.4202/app.00136.2014\"target=\"_blank\">From publisher (DOI: 10.4202/app.00136.2014)</a></li><li><a href=\"https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c2ea3f27d2e21d1af126914c52bb50a73a76bcf6\"target=\"_blank\">From CiteSeerX</a></li><li><a href=\"https://bioone.org/journals/acta-palaeontologica-polonica/volume-61/issue-3/app.00136.2014/Shoulder-Height-Body-Mass-and-Shape-of-Proboscideans/10.4202/app.00136.2014.full\"target=\"_blank\">From BioOne Complete</a></li><li><a href=\"https://bibliotekanauki.pl/articles/945713\"target=\"_blank\">From Library of Science</a></li><li><a href=\"https://www.researchgate.net/publication/280014062_Shoulder_Height_Body_Mass_and_Shape_of_Proboscideans\"target=\"_blank\">From ResearchGate</a></li>",
     "location": "N/A",
     "notes": "<li>The published body mass equation for \"Grade II – Grade IV\" female African bush elephants (<i>Loxodonta africana</i>) on Table 7 is incorrect, it should read 1.88 × 10<sup>−3</sup> × SH<sup>2.569</sup>.</li><li>The published body mass equation for \"young – Grade I\" Asian elephants (<i>Elephas maximus</i>) on Table 7 is incorrect, it should read 3.32 × 10<sup>−4</sup> × SH<sup>2.903</sup> (A. Larramendi, personal communication, January 8, 2020).</li>",
-    "publisher": "Institute of Palaeobiology",
+    "publisher": "Institute of Paleobiology",
     "references": "N/A",
     "summary": "Larramendi estimates the life sizes of 161 proboscidean specimens from 51 species, providing detailed statistics for 11 species. He calculates body mass with the Graphic Double Integration (GDI) volumetric method, and develops new equations to calculate shoulder height. Notable specimens include fossils of <i>Palaeoloxodon namadicus</i> that he estimates may have been the largest ever land mammal and the skeleton of Jumbo.",
-    "title": "Shoulder height, body mass and shape of proboscideans",
+    "title": "Shoulder height, body mass, and shape of proboscideans",
     "type": "Journal article"
   },
   {
