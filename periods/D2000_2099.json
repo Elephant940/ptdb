@@ -847,7 +847,7 @@
     "notes": "N/A",
     "publisher": "American Association for the Advancement of Science (AAAS)",
     "references": "N/A",
-    "summary": "TBA.",
+    "summary": "Hutchinson and peers find the cartilage “sixth toe” in the fat pads of elephant feet turns into a sesamoid bone as elephants age and takes on a digit-like role in weight support. They note features of the foot bones that articulate with the sesamoid can also be seen in fossil proboscideans. Early proboscideans that were semi-aquatic appeared to lack sesamoids, implying these “pre-digits” evolved later to allow larger, terrestrial proboscideans advantages of being flat-footed while walking on their toes.",
     "title": "From Flat Foot to Fat Foot: Structure, Ontogeny, Function, and Evolution of Elephant “Sixth Toes”",
     "type": "Journal article"
   },
@@ -1379,7 +1379,7 @@
     "eyedee": "Palkopoulou_et_al_2018",
     "iteration": "Vol. 115, Issue 11",
     "languages": "English",
-    "links": "<li><a href=\"https://doi.org/10.1073/pnas.1720554115\"target=\"_blank\">From publisher (DOI: 10.1073/pnas.1720554115)</a></li><li><a href=\"https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2018_PNAS_ElephantGenome_3.pdf\"target=\"_blank\">From the David Reich Lab</a></li><li><a href=\"https://www.jstor.org/stable/26508357\"target=\"_blank\">From JSTOR</a></li><li><a href=\"https://europepmc.org/article/PMC/PMC5856550\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC5856550/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://www.academia.edu/49668378/A_comprehensive_genomic_history_of_extinct_and_living_elephants\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/323409209_A_comprehensive_genomic_history_of_extinct_and_living_elephants\"target=\"_blank\">From ResearchGate</a></li>",
+    "links": "<li><a href=\"https://doi.org/10.1073/pnas.1720554115\"target=\"_blank\">From publisher (DOI: 10.1073/pnas.1720554115)</a></li><li><a href=\"https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2018_PNAS_ElephantGenome_3.pdf\"target=\"_blank\">From the David Reich Lab</a></li><li><a href=\"https://www.jstor.org/stable/26508357\"target=\"_blank\">From JSTOR</a></li><li><a href=\"https://europepmc.org/article/PMC/PMC5856550\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC5856550/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://www.academia.edu/49668378/A_comprehensive_genomic_history_of_extinct_and_living_elephants\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/60456677/A_comprehensive_genomic_history_of_extinct_and_living_elephants?sm=b\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/323409209_A_comprehensive_genomic_history_of_extinct_and_living_elephants\"target=\"_blank\">From ResearchGate</a></li>",
     "location": "N/A",
     "notes": "N/A",
     "publisher": "National Academy of Sciences of the United States of America (NAS)",
@@ -2145,7 +2145,7 @@
     "notes": "N/A",
     "publisher": "Nature Research",
     "references": "N/A",
-    "summary": "van der Valk and peers analyze three Siberian mammoth molars, two of which they date to over a million years old, making the DNA extracted from them the oldest ever found. They classify Adycha and Chukochya as woolly mammoths (<i>Mammuthus primigenius</i>) with cold adaptations thought to have arisen later. Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but is closer to an unknown lineage that bred with woolly mammoths, giving rise to Columbian mammoths (<i>M</i>. <i>columbi</i>).",
+    "summary": "van der Valk and peers analyze three Siberian mammoth molars, two of which they date to over a million years old, making the DNA extracted from them the oldest known. They classify Adycha and Chukochya as woolly mammoths (<i>Mammuthus primigenius</i>) with cold adaptations thought to have arisen later. Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but is closer to an unknown lineage that bred with woolly mammoths, giving rise to Columbian mammoths (<i>M</i>. <i>columbi</i>).",
     "title": "Million-year-old DNA sheds light on the genomic history of mammoths",
     "type": "Journal article"
   },
