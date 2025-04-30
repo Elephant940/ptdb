@@ -723,7 +723,7 @@
   },
   {
     "container": "<i>Acta Theriologica</i> (<i>Acta</i> <i>Theriol</i>.), journal",
-    "contributors": "Matt W. Hayward (co-author); Bernadetta Zawadzka (co-author); J. Cromsigt (reviewer); R. Slotow (reviewer); Rudi J. van Aarde (reviewer); S. Chamaille-Jammes (reviewer); Andrzej Zalewski (editor)",
+    "contributors": "Matt W. Hayward (co-author); Bernadetta Zawadzka (co-author); J. Cromsigt (reviewer); Rob Slotow (reviewer); Rudi J. van Aarde (reviewer); S. Chamaille-Jammes (reviewer); Andrzej Zalewski (editor)",
     "date": "2010 December",
     "duration": "pp. 289–298",
     "iteration": "Vol. 55, Issue 4",
@@ -1390,7 +1390,7 @@
   },
   {
     "container": "<i>PLOS ONE</i>, journal",
-    "contributors": "Christie Sampson (co-author); John McEvoy (co-author); Zaw Min Oo (co-author); Aung Myo Chit (co-author); Aung Nyein Chan (co-author); David Tonkyn (co-author); Paing Soe (co-author); Melissa Songer (co-author); A. Christy Williams (co-author); Klaus Reisinger (co-author); George Wittemyer (co-author); Peter Leimgruber (co-author); Rob Slotow (editor)",
+    "contributors": "Christie Sampson (co-author, photographer); John McEvoy (co-author); Zaw Min Oo (co-author, photographer); Aung Myo Chit (co-author); Aung Nyein Chan (co-author); David Tonkyn (co-author); Paing Soe (co-author); Melissa Songer (co-author); A. Christy Williams (co-author); Klaus Reisinger (co-author); George Wittemyer (co-author); Peter Leimgruber (co-author); Rob Slotow (editor)",
     "date": "2018 March 13",
     "duration": "13 pp.",
     "iteration": "Vol. 13, Issue 3, No. e0194113",
@@ -1414,7 +1414,7 @@
     "links": "<li><a href=\"https://fb.watch/gnTLN5S0Rq/\"target=\"_blank\">From publisher</a></li>",
     "location": "N/A",
     "notes": "N/A",
-    "publisher": "Wildlife Conservation Society-India (WCS-India)",
+    "publisher": "Wildlife Conservation Society-India (WCS India)",
     "references": "N/A",
     "summary": "TBA.",
     "title": "The Smoking Elephant",
@@ -1422,7 +1422,7 @@
   },
   {
     "container": "<i>WCS Newsroom</i>, website",
-    "contributors": " Vinay Kumar (videographer)",
+    "contributors": "Wildlife Conservation Society (author); Vinay Kumar (videographer)",
     "date": "2018 March 22",
     "duration": "210 words",
     "iteration": "N/A",
@@ -1439,7 +1439,7 @@
   {
     "container": "N/A",
     "contributors": " Justin Gosling (author); Vicky Flynn (editor); Belinda Stewart-Cox (editor); Caitlin Melidonis (editor)",
-    "date": "2018 April 23",
+    "date": "2018 April 24",
     "duration": "21 pp.",
     "iteration": "N/A",
     "languages": "English",
@@ -1453,13 +1453,13 @@
     "type": "Book"
   },
   {
-    "container": "<i>Militärgeschichtliche Zeitschrift</i> (<i>Mil</i>. <i>Z</i>.), journal",
+    "container": "<i>Militärgeschichtliche Zeitschrift</i> (<i>Mil</i>. <i>Z</i>.; <i>MGZ</i>), journal",
     "contributors": "Alaric Searle (author)",
     "date": "2018 April 30",
     "duration": "pp. 37–77",
     "iteration": "Vol. 77, Issue 1",
     "languages": "English",
-    "links": "<li><a href=\"https://doi.org/10.1515/mgzs-2018-0002\"target=\"_blank\">From publisher (DOI: 10.1515/mgzs-2018-0002)</a></li><li><a href=\"https://web.archive.org/web/20221217191050/https://usir.salford.ac.uk/id/eprint/43715/\"target=\"_blank\">From the University of Salford Institutional Repository</a> through the Wayback Machine</li><li><a href=\"https://core.ac.uk/display/132195052\"target=\"_blank\">From CORE</a></li><li><a href=\"https://1library.net/document/zw5914lz-elephants-early-tanks-transepochal-comparison-ancient-modern-warfare.html\"target=\"_blank\">From 1Library</a></li>",
+    "links": "<li><a href=\"https://doi.org/10.1515/mgzs-2018-0002\"target=\"_blank\">From publisher (DOI: 10.1515/mgzs-2018-0002)</a></li><li><a href=\"https://salford-repository.worktribe.com/output/1388110/war-elephants-and-early-tanks-a-transepochal-comparison-of-ancient-and-modern-warfare\"target=\"_blank\">From the University of Salford Institutional Repository</a> (<a href=\"https://web.archive.org/web/20221217191050/https://usir.salford.ac.uk/id/eprint/43715/\"target=\"_blank\">archive in the Wayback Machine</a>)</li><li><a href=\"https://web.archive.org/web/20230519141348/https://core.ac.uk/download/132195052.pdf\"target=\"_blank\">From CORE</a> through the Wayback Machine</li><li><a href=\"https://1library.net/document/zw5914lz-elephants-early-tanks-transepochal-comparison-ancient-modern-warfare.html\"target=\"_blank\">From 1Library</a></li>",
     "location": "N/A",
     "notes": "N/A",
     "publisher": "De Gruyter Oldenbourg",
