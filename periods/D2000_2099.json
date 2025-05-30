@@ -434,7 +434,7 @@
   },
   {
     "container": "<i>PLoS Biology</i> (<i>PLoS</i> <i>Biol</i>.), journal",
-    "contributors": "Stephen Blake (co-author); Samantha Strindberg (co-author); Patrick Boudjan (co-author); Calixte Makombo (co-author); Inogwabini Bila-Isia (co-author); Omari Ilambu (co-author); Falk Grossmann (co-author); Lambert Bene-Bene (co-author); Bruno de Semboli (co-author); Valentin Mbenzo (co-author); Dino S'hwa (co-author); Rosine Bayogo (co-author); Liz Williamson (co-author); Mike Fay (co-author); John Hart (co-author); Fiona Maisels (co-author); Georgina M. Mace (editor); Kent Redford (reviewer); David Wilkie (reviewer); James Deutsch (reviewer); Bill Laurance (reviewer); Emma Stokes (reviewer); Richard Barnes (reviewer)",
+    "contributors": "Stephen Blake (co-author); Samantha Strindberg (co-author); Patrick Boudjan (co-author); Calixte Makombo (co-author); Inogwabini Bila-Isia (co-author); Omari Ilambu (co-author); Falk Grossmann (co-author); Lambert Bene-Bene (co-author); Bruno de Semboli (co-author); Valentin Mbenzo (co-author); Dino S'hwa (co-author); Rosine Bayogo (co-author); Liz Williamson (co-author); Mike Fay (co-author); John Hart (co-author); Fiona Maisels (co-author); Georgina M. Mace (editor); Kent Redford (reviewer); David Wilkie (reviewer); James Deutsch (reviewer); Bill Laurance (reviewer); Emma Stokes (reviewer); Richard F.W. Barnes (reviewer)",
     "date": "2007 April 3",
     "duration": "pp. 0945–0953",
     "eyedee": "Blake_et_al_2007",
@@ -2139,12 +2139,12 @@
     "eyedee": "van_der_Valk_et_al_2021",
     "iteration": "Vol. 591, Issue 7849",
     "languages": "English",
-    "links": "<li><a href=\"https://doi.org/10.1038/s41586-021-03224-9\"target=\"_blank\">From publisher (DOI: 10.1038/s41586-021-03224-9)</a></li><li><a href=\"https://escholarship.org/uc/item/0n55m3r4\"target=\"_blank\">From eScholarship</a></li><li><a href=\"https://bio.metu.edu.tr/en/system/files/mehmet_somel_nature_mammoths-1-8.pdf\"target=\"_blank\">From METU Biological Sciences</a></li><li><a href=\"https://hdl.handle.net/10037/24516\"target=\"_blank\">From Munin</a></li><li><a href=\"https://www.diva-portal.org/smash/get/diva2:1622148/FULLTEXT01.pdf\"target=\"_blank\">From DiVA</a></li><li><a href=\"https://europepmc.org/article/MED/33597750\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC7116897/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://www.gwern.net/docs/genetics/selection/2021-vandervalk.pdf\"target=\"_blank\">From Gwern.net</a></li>",
+    "links": "<li><a href=\"https://doi.org/10.1038/s41586-021-03224-9\"target=\"_blank\">From publisher (DOI: 10.1038/s41586-021-03224-9)</a></li><li><a href=\"https://escholarship.org/uc/item/0n55m3r4\"target=\"_blank\">From eScholarship</a></li><li><a href=\"https://bio.metu.edu.tr/en/system/files/mehmet_somel_nature_mammoths-1-8.pdf\"target=\"_blank\">From METU Department of Biological Sciences: Biology/Molecular Biology & Genetics</a></li><li><a href=\"https://hdl.handle.net/10037/24516\"target=\"_blank\">From Munin</a></li><li><a href=\"https://ueaeprints.uea.ac.uk/id/eprint/93424/\"target=\"_blank\">From UEA Digital Repository</a></li><li><a href=\"https://www.diva-portal.org/smash/get/diva2:1622148/FULLTEXT01.pdf\"target=\"_blank\">From DiVA</a></li><li><a href=\"https://europepmc.org/article/MED/33597750\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://par.nsf.gov/biblio/10232216-million-year-old-dna-sheds-light-genomic-history-mammoths\"target=\"_blank\">From NSF Public Access Repository</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC7116897/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://www.academia.edu/65169538/Million_year_old_DNA_sheds_light_on_the_genomic_history_of_mammoths\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/94477019/Million_year_old_DNA_sheds_light_on_the_genomic_history_of_mammoths\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/114786582/Million_year_old_DNA_sheds_light_on_the_genomic_history_of_mammoths\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/122498306/Million_year_old_DNA_sheds_light_on_the_genomic_history_of_mammoths\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.gwern.net/docs/genetics/selection/2021-vandervalk.pdf\"target=\"_blank\">From Gwern.net</a></li>",
     "location": "N/A",
     "notes": "N/A",
     "publisher": "Nature Research",
     "references": "N/A",
-    "summary": "van der Valk and peers analyze three Siberian mammoth molars, two of which they date to over a million years old, making the DNA extracted from them the oldest known. They classify Adycha and Chukochya as woolly mammoths (<i>Mammuthus primigenius</i>) with cold adaptations thought to have arisen later. Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but is closer to an unknown lineage that bred with woolly mammoths, giving rise to Columbian mammoths (<i>M</i>. <i>columbi</i>).",
+    "summary": "van der Valk and peers analyze and extract the oldest known DNA from three Siberian mammoth molars, two of which are over a million years old. They classify the molars Adycha and Chukochya as woolly mammoths (<i>Mammuthus primigenius</i>) with cold adaptations thought to have arisen later. The molar Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but is closer to an unknown lineage that bred with woolly mammoths, giving rise to Columbian mammoths (<i>M</i>. <i>columbi</i>).",
     "title": "Million-year-old DNA sheds light on the genomic history of mammoths",
     "type": "Journal article"
   },
@@ -2163,22 +2163,6 @@
     "summary": "A layman-oriented summary of <a id=\"van_der_Valk_et_al_2021_color_3\" onclick=\"goToSource('D2000-2099','van_der_Valk_et_al_2021', this.id)\">van der Valk et al., 2021</a>.",
     "title": "A mammoth contribution to ancient genomics",
     "type": "Journal article"
-  },
-  {
-    "container": "<i>IUCN</i>, website",
-    "contributors": "International Union for Conservation of Nature and Natural Resources (author)",
-    "date": "2021 March 25",
-    "duration": "2040 words",
-    "iteration": "N/A",
-    "languages": "English",
-    "links": "<li><a href=\"https://www.iucn.org/news/species/202103/african-elephant-species-now-endangered-and-critically-endangered-iucn-red-list\"target=\"_blank\">From publisher</a></li>",
-    "location": "N/A",
-    "notes": "N/A",
-    "publisher": "International Union for Conservation of Nature and Natural Resources (IUCN)",
-    "references": "N/A",
-    "summary": "A layman-oriented summary of <a id=\"Gobush_et_al_2021a_color_0\" onclick=\"goToSource('D2000-2099','Gobush_et_al_2021a', this.id)\">Gobush et al., 2021a</a> and <a id=\"Gobush_et_al_2021b_color_0\" onclick=\"goToSource('D2000-2099','Gobush_et_al_2021b', this.id)\">Gobush et al., 2021b</a>.",
-    "title": "African elephant species now Endangered and Critically Endangered - IUCN Red List",
-    "type": "Web article"
   },
   {
     "container": "<i>The IUCN Red List of Threatened Species</i>, website",
@@ -2212,6 +2196,22 @@
     "references": "N/A",
     "summary": "TBA.",
     "title": "<i>Loxodonta cyclotis</i>",
+    "type": "Web article"
+  },
+  {
+    "container": "<i>IUCN</i>, website",
+    "contributors": "International Union for Conservation of Nature and Natural Resources (author)",
+    "date": "2021 March 25",
+    "duration": "2040 words",
+    "iteration": "N/A",
+    "languages": "English",
+    "links": "<li><a href=\"https://www.iucn.org/news/species/202103/african-elephant-species-now-endangered-and-critically-endangered-iucn-red-list\"target=\"_blank\">From publisher</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "International Union for Conservation of Nature and Natural Resources (IUCN)",
+    "references": "N/A",
+    "summary": "A layman-oriented summary of <a id=\"Gobush_et_al_2021a_color_0\" onclick=\"goToSource('D2000-2099','Gobush_et_al_2021a', this.id)\">Gobush et al., 2021a</a> and <a id=\"Gobush_et_al_2021b_color_0\" onclick=\"goToSource('D2000-2099','Gobush_et_al_2021b', this.id)\">Gobush et al., 2021b</a>.",
+    "title": "African elephant species now Endangered and Critically Endangered - IUCN Red List",
     "type": "Web article"
   },
   {
