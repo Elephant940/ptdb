@@ -499,9 +499,25 @@
     "type": "Book"
   },
   {
+    "container": "N/A",
+    "contributors": "Anonymous",
+    "date": "Between 1891 April 30 and 1898 November 4",
+    "duration": "13 x 18 cm (5 x 7 in)",
+    "iteration": "[No. NZP-0902]",
+    "languages": "N/A",
+    "links": "<li><a href=\"https://collections.si.edu/search/detail/edanmdm:siris_arc_382629\"target=\"_blank\">From Smithsonian Collections Search Center</a></li><li><a href=\"https://siarchives.si.edu/collections/siris_arc_382629\"target=\"_blank\">From Smithsonian Institution Archives</a></li><li><a href=\"https://www.rawpixel.com/image/8849167/photo-image-art-vintage-gold\"target=\"_blank\">From rawpixel</a></li><li><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7-7QaBzUhgBpMuqrzkjwhZywu1q2rSAJFYz16R8lcVwgkzmugMCGo94t0JoQdRmHyn4VE_MADoVh9t4OrbA-D1i5jJoFqCGfz6M1-Xq-llP4mdNaCN4LXZXmtBtVJa7LC2UUNjqPV8yc/s400/2003-19538he+animals+were+given+to+the+park+by+James+E.+Cooper%252C+owner+of+the+Adam+Forepaugh+Shows%252C+a+local+menagerie.++Dunk+right+and+Gold+Dust+left.++NZ.jpg\"target=\"_blank\">From The Circus \"NO SPIN ZONE\"</a></li>",
+    "location": "Washington, D.C., United States of America",
+    "notes": "N/A",
+    "publisher": "N/A",
+    "references": "N/A",
+    "summary": "A photo of zookeeper C.W. Lewis walking on a road at the National Zoological Park in Washington, D.C. with Dunk (left) and Gold Dust (right), male Asian elephants (<i>Elephas maximus</i>) who were the first elephants at the zoo.",
+    "title": "[Indian Elephants \"Dunk\" and \"Gold Dust\"]",
+    "type": "Photograph"
+  },
+  {
     "container": "<i>The Journal of Nervous and Mental Disease</i> (<i>J</i>. <i>Nerv</i>. <i>Ment</i>. <i>Dis</i>.), journal",
     "contributors": "Irving C. Rosse (author)",
-    "date": "1892 November, on or before the 19",
+    "date": "1892 November, before or on the 19",
     "duration": "pp. 795–811",
     "iteration": "New Ser., Vol. 17, Issue 11",
     "languages": "English",
