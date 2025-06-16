@@ -32,7 +32,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Heredity</i> (<i>Hered</i>.), journal",
+    "container": "<i>Heredity</i>, journal",
     "contributors": "Prithiviraj Fernando (co-author); Michael E. Pfrender (co-author); Sandra E. Encalada (co-author); Russell Lande (co-author)",
     "date": "2000 March",
     "duration": "pp. 362–372",
@@ -48,7 +48,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Evolution</i> (<i>Evol</i>.), journal",
+    "container": "<i>Evolution</i>, journal",
     "contributors": "Robert C. Fleischer (co-author); Elizabeth A. Perry (co-author); Kasinathan Muralidharan (co-author); Ernest E. Stevens (co-author); Christen M. Wemmer (co-author); B. Bowen (editor)",
     "date": "2001 September",
     "duration": "pp. 1882–1892",
@@ -208,7 +208,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Heredity</i> (<i>Hered</i>.), journal",
+    "container": "<i>Heredity</i>, journal",
     "contributors": "T.N.C. Vidya (co-author); Prithiviraj Fernando (co-author); Don J. Melnick (co-author); Raman Sukumar (co-author)",
     "date": "2004 September 29",
     "duration": "pp. 71–80",
@@ -256,7 +256,7 @@
     "type": "Video"
   },
   {
-    "container": "<i>Genetics</i> (<i>Genet</i>.), journal",
+    "container": "<i>Genetics</i>, journal",
     "contributors": "Shozo Yokoyama (co-author); Naomi Takenaka (co-author); Dalen W. Agnew (co-author); Jeheskel Shoshani (co-author); N. Takahata (editor)",
     "date": "2005 May",
     "duration": "pp. 335–344",
@@ -626,7 +626,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Science</i> (<i>Sci</i>.), journal",
+    "container": "<i>Science</i>, journal",
     "contributors": "Ros Clubb (co-author); Marcus Rowcliffe (co-author); Phyllis C. Lee (co-author); Khyne U Mar (co-author); Cynthia J. Moss (co-author); Georgia J. Mason (co-author)",
     "date": "2008 December 12",
     "duration": "p. 1649",
@@ -639,6 +639,22 @@
     "references": "N/A",
     "summary": "TBA.",
     "title": "Compromised Survivorship in Zoo Elephants",
+    "type": "Journal article"
+  },
+  {
+    "container": "<i>Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen</i> (<i>Neues</i> <i>Jahrb</i>. <i>Geol</i>. <i>Paläontol</i>. - <i>Abh</i>.), journal",
+    "contributors": "Kenneth E. Campbell, Jr. (co-author); Carl D. Frailey (co-author); Lidia Romero-Pittman (co-author); Mario Cozzuol (reviewer); Marco Ferretti (reviewer, photographer)",
+    "date": "2009 April 16",
+    "duration": "pp. 113–128",
+    "iteration": "Vol. 252, Issue 1",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1127/0077-7749/2009/0252-0113\"target=\"_blank\">From publisher (DOI: 10.1127/0077-7749/2009/0252-0113)</a></li><li><a href=\"https://www.researchgate.net/publication/284672636_The_late_Miocene_gomphothere_Amahuacatherium_peruvium_Proboscidea_Gomphotheriidae_from_Amazonian_Peru_Implications_for_the_Great_American_Faunal_Interchange\"target=\"_blank\">From ResearchGate</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "E. Schweizerbart’sche Verlagsbuchhandlung",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "In defense of <i>Amahuacatherium</i> (Proboscidea: Gomphotheriidae)",
     "type": "Journal article"
   },
   {
@@ -835,7 +851,7 @@
     "type": "Web article"
   },
   {
-    "container": "<i>Science</i> (<i>Sci</i>.), journal",
+    "container": "<i>Science</i>, journal",
     "contributors": "John R. Hutchinson (co-author); Cyrille Delmer (co-author); Charlotte E. Miller (co-author); Thomas Hildebrandt (co-author); Andrew A. Pitsillides (co-author); Alan Boyde (co-author)",
     "date": "2011 December 23",
     "duration": "pp. 1699–1703",
@@ -1695,7 +1711,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Animals</i> (<i>Anim</i>.), journal",
+    "container": "<i>Animals</i>, journal",
     "contributors": "Martin W. Seltmann (co-author); Susanna Ukonaho (co-author); Sophie Reichert (co-author); Diogo João Franco dos Santos (co-author); U Kyaw Nyein (co-author); Win Htut (co-author); Virpi Lummaa (co-author); Simon N. Chapman (proofreader)",
     "date": "2020 January 6",
     "duration": "16 pp.",
@@ -1711,7 +1727,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Animals</i> (<i>Anim</i>.), journal",
+    "container": "<i>Animals</i>, journal",
     "contributors": "Jonathan L. Webb (co-author); Jennie A.H. Crawley (co-author); Martin W. Seltmann (co-author); Océane Liehrmann (co-author); Nicola Hemmings (co-author); U Kyaw Nyein (co-author); Htoo Htoo Aung (co-author); Win Htut (co-author); Virpi Lummaa (co-author); Mirkka Lahdenperä (co-author)",
     "date": "2020 January 18",
     "duration": "14 pp.",
@@ -1727,7 +1743,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Science</i> (<i>Sci</i>.), journal",
+    "container": "<i>Science</i>, journal",
     "contributors": "Zhihong Wang (co-author); Zhengling Li (co-author); Yongjing Tang (co-author); Chongxue Yao (co-author); Yu Liu (co-author); Guilian Jiang (co-author); Fang Wang (co-author); Liang Liang (co-author); Wenlan Zhao (co-author); Gaofan Zhu (co-author); Mingyong Chen (co-author)",
     "date": "2020 January 24",
     "duration": "pp. 373–374",
@@ -2124,7 +2140,7 @@
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1038/d41586-021-00436-x\"target=\"_blank\">From publisher (DOI: 10.1038/d41586-021-00436-x)</a></li>",
     "location": "N/A",
-    "notes": "<li><a href=\"https://www.nature.com/articles/d41586-021-00436-x.pdf\"target=\"_blank\">Reprint from publisher (DOI: 10.1038/d41586-021-00436-x)</a>, published 2021 February 25; the title is 'Mammoth Genomes Shatter Record for Oldest Ancient DNA', the type is journal article, the duration is pp. 537–538, the container is the journal <i>Nature</i> (<i>Nat</i>.), and the iteration is Vol. 590, Issue 7847.</li>",
+    "notes": "<li><a href=\"https://www.nature.com/articles/d41586-021-00436-x.pdf\"target=\"_blank\">Reprint from publisher (DOI: 10.1038/d41586-021-00436-x)</a>, published 2021 February 25; the title is 'Mammoth Genomes Shatter Record for Oldest Ancient DNA', the type is journal article, the duration is pp. 537–538, the container is the journal <i>Nature</i>, and the iteration is Vol. 590, Issue 7847.</li>",
     "publisher": "Nature Research",
     "references": "N/A",
     "summary": "A layman-oriented summary of <a id=\"van_der_Valk_et_al_2021_color_0\" onclick=\"goToSource('D2000-2099','van_der_Valk_et_al_2021', this.id)\">van der Valk et al., 2021</a>, with quotes from two of the article's co-authors.",
@@ -2156,7 +2172,7 @@
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1038/d41586-021-00348-w\"target=\"_blank\">From publisher (DOI: 10.1038/d41586-021-00348-w)</a></li><li><a href=\"https://web.archive.org/web/20220827070257/https://gameruprising.to/index.php?threads/million-year-old-dna-provides-a-glimpse-of-mammoth-evolution.19070/\"target=\"_blank\">From Gamer Uprising</a> through the Wayback Machine</li>",
     "location": "N/A",
-    "notes": "<li><a href=\"https://www.nature.com/articles/d41586-021-00348-w.pdf\"target=\"_blank\">Reprint from publisher (DOI: 10.1038/d41586-021-00348-w)</a>, published 2021 March 11; the title is 'A mammoth step back in genomic time', the type is journal article, the duration is pp. 208–209, the container is the journal <i>Nature</i> (<i>Nat</i>.), and the iteration is Vol. 591, Issue 7849.</li>",
+    "notes": "<li><a href=\"https://www.nature.com/articles/d41586-021-00348-w.pdf\"target=\"_blank\">Reprint from publisher (DOI: 10.1038/d41586-021-00348-w)</a>, published 2021 March 11; the title is 'A mammoth step back in genomic time', the type is journal article, the duration is pp. 208–209, the container is the journal <i>Nature</i>, and the iteration is Vol. 591, Issue 7849.</li>",
     "publisher": "Nature Research",
     "references": "N/A",
     "summary": "A layman-oriented summary of <a id=\"van_der_Valk_et_al_2021_color_1\" onclick=\"goToSource('D2000-2099','van_der_Valk_et_al_2021', this.id)\">van der Valk et al., 2021</a>.",
@@ -2164,7 +2180,7 @@
     "type": "Web article"
   },
   {
-    "container": "<i>Nature</i> (<i>Nat</i>.), journal",
+    "container": "<i>Nature</i>, journal",
     "contributors": "Tom van der Valk (co-author); Patrícia Pečnerová (co-author); David Díez-del-Molino (co-author); Anders Bergström (co-author); Jonas Oppenheimer (co-author); Stefanie Hartmann (co-author); Georgios Xenikoudakis (co-author); Jessica A. Thomas (co-author); Marianne Dehasque (co-author); Ekin Sağlıcan (co-author); Fatma Rabia Fidan (co-author); Ian Barnes (co-author); Shanlin Liu (co-author); Mehmet Somel (co-author); Peter D. Heintzman (co-author); Pavel Nikolskiy (co-author); Beth Shapiro (co-author); Pontus Skoglund (co-author); Michael Hofreiter (co-author); Adrian M. Lister (co-author); Anders Götherström (co-author); Love Dalén (co-author); Gloria Cuenca-Bescós (reviewer); David Lambert (reviewer); Krishna Veeramah (reviewer)",
     "date": "2021 February 17",
     "duration": "pp. 265–269",
