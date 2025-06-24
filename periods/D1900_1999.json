@@ -850,6 +850,22 @@
     "type": "Book"
   },
   {
+    "container": "<i>Nature</i>, journal",
+    "contributors": "L.E.L. Rasmussen (co-author); Terry D. Lee (co-author); Wendell L. Roelofs (co-author); Aijun Zhang (co-author); G. Doyle Daves Jr. (co-author)",
+    "date": "1996 February 22",
+    "duration": "p. 684",
+    "iteration": "Vol. 379, Issue 6567",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1038/379684a0\"target=\"_blank\">From publisher (DOI: 10.1038/379684a0)</a></li><li><a href=\"https://www.proquest.com/docview/204477840/fulltextPDF/E585C80670C548C5PQ/2?accountid=14541&sourcetype=Scholarly%20Journals\"target=\"_blank\">From ProQuest</a></li>",
+    "location": "London, England",
+    "notes": "N/A",
+    "publisher": "Macmillan Magazines",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Insect pheromone in elephants",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>Zeitschrift für Säugetierkunde (International Journal of Mammalian Biology)</i> (<i>Z</i>. <i>Säugetierkd</i>. (<i>Int</i>. <i>J</i>. <i>Mamm</i>. <i>Biol</i>.)), journal",
     "contributors": "Günther B. Hartl (co-author); Fred Kurt (co-author); Ralph Tiedemann (co-author); Christine Gmeiner (co-author); K. Nadlinger (co-author); Khyne U Mar (co-author); A. Rübel (co-author)",
     "date": "1996 October",
@@ -865,7 +881,7 @@
     "title": "Population genetics and systematics of Asian elephant (<i>Elephas maximus</i>): A study based on sequence variation at the Cyt b gene of PCR-amplified mitochondrial DNA from hair bulbs",
     "type": "Journal article"
   },
-    {
+  {
     "container": "<i>Nutrition Advisory Group Handbook Fact Sheet</i>, book series",
     "contributors": "Duane E. Ullrey (co-author); Susan D. Crissey (co-author); Harold F. Hintz (co-author); Mary E. Allen (reviewer); Mark S. Edwards (reviewer); Alan Roocroft (reviewer)",
     "date": "1997 September",
