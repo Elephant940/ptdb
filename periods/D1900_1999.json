@@ -786,7 +786,7 @@
   },
   {
     "container": "<i>Biological Conservation</i> (<i>Biol</i>. <i>Conserv</i>.), journal",
-    "contributors": "Richard F.W. Barnes (co-author); A. Blom (co-author); M.P.T. Alers (co-author)",
+    "contributors": "Richard F.W. Barnes (co-author); Allard Blom (co-author); M.P.T. Alers (co-author)",
     "date": "1995, before May",
     "duration": "pp. 125–132",
     "iteration": "Vol. 71, Issue 2",
@@ -896,6 +896,22 @@
     "summary": "TBA.",
     "title": "Elephants: nutrition and dietary husbandry",
     "type": "Book"
+  },
+  {
+    "container": "<i>The Journal of Wildlife Management</i> (<i>J</i>. <i>Wildl</i>. <i>Manag</i>.), journal",
+    "contributors": "Richard F.W. Barnes (co-author); K. Beardsley (co-author); F. Michelmore (co-author); K.L. Barnes (co-author); M.P.T. Alers (co-author); Allard Blom (co-author); Jean-Dominique Lebreton (editor)",
+    "date": "1997 October",
+    "duration": "pp. 1384–1393",
+    "iteration": "Vol. 61, Issue 4",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.2307/3802142\"target=\"_blank\">From JSTOR (DOI: 10.2307/3802142)</a></li><li><a href=\"https://www.researchgate.net/publication/275731506_Estimating_Forest_Elephant_Numbers_with_Dung_Counts_and_a_Geographic_Information_System\"target=\"_blank\">From ResearchGate</a></li>",
+    "location": "Bethesda, Maryland, United States of America",
+    "notes": "N/A",
+    "publisher": "The Wildlife Society",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Estimating Forest Elephant Numbers With Dung Counts and a Geographic Information System",
+    "type": "Journal article"
   },
   {
     "container": "<i>Journal of Zoo and Wildlife Medicine</i> (<i>J</i>. <i>Zoo</i> <i>Wildl</i>. <i>Med</i>.), journal",
