@@ -146,6 +146,22 @@
   },
   {
     "container": "<i>Proceedings of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), journal",
+    "contributors": "Charles William Andrews (author); G.M. Woodward (printmaker); Newman West (printmaker)",
+    "date": "1911 December 15 (“Notice”, 1912)",
+    "duration": "pp. 943–945",
+    "iteration": "[Vol. 81], Issue 4, No. 40",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1111/j.1096-3642.1911.tb01964.x\"target=\"_blank\">From publisher (DOI: 10.1111/j.1096-3642.1911.tb01964.x)</a> through Wiley Online Library</li><li><a href=\"https://archive.org/stream/proceedingsofzoo19115571213zool#page/n521/mode/2up\"target=\"_blank\">From Internet Archive</a>, copy provided by Smithsonian Libraries</li>",
+    "location": "London, England",
+    "notes": "N/A",
+    "publisher": "Messrs. Longmans, Green, and Co.",
+    "references": "<ul class=\"refs\"><a href=\"https://archive.org/stream/proceedingsofzoo19121504zool#page/n361/mode/2up\"target=\"_blank\">Notice</a>. (1912). <i>Proceedings of the Zoological Society of London</i>, <i>82</i>(1).</ul>",
+    "summary": "TBA.",
+    "title": "On a New Species of <i>Dinotherium</i> (<i>Dinotherium hobleyi</i>*) from British East Africa.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=92503\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\" alt=\"Prodeinotherium\" style=\"width:18px;height:18px;\"></a>",
+    "type": "Journal article"
+  },
+  {
+    "container": "<i>Proceedings of the Zoological Society of London</i> (<i>Proc</i>. <i>Zool</i>. <i>Soc</i>. <i>Lond</i>.), journal",
     "contributors": "Richard Lydekker (author)",
     "date": "1914 June 16 (“Notice”, 1914)",
     "duration": "pp. 285–288",
