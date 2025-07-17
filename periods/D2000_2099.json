@@ -1134,7 +1134,7 @@
     "duration": "pp. 1850–1860",
     "iteration": "Vol. 314, Issue 17",
     "languages": "English",
-    "links": "<li><a href=\"https://doi.org/10.1001/jama.2015.13134\"target=\"_blank\">From publisher (DOI: 10.1001/jama.2015.13134)</a></li><li><a href=\"https://core.ac.uk/works/19086127/\"target=\"_blank\">From CORE</a></li><li><a href=\"https://europepmc.org/article/med/26447779\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://www.osti.gov/biblio/1342515\"target=\"_blank\">From OSTI.GOV</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4858328/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://repository.upenn.edu/entities/publication/fbb484dd-189b-483b-8964-220b0c8221b2\"target=\"_blank\">From ScholarlyCommons</a></li><li><a href=\"https://www.academia.edu/53004872/Potential_Mechanisms_for_Cancer_Resistance_in_Elephants_and_Comparative_Cellular_Response_to_DNA_Damage_in_Humans\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/54491850/Potential_Mechanisms_for_Cancer_Resistance_in_Elephants_and_Comparative_Cellular_Response_to_DNA_Damage_in_Humans\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/110647021/Potential_Mechanisms_for_Cancer_Resistance_in_Elephants_and_Comparative_Cellular_Response_to_DNA_Damage_in_Humans\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/282760802_Potential_Mechanisms_for_Cancer_Resistance_in_Elephants_and_Comparative_Cellular_Response_to_DNA_Damage_in_Humans\"target=\"_blank\">From ResearchGate</a></li><li><a href=\"https://evolutionmedicine.com/wp-content/uploads/2016/09/abeggien-elephant-cancer.pdf\"target=\"_blank\">From EvolutionMedicine</a></li><li><a href=\"https://faculty.wharton.upenn.edu/wp-content/uploads/2016/08/shanejensen.elephant15.pdf\"target=\"_blank\">From Wharton Faculty Platform</a></li>",
+    "links": "<li><a href=\"https://doi.org/10.1001/jama.2015.13134\"target=\"_blank\">From publisher (DOI: 10.1001/jama.2015.13134)</a></li><li><a href=\"https://core.ac.uk/works/19086127/?t=42fccd30b86ef40d30c347d1bb3cbf04-19086127\"target=\"_blank\">From CORE</a></li><li><a href=\"https://europepmc.org/article/med/26447779\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://www.osti.gov/biblio/1342515\"target=\"_blank\">From OSTI.GOV</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4858328/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://repository.upenn.edu/entities/publication/fbb484dd-189b-483b-8964-220b0c8221b2\"target=\"_blank\">From ScholarlyCommons</a></li><li><a href=\"https://www.academia.edu/53004872/Potential_Mechanisms_for_Cancer_Resistance_in_Elephants_and_Comparative_Cellular_Response_to_DNA_Damage_in_Humans\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/54491850/Potential_Mechanisms_for_Cancer_Resistance_in_Elephants_and_Comparative_Cellular_Response_to_DNA_Damage_in_Humans\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/110647021/Potential_Mechanisms_for_Cancer_Resistance_in_Elephants_and_Comparative_Cellular_Response_to_DNA_Damage_in_Humans\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/282760802_Potential_Mechanisms_for_Cancer_Resistance_in_Elephants_and_Comparative_Cellular_Response_to_DNA_Damage_in_Humans\"target=\"_blank\">From ResearchGate</a></li><li><a href=\"https://evolutionmedicine.com/wp-content/uploads/2016/09/abeggien-elephant-cancer.pdf\"target=\"_blank\">From EvolutionMedicine</a></li><li><a href=\"https://faculty.wharton.upenn.edu/wp-content/uploads/2016/08/shanejensen.elephant15.pdf\"target=\"_blank\">From Wharton Faculty Platform</a></li>",
     "location": "N/A",
     "notes": "N/A",
     "publisher": "American Medical Association",
@@ -1173,6 +1173,22 @@
     "references": "N/A",
     "summary": "Lambert describes and names <i>Eurybelodon shoshanii</i>, a shovel-tusked proboscidean in the family Gomphotheriidae, based on tooth and jaw fossils previously assigned to <i>Platybelodon</i>. <i>Eurybelodon</i>’s mix of specialized and ancestral traits is unlike other gomphotheres, with it having a twist in the broad tusks of its lower jaw and only 3-4 lophs on its third molar. Notably, its upper and lower tusks are encased by a thick shell of ridged enamel, which is unique among elephantiform proboscideans.",
     "title": "<i>Eurybelodon shoshanii</i>, an unusual new shovel-tusked gomphothere (Mammalia, Proboscidea) from the late Miocene of Oregon&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=40125\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\" alt=\"Prodeinotherium\" style=\"width:18px;height:18px;\"></a>",
+    "type": "Journal article"
+  },
+  {
+    "container": "<i>ILAR Journal</i> (<i>ILAR</i> <i>J</i>.), journal",
+    "contributors": " Simon Y. Long (co-author); Erin M. Latimer (co-author); Gary S. Hayward (co-author)",
+    "date": "2016 February 24",
+    "duration": "pp. 283–296",
+    "iteration": "Vol. 56, Issue 3 <i>Insight Gained from Wildlife Research in the Context of Global Anthropogenic Change</i>",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1093/ilar/ilv041\"target=\"_blank\">From publisher (DOI: 10.1093/ilar/ilv041)</a></li><li><a href=\"https://europepmc.org/article/pmc/4765743\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4765743/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://www.academia.edu/60512956/Review_of_Elephant_Endotheliotropic_Herpesviruses_and_Acute_Hemorrhagic_Disease\"target=\"_blank\">From Academia</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "Oxford University Press (OUP)",
+    "references": "N/A",
+    "summary": "N/A",
+    "title": "Review of Elephant Endotheliotropic Herpesviruses and Acute Hemorrhagic Disease",
     "type": "Journal article"
   },
   {
