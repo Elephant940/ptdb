@@ -129,7 +129,7 @@
   },
   {
     "container": "<i>PLoS Biology</i> (<i>PLoS</i> <i>Biol</i>.), journal",
-    "contributors": "Prithiviraj Fernando (co-author); T.N.C. Vidya (co-author); John Payne (co-author); Michael Stuewe (co-author); Geoffrey Davison (co-author); Raymond J. Alfred (co-author); Patrick Andau (co-author); Edwin Bosi (co-author); Annelisa Kilbourn (co-author); Don J. Melnick (co-author); Craig Moritz (editor)",
+    "contributors": "Prithiviraj Fernando (co-author); T.N.C. Vidya (co-author); John Payne (co-author); Michael Stuewe (co-author); Geoffrey Davison (co-author); Raymond J. Alfred (co-author); Patrick Andau (co-author); Edwin Bosi (co-author); Annelisa M. Kilbourn (co-author); Don J. Melnick (co-author); Craig Moritz (editor)",
     "date": "2003 August 18",
     "duration": "pp. 110–115",
     "iteration": "Vol. 1, Issue 1, [No. e6]",
@@ -1030,6 +1030,22 @@
     "type": "Journal article"
   },
   {
+    "container": "<i>Journal of Zoo and Wildlife Medicine</i> (<i>J</i>. <i>Zoo</i> <i>Wildl</i>. <i>Med</i>.; <i>JZWM</i>), journal",
+    "contributors": "Supaphen Sripiboon (co-author); Pallop Tankaew (co-author); Grishda Lungka (co-author); Chatchote Thitaram (co-author)",
+    "date": "2013 March 1",
+    "duration": "pp. 100–104",
+    "iteration": "Vol. 44, Issue 1",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1638/1042-7260-44.1.100\"target=\"_blank\">From publisher (DOI: 10.1638/1042-7260-44.1.100)</a> through BioOne Digital Library</li><li><a href=\"https://www.researchgate.net/publication/236058194_The_occurrence_of_elephant_endotheliotropic_herpesvirus_in_captive_Asian_elephants_Elephas_maximus_first_case_of_EEHV4_in_Asia\"target=\"_blank\">From ResearchGate</a></li><li><a href=\"https://www.jstor.org/stable/23361457\"target=\"_blank\">Print copy from JSTOR</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "American Association of Zoo Veterinarians (AAZV)",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "The Occurrence of Elephant Endotheliotropic Herpesvirus in Captive Asian Elephants (<i>Elephas maximus</i>): First Case of EEHV4 in Asia",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>Environment and Society</i> (<i>Environ</i>. <i>Soc</i>.), journal",
     "contributors": "Piers Locke (author)",
     "date": "2013 September 1",
@@ -1630,7 +1646,7 @@
   },
   {
     "container": "<i>PLOS ONE</i>, journal",
-    "contributors": "Arun Zachariah (co-author); P.K. Sajesh (co-author); Sam Santhosh (co-author); Chandramohan Bathrachalam (co-author); M. Megha (co-author); Jaganathan Pandiyan (co-author); M. Jishnu (co-author); R.S. Kobragade (co-author); Simon Y. Long (co-author); Jian-Chao Zong (co-author); Erin M. Latimer (co-author); S.Y. Heaggans (co-author); Gary S. Hayward (co-author); Gyaneshwer Chaubey (editor)",
+    "contributors": "Arun Zachariah (co-author); P.K. Sajesh (co-author); Sam Santhosh (co-author); Chandramohan Bathrachalam (co-author); M. Megha (co-author); Jaganathan Pandiyan (co-author); M. Jishnu (co-author); R.S. Kobragade (co-author); Simon Y. Long (co-author); Jian-Chao Zong (co-author); Erin M. Latimer (co-author); Sarah Y. Heaggans (co-author); Gary S. Hayward (co-author); Gyaneshwer Chaubey (editor)",
     "date": "2018 August 22",
     "duration": "29 pp.",
     "iteration": "Vol. 13, Issue 8, No. e0202438",
