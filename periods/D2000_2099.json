@@ -593,7 +593,7 @@
     "title": "Translocation stress and faecal glucocorticoid metabolite levels in free-ranging African savanna elephants",
     "type": "Journal article"
   },
-    {
+  {
     "container": "<i>Comptes Rendus Palevol</i> (<i>C</i>. <i>R</i>. <i>Palevol</i>), journal",
     "contributors": "Emmanuel Gheerbrant (co-author); Pascal Tassy (co-author, photographer); D. Visset (artist)",
     "date": "2008 October 18",
@@ -1061,7 +1061,7 @@
     "title": "The Occurrence of Elephant Endotheliotropic Herpesvirus in Captive Asian Elephants (<i>Elephas maximus</i>): First Case of EEHV4 in Asia",
     "type": "Journal article"
   },
-    {
+  {
     "container": "<i>Journal of Zoo and Wildlife Medicine</i> (<i>J</i>. <i>Zoo</i> <i>Wildl</i>. <i>Med</i>.; <i>JZWM</i>), journal",
     "contributors": "Lisa Atkins (co-author); Jian-Chao Zong (co-author); Jie Tan (co-author); Alicia Mejia (co-author); Sarah Y. Heaggans (co-author); Sally A. Nofs (co-author); Jeffrey J. Stanton (co-author); Joseph P. Flanagan (co-author); Lauren Howard (co-author); Erin M. Latimer (co-author); Martina R. Stevens (co-author); Daryl S. Hoffman (co-author); Gary S. Hayward (co-author); Paul D. Ling (co-author)",
     "date": "2013 March 1",
@@ -1191,7 +1191,23 @@
     "title": "Shoulder height, body mass, and shape of proboscideans",
     "type": "Journal article"
   },
-    {
+  {
+    "container": "<i>BMC Veterinary Research</i> (<i>BMC</i> <i>Vet</i>. <i>Res</i>.), journal",
+    "contributors": "Petra B. van den Doel (co-author); Víctor Rodríguez Prieto (co-author); Sarah E. van Rossum-Fikkert (co-author); Willem Schaftenaar (co-author); Erin M. Latimer (co-author); Lauren Howard (co-author); Sarah Chapman (co-author); Nic Masters (co-author); Albert D.M.E. Osterhaus (co-author); Paul D. Ling (co-author); Akbar Dastjerdi (co-author); Byron Martina (co-author)",
+    "date": "2015 August 14",
+    "duration": "10 pp.",
+    "iteration": "Vol. 11, No. 203",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1186/s12917-015-0522-6\"target=\"_blank\">From publisher (DOI: 10.1186/s12917-015-0522-6)</a></li><li><a href=\"https://link.springer.com/article/10.1186/s12917-015-0522-6\"target=\"_blank\">From Springer Nature Link</a></li><li><a href=\"https://docta.ucm.es/entities/publication/239334c7-e76b-4315-8ea9-edc7c367f8a0\"target=\"_blank\">From Docta Complutense</a></li><li><a href=\"https://europepmc.org/article/med/26268467\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pure.eur.nl/en/publications/a-novel-antigen-capture-elisa-for-the-specific-detection-of-igg-a\"target=\"_blank\">From EUR Research Information Portal</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4535388/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://repub.eur.nl/pub/87574/\"target=\"_blank\">From RePub</a></li><li><a href=\"https://www.researchgate.net/publication/280998056_Erratum_to_A_novel_antigen_capture_ELISA_for_the_specific_detection_of_IgG_antibodies_to_elephant_endotheliotropic_herpes_virus\"target=\"_blank\">From ResearchGate</a></li>",
+    "location": "N/A",
+    "notes": "<li><a href=\"https://doi.org/10.1186/s12889-015-2178-3\"target=\"_blank\">Erratum from publisher (DOI: 10.1186/s12889-015-2178-3)</a> and <a href=\"https://link.springer.com/article/10.1186/s12889-015-2178-3\"target=\"_blank\">from Springer Nature Link</a>, published 2015 September 3; the duration is 2 pp., the container is the journal <i>BMC Public Health</i>, and the iteration is Vol. 15, No. 851.</li>",
+    "publisher": "BioMed Central (BMC)",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "A novel antigen capture ELISA for the specific detection of IgG antibodies to elephant endotheliotropic herpes virus",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>Journal of the American Medical Association</i> (<i>J</i>. <i>Am</i>. <i>Med</i>. <i>Assoc</i>.; <i>JAMA</i>), journal",
     "contributors": "Lisa M. Abegglen (co-author); Aleah F. Caulin (co-author); Ashley Chan (co-author); Kristy Lee (co-author); Rosann Robinson (co-author); Michael S. Campbell (co-author); Wendy K. Kiso (co-author); Dennis L. Schmitt (co-author); Peter J. Waddell (co-author); Srividya Bhaskara (co-author); Shane T. Jensen (co-author); Carlo C. Maley (co-author); Joshua D. Schiffman (co-author)",
     "date": "2015 October 8",
@@ -1271,7 +1287,7 @@
     "title": "Evolutionary History and Population Genetic Structure of Asian Elephants in India",
     "type": "Journal article"
   },
-   {
+  {
     "container": "Journal of Systematic Palaeontology (<i>J</i>. <i>Syst</i>. <i>Palaeontol</i>.), journal",
     "contributors": "Shi-Qi Wang (co-author); Tao Deng (co-author); Jie Ye (co-author); Wen He (co-author); Shan-Qin Chen (co-author); Yu Chen (artist)",
     "date": "2016 August 10",
@@ -2583,7 +2599,7 @@
     "title": "Smithsonian-Mason team keeps watch, so elephants can doze off",
     "type": "Web article"
   },
-    {
+  {
     "container": "N/A",
     "contributors": "Mpilo Nxumalo (author); Julien Benoit (supervisor); Paul R. Manger (supervisor)",
     "date": "2022 January",
