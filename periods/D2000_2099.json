@@ -1200,7 +1200,7 @@
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1186/s12917-015-0522-6\"target=\"_blank\">From publisher (DOI: 10.1186/s12917-015-0522-6)</a></li><li><a href=\"https://link.springer.com/article/10.1186/s12917-015-0522-6\"target=\"_blank\">From Springer Nature Link</a></li><li><a href=\"https://docta.ucm.es/entities/publication/239334c7-e76b-4315-8ea9-edc7c367f8a0\"target=\"_blank\">From Docta Complutense</a></li><li><a href=\"https://europepmc.org/article/med/26268467\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pure.eur.nl/en/publications/a-novel-antigen-capture-elisa-for-the-specific-detection-of-igg-a\"target=\"_blank\">From EUR Research Information Portal</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4535388/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://repub.eur.nl/pub/87574/\"target=\"_blank\">From RePub</a></li><li><a href=\"https://www.researchgate.net/publication/280998056_Erratum_to_A_novel_antigen_capture_ELISA_for_the_specific_detection_of_IgG_antibodies_to_elephant_endotheliotropic_herpes_virus\"target=\"_blank\">From ResearchGate</a></li>",
     "location": "N/A",
-    "notes": "<li><a href=\"https://doi.org/10.1186/s12889-015-2178-3\"target=\"_blank\">Erratum from publisher (DOI: 10.1186/s12889-015-2178-3)</a> and <a href=\"https://link.springer.com/article/10.1186/s12889-015-2178-3\"target=\"_blank\">from Springer Nature Link</a>, published 2015 September 3; the duration is 2 pp., the container is the journal <i>BMC Public Health</i>, and the iteration is Vol. 15, No. 851.</li>",
+    "notes": "<li><a href=\"https://doi.org/10.1186/s12889-015-2178-3\"target=\"_blank\">Erratum from publisher (DOI: 10.1186/s12889-015-2178-3)</a>, <a href=\"https://link.springer.com/article/10.1186/s12889-015-2178-3\"target=\"_blank\">from Springer Nature Link</a>, <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4559276/\"target=\"_blank\">from PubMed Central</a>, and <a href=\"https://repub.eur.nl/pub/87500\"target=\"_blank\">from RePub</a>, published 2015 September 3; the duration is 2 pp., the container is the journal <i>BMC Public Health</i>, and the iteration is Vol. 15, No. 851.</li>",
     "publisher": "BioMed Central (BMC)",
     "references": "N/A",
     "summary": "TBA.",
@@ -2726,6 +2726,22 @@
     "references": "N/A",
     "summary": "TBA.",
     "title": "Nailing it: Investigation of elephant toenails for retrospective analysis of adrenal and reproductive hormones",
+    "type": "Journal article"
+  },
+  {
+    "container": "<i>Journal of Vertebrate Paleontology</i> (<i>J</i>. <i>Vertebr</i>. <i>Paleontol</i>.), journal",
+    "contributors": "Advait Mahesh Jukar (co-author); Ghulam M. Bhat (co-author); Simon Parﬁtt (co-author); Nick Ashton (co-author); Marc Dickinson (co-author); Hanwen Zhang (co-author); A.M. Dar (co-author); M.S. Lone (co-author); Bindra Thusu (co-author); Jonathan Craig (co-author); Melissa Pardi (editor)",
+    "date": "2024 October 11",
+    "duration": "17 pp.",
+    "iteration": "Vol. 44, Issue 2, No. e2396821",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1080/02724634.2024.2396821\"target=\"_blank\">From publisher (DOI: 10.1080/02724634.2024.2396821)</a></li><li><a href=\"https://bioone.org/journals/journal-of-vertebrate-paleontology/volume-44/issue-2/02724634.2024.2396821/A-Remarkable-Palaeoloxodon-Mammalia-Proboscidea-Skull-from-the-Intermontane-Kashmir/10.1080/02724634.2024.2396821.short\"target=\"_blank\">From BioOne Digital Library</a></li><li><a href=\"https://britishmuseum.iro.bl.uk/concern/articles/3ee5f4c5-914c-4c2b-9637-19e40164e3ba\"target=\"_blank\">From The British Museum Research Repository</a></li>",
+    "location": "N/A",
+    "notes": "<li><a href=\"https://doi.org/10.1080/02724634.2024.2435213\"target=\"_blank\">Correction from publisher (DOI: 10.1080/02724634.2024.2435213)</a> and <a href=\"https://bioone.org/journals/journal-of-vertebrate-paleontology/volume-44/issue-2/02724634.2024.2435213/Correction/10.1080/02724634.2024.2435213.short\"target=\"_blank\">from BioOne Digital Library</a>, published 2024 December 19; the duration is 1 p. and the iteration is No. e2435213.</li>",
+    "publisher": "Taylor & Francis",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "A remarkable <i>Palaeoloxodon</i> (Mammalia, Proboscidea) skull from the intermontane Kashmir Valley, India&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=92725\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
   {
