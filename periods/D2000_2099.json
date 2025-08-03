@@ -1200,7 +1200,7 @@
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1186/s12917-015-0522-6\"target=\"_blank\">From publisher (DOI: 10.1186/s12917-015-0522-6)</a></li><li><a href=\"https://link.springer.com/article/10.1186/s12917-015-0522-6\"target=\"_blank\">From Springer Nature Link</a></li><li><a href=\"https://docta.ucm.es/entities/publication/239334c7-e76b-4315-8ea9-edc7c367f8a0\"target=\"_blank\">From Docta Complutense</a></li><li><a href=\"https://europepmc.org/article/med/26268467\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pure.eur.nl/en/publications/a-novel-antigen-capture-elisa-for-the-specific-detection-of-igg-a\"target=\"_blank\">From EUR Research Information Portal</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4535388/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://repub.eur.nl/pub/87574/\"target=\"_blank\">From RePub</a></li><li><a href=\"https://www.researchgate.net/publication/280998056_Erratum_to_A_novel_antigen_capture_ELISA_for_the_specific_detection_of_IgG_antibodies_to_elephant_endotheliotropic_herpes_virus\"target=\"_blank\">From ResearchGate</a></li>",
     "location": "N/A",
-    "notes": "<li><a href=\"https://doi.org/10.1186/s12889-015-2178-3\"target=\"_blank\">Erratum from publisher (DOI: 10.1186/s12889-015-2178-3)</a>, <a href=\"https://link.springer.com/article/10.1186/s12889-015-2178-3\"target=\"_blank\">from Springer Nature Link</a>, <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4559276/\"target=\"_blank\">from PubMed Central</a>, and <a href=\"https://repub.eur.nl/pub/87500\"target=\"_blank\">from RePub</a>, published 2015 September 3; the duration is 2 pp., the container is the journal <i>BMC Public Health</i>, and the iteration is Vol. 15, No. 851.</li>",
+    "notes": "<li><a href=\"https://doi.org/10.1186/s12889-015-2178-3\"target=\"_blank\">Erratum from publisher (DOI: 10.1186/s12889-015-2178-3)</a>, <a href=\"https://link.springer.com/article/10.1186/s12889-015-2178-3\"target=\"_blank\">from Springer Nature Link</a>, <a href=\"https://europepmc.org/article/MED/26336090\"target=\"_blank\">from Europe PMC</a>, <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4559276/\"target=\"_blank\">from PubMed Central</a>, and <a href=\"https://repub.eur.nl/pub/87500\"target=\"_blank\">from RePub</a>, published 2015 September 3; the duration is 2 pp., the container is the journal <i>BMC Public Health</i>, and the iteration is Vol. 15, No. 851.</li>",
     "publisher": "BioMed Central (BMC)",
     "references": "N/A",
     "summary": "TBA.",
@@ -1835,6 +1835,22 @@
     "references": "N/A",
     "summary": "TBA.",
     "title": "Carbon stocks in central African forests enhanced by elephant disturbance",
+    "type": "Journal article"
+  },
+  {
+    "container": "<i>PLOS ONE</i>, journal",
+    "contributors": "Saralee Srivorakul (co-author); Thunyamas Guntawang (co-author); Varankpicha Kochagul (co-author); Kornravee Photichai (co-author); Tidaratt Sittisak (co-author); Thittaya Janyamethakul (co-author); Khajohnpat Boonprasert (co-author); Siripat Khammesri (co-author); Warangkhana Langkaphin (co-author); Veerasak Punyapornwithaya (co-author); Phongsakorn Chuammitri (co-author); Chatchote Thitaram (co-author); Kidsadagon Pringproa (co-author); Pierre Roques (editor)",
+    "date": "2019 September 6",
+    "duration": "18 pp.",
+    "iteration": "Vol. 14, Issue 9, No. e0222158",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1371/journal.pone.0222158\"target=\"_blank\">From publisher (DOI: 10.1371/journal.pone.0222158)</a></li><li><a href=\"https://europepmc.org/article/pmc/6730851\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC6730851/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://www.semanticscholar.org/paper/Possible-roles-of-monocytes-macrophages-in-response-Srivorakul-Guntawang/e78773f693dbd7f7ece3286263bbff2f9928574f\"target=\"_blank\">From Semantic Scholar</a></li><li><a href=\"https://www.academia.edu/53440716/Possible_roles_of_monocytes_macrophages_in_response_to_elephant_endotheliotropic_herpesvirus_EEHV_infections_in_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/57677621/Possible_roles_of_monocytes_macrophages_in_response_to_elephant_endotheliotropic_herpesvirus_EEHV_infections_in_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/84703568/Possible_roles_of_monocytes_macrophages_in_response_to_elephant_endotheliotropic_herpesvirus_EEHV_infections_in_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/335672059_Possible_roles_of_monocytesmacrophages_in_response_to_elephant_endotheliotropic_herpesvirus_EEHV_infections_in_Asian_elephants_Elephas_maximus\"target=\"_blank\">From ResearchGate</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "Public Library of Science (PLOS)",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Possible roles of monocytes/macrophages in response to elephant endotheliotropic herpesvirus (EEHV) infections in Asian elephants (<i>Elephas maximus</i>)",
     "type": "Journal article"
   },
   {
