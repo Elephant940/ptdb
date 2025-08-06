@@ -198,7 +198,7 @@
     "duration": "pp. 523–549",
     "iteration": "Vol. 140, Issue 4",
     "languages": "English",
-    "links": "<li><a href=\"https://doi.org/10.1111/j.1096-3642.2004.00113.x\"target=\"_blank\">From publisher (DOI: 10.1111/j.1096-3642.2004.00113.x)</a></li><li><a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.2004.00113.x\"target=\"_blank\">From Wiley Online Library</a></li><li><a href=\"https://doc.rero.ch/record/15218\"target=\"_blank\">From RERO DOC</a></li><li><a href=\"https://www.academia.edu/71432628/Body_size_in_proboscideans_with_notes_on_elephant_metabolism\"target=\"_blank\">From Academia</a></li>",
+    "links": "<li><a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.2004.00113.x\"target=\"_blank\">From publisher </a></li><li><a href=\"https://doi.org/10.1111/j.1096-3642.2004.00113.x\"target=\"_blank\">From Oxford Academic (DOI: 10.1111/j.1096-3642.2004.00113.x)</a></li><li><a href=\"https://doc.rero.ch/record/15218\"target=\"_blank\">From RERO DOC</a></li><li><a href=\"https://www.academia.edu/71432628/Body_size_in_proboscideans_with_notes_on_elephant_metabolism\"target=\"_blank\">From Academia</a></li>",
     "location": "N/A",
     "notes": "N/A",
     "publisher": "Blackwell Publishing",
@@ -2370,6 +2370,22 @@
     "summary": "A layman-oriented summary of <a id=\"Goldenberg_Wittemyer_2019_color_0\"onclick=\"goToSource('D2000-2099','Goldenberg_Wittemyer_2019', this.id)\">Goldenberg and Wittemyer, 2019</a>.",
     "title": "Do Elephants Grieve Their Dead?",
     "type": "Broadcast episode"
+  },
+  {
+    "container": "<i>Viruses</i>, journal",
+    "contributors": "Tabitha E. Hoornweg (co-author); Willem Schaftenaar (co-author); Gilles Maurer (co-author); Petra B. van den Doel (co-author); Fieke M. Molenaar (co-author); Alexandre Chamouard-Galante (co-author); Francis Vercammen (co-author); Victor P.M.G. Rutten (co-author); Cornelis A.M. de Haan (co-author); Shafiqul Chowdhury (editor)",
+    "date": "2021 February 11",
+    "duration": "15 pp.",
+    "iteration": "Vol. 13, Issue 2 <i>Animal Herpesviruses Pathogenesis and Immunity</i>, No. 283",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.3390/v13020283\"target=\"_blank\">From publisher (DOI: 10.3390/v13020283)</a></li><li><a href=\"https://europepmc.org/article/med/33670367\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pure.eur.nl/en/publications/elephant-endotheliotropic-herpesvirus-is-omnipresent-in-elephants\"target=\"_blank\">From EUR Research Information Portal</a></li><li><a href=\"https://www.proquest.com/docview/2498493948/5CB1011674934D75PQ/2?accountid=14541&sourcetype=Scholarly%20Journals\"target=\"_blank\">From ProQuest</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC7917619/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://repository.up.ac.za/items/b2c33abf-dd52-41bc-bbb6-a5512bb9fdeb\"target=\"_blank\">From UPSpace Institutional Repository</a></li><li><a href=\"https://dspace.library.uu.nl/handle/1874/411731\"target=\"_blank\">From Utrecht University Repository</a></li><li><a href=\"https://www.academia.edu/86489561/Elephant_Endotheliotropic_Herpesvirus_Is_Omnipresent_in_Elephants_in_European_Zoos_and_an_Asian_Elephant_Range_Country\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/128255222/Elephant_Endotheliotropic_Herpesvirus_Is_Omnipresent_in_Elephants_in_European_Zoos_and_an_Asian_Elephant_Range_Country\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/349239077_Elephant_Endotheliotropic_Herpesvirus_Is_Omnipresent_in_Elephants_in_European_Zoos_and_an_Asian_Elephant_Range_Country\"target=\"_blank\">From ResearchGate</a></li>",
+    "location": "N/A",
+    "notes": "<li><a href=\"https://doi.org/10.1101/2020.11.16.386011\"target=\"_blank\">Preprint from bioRxiv (DOI: 10.1101/2020.11.16.386011)</a>, published 2020 November 18; the duration is 40 pp. and the container is the website <i>bioRxiv</i>.</li>",
+    "publisher": "Multidisciplinary Digital Publishing Institute (MDPI)",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Elephant Endotheliotropic Herpesvirus Is Omnipresent in Elephants in European Zoos and an Asian Elephant Range Country",
+    "type": "Journal article"
   },
   {
     "container": "<i>Nature</i>, website",
