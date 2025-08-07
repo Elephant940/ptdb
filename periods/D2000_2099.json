@@ -65,7 +65,7 @@
   },
   {
     "container": "<i>The World of Elephants Proceedings of the 1st International Congress</i>, book",
-    "contributors": "Jeheskel Shoshani (co-author); W.J. Sanders (co-author); Pascal Tassy (co-author)",
+    "contributors": "Jeheskel Shoshani (co-author); William J. Sanders (co-author); Pascal Tassy (co-author)",
     "date": "2001 October, on or after the 20",
     "duration": "pp. 676–679",
     "iteration": "N/A",
@@ -78,6 +78,22 @@
     "summary": "TBA.",
     "title": "Elephants and other Proboscideans: a summary of recent findings and new taxonomic suggestions",
     "type": "Book chapter"
+  },
+  {
+    "container": "<i>Acta Palaeontologica Polonica</i> (<i>Acta</i> <i>Palaeontol</i>. <i>Pol</i>.), journal",
+    "contributors": "Emmanuel Gheerbrant (co-author); Jean Sudre (co-author); Henri Cappetta (co-author); Mohamed Iarochéne (co-author); Mbarek Amaghzaz (co-author); Baâdi Bouya (co-author); Denis Serrette (photographer); Philippe Loubry (photographer); Laurence Meslin (artist); Christine Janis (reviewer); William J. Sanders (reviewer)",
+    "date": "2002",
+    "duration": "pp. 493–506",
+    "iteration": "Vol. 47, Issue 3",
+    "languages": "English",
+    "links": "<li><a href=\"https://www.app.pan.pl/article/item/app47-493.html\"target=\"_blank\">From publisher</a></li><li><a href=\"https://agro.icm.edu.pl/agro/element/bwmeta1.element.agro-article-71aec984-96b4-4086-9144-1aac85c18160\"target=\"_blank\">From AGRO</a></li><li><a href=\"https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5e734ab50d70dc7c8374990321b1529ec8435f61\"target=\"_blank\">From CiteSeerX</a></li><li><a href=\"https://hal.science/mnhn-02264846/\"target=\"_blank\">From HAL</a></li><li><a href=\"https://bibliotekanauki.pl/articles/20144\"target=\"_blank\">From Library of Science</a></li><li><a href=\"https://doc.rero.ch/record/15589\"target=\"_blank\">From RERO DOC</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "Institute of Paleobiology Polish Academy of Sciences (Institute of Paleobiology PAS)",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "A new large mammal from the Ypresian of Morocco: Evidence of surprising diversity of early proboscideans&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=23857\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
+    "type": "Journal article"
   },
   {
     "container": "<i>News in Physiological Sciences</i> (<i>News</i> <i>Physiol</i>. <i>Sci</i>.; <i>NIPS</i>), journal",
@@ -712,7 +728,7 @@
     "duration": "pp. 561–580",
     "iteration": "Vol. 54, Issue 4",
     "languages": "English",
-    "links": "<li><a href=\"http://dx.doi.org/10.4202/app.2007.0036\"target=\"_blank\">From publisher (DOI: 10.4202/app.2007.0036)</a></li><li><a href=\"https://agro.icm.edu.pl/agro/element/bwmeta1.element.dl-catalog-0f4b0485-448f-4d82-b451-bb72b7a7fc87\"target=\"_blank\">From AGRO</a></li><li><a href=\"https://bioone.org/journals/acta-palaeontologica-polonica/volume-54/issue-4/app.2007.0036/Reassessment-of-the-Generic-Attribution-of-Numidotherium-savagei-and-the/10.4202/app.2007.0036.full\"target=\"_blank\">From BioOne Digital Library</a></li><li><a href=\"https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=e7492c07c719e5b6823e361dca87f47be7c8c0a0\"target=\"_blank\">From CiteSeerX</a></li><li><a href=\"https://core.ac.uk/works/10799417/\"target=\"_blank\">From CORE</a></li><li><a href=\"https://core.ac.uk/works/130097159/\"target=\"_blank\">From CORE</a></li><li><a href=\"https://bibliotekanauki.pl/articles/21470\"target=\"_blank\">From Library of Science</a></li><li><a href=\"https://doc.rero.ch/record/210267?ln=en\"target=\"_blank\">From RERO DOC</a></li><li><a href=\"https://www.academia.edu/7678320/Reassessment_of_the_Generic_Attribution_of_Numidotherium_savagei_and_the_Homologies_of_Lower_Incisors_in_Proboscideans\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/228654824_Reassessment_of_the_Generic_Attribution_of_Numidotherium_savagei_and_the_Homologies_of_Lower_Incisors_in_Proboscideans\"target=\"_blank\">From ResearchGate</a></li>",
+    "links": "<li><a href=\"http://dx.doi.org/10.4202/app.2007.0036\"target=\"_blank\">From publisher (DOI: 10.4202/app.2007.0036)</a></li><li><a href=\"https://agro.icm.edu.pl/agro/element/bwmeta1.element.dl-catalog-0f4b0485-448f-4d82-b451-bb72b7a7fc87\"target=\"_blank\">From AGRO</a></li><li><a href=\"https://bioone.org/journals/acta-palaeontologica-polonica/volume-54/issue-4/app.2007.0036/Reassessment-of-the-Generic-Attribution-of-Numidotherium-savagei-and-the/10.4202/app.2007.0036.full\"target=\"_blank\">From BioOne Digital Library</a></li><li><a href=\"https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=e7492c07c719e5b6823e361dca87f47be7c8c0a0\"target=\"_blank\">From CiteSeerX</a></li><li><a href=\"https://core.ac.uk/works/10799417/\"target=\"_blank\">From CORE</a></li><li><a href=\"https://core.ac.uk/works/130097159/\"target=\"_blank\">From CORE</a></li><li><a href=\"https://bibliotekanauki.pl/articles/21470\"target=\"_blank\">From Library of Science</a></li><li><a href=\"https://doc.rero.ch/record/210267\"target=\"_blank\">From RERO DOC</a></li><li><a href=\"https://www.academia.edu/7678320/Reassessment_of_the_Generic_Attribution_of_Numidotherium_savagei_and_the_Homologies_of_Lower_Incisors_in_Proboscideans\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/228654824_Reassessment_of_the_Generic_Attribution_of_Numidotherium_savagei_and_the_Homologies_of_Lower_Incisors_in_Proboscideans\"target=\"_blank\">From ResearchGate</a></li>",
     "location": "N/A",
     "notes": "N/A",
     "publisher": "Institute of Paleobiology Polish Academy of Sciences (Institute of Paleobiology PAS)",
