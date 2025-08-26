@@ -2081,7 +2081,7 @@
   },
   {
     "container": "<i>Vertebrata PalAsiatica</i> (<i>Vertebr</i>. <i>PalAsiat</i>.), journal",
-    "contributors": "Shi-Qi Wang (co-author); Xiao-Xiao Zhang (co-author); Chun-Xiao Li (co-author); D. Mothé (reviewer); X.P. Ji (reviewer)",
+    "contributors": "Shi-Qi Wang (co-author); Xiao-Xiao Zhang (co-author); Chun-Xiao Li (co-author); Dimila Mothé (reviewer); X.P. Ji (reviewer)",
     "date": "2020 March 13",
     "duration": "pp. 134–158",
     "iteration": "Vol. 58, Issue 2",
@@ -2725,6 +2725,22 @@
     "references": "N/A",
     "summary": "TBA.",
     "title": "Young elephants in a large herd maintain high levels of elephant endotheliotropic herpesvirus-specific antibodies and do not succumb to fatal haemorrhagic disease",
+    "type": "Journal article"
+  },
+  {
+    "container": "<i>Zoo Biology</i> (<i>Zoo</i> <i>Biol</i>.), journal",
+    "contributors": "Lara Scherer (co-author); Laurie Bingaman Lackey (co-author); Marcus Clauss (co-author); Katrin Gries (co-author); David Hagan (co-author); Arne Lawrenz (co-author); Dennis Winfried Horst Müller (co-author); Marco Roller (co-author); Christian Schiffmann (co-author); Ann-Kathrin Oerke (co-author)",
+    "date": "2022 September 8",
+    "duration": "pp. 328–338",
+    "iteration": "Vol. 42, Issue 2",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1002/zoo.21733\"target=\"_blank\">From publisher (DOI: 10.1002/zoo.21733)</a></li><li><a href=\"https://publications.goettingen-research-online.de/ID-114446\"target=\"_blank\">From Göttingen Research Online</a></li><li><a href=\"https://www.zora.uzh.ch/id/eprint/220444/\"target=\"_blank\">From Zurich Open Repository and Archive</a></li><li><a href=\"https://www.researchgate.net/publication/363385081_The_historical_development_of_zoo_elephant_survivorship\"target=\"_blank\">From ResearchGate</a></li><li><a href=\"https://www.dpz.eu/fileadmin/user_upload/Hormonlabor/Publikation_open_access/2023/Scherer_et_al._-_2023_-_The_historical_development_of_zoo_elephant_survivorship.pdf\"target=\"_blank\">From Deutsches Primatenzentrum</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "Wiley Periodicals",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "The historical development of zoo elephant survivorship",
     "type": "Journal article"
   },
   {
