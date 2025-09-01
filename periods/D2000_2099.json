@@ -2776,6 +2776,22 @@
     "type": "Journal article"
   },
   {
+    "container": "<i>Nature Ecology & Evolution</i> (<i>Nat</i>. <i>Ecol</i>. <i>Evol</i>.), journal",
+    "contributors": "Juha Jaakko Saarinen (co-author); Adrian M. Lister (co-author); Rahab Kinyanjui (reviewer); Jessica Theodor (reviewer)",
+    "date": "2023 August 14",
+    "duration": "pp. 1490–1502",
+    "iteration": "Vol. 7, Issue 9",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1038/s41559-023-02151-4\"target=\"_blank\">From publisher (DOI: 10.1038/s41559-023-02151-4)</a></li><li><a href=\"https://europepmc.org/article/pmc/pmc10482678\"target=\"_blank\">From Europe PMC</a></li></li><li><a href=\"https://helda.helsinki.fi/items/123bc6cf-2b60-4560-8b41-4b6017b46e91\"target=\"_blank\">From Helda</a></li><li><a href=\"https://www.proquest.com/openview/13409cbb9bede799eaa78032ae093ce4/1?pq-&cbl=4669716\"target=\"_blank\">From ProQuest</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC10482678/\"target=\"_blank\">From PubMed Central</a><li><a href=\"https://www.researchgate.net/publication/373116075_Fluctuating_climate_and_dietary_innovation_drove_ratcheted_evolution_of_proboscidean_dental_traits\"target=\"_blank\">From ResearchGate</a></li>",
+    "location": "N/A",
+    "notes": "<li><a href=\"https://doi.org/10.1038/s41559-023-02204-8\"target=\"_blank\">Correction from publisher (DOI: 10.1038/s41559-023-02204-8)</a> and <a href=\"https://www.researchgate.net/publication/373773616_Author_Correction_Fluctuating_climate_and_dietary_innovation_drove_ratcheted_evolution_of_proboscidean_dental_traits\"target=\"_blank\">from ResearchGate</a>, published 2023 September 8; the duration is p. 1740 and the iteration is Vol. 7, Issue 10.</li>",
+    "publisher": "Nature Portfolio",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Fluctuating climate and dietary innovation drove ratcheted evolution of proboscidean dental traits",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>GMU College of Science</i>, website",
     "contributors": "Laura Powers (author)",
     "date": "2024 June 20",
@@ -2849,7 +2865,7 @@
     "languages": "English",
     "links": "<li><a href=\"https://doi.org/10.1080/02724634.2024.2396821\"target=\"_blank\">From publisher (DOI: 10.1080/02724634.2024.2396821)</a></li><li><a href=\"https://bioone.org/journals/journal-of-vertebrate-paleontology/volume-44/issue-2/02724634.2024.2396821/A-Remarkable-Palaeoloxodon-Mammalia-Proboscidea-Skull-from-the-Intermontane-Kashmir/10.1080/02724634.2024.2396821.short\"target=\"_blank\">From BioOne Digital Library</a></li><li><a href=\"https://britishmuseum.iro.bl.uk/concern/articles/3ee5f4c5-914c-4c2b-9637-19e40164e3ba\"target=\"_blank\">From The British Museum Research Repository</a></li>",
     "location": "N/A",
-    "notes": "<li><a href=\"https://doi.org/10.1080/02724634.2024.2435213\"target=\"_blank\">Correction from publisher (DOI: 10.1080/02724634.2024.2435213)</a> and <a href=\"https://bioone.org/journals/journal-of-vertebrate-paleontology/volume-44/issue-2/02724634.2024.2435213/Correction/10.1080/02724634.2024.2435213.short\"target=\"_blank\">from BioOne Digital Library</a>, published 2024 December 19; the duration is 1 p. and the iteration is No. e2435213.</li>",
+    "notes": "<li><a href=\"https://doi.org/10.1080/02724634.2024.2435213\"target=\"_blank\">Correction from publisher (DOI: 10.1080/02724634.2024.2435213)</a> and <a href=\"https://bioone.org/journals/journal-of-vertebrate-paleontology/volume-44/issue-2/02724634.2024.2435213/Correction/10.1080/02724634.2024.2435213.short\"target=\"_blank\">from BioOne Digital Library</a>, published 2024 December 19; the duration is 1 p. and the iteration is Vol. 44, Issue 2, No. e2435213.</li>",
     "publisher": "Taylor & Francis",
     "references": "N/A",
     "summary": "TBA.",
