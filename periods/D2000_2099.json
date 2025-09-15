@@ -2936,7 +2936,7 @@
     "title": "Identity of the trilophodont gomphothere from Mixson’s Bone Bed, Florida",
     "type": "Journal article"
   },
-    {
+  {
     "container": "<i>PLOS ONE</i>, journal",
     "contributors": "Mathias Ackermann (co-author); Jakub Kubacki (co-author); Sarah Y. Heaggans (co-author); Gary S. Hayward (co-author); Julia Lechmann (co-author); Vishwanatha R.A.P. Reddy (editor)",
     "date": "2025 April 7",
@@ -2966,6 +2966,22 @@
     "references": "N/A",
     "summary": "TBA.",
     "title": "Knowledge transmission, culture and the consequences of social disruption in wild elephants",
+    "type": "Journal article"
+  },
+  {
+    "container": "<i>PNAS Nexus</i>, journal",
+    "contributors": "Malav Shah (co-author); Olivia Heise (co-author); Peter Buss (co-author); Lin-Mari de Klerk-Lorist (co-author); Stefan Hetzer (co-author); John-Dylan Haynes (co-author); Thomas D. Hildebrandt (co-author); Michael Brecht (co-author); Eric Klann (editor)",
+    "date": "2025 May 20",
+    "duration": "10 pp.",
+    "iteration": "Vol. 4, Issue 5, No. pgaf141",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1093/pnasnexus/pgaf141\"target=\"_blank\">From publisher (DOI: 10.1093/pnasnexus/pgaf141)</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC12089752/\"target=\"_blank\">From PubMed Central</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "Oxford University Press (OUP)",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Larger brains and relatively smaller cerebella in Asian elephants compared with African savanna elephants",
     "type": "Journal article"
   }
 ]
