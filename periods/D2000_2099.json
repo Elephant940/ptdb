@@ -208,6 +208,22 @@
     "type": "Journal article"
   },
   {
+    "container": "<i>Acta Palaeontologica Polonica</i> (<i>Acta</i> <i>Palaeontol</i>. <i>Pol</i>.), journal",
+    "contributors": "William J. Sanders (co-author); John Kappelman (co-author); D. Tab Rasmussen (co-author)",
+    "date": "2004",
+    "duration": "pp. 365–392",
+    "iteration": "Vol. 49, Issue 3",
+    "languages": "English",
+    "links": "<li><a href=\"https://www.app.pan.pl/article/item/app49-365.html\"target=\"_blank\">From publisher</a></li><li><a href=\"https://agro.icm.edu.pl/agro/element/bwmeta1.element.agro-article-1f0966d6-edf7-4693-bd26-7f75ad4eac24\"target=\"_blank\">From AGRO</a></li><li><a href=\"https://bibliotekanauki.pl/articles/21162\"target=\"_blank\">From Library of Science</a></li><li><a href=\"https://doc.rero.ch/record/13540\"target=\"_blank\">From RERO DOC</a></li><li><a href=\"https://www.academia.edu/30575379/New_large_bodied_mammals_from_the_Late_Oligocene_site_of_Chilga_Ethiopia?sm=b&rhid=35130311060\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/65316416/New_large_bodied_mammals_from_the_late_Oligocene_site_of_Chilga_Ethiopia?sm=b&rhid=35130311060\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/40661275_New_large-bodied_mammals_from_the_Late_Oligocene_site_of_Chilga_Ethiopia\"target=\"_blank\">From ResearchGate</a></li><li><a href=\"https://sites.lsa.umich.edu/wp-content/uploads/sites/382/2016/04/sandersetal.2004.pdf\"target=\"_blank\">From LSA Technology Services WordPress Service</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "Institute of Paleobiology, Polish Academy of Sciences (Institute of Paleobiology PAS)",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "New large−bodied mammals from the late Oligocene site of Chilga, Ethiopia&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=24375\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>Zoological Journal of the Linnean Society</i> (<i>Zool</i>. <i>J</i>. <i>Linn</i>. <i>Soc</i>.), journal",
     "contributors": "Per Christiansen (author)",
     "date": "2004 April 6",
@@ -483,7 +499,7 @@
   },
   {
     "container": "<i>Journal of Anatomy</i> (<i>J</i>. <i>Anat</i>.), journal",
-    "contributors": "D.M. Bouley (co-author); C.N. Alarcón (co-author); Thomas D. Hildebrandt (co-author); Caitlin E. O’Connell-Rodwell (co-author)",
+    "contributors": "D.M. Bouley (co-author); C.N. Alarcón (co-author); Thomas Hildebrandt (co-author); Caitlin E. O’Connell-Rodwell (co-author)",
     "date": "2007 August 15",
     "duration": "pp. 428–435",
     "iteration": "Vol. 211, Issue 4",
@@ -948,7 +964,7 @@
   },
   {
     "container": "<i>Science</i>, journal",
-    "contributors": "John R. Hutchinson (co-author); Cyrille Delmer (co-author); Charlotte E. Miller (co-author); Thomas D. Hildebrandt (co-author); Andrew A. Pitsillides (co-author); Alan Boyde (co-author)",
+    "contributors": "John R. Hutchinson (co-author); Cyrille Delmer (co-author); Charlotte E. Miller (co-author); Thomas Hildebrandt (co-author); Andrew A. Pitsillides (co-author); Alan Boyde (co-author)",
     "date": "2011 December 23",
     "duration": "pp. 1699–1703",
     "eyedee": "Hutchinson_et_al_2011",
@@ -2809,7 +2825,7 @@
   },
   {
     "container": "<i>Current Biology</i> (<i>Curr</i>. <i>Biol</i>.), journal",
-    "contributors": "Luke L. Longren (co-author); Lennart Eigen (co-author); Ani Shubitidze (co-author); Oliver Lieschnegg (co-author); Daniel Baum (co-author); John A. Nyakatura (co-author); Thomas D. Hildebrandt (co-author); Michael Brecht (co-author)",
+    "contributors": "Luke L. Longren (co-author); Lennart Eigen (co-author); Ani Shubitidze (co-author); Oliver Lieschnegg (co-author); Daniel Baum (co-author); John A. Nyakatura (co-author); Thomas Hildebrandt (co-author); Michael Brecht (co-author)",
     "date": "2023 September 26",
     "duration": "pp. 4713–4720",
     "iteration": "Vol. 33, Issue 21",
@@ -2970,7 +2986,7 @@
   },
   {
     "container": "<i>PNAS Nexus</i>, journal",
-    "contributors": "Malav Shah (co-author); Olivia Heise (co-author); Peter Buss (co-author); Lin-Mari de Klerk-Lorist (co-author); Stefan Hetzer (co-author); John-Dylan Haynes (co-author); Thomas D. Hildebrandt (co-author); Michael Brecht (co-author); Eric Klann (editor)",
+    "contributors": "Malav Shah (co-author); Olivia Heise (co-author); Peter Buss (co-author); Lin-Mari de Klerk-Lorist (co-author); Stefan Hetzer (co-author); John-Dylan Haynes (co-author); Thomas Hildebrandt (co-author); Michael Brecht (co-author); Eric Klann (editor)",
     "date": "2025 May 20",
     "duration": "10 pp.",
     "iteration": "Vol. 4, Issue 5, No. pgaf141",
