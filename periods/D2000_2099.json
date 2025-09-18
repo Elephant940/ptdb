@@ -320,6 +320,22 @@
     "type": "Journal article"
   },
   {
+    "container": "<i>Geobios</i>, journal",
+    "contributors": "Hassane Taïsso Mackaye (co-author); Michel Brunet (co-author); Pascal Tassy (co-author); Sabine Riffaut (artist); Véronique Bellefet (artist); D. Geraads (reviewer); E. Aguirre (reviewer)",
+    "date": "2005 October 3",
+    "duration": "pp. 765–777",
+    "iteration": "Vol. 38, Issue 6",
+    "languages": "French, English",
+    "links": "<li><a href=\"https://doi.org/10.1016/j.geobios.2003.09.010\"target=\"_blank\">From publisher (DOI: 10.1016/j.geobios.2003.09.010)</a></li><li><a href=\"https://doc.rero.ch/record/15536/\"target=\"_blank\">From RERO DOC</a></li><li><a href=\"https://www.academia.edu/14215792/Selenetherium_kolleensis_nov_gen_nov_sp_un_nouveau_Proboscidea_Mammalia_dans_le_Plioc%C3%A8ne_tchadien\"target=\"_blank\">From Academia</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "Elsevier",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "<i>Selenetherium kolleensis</i> nov. gen. nov. sp. : un nouveau Proboscidea (Mammalia) dans le Pliocène tchadien&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=60260\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
+    "type": "Journal article"
+  },
+  {
     "container": "N/A",
     "contributors": "University of Chicago Press Journals (author)",
     "date": "2005 December 5",
