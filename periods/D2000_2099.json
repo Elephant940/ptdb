@@ -786,6 +786,22 @@
     "type": "Journal article"
   },
   {
+    "container": "<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>. <i>S</i>. <i>A</i>.; <i>PNAS</i>), journal",
+    "contributors": "Emmanuel Gheerbrant (author); Elwyn L. Simons (editor); P. Louis (artist); C. Letenneur (artist); Philippe Loubry (photographer); C. Lemzaouda (photographer)",
+    "date": "2009 June 30",
+    "duration": "pp. 10717–10721",
+    "iteration": "Vol. 106, Issue 26",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1073/pnas.0900251106\"target=\"_blank\">From publisher (DOI: 10.1073/pnas.0900251106)</a></li><li><a href=\"https://europepmc.org/article/med/19549873\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://hal.science/mnhn-02264831/\"target=\"_blank\">From HAL</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC2705600/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://www.jstor.org/stable/40483619\"target=\"_blank\">Print copy from JSTOR</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "National Academy of Sciences of the United States of America (NAS)",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Paleocene emergence of elephant relatives and the rapid radiation of African ungulates&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=31170\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>Acta Palaeontologica Polonica</i> (<i>Acta</i> <i>Palaeontol</i>. <i>Pol</i>.), journal",
     "contributors": "Cyrille Delmer (author); Phil Crabb (photographer); Philippe Loubry (photographer)",
     "date": "2009 August 21",
