@@ -744,7 +744,7 @@
     "duration": "pp. 97–104",
     "iteration": "Vol. 46, Issue 1",
     "languages": "English",
-    "links": "<li><a href=\"https://doi.org/10.1354/vp.46-1-97\"target=\"_blank\">From publisher (DOI: 10.1354/vp.46-1-97)</a></li><li><a href=\"https://europepmc.org/article/pmc/3572918\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC3572918/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://repository.si.edu/items/6eee9155-5f33-490a-bd4c-1ea0b79921c4\"target=\"_blank\">From Smithsonian Research Online</a></li><li><a href=\"https://www.academia.edu/48170737/Clinico_pathologic_features_of_fatal_disease_attributed_to_new_variants_of_endotheliotropic_herpesviruses_in_two_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/50675040/Clinico_pathologic_features_of_fatal_disease_attributed_to_new_variants_of_endotheliotropic_herpesviruses_in_two_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/60512953/Clinico_pathologic_features_of_fatal_disease_attributed_to_new_variants_of_endotheliotropic_herpesviruses_in_two_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/63194690/Clinico_pathologic_features_of_fatal_disease_attributed_to_new_variants_of_endotheliotropic_herpesviruses_in_two_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/23708790_Clinico-Pathologic_Features_of_Fatal_Disease_Attributed_to_New_Variants_of_Endotheliotropic_Herpesviruses_in_Two_Asian_Elephants_Elephas_maximus\"target=\"_blank\">From ResearchGate</a></li>",
+    "links": "<li><a href=\"https://doi.org/10.1354/vp.46-1-97\"target=\"_blank\">From publisher (DOI: 10.1354/vp.46-1-97)</a> through Sage Journals</li><li><a href=\"https://europepmc.org/article/pmc/3572918\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC3572918/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://repository.si.edu/items/6eee9155-5f33-490a-bd4c-1ea0b79921c4\"target=\"_blank\">From Smithsonian Research Online</a></li><li><a href=\"https://www.academia.edu/48170737/Clinico_pathologic_features_of_fatal_disease_attributed_to_new_variants_of_endotheliotropic_herpesviruses_in_two_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/50675040/Clinico_pathologic_features_of_fatal_disease_attributed_to_new_variants_of_endotheliotropic_herpesviruses_in_two_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/60512953/Clinico_pathologic_features_of_fatal_disease_attributed_to_new_variants_of_endotheliotropic_herpesviruses_in_two_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/63194690/Clinico_pathologic_features_of_fatal_disease_attributed_to_new_variants_of_endotheliotropic_herpesviruses_in_two_Asian_elephants_Elephas_maximus_\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/23708790_Clinico-Pathologic_Features_of_Fatal_Disease_Attributed_to_New_Variants_of_Endotheliotropic_Herpesviruses_in_Two_Asian_Elephants_Elephas_maximus\"target=\"_blank\">From ResearchGate</a></li>",
     "location": "N/A",
     "notes": "N/A",
     "publisher": "American College of Veterinary Pathologists",
@@ -927,6 +927,22 @@
     "references": "N/A",
     "summary": "TBA.",
     "title": "Detection and evaluation of novel herpesviruses in routine and pathological samples from Asian and African elephants: Identification of two new probosciviruses (EEHV5 and EEHV6) and two new gammaherpesviruses (EGHV3B and EGHV5)",
+    "type": "Journal article"
+  },
+  {
+    "container": "<i>American Journal of Veterinary Research</i> (<i>Am</i>. <i>J</i>. <i>Vet</i>. <i>Res</i>.; <i>AJVR</i>), journal",
+    "contributors": "Jeffrey J. Stanton (co-author); Jian-Chao Zong (co-author); Erin M. Latimer (co-author); Jie Tan (co-author); Alan Herron (co-author); Gary S. Hayward (co-author); Paul D. Ling (co-author)",
+    "date": "2010 August 1",
+    "duration": "pp. 925–933",
+    "iteration": "Vol. 71, Issue 8",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.2460/ajvr.71.8.925\"target=\"_blank\">From publisher (DOI: 10.2460/ajvr.71.8.925)</a></li><li><a href=\"https://europepmc.org/article/pmc/pmc3725808\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC3725808/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://reviverestore.org/wp-content/uploads/user-publications/stanton-et-al-ajvr-2010-p925.pdf\"target=\"_blank\">From Revive & Restore</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "American Veterinary Medical Association (AVMA)",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "Detection of pathogenic elephant endotheliotropic herpesvirus in routine trunk washes from healthy adult Asian elephants (<i>Elephas maximus</i>) by use of a real-time quantitative polymerase chain reaction assay",
     "type": "Journal article"
   },
   {
