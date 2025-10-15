@@ -497,6 +497,22 @@
     "type": "Book"
   },
   {
+    "container": "<i>Proceedings of the National Academy of Sciences of the United States of America</i> (<i>Proc</i>. <i>Natl</i>. <i>Acad</i>. <i>Sci</i>. <i>U</i>. <i>S</i>. <i>A</i>.; <i>PNAS</i>), journal",
+    "contributors": "Jeheskel Shoshani (co-author); Robert C. Walter (co-author); Michael Abraha (co-author); Seife Berhe (co-author); Pascal Tassy (co-author); William J. Sanders (co-author); Gary H. Marchant (co-author, artist); Yosief Libsekal (co-author); Tesfalidet Ghirmai (co-author); Dietmar Zinner (co-author); David B. Wake (editor)",
+    "date": "2006 November 14",
+    "duration": "pp. 17296–17301",
+    "iteration": "Vol. 103, Issue 46",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1073/pnas.0603689103\"target=\"_blank\">From publisher (DOI: 10.1073/pnas.0603689103 )</a></li><li><a href=\"https://europepmc.org/article/MED/17085582\"target=\"_blank\">From Europe PMC</a></li><li><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC1859925/\"target=\"_blank\">From PubMed Central</a></li><li><a href=\"https://www.academia.edu/52701127/A_proboscidean_from_the_late_Oligocene_of_Eritrea_a_missing_link_between_early_Elephantiformes_and_Elephantimorpha_and_biogeographic_implications\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/82239324/A_proboscidean_from_the_late_Oligocene_of_Eritrea_a_missing_link_between_early_Elephantiformes_and_Elephantimorpha_and_biogeographic_implications\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/87414999/A_proboscidean_from_the_late_Oligocene_of_Eritrea_a_missing_link_between_early_Elephantiformes_and_Elephantimorpha_and_biogeographic_implications\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.academia.edu/113378945/A_proboscidean_from_the_late_Oligocene_of_Eritrea_a_missing_link_between_early_Elephantiformes_and_Elephantimorpha_and_biogeographic_implications?sm=b\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/6710721_A_proboscidean_from_the_late_Oligocene_of_Eritrea_a_missing_link_between_early_Elephantiformes_and_Elephantimorpha_and_biogeographic_implications\"target=\"_blank\">From ResearchGate</a></li><li><a href=\"https://www.jstor.org/stable/30052426\"target=\"_blank\">Print copy from JSTOR</a></li>",
+    "location": "N/A",
+    "notes": "<li><a href=\"https://doi.org/10.1073/pnas.0610824104\"target=\"_blank\">Correction from publisher (DOI: 10.1073/pnas.0610824104)</a>, <a href=\"https://europepmc.org/article/PMC/PMC1783371\"target=\"_blank\">from Europe PMC</a>, <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC1783371/\"target=\"_blank\">from PubMed Central</a>, <a href=\"https://www.academia.edu/77789562/Correction_for_Shoshani_et_al_A_proboscidean_from_the_late_Oligocene_of_Eritrea_a_missing_link_between_early_Elephantiformes_and_Elephantimorpha_and_biogeographic_implications\"target=\"_blank\">from Academia</a>, <a href=\"https://www.academia.edu/113378946/Correction_for_Shoshani_et_al_A_proboscidean_from_the_late_Oligocene_of_Eritrea_a_missing_link_between_early_Elephantiformes_and_Elephantimorpha_and_biogeographic_implications\"target=\"_blank\">from Academia</a>, and a <a href=\"https://www.jstor.org/stable/25426240\"target=\"_blank\">print copy from JSTOR</a>, published 2007 January 16; the duration is p. 1103 and the iteration is Vol. 104, Issue 3.</li>",
+    "publisher": "National Academy of Sciences of the United States of America (NAS)",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "A proboscidean from the late Oligocene of Eritrea, a ‘‘missing link’’ between early Elephantiformes and Elephantimorpha, and biogeographic implications&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=23730\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>PLoS Biology</i> (<i>PLoS</i> <i>Biol</i>.), journal",
     "contributors": "Liza Gross (author); Thomas Breuer (photographer)",
     "date": "2007 April 3",
