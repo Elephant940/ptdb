@@ -127,6 +127,22 @@
     "title": "The latest woolly mammoths (<i>Mammuthus primigenius</i> Blumenbach) in Europe and Asia: a review of the current evidence",
     "type": "Journal article"
   },
+    {
+    "container": "<i>Memoir of the Geological Survey of Namibia</i> (<i>Mem</i>. <i>Geol</i>. <i>Surv</i>. <i>Namib</i>.), journal",
+    "contributors": "Martin Pickford (author); Denis Serrette (photographer); Philippe Loubry (photographer); H. Lavina (plate artist)",
+    "date": "2003",
+    "duration": "pp. 207–256",
+    "iteration": "Vol. 19 <i>Geology and Palaeobiology of the Central and Southern Namib Volume 2: Palaeontology of the Orange River Valley, Namibia</i>",
+    "languages": "English, French",
+    "links": "<li><a href=\"https://www.mme.gov.na/files/publications/495_Memoir%2019_2003_Pickford&Senut_Palaeontology%20of%20the%20Orange%20River%20Valley.pdf \"target=\"_blank\">From publisher</a></li><li><a href=\"https://the-eis.com/elibrary/search/26083\"target=\"_blank\">From Environmental Information Service Namibia eLibrary</a></li>",
+    "location": "Windhoek, Namibia",
+    "notes": "N/A",
+    "publisher": "Geological Survey of Namibia",
+    "references": "N/A",
+    "summary": "TBA.",
+    "title": "New Proboscidea from the Miocene strata in the lower Orange River Valley, Namibia&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=48491\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
+    "type": "Journal article"
+  },
   {
     "container": "<i>Journal of Zoology, London</i> (<i>J</i>. <i>Zool</i>., <i>Lond</i>.), journal",
     "contributors": "Bethan J. Morgan (co-author); Phyllis C. Lee (co-author)",
@@ -2608,7 +2624,7 @@
     "notes": "N/A",
     "publisher": "Nature Research",
     "references": "N/A",
-    "summary": "van der Valk and peers analyze and extract the oldest known DNA from three Siberian mammoth molars, two of which are over a million years old. They classify the molars Adycha and Chukochya as woolly mammoths (<i>Mammuthus primigenius</i>) with cold adaptations thought to have arisen later. The molar Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but is closer to an unknown lineage that bred with woolly mammoths, giving rise to Columbian mammoths (<i>M</i>. <i>columbi</i>).",
+    "summary": "van der Valk and peers extract and analyze the oldest known DNA from three Siberian mammoth molars, two of which are over a million years old. They classify the molars Adycha and Chukochya as woolly mammoths (<i>Mammuthus primigenius</i>) with cold adaptations thought to have arisen later. The molar Krestovka resembles a steppe mammoth (<i>M</i>. <i>trogontherii</i>), but is closer to an unknown lineage that bred with woolly mammoths, giving rise to Columbian mammoths (<i>M</i>. <i>columbi</i>).",
     "title": "Million-year-old DNA sheds light on the genomic history of mammoths",
     "type": "Journal article"
   },
