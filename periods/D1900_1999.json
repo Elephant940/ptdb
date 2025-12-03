@@ -11,7 +11,6 @@
     "notes": "N/A",
     "publisher": "R. Friedländer und Sohn",
     "references": "N/A",
-    "summary": "Matschie divides African elephants into four species based on differences in the skull, ears, and skin. He retains <a id=\"Cuvier_1798_color_1\"onclick=\"goToSource('D1700-1799','Cuvier_1798', this.id)\">Cuvier’s</a> <i>Elephas</i> (<i>Loxodonta</i>) <i>capensis</i> for elephants near the Orange River, and gives the names <i>E</i>. (<i>L</i>.) <i>cyclotis</i>, <i>E</i>. (<i>L</i>.) <i>knochenhaueri</i>, and <i>E</i>. (<i>L</i>.) <i>oxyotis</i> to elephants from South Cameroon, German East Africa (now Burundi, Rwanda, and Tanzania), and Sudan respectively. He suggests <i>E</i>. <i>cyclotis</i> may be a subspecies of <i>E</i>. <i>capensis</i>, and the rest may be subspecies of <i>E</i>. <i>africanus</i>.",
     "title": "Über geographische Abarten des afrikanischen Elefanten.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=90267\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -28,9 +27,23 @@
     "notes": "N/A",
     "publisher": "Superintendent, Government Printing",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "A Treatise on Elephants. Their Treatment in Health and Disease",
     "type": "Book"
+  },
+    {
+    "container": "<i>Nature</i>, journal",
+    "contributors": "Charles William Andrews (author)",
+    "date": "1901 October 10",
+    "duration": "p. 577",
+    "iteration": "Vol. 64, Issue 1667",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1038/064577d0\"target=\"_blank\">From publisher (DOI: 10.1038/064577d0)</a></li>",
+    "location": "London, England",
+    "notes": "N/A",
+    "publisher": "Macmillan & Co.",
+    "references": "N/A",
+    "title": "A New Name for an Ungulate.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=93515\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
+    "type": "Journal article"
   },
   {
     "container": "N/A",
@@ -44,7 +57,6 @@
     "notes": "N/A",
     "publisher": "National Printing Department",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "A Preliminary Note on Some New Mammals From the Upper Eocene of Egypt.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=15070\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Book"
   },
@@ -60,7 +72,6 @@
     "notes": "N/A",
     "publisher": "Harrison and Sons",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Preliminary Note on the Discovery of a Pigmy Elephant in the Pleistocene of Cyprus.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=90263\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -76,7 +87,6 @@
     "notes": "N/A",
     "publisher": "Trustees of the British Museum",
     "references": "N/A",
-    "summary": "The section on elephants is on pages 99–177. Details TBA.",
     "title": "A Descriptive Catalogue of the Tertiary Vertebrata of the Fayûm, Egypt. Based on the Collection of the Egyptian Government in the Geological Museum, Cairo, and on the Collection in the British Museum (Natural History), London.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=11955\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Book"
   },
@@ -92,7 +102,6 @@
     "notes": "N/A",
     "publisher": "Messrs. Longmans, Green, and Co.",
     "references": "<ul class=\"refs\"><a href=\"https://archive.org/details/proceedingsofzoo19074471121zool/page/n391/mode/2up?view=theater\"target=\"_blank\">Notice</a>. (1907). <i>Proceedings of the Zoological Society of London</i>, <i>77</i>(3).</ul>",
-    "summary": "TBA.",
     "title": "The Ears as a Race-Character in the African Elephant.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=91158\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -108,7 +117,6 @@
     "notes": "N/A",
     "publisher": "Gustav Fischer",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "The Elephant’s Head Studies in the Comparative Anatomy of the Organs of the Head of the Indian Elephant and Other Mammals First Part The Facial Muscles and the Proboscis With Seventeen Plates in Colours",
     "type": "Book"
   },
@@ -124,7 +132,6 @@
     "notes": "N/A",
     "publisher": "Trustees of the British Museum",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "A Guide to the Elephants (Recent and Fossil) Exhibited in the Department of Geology and Palæontology in the British Museum (Natural History)",
     "type": "Book"
   },
@@ -140,7 +147,6 @@
     "notes": "N/A",
     "publisher": "Superintendent, Government Printing",
     "references": "N/A",
-    "summary": "The revised edition of <a id=\"Evans_1901_color_0\"onclick=\"goToSource('D1900-1999','Evans_1901', this.id)\">Evans, 1901</a>. Details TBA.",
     "title": "Elephants and Their Diseases a Treatise on Elephants",
     "type": "Book"
   },
@@ -156,7 +162,6 @@
     "notes": "N/A",
     "publisher": "Messrs. Longmans, Green, and Co.",
     "references": "<ul class=\"refs\"><a href=\"https://archive.org/details/proceedingsofzoo19121504zool/page/n361/mode/2up?view=theater\"target=\"_blank\">Notice</a>. (1912). <i>Proceedings of the Zoological Society of London</i>, <i>82</i>(1).</ul>",
-    "summary": "TBA.",
     "title": "On a New Species of <i>Dinotherium</i> (<i>Dinotherium hobleyi</i>*) from British East Africa.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=92503\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -172,7 +177,6 @@
     "notes": "N/A",
     "publisher": "Messrs. Longmans, Green, and Co.",
     "references": "<ul class=\"refs\"><a href=\"https://archive.org/details/proceedingsofzoo19144911077zool/page/n541/mode/2up?view=theater\"target=\"_blank\">Notice</a>. (1914). <i>Proceedings of the Zoological Society of London</i>, <i>84</i>(3).</ul>",
-    "summary": "TBA.",
     "title": "The Malay Race of the Indian Elephant, <i>Elephas maximus hirsutus</i>.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=90430\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -188,7 +192,6 @@
     "notes": "N/A",
     "publisher": "W. S. Millard",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Altitude to which Elephants ascend.",
     "type": "Journal article"
   },
@@ -204,7 +207,6 @@
     "notes": "N/A",
     "publisher": "Trustees of the American Museum of Natural History",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "The Evolution, Phylogeny, and Classification of the Proboscidea&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=2703\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -220,7 +222,6 @@
     "notes": "<li><a href=\"https://archive.org/details/wanderingofeleph0000wdmb/page/n10/mode/2up?view=theater\"target=\"_blank\">Reprint from Internet Archive</a> (copy provided by Internet Archive), published 1958; the publisher is Neville Spearman & The Holland Press.</li><li><a href=\"https://archive.org/details/wanderingsofelep0000bell/page/n8/mode/2up?view=theater\"target=\"_blank\">Reprint from Internet Archive</a> (copy provided by Internet Archive), published 2002; the publisher is Safari Press, and the publication location is Long Beach, California, United States of America.</li>",
     "publisher": "“Country Life,” Ltd., 20, Tavistock St., Covent Garden, W.C.2, and by George Newnes, Ltd., 8-11, Southampton St., Strand, W.C.2 New York: Charles Scribner’s Sons",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "The Wanderings of an Elephant Hunter",
     "type": "Book"
   },
@@ -236,7 +237,6 @@
     "notes": "N/A",
     "publisher": "University of Nebraska Press",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Preliminary Notice of a New Proboscidean <i>Amebelodon fricki</i>, gen. et sp. nov.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=987\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -252,7 +252,6 @@
     "notes": "N/A",
     "publisher": "Macmillan & Co.",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "<i>Deinotherium</i> in the Pleistocene.",
     "type": "Journal article"
   },
@@ -268,7 +267,6 @@
     "notes": "N/A",
     "publisher": "Academy of Natural Sciences of Philadelphia",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Zoological Results of the George Vanderbilt African Expedition of 1934. Part II,—The Forest Elephant of Africa&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=41349\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -284,7 +282,6 @@
     "notes": "N/A",
     "publisher": "Carnegie Institution of Washington",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "The Physiology of the Elephant",
     "type": "Book"
   },
@@ -300,7 +297,6 @@
     "notes": "N/A",
     "publisher": "Trustees of the American Museum of Natural History",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Proboscidea a Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=31626\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Book"
   },
@@ -316,7 +312,6 @@
     "notes": "N/A",
     "publisher": "C. V. Mosby Company",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Some Notes on the Anatomy of the Elephant’s Heart",
     "type": "Journal article"
   },
@@ -332,7 +327,6 @@
     "notes": "N/A",
     "publisher": "Raffles Museum",
     "references": "N/A",
-    "summary": "On page 190, Chasen recognizes Asian elephants as a single species, <i>Elephas maximus</i>, with three subspecies. He retains <a id=\"Linnaeus_1758_color_1\"onclick=\"goToSource('D1700-1799','Linnaeus_1758', this.id)\">Linnaeus’s</a> <i>E</i>. <i>m</i>. <i>maximus</i> for the elephants of Sri Lanka, <a id=\"Cuvier_1798_color_1\"onclick=\"goToSource('D1700-1799','Cuvier_1798', this.id)\">Cuvier’s</a> <i>E</i>. <i>m</i>. <i>indicus</i> for elephants on the Asian mainland and Borneo, and <a id=\"Temminck_1847_color_0\"onclick=\"goToSource('D1800-1899','Temminck_1847', this.id)\">Temminck’s</a> <i>E</i>. <i>m</i>. <i>sumatranus</i> for Sumatran elephants.",
     "title": "A Handlist of Malaysian Mammals a Systematic List of the Mammals of the Malay Peninsula, Sumatra, Borneo and Java, Including the Adjacent Small Islands&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=91156\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -348,7 +342,6 @@
     "notes": "N/A",
     "publisher": "Trustees of the American Museum of Natural History",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Proboscidea a Monograph of the Discovery, Evolution, Migration and Extinction of the Mastodonts and Elephants of the World&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=85684\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Book"
   },
@@ -364,7 +357,6 @@
     "notes": "<li><a href=\"https://www.google.com/books/edition/The_Principles_of_Classification_and_a_C/28TPAAAAMAAJ?hl=en&gbpv=1\"target=\"_blank\">Reprint from Google Books</a> (copy provided by the University of Michigan, <a href=\"https://web.archive.org/web/20231217150055/https://books.googleusercontent.com/books/content?req=AKW5QaeRsfyN_PvpDe5BOHhmEJT4YgrExC0f9sIg-s8SitnEl0IU2Ers7jwWUzryCUhMMadnU2R366QmocdX-YOkIspTN3hk2AEdlikbSjGXAoGV0cv8uU_v5IFlsUsm_Tu4LU4x6-0KUcMDWM_ewkJPwJ0RJbSojbGeeWaALliXkGh-1Bp9SSN0uiCubJKQOumBr4K7kFdzbxRKkr5saohy0SSOFTWXwiykE2WP1J8UhTu4S05hudEPVuSVxdxyJ8FwHWtKbYWJ7VdhukA8XvmVfpyXb7GBcHEQkXdQ3abIVn_lA7QOtm4\"target=\"_blank\">archive in the Wayback Machine</a>) and <a href=\"https://babel.hathitrust.org/cgi/pt?id=mdp.39015006152535&view=1up&seq=7\"target=\"_blank\">from HathiTrust</a> (copy provided by the University of Michigan), published 1950 November 21.</li><li><a href=\"https://digitallibrary.amnh.org/items/74123930-b874-44d0-8880-3884ae8c0def\"target=\"_blank\">Reprint from publisher</a>, published 1962 February 2.</li>",
     "publisher": "Trustees of the American Museum of Natural History",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "The Principles of Classification and a Classification of Mammals&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=10313\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -380,7 +372,6 @@
     "notes": "N/A",
     "publisher": "Nehézipari Könyv- és Folyóiratkiadó Vállalat",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "<i>Stegeloxodon</i> nov. gen„ a loxodonta elefántok esetleges ázsiai őse",
     "type": "Journal article"
   },
@@ -396,7 +387,6 @@
     "notes": "N/A",
     "publisher": "A. J. Nystrom and Company",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "A Brief History of Trained African Elephants in the Belgian Congo",
     "type": "Journal article"
   },
@@ -412,7 +402,6 @@
     "notes": "N/A",
     "publisher": "Baillière, Tindall & Cox",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "The Elephant in Ancient and Modern Writings",
     "type": "Journal article"
   },
@@ -428,7 +417,6 @@
     "notes": "N/A",
     "publisher": "American Association for the Advancement of Science (AAAS)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Lysergic Acid Diethylamide: Its Effects on a Male Asiatic Elephant",
     "type": "Journal article"
   },
@@ -444,7 +432,6 @@
     "notes": "N/A",
     "publisher": "Hutchinson & Co.",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Ethology of the African Elephant (<i>Loxodonta africana</i> Blumenbach 1797) in Captivity",
     "type": "Journal article"
   },
@@ -460,7 +447,6 @@
     "notes": "N/A",
     "publisher": "East African Wild Life Society (EAWLS)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Age Criteria for the African Elephant, <i>Loxodonta</i> <i>a</i>. <i>africana</i>",
     "type": "Journal article"
   },
@@ -476,7 +462,6 @@
     "notes": "N/A",
     "publisher": "Museum of Comparative Zoology",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Four New Species of Elephantidae From the Plio-Pleistocene of Northwestern Kenya&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=5468\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -492,7 +477,6 @@
     "notes": "N/A",
     "publisher": "Macmillan Journals",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Prehistoric Evidence for <i>Elephas maximus</i> L. in Borneo",
     "type": "Journal article"
   },
@@ -508,7 +492,6 @@
     "notes": "N/A",
     "publisher": "Smithsonian Institution Press",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Behavior and Ecology of the Asiatic Elephant in Southeastern Ceylon",
     "type": "Book"
   },
@@ -524,7 +507,6 @@
     "notes": "N/A",
     "publisher": "American Philosophical Society",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Origin and Evolution of the Elephantidae&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=85102\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -540,7 +522,6 @@
     "notes": "N/A",
     "publisher": "American Society of Mammalogists (ASM)",
     "references": "<ul class=\"refs\">Verts, B.J., & Birney, E.C. (1994). <a href=\"https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater\"target=\"_blank\">Publications</a>. In Birney, E.C., & Choate, J.R. (Eds.), <i>Seventy-five years of mammalogy (1919–1994)</i> (pp. 139–154). Provo, UT: American Society of Mammalogists.</ul>",
-    "summary": "TBA.",
     "title": "<i>Loxodonta africana</i>.",
     "type": "Journal article"
   },
@@ -556,7 +537,6 @@
     "notes": "N/A",
     "publisher": "Department of Biology, Wayne State University",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "\"Motty\"--Birth of an African/Asian Elephant at Chester Zoo",
     "type": "Journal article"
   },
@@ -572,7 +552,6 @@
     "notes": "N/A",
     "publisher": "Department of Biological Sciences, Wayne State University",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "On the dissection of a female Asian elephant (<u>Elephas</u> <u>maximus</u> <u>maximus</u> Linnaeus, 1758) and data from other elephants",
     "type": "Journal article"
   },
@@ -588,7 +567,6 @@
     "notes": "N/A",
     "publisher": "American Society of Mammalogists (ASM)",
     "references": "<ul class=\"refs\">Verts, B.J., & Birney, E.C. (1994). <a href=\"https://archive.org/details/seventyfiveyears00birn/page/142/mode/2up?view=theater\"target=\"_blank\">Publications</a>. In Birney, E.C., & Choate, J.R. (Eds.), <i>Seventy-five years of mammalogy (1919–1994)</i> (pp. 139–154). Provo, UT: American Society of Mammalogists.</ul>",
-    "summary": "TBA.",
     "title": "<i>Elephas maximus</i>.&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=41382\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -604,7 +582,6 @@
     "notes": "N/A",
     "publisher": "Psychonomic Society",
     "references": "<ul class=\"refs\">Dewsbury, D.A. (1996). History of the Psychonomic Society II: The journal publishing program. <i>Psychonomic Bulletin & Review</i>, <i>3</i>(3), 322–338. <a href=\"https://doi.org/10.3758/BF03210756\"target=\"_blank\">https://doi.org/10.3758/BF03210756</a>.</ul>",
-    "summary": "TBA.",
     "title": "Alcohol self-administration by elephants",
     "type": "Journal article"
   },
@@ -620,7 +597,6 @@
     "notes": "N/A",
     "publisher": "Bureau for Scientific Publications of the Foundation for Education, Science and Technology",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Why do elephants flap their ears?",
     "type": "Journal article"
   },
@@ -636,7 +612,6 @@
     "notes": "N/A",
     "publisher": "Bureau for Scientific Publications of the Foundation for Education, Science and Technology",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Do elephants need to sweat?",
     "type": "Journal article"
   },
@@ -652,7 +627,6 @@
     "notes": "N/A",
     "publisher": "Official STAR WARS/Lucasfilm Fan Club",
     "references": "N/A",
-    "summary": "A description of the Asian elephant (<i>Elephas maximus</i>) Mardji and her role as the yak-like Banthas in <i>Star Wars</i> (1977).",
     "title": "Bantha History",
     "type": "Magazine article"
   },
@@ -668,7 +642,6 @@
     "notes": "N/A",
     "publisher": "East African Wild Life Society (EAWLS)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Movement patterns and group size of the African forest elephant <i>Loxodonta africana cyclotis</i> in the Tai National Park, Ivory Coast",
     "type": "Journal article"
   },
@@ -684,7 +657,6 @@
     "notes": "N/A",
     "publisher": "Baillière Tindall",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Allomothering among African elephants",
     "type": "Journal article"
   },
@@ -700,7 +672,6 @@
     "notes": "N/A",
     "publisher": "Indian Academy of Sciences",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Growth in the Asian elephant",
     "type": "Journal article"
   },
@@ -716,7 +687,6 @@
     "notes": "N/A",
     "publisher": "San Francisco Society for the Prevention of Cruelty to Animals",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Report on Investigation Into Allegations of Elephant Abuse at the San Francisco Zoo",
     "type": "Book"
   },
@@ -732,7 +702,6 @@
     "notes": "N/A",
     "publisher": "International Union for Conservation of Nature and Natural Resources (IUCN)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "The Asian Elephant An Action Plan for Its Conservation",
     "type": "Book"
   },
@@ -748,7 +717,6 @@
     "notes": "N/A",
     "publisher": "Verlag Paul Parey",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Genetic differentiation among local populations of Asian elephant",
     "type": "Journal article"
   },
@@ -764,7 +732,6 @@
     "notes": "N/A",
     "publisher": "Vandenhoeck & Ruprecht",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Elephant",
     "type": "Journal article"
   },
@@ -780,7 +747,6 @@
     "notes": "N/A",
     "publisher": "Wildlife Disease Association",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Flaccid Trunk Paralysis in Free-ranging Elephants (<i>Loxodonta africana</i>) in Zimbabwe ",
     "type": "Journal article"
   },
@@ -796,7 +762,6 @@
     "notes": "N/A",
     "publisher": "Royal Asiatic Society of Sri Lanka (RASSL)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "A Note on the Etymology of “Elephant”",
     "type": "Journal article"
   },
@@ -812,7 +777,6 @@
     "notes": "N/A",
     "publisher": "Elsevier",
     "references": "<ul class=\"refs\">Editorial board. (1995). <i>Biological Conservation</i>, <i>71</i>(1). <a href=\"https://doi.org/10.1016/0006-3207(95)90105-1\"target=\"_blank\">https://doi.org/10.1016/0006-3207(95)90105-1</a></ul>",
-    "summary": "TBA.",
     "title": "A review of the status of forest elephants <i>Loxodonta africana</i> in Central Africa",
     "type": "Journal article"
   },
@@ -829,7 +793,6 @@
     "notes": "N/A",
     "publisher": "Zoological Society of London (ZSL)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Statural growth in known-age African elephants (<i>Loxodonta africana</i>)",
     "type": "Journal article"
   },
@@ -845,7 +808,6 @@
     "notes": "N/A",
     "publisher": "Mammal Research Institute, Polish Academy of Sciences (MRI PAS)",
     "references": "<ul class=\"refs\">MDPI. (n.d.). <i>Tuskless bulls in Asian elephant Elephas maximus . History and population genetics of a man-made phenomenon</i>. Scilit. Retrieved June 27, 2024, from <a href=\"https://www.scilit.net/publications/2eeb3de43a2074f5147565699a2c31c5\"target=\"_blank\">https://www.scilit.net/publications/2eeb3de43a2074f5147565699a2c31c5</a></ul>",
-    "summary": "TBA.",
     "title": "Tuskless bulls in Asian elephant <i>Elephas maximus</i>. History and population genetics of a man-made phenomenon",
     "type": "Journal article"
   },
@@ -861,7 +823,6 @@
     "notes": "<li><a href=\"https://www.awf.org/about/resources/letude-des-elephants\"target=\"_blank\">French version from publisher</a> and <a href=\"https://web.archive.org/web/20180422060620/https://www.iucn.org/sites/dev/files/import/downloads/man_stdele_fr.pdf\"target=\"_blank\">from the IUCN</a> (through the Wayback Machine); the duration is 190 pp.</li>",
     "publisher": "African Wildlife Foundation (AWF)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Studying Elephants",
     "type": "Book"
   },
@@ -877,7 +838,6 @@
     "notes": "N/A",
     "publisher": "Macmillan Magazines",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Insect pheromone in elephants",
     "type": "Journal article"
   },
@@ -893,7 +853,6 @@
     "notes": "N/A",
     "publisher": "Gustav Fischer",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Population genetics and systematics of Asian elephant (<i>Elephas maximus</i>): A study based on sequence variation at the Cyt b gene of PCR-amplified mitochondrial DNA from hair bulbs",
     "type": "Journal article"
   },
@@ -909,7 +868,6 @@
     "notes": "N/A",
     "publisher": "Nutrition Advisory Group (NAG)",
     "references": "<ul class=\"refs\">Hutchins, M., Wiese, R.J., & Bowdoin, J. (1996). <a href=\"https://assets.speakcdn.com/assets/2332/hutchins_et_al_1996.pdf\"target=\"_blank\"><i>Black-footed ferret recovery program analysis and action plan</i></a>. Bethesda, MD: American Zoo and Aquarium Association.</ul>",
-    "summary": "TBA.",
     "title": "Elephants: nutrition and dietary husbandry",
     "type": "Book"
   },
@@ -925,7 +883,6 @@
     "notes": "N/A",
     "publisher": "The Wildlife Society",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Estimating Forest Elephant Numbers With Dung Counts and a Geographic Information System",
     "type": "Journal article"
   },
@@ -941,7 +898,6 @@
     "notes": "N/A",
     "publisher": "American Association of Zoo Veterinarians (AAZV)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Predicting Body Weight From Body Measurements in Asian Elephants (<i>Elephas maximus</i>)",
     "type": "Journal article"
   },
@@ -957,7 +913,6 @@
     "notes": "N/A",
     "publisher": "Dan Koehl",
     "references": "N/A",
-    "summary": "A detailed account of the birth of Motty, the only known hybrid between an Asian and African elephant. It includes communications with zoo staff about Motty’s anatomy and nutrition, and a brief discussion on the implications of Motty’s birth for elephant taxonomy.",
     "title": "Motty the elephant crossbreed",
     "type": "Web page"
   },
@@ -973,7 +928,6 @@
     "notes": "N/A",
     "publisher": "National Center for Infectious Diseases",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "<i>Mycobacterium tuberculosis</i> Infection as a Zoonotic Disease: Transmission between Humans and Elephants",
     "type": "Journal article"
   },
@@ -989,7 +943,6 @@
     "notes": "N/A",
     "publisher": "National Academy of Sciences of the United States of America (NAS)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Molecular evidence for multiple origins of Insectivora and for a new order of endemic African insectivore mammals&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=57488\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
@@ -1005,7 +958,6 @@
     "notes": "N/A",
     "publisher": "Cell Press",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Understanding proboscidean evolution: a formidable task",
     "type": "Journal article"
   },
@@ -1021,7 +973,6 @@
     "notes": "N/A",
     "publisher": "American Association for the Advancement of Science (AAAS)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "Novel Endotheliotropic Herpesviruses Fatal for Asian and African Elephants",
     "type": "Journal article"
   },
@@ -1037,7 +988,6 @@
     "notes": "N/A",
     "publisher": "National Academy of Sciences of the United States of America (NAS)",
     "references": "N/A",
-    "summary": "TBA.",
     "title": "The developing renal, reproductive, and respiratory systems of the African elephant suggest an aquatic ancestry",
     "type": "Journal article"
   }

@@ -74,7 +74,6 @@ searchBar.addEventListener("keyup", (e) => {
         row.notes.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.publisher.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.references.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
-        row.summary.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.title.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString) ||
         row.type.toLowerCase().replace(/(<([^>]+)>)/gi, "").includes(searchString)
       );
@@ -204,14 +203,6 @@ function buildCards(data, id) {
     else{
       row += `<u class="heading">Iteration</u>
               <ul class="info">${data[i].iteration}</ul>`;
-    }
-
-    if (data[i].summary == "N/A") {
-      row += "";
-    }
-    else{
-      row += `<u class="heading">Summary and significance</u>
-              <ul class="info">${data[i].summary}</ul>`;
     }
 
     if (data[i].links == "N/A") {
