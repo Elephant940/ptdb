@@ -261,12 +261,7 @@ ul:nth-last-child(1) {
 .rightcolumn {
   float: left;
   width: 17.5%;
-}
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 
 .blog-body {
@@ -311,7 +306,7 @@ ul:nth-last-child(1) {
     border-radius: 1.25rem;
     box-sizing: border-box;
     flex: 1 1 26.9589rem;
-    margin: 0.625rem;
+    margin: 0.625rem 0.625rem 0.625rem 0rem;
     overflow-x: auto;
     text-align: left;
 }
@@ -357,14 +352,14 @@ ul:nth-last-child(1) {
 
 
 
-/* Responsive layout - when the screen is less than 75rem wide, make the two columns stack on top of each other instead of next to each other */
+/* Responsive layout - when the screen is less than 50rem wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 50rem) {
   .leftcolumn, .rightcolumn {
     width: 100%;
     padding: 0;
   }
-  .about-me-img {
-    padding: 10% -10% -10% 10%
-  }
+  .about-me-entry {
+    margin: 0 0.625rem 0.625rem 0.625rem;
+}
   
 }
