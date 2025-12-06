@@ -1,3 +1,5 @@
+/* Both */
+
 html {
     font-family: Helvetica;
 }
@@ -27,6 +29,32 @@ html {
 .entry::-webkit-scrollbar-track {
     border-radius: 0.625rem 0 0.625rem 0;
 }
+
+.mytabs-nav {
+    background: rgb(162, 190, 150);
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    float: right
+}
+
+.mytabs-nav label {
+    background: rgb(221, 202, 174);
+    display: block;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0.625rem;
+    width: 45%;
+    border-radius: 0 0 1.25rem 1.25rem;
+    float: left;
+    word-break: break-word;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+/* PTDb */
 
 .header {
     background: rgb(162, 190, 150);
@@ -216,4 +244,127 @@ ul:nth-last-child(1) {
     #searchBar {
         width: 66vw;
     }
+}
+
+
+/* Encyclopedia Proboscidea */
+
+* {
+  box-sizing: border-box;
+}
+
+.leftcolumn {
+  float: left;
+  width: 82.5%;
+}
+
+.rightcolumn {
+  float: left;
+  width: 17.5%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.blog-body {
+    background: rgb(221, 202, 174) 
+}
+
+.blog-entry {
+    background-color: rgb(255, 255, 255);
+    border-radius: 1.25rem;
+    box-sizing: border-box;
+    flex: 1 1 26.9589rem;
+    margin: 0.625rem;
+    overflow-x: auto;
+    text-align: left;
+}
+
+.blog-entry-heading {
+    background-color: rgb(230, 230, 230);
+    box-sizing: border-box;
+    margin-bottom: 0.625rem;
+    object-fit: fill;
+    padding: 1.25rem 1.25rem 0.625rem 1.25rem;
+    position: sticky;
+    text-align: left;
+    top: 0;
+    width: 100%;
+}
+
+.blog-info {
+    margin: 1.25rem; 
+}
+
+.about-me-img {
+    max-width: 100%;
+    object-fit: fill;
+    display: flex;
+    margin: auto;
+}
+
+.about-me-entry {
+    background-color: rgb(255, 255, 255);
+    border-radius: 1.25rem;
+    box-sizing: border-box;
+    flex: 1 1 26.9589rem;
+    margin: 0.625rem;
+    overflow-x: auto;
+    text-align: left;
+}
+
+.about-me-entry-heading {
+    background-color: rgb(230, 230, 230);
+    box-sizing: border-box;
+    margin-bottom: 0.625rem;
+    object-fit: fill;
+    padding: 1.25rem 1.25rem 0.625rem 1.25rem;
+    position: sticky;
+    text-align: left;
+    top: 0;
+    width: 100%;
+}
+
+.about-me-info {
+    margin: 1.25rem;
+}
+
+
+@media screen and (max-width: 23.75rem) {
+    .mytabs-nav label {
+        font-size: 4.25vw;
+    }
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 0 0 5rem 0;
+}
+
+.photo-caption {
+    font-size: 0.75rem;
+    padding-bottom: 0.3125rem;
+    word-break: break-word;
+    word-wrap: break-word;
+    text-align: center;
+    opacity: 50%
+}
+
+
+
+/* Responsive layout - when the screen is less than 75rem wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 50rem) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+  .about-me-img {
+    padding: 10% -10% -10% 10%
+  }
+  
 }
