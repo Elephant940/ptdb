@@ -264,10 +264,6 @@ ul:nth-last-child(1) {
 
 }
 
-.blog-body {
-    background: rgb(221, 202, 174) 
-}
-
 .blog-entry {
     background-color: rgb(255, 255, 255);
     border-radius: 1.25rem;
@@ -339,6 +335,10 @@ ul:nth-last-child(1) {
     color: black;
     text-align: center;
     padding: 0 0 5rem 0;
+}
+
+.nav-link:visited {
+    color: black;
 }
 
 .photo-caption {
