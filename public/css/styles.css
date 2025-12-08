@@ -153,7 +153,6 @@ body {
 .tab {
     background: rgb(237, 227, 214);
     display: none;
-    min-height: 100vh;
     order: 1;
     padding: 0;
     text-align: center;
@@ -167,6 +166,7 @@ body {
     flex-wrap: wrap;
     margin: auto;
     padding: 0.625rem;
+    min-height: 100vh;
 }
 
 .entry {
@@ -249,19 +249,14 @@ ul:nth-last-child(1) {
 
 /* Encyclopedia Proboscidea */
 
-* {
-  box-sizing: border-box;
-}
-
 .leftcolumn {
-  float: left;
-  width: 82.5%;
+    float: left;
+    width: 82.5%;
 }
 
 .rightcolumn {
-  float: left;
-  width: 17.5%;
-
+    float: left;
+    width: 17.5%;
 }
 
 .blog-entry {
@@ -269,25 +264,13 @@ ul:nth-last-child(1) {
     border-radius: 1.25rem;
     box-sizing: border-box;
     flex: 1 1 26.9589rem;
-    margin: 0.625rem;
+    margin: 0.625rem 0.625rem 1.25rem 0.625rem;
     overflow-x: auto;
     text-align: left;
 }
 
-.blog-entry-heading {
-    background-color: rgb(230, 230, 230);
-    box-sizing: border-box;
-    margin-bottom: 0.625rem;
-    object-fit: fill;
-    padding: 1.25rem 1.25rem 0.625rem 1.25rem;
-    position: sticky;
-    text-align: left;
-    top: 0;
-    width: 100%;
-}
-
 .blog-info {
-    margin: 1.25rem; 
+    margin: 0.625rem 1.25rem 0.625rem 1.25rem; 
 }
 
 .about-me-img {
@@ -302,22 +285,11 @@ ul:nth-last-child(1) {
     border-radius: 1.25rem;
     box-sizing: border-box;
     flex: 1 1 26.9589rem;
-    margin: 0.625rem 0.625rem 0.625rem 0rem;
+    margin: 0.625rem 0.625rem 1.25rem 0.625rem;
     overflow-x: auto;
     text-align: left;
 }
 
-.about-me-entry-heading {
-    background-color: rgb(230, 230, 230);
-    box-sizing: border-box;
-    margin-bottom: 0.625rem;
-    object-fit: fill;
-    padding: 1.25rem 1.25rem 0.625rem 1.25rem;
-    position: sticky;
-    text-align: left;
-    top: 0;
-    width: 100%;
-}
 
 .about-me-info {
     margin: 1.25rem;
@@ -350,16 +322,24 @@ ul:nth-last-child(1) {
     opacity: 50%
 }
 
+.blog-body {
+    align-content: flex-start;
+    background: rgb(237, 227, 214);
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding: 0.625rem;
+    padding-bottom: 0;
+    min-height: 100vh;
+}
 
 
-/* Responsive layout - when the screen is less than 50rem wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 50rem) {
   .leftcolumn, .rightcolumn {
     width: 100%;
     padding: 0;
   }
   .about-me-entry {
-    margin: 0 0.625rem 0.625rem 0.625rem;
-}
-  
+    margin-top: 0
+  }
 }
