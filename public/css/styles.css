@@ -30,28 +30,27 @@ html {
     border-radius: 0.625rem 0 0.625rem 0;
 }
 
-.nav-link {
+.web-nav-link {
     text-decoration: none;
     color: black;
     text-align: center;
     padding: 0 0 0.625rem 0;
 }
 
-.nav-link:visited {
+.web-nav-link:visited {
     color: black;
 }
 
-.mytabs-nav {
+.web-nav {
     background: rgb(162, 190, 150);
     display: flex;
-    flex-wrap: wrap;
     margin: 0;
     padding: 0;
     text-align: center;
     float: right
 }
 
-.mytabs-nav label {
+.web-nav label {
     background: rgb(221, 202, 174);
     display: block;
     font-size: 1rem;
@@ -241,6 +240,9 @@ ul:nth-last-child(1) {
     .mytabs label {
         font-size: 4.25vw;
     }
+    .web-nav-link label {
+        font-size: 4.25vw;
+    }
 }
 
 @media screen and (max-width: 58.25rem) {
@@ -314,7 +316,7 @@ ul:nth-last-child(1) {
 }
 
 @media screen and (max-width: 23.75rem) {
-    .mytabs-nav label {
+    .web-nav label {
         font-size: 4.25vw;
     }
 }
