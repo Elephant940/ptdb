@@ -30,6 +30,17 @@ html {
     border-radius: 0.625rem 0 0.625rem 0;
 }
 
+.nav-link {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 0 0 0.625rem 0;
+}
+
+.nav-link:visited {
+    color: black;
+}
+
 .mytabs-nav {
     background: rgb(162, 190, 150);
     display: flex;
@@ -54,8 +65,6 @@ html {
     text-align: center;
 }
 
-/* PTDb */
-
 .header {
     background: rgb(162, 190, 150);
     color: black;
@@ -69,10 +78,6 @@ header {
     font-size: 2.8125rem;
 }
 
-.credit {
-    font-size: 0.75rem;
-}
-
 a {
     color: #3d90c8;
 }
@@ -80,6 +85,10 @@ a {
 a:visited {
     color: #523dc8;
 }
+
+
+
+/* PTDb */
 
 .favicon {
     font-size: 0.75rem;
@@ -249,6 +258,17 @@ ul:nth-last-child(1) {
 
 /* Encyclopedia Proboscidea */
 
+.blog-body {
+    align-content: flex-start;
+    background: rgb(237, 227, 214);
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding: 0.625rem;
+    padding-bottom: 0;
+    min-height: 100vh;
+}
+
 .leftcolumn {
     float: left;
     width: 82.5%;
@@ -280,37 +300,8 @@ ul:nth-last-child(1) {
     margin: auto;
 }
 
-.about-me-entry {
-    background-color: rgb(255, 255, 255);
-    border-radius: 1.25rem;
-    box-sizing: border-box;
-    flex: 1 1 26.9589rem;
-    margin: 0.625rem 0.625rem 1.25rem 0.625rem;
-    overflow-x: auto;
-    text-align: left;
-}
-
-
 .about-me-info {
     margin: 1.25rem;
-}
-
-
-@media screen and (max-width: 23.75rem) {
-    .mytabs-nav label {
-        font-size: 4.25vw;
-    }
-}
-
-.nav-link {
-    text-decoration: none;
-    color: black;
-    text-align: center;
-    padding: 0 0 5rem 0;
-}
-
-.nav-link:visited {
-    color: black;
 }
 
 .photo-caption {
@@ -322,24 +313,18 @@ ul:nth-last-child(1) {
     opacity: 50%
 }
 
-.blog-body {
-    align-content: flex-start;
-    background: rgb(237, 227, 214);
-    display: flex;
-    flex-wrap: wrap;
-    margin: auto;
-    padding: 0.625rem;
-    padding-bottom: 0;
-    min-height: 100vh;
+@media screen and (max-width: 23.75rem) {
+    .mytabs-nav label {
+        font-size: 4.25vw;
+    }
 }
-
 
 @media screen and (max-width: 50rem) {
   .leftcolumn, .rightcolumn {
     width: 100%;
     padding: 0;
   }
-  .about-me-entry {
-    margin-top: 0
+  .rightcolumn {
+    margin-top: -0.625rem
   }
 }
