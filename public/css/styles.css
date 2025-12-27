@@ -272,12 +272,12 @@ ul:nth-last-child(1) {
 
 .leftcolumn {
     float: left;
-    width: 82.5%;
+    width: 75%;
 }
 
 .rightcolumn {
     float: left;
-    width: 17.5%;
+    width: 25%;
 }
 
 .blog-entry {
@@ -291,7 +291,8 @@ ul:nth-last-child(1) {
 }
 
 .blog-info {
-    margin: 0.625rem 1.25rem 0.625rem 1.25rem; 
+    margin-left: 0;
+    padding: 0 1.25rem 0 1.25rem;
 }
 
 .about-me-img {

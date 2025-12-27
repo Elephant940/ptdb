@@ -2,6 +2,9 @@ import "core-js/stable";
 import "regenerator-runtime/runtime";
 import "whatwg-fetch";
 
+getAllBlogs();
+
+
 getAllPeriods();
 var counter = document.getElementById("counter");
 var currentTab = "B1700_entries";
@@ -219,6 +222,60 @@ function buildCards(data, id) {
     else{
       row += `<u class="heading">Notes</u>
               <ul class="info">${data[i].notes}</ul>`;
+    }
+
+    if (data[i].references == "N/A") {
+      row += "";
+    }
+    else{
+      row += `<u class="heading">References</u>
+              <ul class="info">${data[i].references}</ul>`;
+    }
+
+    row += `</div>`;
+
+    html += row;
+  }
+  card.innerHTML = html;
+  return html;
+}
+
+async function getAllBlogs() {
+  var myBlogAndHTML = await getBlog("blog_posts_entries", "blog_posts.json");
+  blog_posts = myBlogAndHTML.myBlog;
+  
+}
+
+async function getBlog(id, endpoint) {
+  var myBlog = await fetch(`/${endpoint}`);
+  myBlog = await myBlog.json();
+  //console.log(myPeriod.body)
+  //myPeriod = JSON.parse(myPeriod.body)
+  var html = buildBlogCards(myBlog, id);
+  return { myBlog, html };
+}
+
+
+//the only functions that are in this both before and after the search bar was added are getPeriod, buildCards, and gotosource
+    
+
+
+function buildBlogCards(data, id) {
+  var html = "";
+  var card = document.getElementById(id);
+  for (var i = 0; i < data.length; i++) {
+
+   var row = `<div class="blog-entry" >
+            <div class="entry-heading" id=${data[i].eyedee}>
+            <p class="title">${data[i].title}</p>
+            <p class="type">${data[i].type}</p>
+            </div>`; 
+
+    if (data[i].contributors == "N/A") {
+      row += "";
+    }
+    else{
+      row += `<ul class="blog-info">${data[i].contributors}</ul>`;
     }
 
     if (data[i].references == "N/A") {
