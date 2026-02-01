@@ -107,7 +107,7 @@
     "type": "Book chapter"
   },
   {
-    "container": "<i>The Zoological Journal</i> (<i>Zool</i>. <i>J</i>.), journal",
+    "container": "<i>Zoological Journal</i> (<i>Zool</i>. <i>J</i>.), journal",
     "contributors": "Anonymous",
     "date": "1827 January",
     "duration": "pp. 140–143",
@@ -118,7 +118,7 @@
     "notes": "N/A",
     "publisher": "W. Phillips",
     "references": "N/A",
-    "title": "<i>Histoire Naturelle des Mammifères, avec des Figures originales, dessinées d’après des Animaux vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hilaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>",
+    "title": "<i>Histoire Naturelle des Mammifères, avec des Figures originales, dessinées d’après des Animaux vivans; &c.</i> <i>Par</i> MM. Geoffroy Saint-Hilaire, <i>et</i> F. Cuvier. Livraisons 52<sup>de</sup> <i>et</i> 53<sup>eme</sup>&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=94086\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
     "type": "Journal article"
   },
   {
@@ -303,7 +303,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>The Quarterly Journal of the Geological Society of London</i> (<i>Q</i>. <i>J</i>. <i>Geol</i>. <i>Soc</i>. <i>Lond</i>.), journal",
+    "container": "<i>Quarterly Journal of the Geological Society of London</i> (<i>Q</i>. <i>J</i>. <i>Geol</i>. <i>Soc</i>. <i>Lond</i>.), journal",
     "contributors": "Hugh Falconer (author)",
     "date": "1857, on or after June 30",
     "duration": "pp. 307–360",
@@ -333,7 +333,7 @@
     "type": "Book"
   },
   {
-    "container": "<i>The Natural History Review</i> (<i>Nat</i>. <i>Hist</i>. <i>Rev</i>.), journal",
+    "container": "<i>Natural History Review</i> (<i>Nat</i>. <i>Hist</i>. <i>Rev</i>.), journal",
     "contributors": "Hugh Falconer (author)",
     "date": "1863 January",
     "duration": "pp. 43–114",
@@ -513,7 +513,7 @@
     "type": "Book"
   },
   {
-    "container": "<i>The American Naturalist</i> (<i>Am</i>. <i>Nat</i>.), journal",
+    "container": "<i>American Naturalist</i> (<i>Am</i>. <i>Nat</i>.), journal",
     "contributors": "Edward Drinker Cope (author)",
     "date": "1889 April",
     "duration": "pp. 191–211",
@@ -573,7 +573,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>The Journal of Nervous and Mental Disease</i> (<i>J</i>. <i>Nerv</i>. <i>Ment</i>. <i>Dis</i>.), journal",
+    "container": "<i>Journal of Nervous and Mental Disease</i> (<i>J</i>. <i>Nerv</i>. <i>Ment</i>. <i>Dis</i>.), journal",
     "contributors": "Irving C. Rosse (author)",
     "date": "1892 November, before or on the 19",
     "duration": "pp. 795–811",
