@@ -134,7 +134,7 @@
     "title": "The latest woolly mammoths (<i>Mammuthus primigenius</i> Blumenbach) in Europe and Asia: a review of the current evidence",
     "type": "Journal article"
   },
-    {
+  {
     "container": "<i>Memoir of the Geological Survey of Namibia</i> (<i>Mem</i>. <i>Geol</i>. <i>Surv</i>. <i>Namib</i>.), journal",
     "contributors": "Martin Pickford (author); Denis Serrette (photographer); Philippe Loubry (photographer); H. Lavina (plate artist)",
     "date": "2003",
@@ -1037,7 +1037,7 @@
     "title": "<i>Elephas maximus</i> ssp. <i>sumatranus</i>",
     "type": "Web article"
   },
-    {
+  {
     "container": "<i>PLoS ONE</i>, journal",
     "contributors": "Preston Foerder (co-author); Marie Galloway (co-author); Tony Barthel (co-author); Donald Emerson Moore III (co-author); Diana Reiss (co-author); Aravinthan Samuel (editor)",
     "date": "2011 August 18",
@@ -1129,7 +1129,7 @@
     "title": "Skin hair skims heat off elephants",
     "type": "Web article"
   },
-    {
+  {
     "container": "<i>Veterinary Record</i> (<i>Vet</i>. <i>Rec</i>.), journal",
     "contributors": "Daniela Denk (co-author); Mark F. Stidworthy (co-author); Sharon Redrobe (co-author); Erin M. Latimer (co-author); Gary S. Hayward (co-author); Jonathan Cracknell (co-author); Anais Claessens (co-author); Falko Steinbach (co-author); Sarah McGowan (co-author); Akbar Dastjerdi (co-author)",
     "date": "2012 October 13",
@@ -1250,7 +1250,7 @@
     "title": "Elephant Endotheliotropic Herpesvirus 5, a Newly Recognized Elephant Herpesvirus Associated With Clinical and Subclinical Infections in Captive Asian Elephants (<i>Elephas maximus</i>)",
     "type": "Journal article"
   },
-    {
+  {
     "container": "<i>Journal of Wildlife Diseases</i> (<i>J</i>. <i>Wildl</i>. <i>Dis</i>.), journal",
     "contributors": "Arun Zachariah (co-author); Jian-Chao Zong (co-author); Simon Y. Long (co-author); Erin M. Latimer (co-author); Sarah Y. Heaggans (co-author); Laura K. Richman (co-author); Gary S. Hayward (co-author); T.V. Anilkumar (photomicrographer)",
     "date": "2013 April 1",
@@ -1327,7 +1327,7 @@
     "type": "Web article"
   },
   {
-    "container": "<i>Journal of Virology</i> (<i>J</i>. <i>Virol</i>.), journal",
+    "container": "<i>Journal of Virology</i> (<i>J</i>. <i>Virol</i>.; <i>JVI</i>), journal",
     "contributors": "Laura K. Richman (co-author); Jian-Chao Zong (co-author); Erin M. Latimer (co-author); Justin Lock (co-author); Robert C. Fleischer (co-author); Sarah Y. Heaggans (co-author); Gary S. Hayward (co-author); L. Hutt-Fletcher (editor)",
     "date": "2014 September 17",
     "duration": "pp. 13523–13546",
@@ -1341,8 +1341,8 @@
     "title": "Elephant Endotheliotropic Herpesviruses EEHV1A, EEHV1B, and EEHV2 from Cases of Hemorrhagic Disease Are Highly Diverged from Other Mammalian Herpesviruses and May Form a New Subfamily",
     "type": "Journal article"
   },
-    {
-    "container": "<i>Journal of Virology</i> (<i>J</i>. <i>Virol</i>.), journal",
+  {
+    "container": "<i>Journal of Virology</i> (<i>J</i>. <i>Virol</i>.; <i>JVI</i>), journal",
     "contributors": "Jian-Chao Zong (co-author); Erin M. Latimer (co-author); Simon Y. Long (co-author); Laura K. Richman (co-author); Sarah Y. Heaggans (co-author); Gary S. Hayward (co-author); L. Hutt-Fletcher (editor)",
     "date": "2014 September 17",
     "duration": "pp. 13547–13569",
@@ -2708,7 +2708,7 @@
     "title": "Suction feeding by elephants",
     "type": "Journal article"
   },
-   {
+  {
     "container": "<i>Journal of Comparative Psychology</i> (<i>J</i>. <i>Comp</i>. <i>Psychol</i>.), journal",
     "contributors": "Lisa P. Barrett (co-author); Sarah Benson-Amram (co-author)",
     "date": "2021 June 24",
@@ -3106,12 +3106,27 @@
     "duration": "1566 words",
     "iteration": "N/A",
     "languages": "English",
-    "links": "<li><a href=\"https://nationalzoo.si.edu/news/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation-biology-institute\"target=\"_blank\">From publisher</a></li><li><a href=\"https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation\"target=\"_blank\">From publisher</a></li>",
+    "links": "<li><a href=\"https://nationalzoo.si.edu/news/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation-biology-institute\"target=\"_blank\">From publisher</a></li><li><a href=\"https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation\"target=\"_blank\">From publisher</a></li><li><a href=\"https://www.vannuysnewspress.com/female-asian-elephant-calf-born-at-the-smithsonians-national-zoo-and-conservation-biology-institute/\"target=\"_blank\">From Van Nuys News Press</a></li>",
     "location": "N/A",
     "notes": "N/A",
     "publisher": "Smithsonian’s National Zoo and Conservation Biology Institute (NZCBI)",
     "references": "N/A",
     "title": "Female Asian Elephant Calf Born at the Smithsonian’s National Zoo and Conservation Biology Institute",
+    "type": "Web article"
+  },
+  {
+    "container": "<i>Smithsonian's National Zoo and Conservation Biology Institute</i>, website",
+    "contributors": "Smithsonian’s National Zoo and Conservation Biology Institute (author); Roshan Patel (photographer)",
+    "date": "2026 February 13",
+    "duration": "528 words",
+    "iteration": "N/A",
+    "languages": "English",
+    "links": "<li><a href=\"https://nationalzoo.si.edu/news/public-has-spoken-national-zoos-new-elephant-calf-named-linh-mai\"target=\"_blank\">From publisher</a></li><li><a href=\"https://www.si.edu/newsdesk/releases/her-name-linh-mai\"target=\"_blank\">From publisher</a></li><li><a href=\"https://www.vannuysnewspress.com/smithsonians-national-zoo-names-baby-elephant-her-name-is-linh-mai/\"target=\"_blank\">From Van Nuys News Press</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "Smithsonian’s National Zoo and Conservation Biology Institute (NZCBI)",
+    "references": "N/A",
+    "title": "The Public Has Spoken: The National Zoo's New Elephant Calf Is Named Linh Mai",
     "type": "Web article"
   }
 ]
