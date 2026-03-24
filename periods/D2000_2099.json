@@ -1645,6 +1645,21 @@
     "type": "Video"
   },
   {
+    "container": "<i>Journal of Zoo and Wildlife Medicine</i> (<i>J</i>. <i>Zoo</i> <i>Wildl</i>. <i>Med</i>.; <i>JZWM</i>), journal",
+    "contributors": "Ellen Bronson (co-author); Michael McClure (co-author); Jennifer Sohl (co-author); Ellen Wiedner (co-author); Sherry Cox (co-author); Erin M. Latimer (co-author); Virginia R. Pearson (co-author); Gary S. Hayward (co-author); Angela Fuery (co-author); Paul D. Ling (co-author)",
+    "date": "2017 June 1",
+    "duration": "pp. 335–343",
+    "iteration": "Vol. 48, Issue 2",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1638/2016-0063R.1\"target=\"_blank\">From publisher (DOI: 10.1638/2016-0063R.1)</a> through BioOne Digital Library</li><li><a href=\"https://www.jstor.org/stable/26805627\"target=\"_blank\">From JSTOR</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "American Association of Zoo Veterinarians (AAZV)",
+    "references": "N/A",
+    "title": "Epidemiologic Evaluation of Elephant Endotheliotropic Herpesvirus 3B Infection in an African Elephant (<i>Loxodonta africana</i>)",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>eLife</i>, journal",
     "contributors": "Matthias Meyer (co-author); Eleftheria Palkopoulou (co-author); Sina Baleka (co-author); Mathias Stiller (co-author); Kirsty E.H. Penkman (co-author); Kurt W. Alt (co-author); Yasuko Ishida (co-author); Dietrich Mania (co-author); Swapan Mallick (co-author); Tom Meijer (co-author); Harald Meller (co-author); Sarah Nagel (co-author); Birgit Nickel (co-author); Sven Ostritz (co-author); Nadin Rohland (co-author); Karol Schauer (co-author); Tim Schüler (co-author); Alfred L. Roca (co-author); David Reich (co-author); Beth Shapiro (co-author); Michael Hofreiter (co-author); Antonis Rokas (editor)",
     "date": "2017 June 6",
@@ -3026,7 +3041,7 @@
   },
   {
     "container": "<i>Conservation Physiology</i> (<i>Conserv</i>. <i>Physiol</i>.), journal",
-    "contributors": "Garrett Rich (co-author); Rebecca Stennett (co-author); Marie Galloway (co-author); Mike McClure (co-author); Rebecca Riley (co-author); Elizabeth W. Freeman (co-author); Kathleen E. Hunt (co-author); Christine Madliger (editor); Chase LaDue (artist)",
+    "contributors": "Garrett Rich (co-author); Rebecca Stennett (co-author); Marie Galloway (co-author); Michael McClure (co-author); Rebecca Riley (co-author); Elizabeth W. Freeman (co-author); Kathleen E. Hunt (co-author); Christine Madliger (editor); Chase LaDue (artist)",
     "date": "2024 August 2",
     "duration": "13 pp.",
     "iteration": "Vol. 12, Issue 1, No. coae048",
