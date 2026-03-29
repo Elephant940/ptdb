@@ -608,7 +608,7 @@
     "duration": "pp. 109–113",
     "iteration": "Vol. 4",
     "languages": "English",
-    "links": "<li><a href=\"https://jurcon.ums.edu.my/ojums/index.php/jtbc/article/view/102\"target=\"_blank\">From publisher (DOI: 10.51200/jtbc.v4i.102)</a></li><li><a href=\"https://www.ums.edu.my/ibtpv2/images/publication/JTBC/JTBC-VOL-4/nurzhafarina%20othman.pdf\"target=\"_blank\">From publisher</a></li><li><a href=\"https://www.academia.edu/54069265/A_preliminary_study_on_the_morphometrics_of_the_Bornean_Elephant\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/284032187_A_preliminary_study_on_the_morphometrics_of_the_Bornean_Elephant\"target=\"_blank\">From ResearchGate</a></li>",
+    "links": "<li><a href=\"https://jurcon.ums.edu.my/ojums/index.php/jtbc/article/view/102\"target=\"_blank\">From publisher (DOI: 10.51200/jtbc.v4i.102)</a></li><li><a href=\"https://web.archive.org/web/20250405201930/https://www.ums.edu.my/ibtpv2/images/publication/JTBC/JTBC-VOL-4/nurzhafarina%20othman.pdf\"target=\"_blank\">From publisher</a> through the Wayback Machine</li><li><a href=\"https://www.academia.edu/54069265/A_preliminary_study_on_the_morphometrics_of_the_Bornean_Elephant\"target=\"_blank\">From Academia</a></li><li><a href=\"https://www.researchgate.net/publication/284032187_A_preliminary_study_on_the_morphometrics_of_the_Bornean_Elephant\"target=\"_blank\">From ResearchGate</a></li>",
     "location": "N/A",
     "notes": "N/A",
     "publisher": "Institute for Tropical Biology and Conservation (ITBC)",
@@ -3173,6 +3173,21 @@
     "references": "N/A",
     "title": "Asian Elephant Is Pregnant at the Smithsonian’s National Zoo and Conservation Biology Institute",
     "type": "Web article"
+  },
+  {
+    "container": "<i>Occasional Paper of the IUCN Species Survival Commission</i>, book series",
+    "contributors": "Fiona Maisels (co-author); Christopher Robert Thouless (co-author); R. Mayienda (co-author); M. Yahya (co-author); John Hart (co-author); Howard L. Frederick (co-author); Thomas Breuer (co-author); C.T. Renn (co-author); Rob Slotow (co-author); B. Okita-Ouma (co-author); Will Burrard-Lucas (photographer); George Wittemyer (reviewer); Kathleen S. Gobush (reviewer); Lucy Vigne (proofreader)",
+    "date": "2025 November 27",
+    "duration": "174 pp.",
+    "iteration": "No. 67",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.2305/XBTJ8058\"target=\"_blank\">From publisher (DOI: 10.2305/XBTJ8058)</a></li><li><a href=\"https://www.afesg.org/wp-content/uploads/2025/12/African_forest_elephant_report_2024.pdf\"target=\"_blank\">From the African Elephant Specialist Group</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "International Union for Conservation of Nature and Natural Resources (IUCN)",
+    "references": "N/A",
+    "title": "African forest elephant (<i>Loxodonta cyclotis</i>) status report 2024: An update from the African elephant database",
+    "type": "Book"
   },
   {
     "container": "<i>Smithsonian's National Zoo and Conservation Biology Institute</i>, website",
