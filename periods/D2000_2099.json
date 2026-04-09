@@ -1251,7 +1251,7 @@
     "type": "Journal article"
   },
   {
-    "container": "<i>Journal of Wildlife Diseases</i> (<i>J</i>. <i>Wildl</i>. <i>Dis</i>.), journal",
+    "container": "<i>Journal of Wildlife Diseases</i> (<i>J</i>. <i>Wildl</i>. <i>Dis</i>.; <i>JWD</i>), journal",
     "contributors": "Arun Zachariah (co-author); Jian-Chao Zong (co-author); Simon Y. Long (co-author); Erin M. Latimer (co-author); Sarah Y. Heaggans (co-author); Laura K. Richman (co-author); Gary S. Hayward (co-author); T.V. Anilkumar (photomicrographer)",
     "date": "2013 April 1",
     "duration": "pp. 381–393",
@@ -2979,6 +2979,21 @@
     "type": "Journal article"
   },
   {
+    "container": "<i>Journal of Wildlife Diseases</i> (<i>J</i>. <i>Wildl</i>. <i>Dis</i>.; <i>JWD</i>), journal",
+    "contributors": "Tanya Jane Kerr (co-author); Jana van Heerden (co-author); Wynand J. Goosen (co-author); Léanie Kleynhans (co-author); Peter E. Buss (co-author); Erin M. Latimer (co-author); Michele Ann Miller (co-author)",
+    "date": "2023 January 3",
+    "duration": "pp. 128–137",
+    "iteration": "Vol. 59, Issue 1",
+    "languages": "English",
+    "links": "<li><a href=\"https://jwd.kglmeridian.com/view/journals/jwdi/59/1/article-p128.xml\"target=\"_blank\">From publisher (DOI: 10.7589/JWD-D-22-00015)</a></li><li><a href=\"https://bioone.org/journals/journal-of-wildlife-diseases/volume-59/issue-1/JWD-D-22-00015/DETECTION-OF-ELEPHANT-ENDOTHELIOTROPIC-HERPESVIRUS-EEHV-IN-FREE-RANGING-AFRICAN/10.7589/JWD-D-22-00015.short\"target=\"_blank\">From BioOne Digital Library</a></li><li><a href=\"https://www.researchgate.net/publication/366837699_DETECTION_OF_ELEPHANT_ENDOTHELIOTROPIC_HERPESVIRUS_EEHV_IN_FREE-RANGING_AFRICAN_ELEPHANTS_LOXODONTA_AFRICANA_IN_THE_KRUGER_NATIONAL_PARK_SOUTH_AFRICA\"target=\"_blank\">From ResearchGate</a></li>",
+    "location": "N/A",
+    "notes": "N/A",
+    "publisher": "Wildlife Disease Association (WDA)",
+    "references": "N/A",
+    "title": "Detection of Elephant Endotheliotropic Herpesvirus (EEHV) in Free-Ranging African Elephants (<i>Loxodonta africana</i>) in the Kruger National Park, South Africa",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>Current Biology</i> (<i>Curr</i>. <i>Biol</i>.), journal",
     "contributors": "Lena V. Kaufmann (co-author); Rolf Becker (co-author); Andreas Ochs (co-author); Michael Brecht (co-author)",
     "date": "2023 April 10",
@@ -3191,7 +3206,7 @@
   },
   {
     "container": "<i>PNAS Nexus</i>, journal",
-    "contributors": "Malav Shah (co-author); Olivia Heise (co-author); Peter Buss (co-author); Lin-Mari de Klerk-Lorist (co-author); Stefan Hetzer (co-author); John-Dylan Haynes (co-author); Thomas Hildebrandt (co-author); Michael Brecht (co-author); Eric Klann (editor)",
+    "contributors": "Malav Shah (co-author); Olivia Heise (co-author); Peter E. Buss (co-author); Lin-Mari de Klerk-Lorist (co-author); Stefan Hetzer (co-author); John-Dylan Haynes (co-author); Thomas Hildebrandt (co-author); Michael Brecht (co-author); Eric Klann (editor)",
     "date": "2025 May 20",
     "duration": "10 pp.",
     "iteration": "Vol. 4, Issue 5, No. pgaf141",
