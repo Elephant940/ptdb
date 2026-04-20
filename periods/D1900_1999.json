@@ -721,6 +721,21 @@
     "type": "Journal article"
   },
   {
+    "container": "<i>Journal of Paleontology</i> (<i>J</i>. <i>Paleontol</i>.), journal",
+    "contributors": "W. David Lambert (author); Stan Blomely (photographer)",
+    "date": "1990 December 19",
+    "duration": "pp. 1032–1040",
+    "iteration": "Vol. 64, Issue 6",
+    "languages": "English",
+    "links": "<li><a href=\"https://doi.org/10.1017/S0022336000019855\"target=\"_blank\">From publisher (DOI: 10.1017/S0022336000019855)</a> through Cambridge Core</li><li><a href=\"https://www.jstor.org/stable/1305742\"target=\"_blank\">From JSTOR</a></li><li><a href=\"https://www.researchgate.net/publication/27393868_Rediagnosis_of_the_genus_Amebelodon_Mammalia_Proboscidea_Gomphotheriidae_with_a_new_subgenus_and_species_Amebelodon_Konobelodon_britti\"target=\"_blank\">From ResearchGate</a></li>",
+    "location": "Ithaca, New York, United States of America",
+    "notes": "N/A",
+    "publisher": "The Paleontological Society",
+    "references": "N/A",
+    "title": "Rediagnosis of the genus <i>Amebelodon</i> (Mammalia, Proboscidea, Gomphotheriidae), with a new subgenus and species, <i>Amebelodon</i> (<i>Konobelodon</i>) <i>britti</i>&nbsp;<a href=\"https://paleobiodb.org/app/refs#display=2200\"target=\"_blank\"><img src=\"https://images.phylopic.org/images/6072afb9-594b-4afb-8008-f7803e570926/raster/512x393.png\"alt=\"Prodeinotherium\"style=\"width:18px;height:18px;\"></a>",
+    "type": "Journal article"
+  },
+  {
     "container": "<i>Glotta</i>, journal",
     "contributors": "M.L. West (author)",
     "date": "1993",
